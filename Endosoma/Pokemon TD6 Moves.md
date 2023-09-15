@@ -859,7 +859,7 @@ This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 F
 
 - Mist - The user cloaks themselves and their allies in a white mist that prevents stat-lowering effects from affecting them for 5 turns.
 
-- Sheer Cold - The user spends 5 turns charing up a powerful attack; after 5 of their turns end, all units within a 20ft-radius are blasted with a blizzard so cold, it instantly knocks out all within the range of the attack, unable to be brought back into combat unless 5 fire-type moves are used upon them without killing them, or have been inflicted with Burn for 5 turns.
+- Sheer Cold - The user spends 5 turns charging up a powerful attack; after 5 of their turns end, all units within a 20ft-radius are blasted with a blizzard so cold, it instantly knocks out all within the range of the attack, unable to be brought back into combat unless 5 fire-type moves are used upon them without killing them, or have been inflicted with Burn for 5 turns.
 
 - Snowscape - The user summons a powerful snowstorm over a radius a 50x50ft square, boosting the Physical Defence of all ice-types by +3 for 5 turns.
 
