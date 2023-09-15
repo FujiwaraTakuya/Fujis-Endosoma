@@ -1,6 +1,4 @@
 ---
-quickshare-date: "N/A"
-quickshare-url: "Removed"
 share: true
 ---
 #Endosoma #TinyDungeons6 
