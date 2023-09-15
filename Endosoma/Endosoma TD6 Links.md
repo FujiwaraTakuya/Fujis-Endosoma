@@ -17,6 +17,8 @@ Here's the giant list of links related to TD6, Endosoma, and other TD6-related p
 
 - [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#)
 
+- [Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#)
+
 - [Digimon Booklet](Digimon%20Booklet.md#)
 
 - [Digimon Attacks](Digimon%20Attacks.md#)
