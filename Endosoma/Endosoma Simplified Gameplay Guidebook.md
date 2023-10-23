@@ -25,6 +25,7 @@ If you're able to at least get/use 2 of the 3 things up above, you should be abl
 
 This guide mainly covers Vanilla and Endosoma Character Creation, which is done in 2 parts, starting with Vanilla Character Creation before moving on to Endosoma content.
 ## Vanilla Tiny Dungeons Content
+This is the Base-Game content for Tiny Dungeons on how to make a character.
 ### 1a: Who is your character?
 For the sake of the campaign, your character is a being born from a different dimension to this one and being brought into it with the promise of wealth, power, and experiences that you may be seeking- with very little risk, and a whole ton of rewards.
 
@@ -81,10 +82,47 @@ A creature is only Mountable if they're 1 size-category larger or more to be con
 
 When riding a Mount at the start of combat, you and your mount share your Initiative together, but if you Mount an allied creature in-combat instead, their Initiative is brought up or down to yours whilst remaining 1 underneath your own when separated.
 
+### 1j: Experience Points
+Experience is gained gradually over the course of the campaign you'll be playing, but instead of a typical Level System most of you might be familiar with, instead this game uses a Point-Buy system, where you use the available given Experience to Buy aspects to your growth, such as more HP, new Proficiencies or Mastery over a Weapon you hold or have interest in, or more Traits.
+
+- +1 Max HP - 6 Experience Points
+- Proficiency or Mastery of a Weapon - 8 Experience Points
+- New Trait - 10 Experience Points
+
+Note that to Master a weapon, one must have Proficiency with it, and EXP costs for certain Traits may vary depending upon its effects.
+
 ## Endosoma Content
+This is the Homebrew Content made by Fuji which is based and adds on to Tiny Dungeons.
+### 2a: Endosoma's Class System
+Endosoma enables players to feel unique and interesting by giving them the ability to Tri-Multiclass from a massive list of classes, subclasses, and different Traits which can affect their abilities in gameplay while attempting to make any classes played feel valued and enjoyable.
 
-### 2a: 
+Players choose a Primary Class to play with from the [Classes](Classes.md#) page of the Endosoma Content, but as they play more of the game, they can spend their EXP to gain a Secondary and Tertiary Class; when spending Experience for new Traits, Secondary Classes require 1.5x the EXP cost to gain new Traits, while Tertiary Classes require 2x the EXP cost. Outside of these costs, not much from the classes are inhibited, and be wary these Traits can cost more than non-Endosoma Traits.
 
+At the start of the game, each Class comes with their own Class Ability that comes free with choosing a Class, and 1 free Class Trait that the Player can take with the Class, but any additional Class Traits require EXP in to gain more Traits.
+
+Once Players have chosen their Classes, they add the Class's text to the player's Trait List like so:
+
+(Class name) [Class]
+(Class Description)
+
+To help with organisation, add the Class's Class Traits underneath it to help you figure out which class certain Traits came from; if you need to manually re-order Traits, you just go to the bottom of the List and press Modify to either remove or Move Traits from/across your List on Roll20.
+
+#### Additional Class-work
+Later, when the Player wishes to experiment with more Classes, Respec (Re-Specialize), or change Class Focus-order (Switch Primary, Secondary, and Tertiary Class Positions), players can find a Class Trainer to perform any of the above-mentioned tasks for a sum-equivalent in Gold or Platinum Pieces.
+
+When learning new Classes, they'll be expensive, but can be a worthy investment for later on, but as you're only physically capable of remembering and maintaining 3 Classes worth of teachings and learnings during Combat and daily activities, you can temporarily put one of your class's teachings aside to make room for a new Class while freely changing your Focus-order based on which Class you'd like to learn next/have as your Primary, Secondary, and Tertiary Class. While a new Class is enabled in place of an old Class, the teachings aren't lost as they are temporarily disabled- including the Traits that came with it unless specified otherwise.
+
+Respec-ing is simple; for a sum price, you can repurpose any spent EXP in any Class, Trait, Proficiency, Mastery, or HP and make use of it elsewhere, be it another Class, Trait, Proficiency, master, or HP. None of the EXP is lost, and any remaining leftover is unspent and can be used later for future use if you didn't like your prior choices in spending.
+
+Changing your Class Focus-order is basically choosing which Class you have to be your Primary, Secondary, or Tertiary Class so you can affect EXP spending or change out Classes between each other in position or usage if you have 2 or more Classes. Any Class not activated as a Primary, Secondary, or Tertiary Class will remain disabled along with its connected Class Traits unless mentioned otherwise.
+
+### 2b: Fuji's Vore System for Tiny Dungeons
+### 2c: 
+
+
+## Pokemon Content
+This is the Homebrew Pokemon Content made by Fuji; doesn't need any more explanation further than this otherwise I'm probably gonna risk being Copyright Strike'd despite this being fan content by one guy.
+### 3a:
 # Combat Simplified
 
 
