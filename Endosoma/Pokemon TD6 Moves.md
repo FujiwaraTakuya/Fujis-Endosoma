@@ -301,7 +301,7 @@ This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 F
 
 - Zap Cannon - The user unleashes an electric blast like a cannon with a Standard Test at a Target within line of sight, dealing 6 Magic Electric Damage and Paralyzing the Target.
 
-- Bolt Strike - The user surrounds themselves with a great amount of electricity before charging at a target within 30ft with a Standard Test; all enemies along the path of the user’s attack are also considered hit if the attack were to land, dealing 7 Physical damage to all hit. All targets who’re hit must roll a Standard test, lest they be paralyzed by the attack.
+- Bolt Strike - The user surrounds themselves with a great amount of electricity before charging at a target within 30ft with a Standard Test; all enemies along the path of the user’s attack are also considered hit if the attack were to land, dealing 7 Physical damage to all hit. All targets who’re hit must roll a Standard test, lest they be Paralyzed by the attack.
 
 
 # Fairy
@@ -954,7 +954,7 @@ This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 F
 
 - Doodle - The user captures the essence of a Target within line-of-sight in a sketch, giving themselves and any willing ally that Target Pokemon's Ability for the rest of combat.
 
-- Double Team - The user somehow creates an illusory copy of themselves with an Advantage Test, creating a single clone of themselves; if the user succeeds, they can opt to increase the number of clones by +1 for free but at -1 Test Category, and repeating this act further and further until they fail their next test, this Move's effect lasting until 10 turns later, all of the clones have been defeated, or the user is defeated. Multi-Target Moves eliminate half of the existing clones if they're an AOE or up to the number of attacks being made if numbered, and this Move can only create clones equal to 5 + 1 per 2 Traits the user owns.
+- Double Team - The user somehow creates an illusory copy of themselves with an Advantage Test, creating a single clone of themselves; if the user succeeds, they can opt to increase the number of clones by +1 for free but at -1 Test Category, and repeating this act further and further until they fail their next test, this Move's effect lasting until 10 turns later, all of the clones have been defeated, or the user is defeated. Multi-Target Moves eliminate half of the existing clones if they're an AOE or up to the number of attacks being made if numbered, and this Move can only create clones equal to 5 + 1 per 2 Traits the user owns. When attacking a user of Double Team, the Attack rolls a d6 with each Hit they make with their attacks to see if their Attack will hit on a 6 or not, with failed hits destroying clones, whilst AOEs still destroy clones even on a successful Hit.
 
 - Encore - The user forcefully compels a Target within line-of-sight to keep using the Move they just used for 3 turns; this does not force the Target to use all of their Actions dedicated to the same Move, but must at least use it once during their turn, 3 times in total.
 
@@ -1476,7 +1476,7 @@ This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 F
 
 - Expanding Force - The user expulses their psychic power at a target within line-of-sight with a Standard Test, dealing 4 Magic damage; when Psychic Terrain is active, the damage of this Move is doubled, and can damage all enemies within the Terrain.
 
-- Extrasensory - The user unleashes an unseeable power upon a Target within 30ft, dealing 4 Magic Damage; if the attack hits, the Target must roll a Disadvantage Test or suffer Flinching.
+- Extrasensory - The user unleashes an unseeable power upon a Target within 30ft with a Standard Test, dealing 4 Magic Damage; if the attack hits, the Target must roll a Disadvantage Test or suffer Flinching.
 
 - Glitzy Glow - The user bombards a Target telekinetic force within 30ft with a Standard Test, dealing 4 Magic Damage; after this Move, a wall of light is summoned akin to the Move Light Screen on all allied Pokemon for 5 Rounds.
 
