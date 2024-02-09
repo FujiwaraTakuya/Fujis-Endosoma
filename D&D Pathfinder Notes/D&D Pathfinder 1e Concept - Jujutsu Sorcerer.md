@@ -75,6 +75,10 @@ They also gain a Bonus to Reflex and Fortitude Saves equal to 1 + 1 per 4 Levels
 
 ### Veil
 _Emerge from darkness, blacker than darkness. Purify that which is impure._
-At Level 5, a Jujutsu Sorcerer is capable of creating a ink-like barrier using their Cursed Energy or Cursed Object to temporarily seal an area down and let certain things and/or beings in and out using restrictions. The stronger the user, the more Cursed Energy used to form the Veil, and the more restraining the restriction of what is allowed in and out of the veil, the harder it becomes to destroy the Veil both inside and out. The only ways to dissipate the Veil are to kill the caster of the Veil, the caster to release the Veil under their own volition, or for the user to remove/break the Cursed Object which can normally only be moved or broken with Cursed Energy.
+At Level 5, a Jujutsu Sorcerer is capable of creating a ink-like barrier using their Cursed Energy or Cursed Object to temporarily seal an area down and let certain things and/or beings in and out using restrictions. The stronger the user, the more Cursed Energy used to form the Veil, and the more restraining the restriction of what is allowed in and out of the veil, the harder it becomes to destroy the Veil both inside and out. The only ways to dissipate the Veil are to kill the caster of the Veil, the caster to release the Veil under their own volition, or for the user to remove/break the Cursed Object which can normally only be moved or broken with Cursed Energy. It is possible to destroy a Veil with Cursed Energy, but one would need to have powers akin to a Special Grade in order to perform such a feat.
+A sorcerer spends Cursed Energy in 3 ways:
+- HP - For each point of Cursed Energy used to create a Veil's HP, it translates to 25 HP the Veil will have.
+- Hardness - For each point of Cursed Energy used to improve the Veil's toughness, it translates to 1 point of Hardness the Veil will have.
+- Radius - For each point of Cursed Energy used to discern the Veil's range, it translates to 20ft of radius.
 ## Domain Expansion
-At Level 10
+At Level 10,
