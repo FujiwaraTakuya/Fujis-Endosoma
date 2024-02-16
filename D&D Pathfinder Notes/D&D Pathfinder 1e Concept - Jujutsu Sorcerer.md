@@ -3,23 +3,23 @@ share: true
 ---
 # Jujutsu Sorcerer
 _In a world where dark spirits born from human emotions, ideals, and deeply seeded regrets, select few within the world are born and matured with the ability to see, touch, and fight such evils that warp our reality. Those who fight such an unknown are called Jujutsu Sorcerers; being able to sense, control, and manipulate the energy created from their emotions to perform Cursed Techniques- special abilities unique to each individual or generation of individual that can harm, heal, protect, seal away, control, and more. Certain individuals are capable of creating unique Cursed Items to be used for combat or support, giving those without the ability to see or harm invisible spirits a way to see their aggressor(s) and fight back, but these abilities aren't just specially suited for only spirits._
-## Alignment
+### Alignment
 Lawful Good, Lawful Neutral, Lawful Evil, Neutral Good, Chaotic Good
-## HP Die.
+### HP Die.
 D10
-## Starting Wealth
+### Starting Wealth
 4d6 x 10 gp (average 140 gp.) In addition, each character begins with an outfit worth 10 gp or less.
-## Skill Ranks Per Level
+### Skill Ranks Per Level
 6 + Int Modifier
-## Proficiencies
+### Proficiencies
 Light Armour, Unarmed Strike, Simple Weapons, 1 Martial/Exotic Weapon/Bow/Crossbow/Simple Firearm/Complex Firearm
-# Cursed Energy Definition
+## Cursed Energy Definition
 Cursed Energy is a form of spiritual energy derived from the emotions of all living beings- specifically negative emotions; most don't have access or control over these wells of energy, but still have them within themselves, whilst others born with the unnatural ability to manipulate and unleash this power are able to conjure and control different aspects of it to enhance themselves and/or use unique forms of abilities known as Cursed Techniques. These Cursed Techniques or objects/limbs imbued with Cursed Energy can affect objects and creatures in the mortal plane, as well as Spirits directly to deal harm to them. This energy can be so potent and powerful that it can even affect time and space. When a person is struck and killed by someone or something imbued with Cursed Energy, the one affected by the Attack/Technique will never return from the dead as a Curse, or spawn/attract a Curse.
-# Cursed Spirits Definition
-The reason why Cursed Techniques were developed, was because beings labelled Curses or Cursed Spirits were born from the Cursed Energy dwelling within every creature; suffering, anger, hatred, revenge, regrets- all of these emotions can contribute to creating a Cursed Spirit, but fear is one of the most potent emotions for creating terrifying Cursed Spirits; most cases, only a single Spirit is born from this amassed Cursed Energy from the death of a being, but a Cursed Spirit can be born from the collective fear of something such as a fear of fire or blood, with their powers relating to such. They gain strength feeding off the negative emotions that exist within and emitted from all living beings, usually by consuming their victims or feeding off of the ambient energy emitted from them.
-# Windows Definition
+## Cursed Spirits Definition
+The reason why Cursed Techniques were developed, was because beings labelled Curses or Cursed Spirits were born from the Cursed Energy dwelling within every creature; suffering, anger, hatred, revenge, regrets- all of these emotions can contribute to creating a Cursed Spirit, but fear is one of the most potent emotions for creating terrifying Cursed Spirits; most cases, only a single Spirit is born from this amassed Cursed Energy from the death of a being, but a Cursed Spirit can be born from the collective fear of something such as a fear of fire or blood, with their powers relating to such. They gain strength feeding off the negative emotions that exist within and emitted from all living beings, usually by consuming their victims or feeding off of the ambient energy emitted from them. When a Cursed Spirit dies, they turn into black powered wisps of Cursed Energy that dissipated into eventual nothingness.
+## Windows Definition
 There are beings with unique traits, strengths, and abilities in this world thanks to their ability to manipulate Cursed Energy, but there are human individuals who're able to see these Cursed Spirits yet are unable to control their Cursed Energy due to being too weak, having next-to-no Cursed Energy or none at all but are aware of any Cursed Spirits' existence, or they are highly unsuitable to combat and thus aid Jujutsu Sorcerers on the side-lines by creating support items, handling politics and equipment, earning money, finding information, summoning veils for hopefully weak Curses, and more. This is usually something a number of young children and animals experience, which lead to them becoming outcasted or shunned for their powers or strangeness if they don't hide this truth.
-# Graded Curses Explanation
+## Graded Curses Explanation
 Different levels of Cursed Energy bear fruit to the many different Cursed Spirits, typically graded from 4-1 then Special, from weakest to strongest; these grades can also be applied to Jujutsu Sorcerers, cursed objects, and cursed tools in their ability to defeat or their power to scale up akin to Graded Cursed Spirits referenced as such:
 * Grade 4 - Usually a wide measurement of power due to the variance of threat and ability, they tend to mostly be harmless or only inflict harm upon weakened beings or lengthy prolonged subjection to their negative influence. Can easily be killed with your bare hands with a human-amount of strength.
 * Grade 3 - Stronger than a Grade 4 physically, and their abilities being much more notable than their Grade 4 counterpart, Melee weapons having a tougher time hitting its target let alone injuring it, but can still die quite easily to basic firearms.
@@ -36,15 +36,22 @@ To Simplify the above-mentioned list, here's an explanation as referenced by the
 * Grade 1 - "Even a tank might be insufficient."
 * Special Grade - "Cluster bombs _might_ work."
 There are Cursed Spirits too weak to even be considered Grade 4, and it's possible to tame Cursed Spirits by nearly killing them and forcing them into a state of submission, forcing them into a Pact. It's possible to do the same with higher-graded Curses, but the risks and damage become significantly greater as a result, and the difficulty isn't usually worth it as Cursed Spirits don't require mortal food, rest, and do not tire easily as mortal creatures do.
-# Pacts Definition
+## Pacts (Binding Vows) Definition
 _In exchange for greater power one does not have, something of equal or near-equal value must be offered to achieve such immense strength._
-
-## Heavenly Pacts Definition
+Pacts or Binding Vows are one of the essential tenets of Jujutsu Sorcery created through Cursed Energy that a Jujutsu Sorcerer can either place on themselves or with another person; the act of abiding by the rules and restrictions agreed upon in those contracts can result in a greater power or achievement of a goal, but breaking a Binding Vow has uncanny repercussions which usually harm the violator. Here are list of known Pacts that are known, but do not limit to what is possible with Pacts:
+- Vows with one's self
+    - **Revealing One's Hand**: By intentionally vocally divulging their Cursed Technique to an opponent, the Sorcerer can increase their Cursed Energy Output with Attacks, Skills, or Techniques.
+    - **Overtime**: A Binding Vow that was used by Kento Nanami, he limits the amount of Cursed Energy he has access to (80-90%) while working a 9AM-5PM work schedule. Once his normal Shift ends and chooses/is forced to work overtime, his power increases drastically to 110-120% of his maximum power.
+- Vows with others
+    - **Conditional Pacts**: In exchange for a set of actions or services, something else is offered to the other party to satisfy both sides, whether they want to partake in the pact or not.
+        - **Unwilling Conditional Pacts**: **Party A** forces **Party B** into a Contract that mostly or purely benefits **Party A.** **Party B** can refuse the Contract, but can also be given a 2nd contract or ultimatum that forces them to partake in an event where they can 'fight' or earn their freedom from **Party A.** They can choose to participate in the Contracts presented to them, but refusal generally results in death between one of the two Parties depending upon the situation and Pact being presented between them. This situation can involve more than 2 people.
+        - **Willing Conditional Pacts**: 
+### Heavenly Pacts Definition
 _Some consider this a miracle from the gods. Others would rather curse them for the hell they'd been granted upon them._
+Unlike regular Pacts 
 
-
-# Class Abilities
-## Cursed Energy Manipulation
+## Class Abilities
+### Cursed Energy Manipulation
 _Usually at a young age, or whenever their ability to see Cursed Spirits or manipulate Cursed Energy manifests, a possible Jujutsu Sorcerer is made apparent of the world they're entering and usually trained to become a Sorcerer into their later-life on top of teaching them the basics of society. When using Cursed Energy, emitted by one's self as a blue flame-like aura with a black edge and black sparks, like a lake leading down to a river, both the amount maintained and the output of strength gradually grow bigger with the continual usage and training, and either reaching its eventual end, or presenting a new beginning through a new power._
 Jujutsu Sorcerers are Spontaneous Casters who use Cursed Energy which is unlike Magic.
 At Level 1, the Max Cursed Energy a user can hold within themselves, called their Cursed Energy Pool, equals 2d10 - 1 + Con Mod. Every Level after the first, increase the Max Cursed Energy by d6 + Con Mod. With a Swift Action, the Jujutsu Sorcerer can perform one of many Actions:
@@ -54,31 +61,31 @@ At Level 1, the Max Cursed Energy a user can hold within themselves, called thei
 * As a Reaction towards a Critical Hit, a Jujutsu Sorcerer can choose to spend 5% of their Max Cursed Energy to increase the AC to Crit. Confirm against them by +2; if the Critical Hit is confirmed, the user can then use 25% of their Max Cursed Energy Pool to reduce the damage of an incoming Critical Hit by 15%.
 * Spend 1 point of Cursed Energy to temporarily increase a single Skill's Rank per-point of Energy used on a Skill reliant upon Strength, Dexterity, Intelligence, Wisdom, or Charisma, lasting 1 minute and capped out to 1.5 times the Level of the Jujutsu Sorcerer Class.
 
-## Cursed Energy Sense
+### Cursed Energy Sense
 _The Sorcerer is capable of seeing spirits normally invisible to the naked eye due to the aura of energy they emit from their presence. They are also able to sense the nearby intense emotions emitted by other beings, even whilst being physically hidden, but cannot detect calmer emotions._
 Jujutsu Sorcerers are able to see any Spirit within line-of-sight including non-Cursed Spirits that are invisible with supernatural abilities and ignore Concealment unless they use a Spell that achieves invisibility.
 At Level 1, they can also sense the Cursed Energy around them within a 15ft radius centred upon themselves, and have a+3 Perception Circumstance Bonus while detecting Spirit; +2 when a spirit within range is attempting to conceal its presence; +1 for sensing the intense emotions of Living and Undead beings; this ability can sense through walls.
 The radius of this Sense increases by +15ft at Level 2 and for every 2 Levels taken after, and for every 2 Levels of this Class, the above-mentioned Circumstance Bonus is increased by each amount up to a maximum of 30/20/10.
-## Cursed Energy Detection
+### Cursed Energy Detection
 _With proper tutelage and training, a Jujutsu Sorcerer can track any Cursed Spirit that hides its tracks by sensing the trail of Cursed Energy they'll inevitably leave being a being made of Cursed Energy, even eventually being able to sense their very strength and be warned of their capabilities- although not clearly discerned; almost every Cursed Spirit is incapable of completely hiding away their Cursed energy from the keen eye of a Jujutsu Sorcerer- like a hunter tracking its prey._
 When attempting to find evidence of the leftover usage or existence of Cursed Energy within an area or environment, the Sorcerer's special sight gives them the ability to see trails and leftover specs of Cursed Energy left by Spirits or People, allowing them to track the movements they'd made long-after they'd left the area or trace their current position within a visible area using a Survival Check with a +2 Circumstance Bonus, but the traces left aren't explicitly telling if it was made intentionally or not; this ability can be activated and deactivated as a Free Action.
 This ability can also be used to make a Sense Motive Check on Cursed Energy used by other users within the reach of a Jujutsu Sorcerer's Cursed Energy Sense to detect the immediate intention of their attack, ability, or actions specifically involving Cursed Energy; giving a +3 Circumstance Bonus to Sense Motive Checks. At Level 2 and every 2nd Level after, this Bonus is increased by +2.
-## Black Flash (黒こく閃せん _Kokusen_)
+### Black Flash (黒こく閃せん _Kokusen_)
 _A distortion of space born f#rom the impact of Cursed Energy delivered within 0.0000000000001 (Trillionth) of a second of a blow. It delivers 2.5 times the damage of a normal strike. There are no Sorcerers who can use the Black Flash consistently.... However... between those who have experienced Black Flash and those who have not, their distance from the core of Cursed Energy is like that of Heaven from Earth. The instant Cursed Energy impacts within 0.0000000000001 (Trillionth) of a second of a blow, space is distorted cursed energy flashes black (with a red outline). The record for the most Black Flashes performed consecutively is 4 in a row._
 If a Jujutsu Sorcerer lands a Critical Hit Melee or Ranged non-magic/supernatural ability Attack imbued with Cursed Energy upon an enemy and Crit-Confirms with an unmodified 20, the user enters The Zone, the attack deals an additional 25% damage (rounded down), ignore Physical Resistances, Sunders either a targeted or randomly rolled piece of equipment the enemy has on them (Separate non-crit Damage roll with 50% more damage dealt), and creates a visual of a black flash of light only visible to those with Cursed Energy Sense.
-Enemies struck with the Black Flash must roll a Fortitude Save with a DC 15 + the Sorcerer's main Damage Modifier
-### The Zone
+Enemies struck with the Black Flash must roll a Fortitude Save with a DC 15 + the Sorcerer's Damage Modifier or suffer the Staggered Condition for 1 Round- Critical Failure on the Save changes the Condition to Stunned instead; if the Black Flash is Crit-Confirmed with another unmodified 20, failure to Save Stuns instead whilst increasing the DC to succeed the Save by +3.
+#### The Zone
 After a Jujutsu Sorcerer lands a Black Flash, the user enters a state named The Zone, where their senses are heightened and can increase the chances to perform the Black Flash again whilst in this state.
 The Zone lasts for 1 minute, its timer resetting upon landing another Crit confirmed with another unmodified 20, 
 While in The Zone, Sorcerers get a +1 bonus to Critical Hits and a +2 bonus to Crit Confirms; these Bonuses increase by an additional +1/+2 for each successive Crit made up to a maximum Bonus of +5/+6, but failing to land a crit or not rolling a crit reduces this Bonus by -1/-2 to a minimum of +1/+1.
 They also gain a Bonus to Reflex and Fortitude Saves equal to 1 + 1 per 4 Levels in Jujutsu Sorcerer while in The Zone.
-
 ### Veil
 _Emerge from darkness, blacker than darkness. Purify that which is impure._
 At Level 5, a Jujutsu Sorcerer is capable of creating a ink-like barrier using their Cursed Energy or Cursed Object to temporarily seal an area down and let certain things and/or beings in and out using restrictions. The stronger the user, the more Cursed Energy used to form the Veil, and the more restraining the restriction of what is allowed in and out of the veil, the harder it becomes to destroy the Veil both inside and out. The only ways to dissipate the Veil are to kill the caster of the Veil, the caster to release the Veil under their own volition, or for the user to remove/break the Cursed Object which can normally only be moved or broken with Cursed Energy. It is possible to destroy a Veil with Cursed Energy, but one would need to have powers akin to a Special Grade in order to perform such a feat.
 A sorcerer spends Cursed Energy in 3 ways:
 - HP - For each point of Cursed Energy used to create a Veil's HP, it translates to 25 HP the Veil will have.
 - Hardness - For each point of Cursed Energy used to improve the Veil's toughness, it translates to 1 point of Hardness the Veil will have.
-- Radius - For each point of Cursed Energy used to discern the Veil's range, it translates to 20ft of radius.
-## Domain Expansion
+- Radius - For each point of Cursed Energy used to discern the Veil's range, it translates to 100ft of diameter in both width and height.
+At 10th Level, the user can choose to either increase the HP gain for each point of Cursed Energy up to 50 HP per-point, increase the amount of Hardness a Veil will have per-point to 5, or increase the diameter per-point of Cursed Energy to 200ft; one of these effects can be chosen every time a new Veil is being produced. At Level 15, the conversion of Cursed Energy to HP per-point increases to 100 per-point, 10 per-point for Hardness, or 250ft per point for diameter; a user can choose 2 of the total 3 effects to apply to a new Veil every time is placed. At Level 20, the user can choose to benefit from the increase to HP, Hardness, and Diameter increase to their Veil simultaneously or optionally every time they generate a new Veil.
+### Domain Expansion
 At Level 10,
