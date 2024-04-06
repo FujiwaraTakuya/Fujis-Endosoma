@@ -6,7 +6,7 @@ share: true
 These are the Health/Personal statistics to keep one's self alive, listed as such:
 - HP - How many times you can get hit with Physical and Elemental Damage.
 - Posture - How many times a Player can be hit while Blocking/in Super Armor before their Guard is broken and unable to attack for 3 seconds.
-- Blood - How much Blood that exists inside a person before they suffer Anemia/Bloodloss.
+- Blood - How much Blood that exists inside a person before they suffer Anaemia/Bloodloss.
 - Tempo - Player's Passive Ether-gain and permittable Vent-gauge.
 - Ether - Player's 'Magic' gauge for Mantra-usage; regens outside of combat.
 - Sanity - Semi-permanent Psychological damage; max damage explodes the Player's head and instantly sends them into The Depths.
@@ -36,23 +36,49 @@ The Stats that affect gameplay are listed as such:
 - Medium Weapon Proficiency
 - Light Weapon Proficiency
 
-**Strength** - All players/humanoid creatures start with 10 Max HP.
+**Strength** - All players/humanoid creatures start with a Max Carry Capacity of 25 items of objects weighing up to 3.04kg/6.61lbs each and can throw objects only up to 15ft.
 
-**Fortitude** - All players/humanoid creatures start with 10 Max HP.
+Every 10 points in this stat increases the Base Damage of Melee Weapon Damage by +1, Strength-based Mantras by +2, for every 5 points throwing-distance is increased by +5ft, every 12 points increases Posture Damage against Blocking enemies by +1, Posture Damage against Unflinching Creatures by +2, and for every point of Strength increases your Max Carry Capacity by +1.
 
-**Agility** - All players/humanoid creatures start with 10 Max HP.
+**Fortitude** - All players/humanoid creatures start with 10 Max HP and 0 points of Damage Resistance.
+
+Every 5 points in this stat increases the Max HP by +5, every 10 points increases their Max Posture by +5, increase Fortitude-based Mantras by +2, every 20 points increases the Player's Physical Damage Resistance by +1, and every 25 points increases the Player's Magical Damage Resistance by +1.
+
+**Agility** - All players/humanoid creatures are physically capable of scaling 5ft walls or holes/caverns with an equal-distance start-up, Move 30ft outside of Combat and half of that amount in combat.
+
+Every 10 points of this stat increases the scalable/leap-able distance by +5ft, increases the Base Movement outside of Combat by 10ft, increase Agility-based Mantras by +2, every 20 points increases the amount of Bleed Damage dealt while attacking Blocking enemies by +1, every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points increases the amount of Posture Damage dealt while Parrying enemies by +1.
 
 **Intelligence** - All players/humanoid creatures start with 10 Max HP.
 
-**Willpower** - All players/humanoid creatures start with 10 Max HP.
+Every 10 points increases Elemental Mantras by +1, every 3 points increases Max Ether; at 10 points of Intelligence the Player can craft Basic Items; at 20 Intelligence they can craft Intermediate Items; at 40 they can craft Advanced Items; at 60 they can craft Master Items; at 100 they can craft Legendary Items; at 101+ they can craft Mythical Items. 
 
-**Charisma** - All players/humanoid creatures start with 10 Max HP.
+**Willpower** - All players/humanoid creatures start with 100 Max Sanity unless specified otherwise.
 
-**Heavy Weapon Proficiency** - All players/humanoid creatures start with 10 Max HP.
+Every point of Willpower increases their Max Sanity by +2, their Max Ether by +1, and every 15 points increases Elemental Mantras by +1; while crafting an Item, you can Enchant it with Willpower up to its Material-Cap, and both crafting Stats do not need to be taken by the same Player to Enchant an item. 
 
-**Medium Weapon Proficiency** - All players/humanoid creatures start with 10 Max HP.
+**Charisma** - Aside from The Knives of Eylis, The Ministry, and The Hundred Legions who always have a negative reputation with all other than those a part of their Factions, and those from Etrea and The Lost Celtor who have Positive reputation with all apart from those in the above-mentioned Factions, all Factions have Neutral Reputation with the Player(s).
 
-**Light Weapon Proficiency** - All players/humanoid creatures start with 10 Max HP.
+This stat affects a number of Charisma-based Actions including Vows of Mastery; every 3 points increases Vow of Mastery Effects by +1 whilst increasing other Charisma based Actions by +1 per 2 points; it also increases Elemental Mantras by +1 every 20 points whilst increasing Max Ether by +1 per 2 points.
+
+**Heavy Weapon Proficiency** - Each 10 points of this Stat increases Heavy Weapon Damage by +1; every 20 points increases Two-Handed Heavy Weapon Damage by an additional +3; when Two-Handing any other weapon-type, increase their Weapon Damage by +1 instead.
+
+If you have at least 40 points of Medium Weapon Proficiency, you can One-Hand Heavy Weapons for faster attacks- 0.5 seconds faster, in exchange for no Damage Bonus from Two-Handed fighting.
+
+If you have at least 40 points of Light Weapon Proficiency, you can increase your Bleed Damage with Heavy Weapons by +1 for One-Handed; +2 for Two-Handed.
+
+**Medium Weapon Proficiency** - Each 10 points of this Stat increases Medium Weapon Damage by +1; every 20 Points adds +1 Medium Weapon Damage for every enemy struck during a Wide-Swing with a Medium Weapon Quick Attack.
+
+Medium Weapons have a unique Player-only Passive called Iai-strike where every Round that ends during Combat without the Player taking Damage, each time they successfully Parry an Attack, and/or if they deal no damage at up to the end of the Round, they gain 1 Stack of Iai-Strike; every 25 points each stack of Iai-Strike deals +1 additional Medium Weapon Damage to a Targeted enemy with a Quick Attack or half the total damage on a Wide-Swing Quick Attack. This attack can't be applied on Criticals or Physical Mantras, and regardless of if the strike misses, hits a Blocking enemy, or the attack gets parried, unless specified otherwise, the attack will consume all Iai-Strike Stacks and reset the Stack-count.
+
+If you have at least 40 points of Heavy Weapon Proficiency, while Two-Handing a Medium Weapon every 20 points increases your Medium Weapon Damage by +1 and your Posture Damage by +2.
+
+If you have at least 40 points of Light Weapon Proficiency, every 20 points increases your Medium Weapon Damage by +1 whilst increasing your Bleed Damage by +2.
+
+**Light Weapon Proficiency** - Each 10 points of this Stat increases Light Weapon Damage by +1; every 20 points increase Light Weapon Bleed Damage by an additional +1, and every 25 points increases Bleed Damage with all weapons by +1.
+
+If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons for +1 Light Weapon Damage in exchange for making your attacks come out +0.5 seconds slower.
+
+If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
 
 # Weapon and Equipment
 
