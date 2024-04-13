@@ -25,16 +25,16 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 
 # Stats
 The Stats that affect gameplay are listed as such:
-- Strength
-- Fortitude
-- Agility
-- Intelligence
-- Willpower
-- Charisma 
+- Strength - Your Carry Weight, throw-distance, Posture Damage against Blockers & Unflinching, and ability to deal with Strength-based tasks.
+- Fortitude - Extra HP, Damage Resistances, and ability to with Fortitude-based Tasks 
+- Agility - Parkour ability, Outside and Inside-Combat Movement, Posture Damage against Unflinching and Parrying Against, and ability to deal with Agility-based tasks.
+- Intelligence - Enhance Elemental and Intelligence Mantras, Ether increase, enables item/equipment Crafting
+- Willpower - Enhance Elemental and Willpower Mantras, Ether increase, and Enchanting Items.
+- Charisma - Enhance Elemental and Charisma Mantras, Ether increase, and Charisma effects and manipulation.
 
-- Heavy Weapon Proficiency
-- Medium Weapon Proficiency
-- Light Weapon Proficiency
+- Heavy Weapon Proficiency - Heavy Weapon wielding skill and Talents
+- Medium Weapon Proficiency - Medium Weapon wielding skill and Talents
+- Light Weapon Proficiency - Light Weapon wielding Skill and Talents
 
 **Strength** - All players/humanoid creatures start with a Max Carry Capacity of 25 items of objects weighing up to 3.04kg/6.61lbs each and can throw objects only up to 15ft.
 
@@ -48,17 +48,17 @@ Every 5 points in this stat increases the Max HP by +5, every 10 points increase
 
 Every 10 points of this stat increases the scalable/leap-able distance by +5ft, increases the Base Movement outside of Combat by 10ft, increase Agility-based Mantras by +2, every 20 points increases the amount of Bleed Damage dealt while attacking Blocking enemies by +1, every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points increases the amount of Posture Damage dealt while Parrying enemies by +1.
 
-**Intelligence** - All players/humanoid creatures start with 10 Max HP.
+**Intelligence** - All players/humanoid creatures are unable to craft basic items outside of Campfires, food, and Mantra Manipulation.
 
-Every 10 points increases Elemental Mantras by +1, every 3 points increases Max Ether; at 10 points of Intelligence the Player can craft Basic Items; at 20 Intelligence they can craft Intermediate Items; at 40 they can craft Advanced Items; at 60 they can craft Master Items; at 100 they can craft Legendary Items; at 101+ they can craft Mythical Items. 
+Every 10 points increases Elemental Mantras and Intelligence-based by +1, every 3 points increases Max Ether; at 10 points of Intelligence the Player can craft Basic Items; at 20 Intelligence they can craft Intermediate Items; at 40 they can craft Advanced Items; at 60 they can craft Master Items; at 100 they can craft Legendary Items; at 101+ they can craft Mythical Items. 
 
 **Willpower** - All players/humanoid creatures start with 100 Max Sanity unless specified otherwise.
 
-Every point of Willpower increases their Max Sanity by +2, their Max Ether by +1, and every 15 points increases Elemental Mantras by +1; while crafting an Item, you can Enchant it with Willpower up to its Material-Cap, and both crafting Stats do not need to be taken by the same Player to Enchant an item. 
+Every point of Willpower increases their Max Sanity by +2, their Max Ether by +3, every 10 points increases Willpower Mantras by +1, and every 15 points increases Elemental Mantras by +1; while crafting an Item, you can Enchant it with Willpower up to its Material-Cap, and both crafting Stats do not need to be taken by the same Player to Enchant an item. 
 
 **Charisma** - Aside from The Knives of Eylis, The Ministry, and The Hundred Legions who always have a negative reputation with all other than those a part of their Factions, and those from Etrea and The Lost Celtor who have Positive reputation with all apart from those in the above-mentioned Factions, all Factions have Neutral Reputation with the Player(s).
 
-This stat affects a number of Charisma-based Actions including Vows of Mastery; every 3 points increases Vow of Mastery Effects by +1 whilst increasing other Charisma based Actions by +1 per 2 points; it also increases Elemental Mantras by +1 every 20 points whilst increasing Max Ether by +1 per 2 points.
+This stat affects a number of Charisma-based Actions including Vows of Mastery; every 3 points increases Vow of Mastery Effects by +1 whilst increasing other Charisma based Actions by +1 per 2 points; it also increases Elemental Mantras by +1 every 20 points whilst every point increases Max Ether by +2, and every 10 points increases Charisma-based Mantras by +1.
 
 **Heavy Weapon Proficiency** - Each 10 points of this Stat increases Heavy Weapon Damage by +1; every 20 points increases Two-Handed Heavy Weapon Damage by an additional +3; when Two-Handing any other weapon-type, increase their Weapon Damage by +1 instead.
 
@@ -81,9 +81,109 @@ If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons f
 If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
 
 # Weapon and Equipment
+There are 3 Main Categories of Weaponry that affect your style of combat; here ar e a list of base-stat weapons without specialization: 
 
+## Heavy - Consists of Great Axes, Great Swords, and Great Hammers.
+### Great Axes: 
+Atk. Dmg. : 5
+Pstr. Dmg. : 3
+Bld. Dmg. : 3
+Flrsh. Dmg. : 1
+Atk. Spd. : 2 Seconds
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+### Great Swords: 
+Atk. Dmg. : 4
+Pstr. Dmg. : 2
+Bld. Dmg. : 2
+Flrsh. Dmg. : 3
+Atk. Spd. : 2 Seconds
+Range: 10ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+### Great Hammer: 
+Atk. Dmg. : 3
+Pstr. Dmg. : 5
+Bld. Dmg. : 1
+Flrsh. Dmg. : 5
+Atk. Spd. : 2 Seconds
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+## Medium - Consists of Swords, Spears, Clubs, and Rifles.
+### Swords: 
+Atk. Dmg. : 3
+Pstr. Dmg. : 5
+Bld. Dmg. : 1
+Flrsh. Dmg. : 5
+Atk. Spd. : 1.5 Seconds
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+### Spears: 
+Atk. Dmg. : 3
+Pstr. Dmg. : 5
+Bld. Dmg. : 1
+Flrsh. Dmg. : 5
+Atk. Spd. : 2 Seconds
+Range: 10ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+### Clubs: 
+Atk. Dmg.: 3
+Pstr. Dmg.: 5
+Bld. Dmg.: 1
+Flrsh. Dmg. : 5
+Atk. Spd.: 1.5 Seconds
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+### Rifles: 
+Atk. Dmg. : 5
+Pstr. Dmg. : 5
+Bld. Dmg. : 2
+Flrsh. Dmg. : 3
+Atk. Spd. : 2 Seconds
+Melee Range: 10ft.
+Flourish Combo: Quick Attack -> Powder Blast -> Quick Attack ->Powder Blast -> Flourish
+Ammo-less Fire Range
+Rngd. Fire Range: 30ft.
+Rld. Spd.: 4 Seconds
 
+## Light - Consists of Daggers, Fists, Guns, and Rapiers.
+### Daggers
+Atk. Dmg. : 1
+Pstr. Dmg. : 2
+Bld. Dmg. : 3
+Flrsh. Dmg. : 1
+Atk. Spd. : 1 Seconds
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x4 -> Flourish
+### Fists
+Atk. Dmg. : 2
+Pstr. Dmg. : 2
+Bld. Dmg. : 1
+Flrsh. Dmg. : 4
+Atk. Spd. : 1 Seconds
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x4 -> Flourish
+### Guns (Pistols)
+Atk. Dmg. : 3
+Pstr. Dmg. : 1
+Bld. Dmg. : 1
+Flrsh. Dmg. : 2
+Atk. Spd. : 1 Seconds
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x4 -> Flourish
+Ammo-less Fire Range: 5ft
+Rngd. Fire Range: 20ft.
+Rld. Spd.: 1 Second(s) per-bullet/2 Seconds per-mag.
 
+### Rapiers
+Atk. Dmg. : 2
+Pstr. Dmg. : 2
+Bld. Dmg. : 2
+Flrsh. Dmg. : 3
+Atk. Spd. : 1 Seconds
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x4 -> Flourish
+
+There is a 4th Category- Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
 # Attunements
 These are the elements a Player can control; they can manipulate the element it relates to, listed as such:
 - Firecharm
@@ -96,19 +196,22 @@ These are the elements a Player can control; they can manipulate the element it 
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
 - Move - Move up to 15ft, Run up to 30ft, or Sprint up to 60ft
-- Quick Attack - 
-- Critical Attack
-- Uppercut
-- Feint/Attack-Cancel
-- Block
-- Parry
-- Dodge
-- Dodge-Feint
-- Vent
-- Wait 
-- Cast Mantra
-- Feint Mantra*
-- Quick-Equip Item/Equipment
+- Quick Attack - Perform a short, quick attack with varying speed amongst weapons
+- Critical Attack - Perform a strong but obvious attack with various offensive properties based upon weapon
+- Uppercut - Evading an incoming attack, you weave around/under the Physical attack before attempting to launch yourself and your opponent skywards
+- Feint/Attack-Cancel - Fake an attack/cancel an attack mid-way through swinging at the cost of Posture
+- Block - Guarding against any and all damage geared towards them in exchange for Posture damage
+- Parry - Attempt to deflect an attack with high risks for a large reward
+- Dodge - Move up to the maximum Move distance to dodge out of most attacks with invincibility/damage reduction 
+- Dodge-Feint - Feign a large-moving dodge to side-step 5ft in a direction of choice
+- Vent - Use 40 Tempo to blow away every creature within 5ft 20ft away without damage
+- Wait - Spend 1 Second doing nothing 
+- Cast Mantra - Perform a specialised action using Ether to assault your enemy(ies)
+- Feint Mantra* - Cancel the usage of a Mantra and its Ether consumption to bait an attack in or switch up attacks. (Note: Only certain Attunements can allow you to perform this sort of Action)
+- Quick-Equip Item/Equipment - Swap out a held item or bring out a held item from the Player's inventory
+- Throw Item/Weapon - Take any held item in-hand and lob it at at a Target within range.
+- Use Item/add/switch Equipment - Depending on the item in-hand, use it for its intended effect/switch pieces of equipment
+- Action Break - Once per-round, a Player can spend an Action Break to change their queued actions after  seeing each Action happen during Combat; even if interrupted, they can start new Actions instead based on how much time is left during the Round.
 
 # Combat Explained
 ## Combat Part 1: Round 1: Battle-Start
@@ -142,3 +245,8 @@ If you're able to successfully land a Vent against a creature in Attack Mode, yo
 From Round 2 onwards, if any creature is in Assault Mode, they'll act first and simultaneously at any target of their choosing; if a creature/multiple creatures are in Attack Mode, each must roll a dice with the higher number of the group dictating the initiative-order of each group who Attacks  and Defends first, whilst also making the ones at the top of that Initiative Order attack simultaneously with those in Assault Mode.
 
 Combat will continue to go on like this until one side is all Knocked, Dead, Carried, all but 1 side have managed to successfully flee Combat, or a mixture of the 4.
+
+# Combat Summarised
+In combat, everyone starts in Assault Mode. Rounds last 4 Seconds each Round.
+Each Action a player spends during their turn last a certain amount of seconds- either pulling off or how long until they land the attack, and each Action is queued one after another kinda like Final Fantasy 13. During Combat after queueing your Action(s), you can choose to perform an Action Break to stop your Queued Actions to setup a new set of Actions.
+When a Player runs out of HP, they're Downed not Dead, and to kill a Downed person, they either have to spend 2 continuous Rounds being Gripped by another creature, or spend 3 continuous Rounds drowning in water.
