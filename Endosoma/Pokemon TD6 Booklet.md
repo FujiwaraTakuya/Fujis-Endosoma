@@ -49,7 +49,7 @@ Here is an extensive list of benefits and drawbacks a Pokemon has while out in c
   The number of moves known equal to every 50 EXP the Pokemon has, to determine if it can learn a Shadow Move check its entry on Bulbapedia (https://bulbapedia.bulbagarden.net/wiki/Shadow_move) to see if it's learnable by a Pokemon that can use the Move it's based off of, all Shadow Pokemon know the Move Shadow Rush, it can't use any normal Pokemon Moves aside from Shadow moves whilst it has Shadow Points, and once it loses all of its Shadow Points, all Shadow Moves are lost and each attained turn into 25 EXP for the Pokemon to spend. 
 
   1 turn after the Shadow Pokemon's first turn, the Pokemon must roll a Disadvantage Test with success between 3-6; if it fails the Test, the Pokemon must flip a coin, with Head causing it to suffer the Hyper Condition which causes it to ignore Trainer commands and has a chance for it to lash out against its Trainer, whilst Tails causes it to suffer the Reverse Condition where it ignores its trainer and every turn it injures itself with Recoil Damage.
-- 
+- Only Anthropomorphic or Furryfied Pokemon are capable of naturally opening and throwing Pokeballs on their own with the understanding to release Pokemon from Pokeballs or catch other Pokemon with them. 
 # Alternate Playstyles
 
 ## Pokemon Rangers
