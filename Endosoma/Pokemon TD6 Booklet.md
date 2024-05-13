@@ -6,8 +6,13 @@ This is a booklet explaining on how to play as a Pokemon or Pokemon Trainer in t
 
 # Trainer Creation
 If you're planning on playing as JUST a Trainer, you create your Character like normal through the Tiny Dungeons system, but you also gain access to Trainer-only Traits, can add a Starter Pokemon from the list available below (or wait until they find their first Catch of choice through wild encounters) to their Character Sheet in their Inventory-Section as (-Pokeball name-:-Pokemon Name-) before giving the Pokemon themselves a Character Sheet.
-
-## Trainer Features
+## 1a: Create your Trainer
+Whilst ignoring the Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
+## 1b: Add Trainer Traits (Optional)
+Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
+## 1c: Learn Pokemon Moves (Optional)
+Unlike normal Pokemon, certain beings are capable of learning Pokemon Moves despite not being Pokemon; instead of 10 EXP to learn a Move, it becomes 100 EXP and requires to be taught by another non-Pokemon Teacher who knows the Move, or a Anthro/Furryfied Pokemon Teacher that can communicate with the Trainer to teach them the ability and usage of the Move.
+### Trainer Features
 Here is an extensive list of benefits and drawbacks a Trainer has while their Pokemon is out in combat.
 - While a Trainer has a Pokemon actively out in the world, all damage the Trainer deals to other creatures aside from Pokemon is reduced by 75% down to a minimum of 1.
 - When a Trainer would take damage from an AOE attack, depending upon the direction it would be coming from, if a allied unit/Pokemon is in front of/above the Trainer, they reduce the damage taken by the attack by 50% down to a minimum of 1 damage/reduce the chances of a status affliction being taken by 1 Category. This does not reduce the damage taken if a Pokemon/unit is knocked back into the Trainer and pushes all units back into the same/nearby tiles.
@@ -18,12 +23,12 @@ Here is an extensive list of benefits and drawbacks a Trainer has while their Po
 - A Trainer's Pokemon can converse with other Pokemon with regular conversations to convince them with information, negate combat encounters with diplomacy, encourage/incite Actions to be taken against a group, and much, much more normally quite difficultly achieved between non-Pokemon and Pokemon.
 - Furryfied and Anthropomorphic Pokemon cannot be caught by other Trainers with Pokeballs due to their slightly differing DNA; they can only be caught through consent and trust, being born and registered as the Trainer's pokemon, or temporarily befriended using Pokemon Ranger Gear.
 - Any Trainer-commanded attacks aimed at an Ally or an area with an ally, intentional or unintentional, reduce the attack's Test by -1 Category.
-### Trainer Function: Team Mode & Command Mode
-#### Team Mode
+#### Trainer Function: Team Mode & Command Mode
+##### Team Mode
 When a Trainer calls out or has an allied Pokemon to their side and chooses to have them in Team Mode, the Pokemon can share its space and sharing its initiative with its Trainer whilst maintaining their separate Actions. While a Pokemon is in Team Mode, the any Movement Action the Trainer takes must also be taken by their Pokemon and consuming an Action available from each or else they must transition to Command Mod.
 While a Pokemon and their Trainer are in Team Mode, a Trainer shares their Action Economy with their Pokemon, but not vice versa; this allows a Pokemon to gain an additional 1-2 Actions performable during their turn, in exchange for both Pokemon and Trainer taking damage from attacks directed towards either of them. If a Pokemon  wishes to attack more than 2 times in a Round, they must succeed a Disadvantage Test or else the attack doesn't come out due to fatigue and the Action is consumed.
 When a Trainer uses a Move action with their Pokemon by them in Team Mode, they move with the Pokemon's Movement speed instead of the Trainers to remain beside each other, or else they must transition to Command Mode; this means a Pokemon can help a Trainer move using their ability to fly, swim, or teleport.
-#### Command Mode
+##### Command Mode
 When a Trainer calls out or has an allied Pokemon on the field and chooses to have them in Command Mode, the Pokemon remains in its own separate space and initiative to its Trainer, can act independantly from its Trainer, and can setup/perform Actions that can benefit their Trainer/allies more easily such as odd-angle Pokeball throws or grabbing and throwing Trainers up to high-up perches.
 While a Pokemon is in Command Mode, it acts like its own separate unit on the field with its own Action Economy; during the Trainer's Turn, they are able to use 1 Action to command their Pokemon during their Turn to perform an Attack or Action without consuming one of their Actions before or after their Turn arrives/happens.
 If a Pokemon owned by a Trainer has an Action remaining that isn't used as a CR Action, Trainers may perform unique manoeuvres (as allowed by DMs) to perform actions normally not performable alone such as throwing a Pokeball at your own Pokemon to have them launch the ball further or at a strange angle at another Pokemon to capture them if they're protecting themselves defensively from such attacks. These unique manoeuvres can be almost anything able to be performed between a Trainer and their Pokemon as long as it's admissible by the DM of your game.
@@ -32,7 +37,18 @@ Creating a Pokemon is like creating a Standard Character for a Tiny Dungeons gam
 
 Pokemon differ greatly to other creatures in the world of Tiny Dungeons/Endosoma; Pokemon have type-strengths and weaknesses affected by their Biology as Pokemon, and because of these weaknesses their environment or elemental attacks/magic can severely injure them worse than other creatures, or barely inhibit them at all, meaning common magic or natural environments can physically injure or inhibit Pokemon just like other Pokemon Moves normally will. However, due to the unique semi-stable nature of their effects and abilities on creatures outside of their realm, non-Pokemon creatures take half damage from all Pokemon Moves aside from non-scaling Status Effects.
 
-## Pokemon Features
+It's recommended that any creature of Large size to be kept in their Pokeball while traversing public streets in towns and villages, but Huge or larger creatures are mandatorily mandated to stay inside their Pokeballs unless it's for their job or for the sake of a battle.
+## 2a: Create your Trainer
+Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
+## 2b: Choose a Pokemon Heritage Trait
+As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it.
+## 2c: Add Pokemon Traits (Optional)
+Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
+## 2d: Give your Pokemon its Moves
+All Pokemon gain access to their Level 1 Moves for free without issue, but any Moves gained afterwards must be gained through EXP expenditure; Moves must be gained in order of Level progression, but that aside, gaining a new Move is like gaining a new Trait in that 10 EXP must be spent to learn a new Move.
+
+Moves learned through TMs require 2 successful Tests on a Standard Test when learning them to learn them permanently.
+### Pokemon Features
 Here is an extensive list of benefits and drawbacks a Pokemon has while out in combat.
 - Pokemon have 3 Heritages they can be born into: Feral, Anthropomorphic, and Furryfied, explained as such:
 	- **Feral -** _You teach me and I'll teach you! POKEMOOOON!!_ As a natural Pokemon, you don't understand how to use regular tools or weaponry, but as long as an object's simple enough for them to wield, they can still use it as a weapon. **Feral Pokemon cannot use regular weaponry outside of Improvised and Unarmed Strike Attacks, and also have Proficiency over Unarmed Strike Attacks. Also, your Character's Size can either be based off of Character Creation, or the Pokemon's Average Size up to a size limit based off the Pokepedia page.** **Finally, like other Pokemon, you have elemental resistances and weaknesses while also being affected by certain weathered/elemental environments.**
@@ -55,3 +71,5 @@ Here is an extensive list of benefits and drawbacks a Pokemon has while out in c
 ## Pokemon Rangers
 
 ## Pokken Fighter
+
+## Hisuian-Style Trainer
