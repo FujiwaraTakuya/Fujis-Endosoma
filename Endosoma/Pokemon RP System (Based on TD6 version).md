@@ -86,6 +86,7 @@ Your Character Sheet(s) are done! Get ready for one of the simplest TTRPG games 
 - Attack (1 Action) - Perform an Attack within your Range.
 - Reload (1 Action (Ranged Weapons)) - Reload Projectile for ranged weapon.
 - Dodge (1 Action) - Use an Action to become more evasive until your next turn.
+- CR Action (1 Unused Action) - Choose to turn any unused Actions at the end of your turn into CR Actions to counter another Pokemon's Moves, or a Trainer's Actions. Can be used by Trainer to command Pokemon to perform a Move/Action or use themselves if applicable.
 - Use/hold/stow away Item in hand from/to Inventory/Range/area (1 Action) - Use an Object/Item/Interactable item within 5ft, or hold it.
 - Throw held thing (1 Action) - Throw a thing in your hand(s) up to 30ft.
 - Grapple (1 Action) - Bind something down with your reach to hold it in place.
@@ -99,6 +100,7 @@ Your Character Sheet(s) are done! Get ready for one of the simplest TTRPG games 
 - Attack (1 Action) - Perform an Attack within your Range.
 - Reload (1 Action (Ranged Weapons (If applicable))) - Reload Projectile for ranged weapon.
 - Dodge (1 Action) - Use an Action to become more evasive until your next turn.
+- CR Action (1 Unused Action) - Choose to turn any unused Actions at the end of your turn into CR Actions to counter another Pokemon's Moves, or a Trainer's Actions.
 - Use/hold/stow away Item in hand from/to Inventory/Range/area (1 Action) - Use an Object/Item/Interactable item within 5ft, or hold it.
 - Throw held thing (1 Action) - Throw a thing in your hand(s) up to 30ft.
 - Grapple (1 Action) - Bind something down with your reach to hold it in place.
