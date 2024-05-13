@@ -41,7 +41,7 @@ It's recommended that any creature of Large size to be kept in their Pokeball wh
 ## 2a: Create your Trainer
 Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
 ## 2b: Choose a Pokemon Heritage Trait
-As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it.
+As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied; this Heritage Trait isn't named in the Heritage section. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it, and this is the Trait that is named in their Heritage section.
 ## 2c: Add Pokemon Traits (Optional)
 Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
 ## 2d: Give your Pokemon its Moves
