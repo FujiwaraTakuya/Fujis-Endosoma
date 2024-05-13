@@ -7,7 +7,7 @@ This is a booklet explaining on how to play as a Pokemon or Pokemon Trainer in t
 # Trainer Creation
 If you're planning on playing as JUST a Trainer, you create your Character like normal through the Tiny Dungeons system, but you also gain access to Trainer-only Traits, can add a Starter Pokemon from the list available below (or wait until they find their first Catch of choice through wild encounters) to their Character Sheet in their Inventory-Section as (-Pokeball name-:-Pokemon Name-) before giving the Pokemon themselves a Character Sheet.
 
-## Trainer Functions
+## Trainer Features
 Here is an extensive list of benefits and drawbacks a Trainer has while their Pokemon is out in combat.
 - While a Trainer has a Pokemon actively out in the world, all damage the Trainer deals to other creatures aside from Pokemon is reduced by 75% down to a minimum of 1.
 - When a Trainer would take damage from an AOE attack, depending upon the direction it would be coming from, if a allied unit/Pokemon is in front of/above the Trainer, they reduce the damage taken by the attack by 50% down to a minimum of 1 damage/reduce the chances of a status affliction being taken by 1 Category. This does not reduce the damage taken if a Pokemon/unit is knocked back into the Trainer and pushes all units back into the same/nearby tiles.
@@ -17,6 +17,7 @@ Here is an extensive list of benefits and drawbacks a Trainer has while their Po
 - Even if the Trainer's defeated, the Pokemon can act autonomously from their Trainer, but they can't take the Trainer's Pokeballs to call upon more allies or catch Pokemon.
 - A Trainer's Pokemon can converse with other Pokemon with regular conversations to convince them with information, negate combat encounters with diplomacy, encourage/incite Actions to be taken against a group, and much, much more normally quite difficultly achieved between non-Pokemon and Pokemon.
 - Furryfied and Anthropomorphic Pokemon cannot be caught by other Trainers with Pokeballs due to their slightly differing DNA; they can only be caught through consent and trust, being born and registered as the Trainer's pokemon, or temporarily befriended using Pokemon Ranger Gear.
+- Any Trainer-commanded attacks aimed at an Ally or an area with an ally, intentional or unintentional, reduce the attack's Test by -1 Category.
 ### Trainer Function: Team Mode & Command Mode
 #### Team Mode
 When a Trainer calls out or has an allied Pokemon to their side and chooses to have them in Team Mode, the Pokemon can share its space and sharing its initiative with its Trainer whilst maintaining their separate Actions. While a Pokemon is in Team Mode, the any Movement Action the Trainer takes must also be taken by their Pokemon and consuming an Action available from each or else they must transition to Command Mod.
@@ -31,8 +32,20 @@ Creating a Pokemon is like creating a Standard Character for a Tiny Dungeons gam
 
 Pokemon differ greatly to other creatures in the world of Tiny Dungeons/Endosoma; Pokemon have type-strengths and weaknesses affected by their Biology as Pokemon, and because of these weaknesses their environment or elemental attacks/magic can severely injure them worse than other creatures, or barely inhibit them at all, meaning common magic or natural environments can physically injure or inhibit Pokemon just like other Pokemon Moves normally will. However, due to the unique semi-stable nature of their effects and abilities on creatures outside of their realm, non-Pokemon creatures take half damage from all Pokemon Moves aside from non-scaling Status Effects.
 
+## Pokemon Features
+Here is an extensive list of benefits and drawbacks a Pokemon has while out in combat.
+- Furryfied and Anthropomorphic Pokemon cannot be caught by other Trainers with Pokeballs due to their slightly differing DNA; they can only be caught through consent and trust, being born and registered as the Trainer's pokemon, or temporarily befriended using Pokemon Ranger Gear.
+- Pokemon can gain access to their full Movelists with no limitations of what Moves they have access to during combat unless the Pokemon is performing in a Tournament, Gym Challenge, or Elite 4 & Champion Battles. Moves still have to be earned through EXP expenditure, gained like a Trait (Spend 10 EXP for 1 Move), and must be earned in order or Levels; if multiple Moves are gained at the same Level, the EXP cost to gain the extra Moves simultaneously cost 0.5x for each additional Move (additional 5EXP per additional Move); Pokemon with Evolution-exclusive Moves can be attained later through Training with a Pokemon of the same Evolution with access to the Move.
+- Depending upon the effect of a Pokemon Move has, it can cause damage to terrain/objects and even break it whilst ignoring half of its damage reduction.
+- Pokemon can't be killed from Combat unless a Coup De Grace or Finisher is performed upon them.
+- Shadow Pokemon are created from heavy abuse so bad, they lock their heart and emotion before becoming enshrouded by that abusive energy and having their abilities be changed from what they once were. Shadow Pokemon resist all damage types by 0.5x, have all of their Moves deal 2x damage to all non-Shadow Pokemon, and each time a Shadow Pokemon uses a Shadow Move or has affection given to them once every hour, they lose 1 Shadow Point. Shadow Pokemon are totally obedient to those who own them, ignore any mind-affecting Status Conditions aside from Pokemon Status Condition Moves, and start out with a selection of Shadow Moves and between 100-300+ Shadow Points representing their abused heart.
+  
+  The number of moves known equal to every 50 EXP the Pokemon has, to determine if it can learn a Shadow Move check its entry on Bulbapedia (https://bulbapedia.bulbagarden.net/wiki/Shadow_move) to see if it's learnable by a Pokemon that can use the Move it's based off of, all Shadow Pokemon know the Move Shadow Rush, it can't use any normal Pokemon Moves aside from Shadow moves whilst it has Shadow Points, and once it loses all of its Shadow Points, all Shadow Moves are lost and each attained turn into 25 EXP for the Pokemon to spend. 
+
+  1 turn after the Shadow Pokemon's first turn, the Pokemon must roll a Disadvantage Test with success between 3-6; if it fails the Test, the Pokemon must flip a coin, with Head causing it to suffer the Hyper Condition which causes it to ignore Trainer commands and has a chance for it to lash out against its Trainer, whilst Tails causes it to suffer the Reverse Condition where it ignores its trainer and every turn it injures itself with Recoil Damage.
+- 
 # Alternate Playstyles
 
 ## Pokemon Rangers
 
-## Pokken Synergy
+## Pokken Fighter
