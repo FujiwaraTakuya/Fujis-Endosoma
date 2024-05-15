@@ -16,10 +16,16 @@ You'll need the many Booklets, Guidebooks, and References to give yourself a bet
 
 First things first, you're going to need the following:
 - The Tiny Dungeons 6 Second Edition Rulebook (Optional; https://drive.google.com/file/d/1xg0bx2-zdZa7hcUbpMyGUYXD4HwMaWXA/view?usp=sharing)
-- An account on Roll 20 or a Google Sheets-friendly TD6 Character Sheet (I don't have any references for the Google Sheets one so if you find or make one, good on ya!)
+- An account on Roll 20 or a Google Sheets-friendly TD6 Character Sheet ([Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#) or you can create your own based on it)
 - The ability to ask for help if you're having trouble understanding what something means.
 
 If you're able to at least get/use 2 of the 3 things up above, you should be able to play this system without much trouble. If ya can't, do please give your DM some consideration for doing some stuff for you if you still want to play the game but you can't use a PC or Roll20 or something.
+
+Endosoma is an Open World TTRPG System that can work for a Traditional D&D campaign if you'd rather not play a typical D&D session of main quests one after another, or if this is your first time learning a TTRPG.
+
+The main features include exploring an expansive world, TONS of side quests varying in length and difficulty, worthwhile and constant experience gain, and a near-endless exploration of an ever-growing world born from...something.
+
+Vore is optional, you can gain pets, create your own weapons, armour, and equipment, enchant your gear, create jobs and/or buildings, become a Hero, become a Villain, and more! All you need to do is ask, and hope the DM is alright with it.
 
 # Character Creation Simplified
 
@@ -93,6 +99,8 @@ Note that to Master a weapon, one must have Proficiency with it, and EXP costs f
 
 ## Endosoma Content
 This is the Homebrew Content made by Fuji which is based and adds on to Tiny Dungeons.
+
+These steps come after creating your Character with the TD6 System up above.
 ### 2a: Endosoma's Class System
 Endosoma enables players to feel unique and interesting by giving them the ability to Tri-Multiclass from a massive list of classes, subclasses, and different Traits which can affect their abilities in gameplay while attempting to make any classes played feel valued and enjoyable.
 
@@ -102,8 +110,8 @@ At the start of the game, each Class comes with their own Class Ability that com
 
 Once Players have chosen their Classes, they add the Class's text to the player's Trait List like so:
 
-(Class name) [Class]
-(Class Description)
+	(Class name) [Class]
+	(Class Description)
 
 To help with organisation, add the Class's Class Traits underneath it to help you figure out which class certain Traits came from; if you need to manually re-order Traits, you just go to the bottom of the List and press Modify to either remove or Move Traits from/across your List on Roll20.
 
@@ -141,10 +149,43 @@ In short, Creative Actions cost 2 Actions to perform, can be performed in and ou
 
 ## Pokemon Content
 This is the Homebrew Pokemon Content made by Fuji; doesn't need any more explanation further than this otherwise I'm probably gonna risk being Copyright Strike'd despite this being fan content by one guy.
-### 3a:
+
+The following steps are instructions for additions after making your Character's base; if you want the full set of instructions, head to [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#)
+### 3a: Choose your Pokemon's Heritage Trait
+Pokemon have a list of 3 Heritage Traits they choose to take when they're first created:
+- **Feral -** _You teach me and I'll teach you! POKEMOOOON!!_ As a natural Pokemon, you don't understand how to use regular tools or weaponry, but as long as an object's simple enough for them to wield, they can still use it as a weapon. **Feral Pokemon cannot use regular weaponry outside of Improvised and Unarmed Strike Attacks, and also have Proficiency over Unarmed Strike Attacks. Also, your Character's Size can either be based off of Character Creation, or the Pokemon's Average Size up to a size limit based off the Pokepedia page.** **Finally, like other Pokemon, you have elemental resistances and weaknesses while also being affected by certain weathered/elemental environments.**
+
+- **Anthropomorphic -** _Pokemon! Pocket Monsters! Pokemon are the champions!_ While looking somewhat like any other Feral Pokemon, you seem to have a level of intelligence that surpasses normal Pokemon, giving you the ability to speak languages from another species, and even wield basic Melee weapons based upon your size. **Anthro Pokemon can use Light Weapons if they're Medium or smaller-sized, while Large-Very Large Anthros can use Heavy Weapons. Also, your Character's Size can either be based off of Character Creation, or the Pokemon's Average Size up to a size limit based off the Pokepedia page.** **Finally, like other Pokemon, you have elemental resistances and weaknesses while also being affected by certain weathered/elemental environments.**
+
+- **Furryfied -** _[Insert Pokemon name] is one of the most suitable Pokemon for se-_ You're one of the unnaturally-built Pokemon in terms that you look more like an over/under-sized human with a Pokemon's head and tail- maybe even having tauric/naga-like aspects to your form. **Furryfied Pokemon are capable of using 1 additional category of weaponry with Proficiency and 1 additional Mastery over a weapon. Also, your Character's Size can either be based off of Character Creation, or the Pokemon's Average Size up to a size limit based off the Pokepedia page. Finally, like other Pokemon, you have elemental resistances and weaknesses while also being affected by certain weathered/elemental environments.**
+
+### 3b: Choose Pokemon Traits
+If you've already selected Traits from the Tiny Dungeons and/or Endosoma list, but have yet to check the Pokemon list, try surveying through the Pokemon Trait list for anything that interests you or would be helpful that you could replace from your available Traits.
+### 3c: Add your Pokemon's Strengths and Weaknesses
+At the bottom of the Heritage Trait, you list your Pokemon's Strength's and Weaknesses to damage-types, like so:
+	Strengths: Fighting and Grass (x0.25), Poison, Bug, and Fairy (x0.5)
+	Weaknesses: Flying, Rock, Fire, and Psychic (x2)
+If a Pokemon is currently a Shadow Pokemon, above the normal Typings for the Pokemon, the following should be listed:
+	 Currently a Shadow Pokemon!
+	 Strengths: All Types
+	 Weaknesses: None
+	 Shadow Points: 
+
+### 3d: Change Weapon Proficiencies and other details as needed with changes/additions to your Pokemon's Heritage Trait
+Pokemon Heritage Traits have certain limitations/requirements to be active for it to function correctly; as long as they're selected properly and shown on your sheet, you can identify your Pokemon's current capabilities for combat and actions outside of combat.
+
 # Combat Simplified
-
-
+Here's the comprehensive list performable by Players during combat (Tiny Dungeons & Endosoma): 
+- Move (1 Action) - Move up to 25ft; can be used 2 times.
+- Sprint (2 Actions) -  Quickly dash up to 100ft.
+- Attack (1 Action) - Perform an Attack within your Range.
+- Reload (1 Action (Ranged Weapons)) - Reload Projectile for ranged weapon.
+- Dodge (1 Action) - Use an Action to become more evasive until your next turn.
+- Use/hold/stow away Item in hand from/to Inventory/Range/area (1 Action) - Use an Object/Item/Interactable item within 5ft, or hold it.
+- Throw held thing (1 Action) - Throw a thing in your hand(s) up to 30ft.
+- Grapple (1 Action) - Bind something down with your reach to hold it in place.
+- Use Trait (1-2 Action(s)) - Use a Trait's effect/attack upon a chosen Target.
+- Creative Action (2 Actions) - Do something not listed up above and allowed by the DM if performable.
 ### Weapon Categories and usages
 There are different types of weapons which are simply categorized as Light, Heavy, or Ranged weapons, but each one comes with special benefits to their equipment and usage.
 
