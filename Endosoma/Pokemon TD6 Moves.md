@@ -3,6 +3,8 @@ share: true
 ---
 #Pokemon #TinyDungeons6 
 This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 Format. To see how to properly use this list, go to the page: [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#), and go to this page for all Endosoma-related links: [Endosoma TD6 Links](Endosoma%20TD6%20Links.md#)
+
+Most moves are performed as a Standard Test unless specified otherwise.
 # Bug
 
 - Defend Order - The user increases their Physical and Magic Defence by +1 by using their underlings to shield their body.

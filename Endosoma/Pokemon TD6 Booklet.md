@@ -23,6 +23,8 @@ Here is an extensive list of benefits and drawbacks a Trainer has while their Po
 - A Trainer's Pokemon can converse with other Pokemon with regular conversations to convince them with information, negate combat encounters with diplomacy, encourage/incite Actions to be taken against a group, and much, much more normally quite difficultly achieved between non-Pokemon and Pokemon.
 - Furryfied and Anthropomorphic Pokemon cannot be caught by other Trainers with Pokeballs due to their slightly differing DNA; they can only be caught through consent and trust, being born and registered as the Trainer's pokemon, or temporarily befriended using Pokemon Ranger Gear.
 - Any Trainer-commanded attacks aimed at an Ally or an area with an ally, intentional or unintentional, reduce the attack's Test by -1 Category.
+- Outside of Tournaments and Gym Challenges, Players can have more than 1-2 Pokemon out on the field to aid in combat, up to a Limit of 6 out at once.
+- Pokemon in a Trainer's Party can be switched out using their PokeDex as long as they have an Internet Connection. Pokemon can always be switched at a PC in a PokeCenter as long as it has power.
 #### Trainer Function: Team Mode & Command Mode
 ##### Team Mode
 When a Trainer calls out or has an allied Pokemon to their side and chooses to have them in Team Mode, the Pokemon can share its space and sharing its initiative with its Trainer whilst maintaining their separate Actions. While a Pokemon is in Team Mode, the any Movement Action the Trainer takes must also be taken by their Pokemon and consuming an Action available from each or else they must transition to Command Mod.

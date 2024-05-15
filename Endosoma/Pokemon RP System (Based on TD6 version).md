@@ -1,11 +1,11 @@
 ---
 share: true
 ---
-Welcome to Fuji's Pokemon System! It'll teach you how to make your characters in the fastest way possible based off of the following entries: [Pokemon RP Template (Based on TD6 version)](Pokemon%20RP%20Template%20(Based%20on%20TD6%20version).md#), [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#), [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#), [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), & [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md#).
+Welcome to Fuji's Pokemon System! It'll teach you how to make your characters in the fastest way possible based off of the following entries: [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#), [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#), [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#), [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), & [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md#).
 
 It'll also give you a list of available actions performable during Combat, as well as some tips of what to do inside or outside of combat.
 # Pokemon Creation
-Use the [Pokemon RP Template (Based on TD6 version)](Pokemon%20RP%20Template%20(Based%20on%20TD6%20version).md#) as a base for creating Character Sheets for Trainers and Pokemon.
+Use the [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#) as a base for creating Character Sheets for Trainers and Pokemon.
 ## Creating Trainer's Sheet
 ### 1a: Copy Template
 Use the given Template in Google Docs/Microsoft Word/Document reader of choice to create your Trainer's Character Sheet.
@@ -125,3 +125,4 @@ If you have a hard time trying to figure out what to do in an open world game li
 - Ask if you can See/Hear/Smell/Feel/Taste anything of interest that you're sense
 - Ask for something specific (E.g. "I wanna find an Equipment Shop for Weapons", "Is there a Potions Shop in this city?", "Where could we sell this tamed beast we caught?", "Can I study this person's schedule to trap them?", "How do I learn Potion Making/Armor Smithing/Weapon Crafting?")
 - Ask DM for ideas and recommendations
+- Experiment with stuff!
