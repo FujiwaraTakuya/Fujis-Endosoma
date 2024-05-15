@@ -9,7 +9,7 @@ This is a simplified Guidebook of how to play Tiny Dungeons 2 and Endosoma by Fu
 A TTRPG-inspired System where most of the game is simple, played with D6 dice, and attempts to invite creativity in situations of mechanics and gameplay- an attempt to unleash your imagination and explore a world of fictional wonder and terror.
 
 ### Prologue
-
+You've been given an opportunity to visit a brand new world fit for adventure and exploration; you can treat the world as a game, or believe the moral complications your actions hold in this new dimension and the people that reside within it.
 
 ### How to play?
 You'll need the many Booklets, Guidebooks, and References to give yourself a better understanding of how everything works, but generally you'll only be needing to look through other Booklets if this Guidebook advises you to, so don't fret if you feel like you're gonna be swamped with too much information at once- both this and the detailed book attempt to simplify that.
