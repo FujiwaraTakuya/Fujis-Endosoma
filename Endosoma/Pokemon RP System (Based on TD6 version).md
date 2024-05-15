@@ -77,7 +77,6 @@ Use the Template up above to record your Team/Allies!
 Your Character Sheet(s) are done! Get ready for one of the simplest TTRPG games you get to play!
 
 
-
 # Combat Actions
 
 ## Trainer Actions
@@ -111,4 +110,18 @@ Your Character Sheet(s) are done! Get ready for one of the simplest TTRPG games 
 
 
 
-
+# Out of Combat Tips
+If you have a hard time trying to figure out what to do in an open world game like this, here's a list of recommendations I can give you as a future DM and TTRPG Player to explore the world and interact with the world.
+- Ask about what you can do
+- Ask where you are/what you see
+- Ask about rumours or look for quests at each Main Cities' Quest Boards
+- Ask if you can make something (Item; Enchantment; Spell; Building; Friendships/Partnerships)
+- Ask if you can do something (Illegal or Legal (Usually comes with warnings, but not always))
+- Ask for information about the world/country/building/people/race/creature/history/
+  achievements/laws/powers/magic/engineering/size of thing/etc.
+- Perform an Action not given a visible mechanic through Booklet explanations (DM advisory)
+- Ask to explore around randomly in a direction
+- Search a general area for something specific or anything of interest
+- Ask if you can See/Hear/Smell/Feel/Taste anything of interest that you're sense
+- Ask for something specific (E.g. "I wanna find an Equipment Shop for Weapons", "Is there a Potions Shop in this city?", "Where could we sell this tamed beast we caught?", "Can I study this person's schedule to trap them?", "How do I learn Potion Making/Armor Smithing/Weapon Crafting?")
+- Ask DM for ideas and recommendations
