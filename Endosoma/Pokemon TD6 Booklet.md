@@ -40,16 +40,28 @@ Creating a Pokemon is like creating a Standard Character for a Tiny Dungeons gam
 Pokemon differ greatly to other creatures in the world of Tiny Dungeons/Endosoma; Pokemon have type-strengths and weaknesses affected by their Biology as Pokemon, and because of these weaknesses their environment or elemental attacks/magic can severely injure them worse than other creatures, or barely inhibit them at all, meaning common magic or natural environments can physically injure or inhibit Pokemon just like other Pokemon Moves normally will. However, due to the unique semi-stable nature of their effects and abilities on creatures outside of their realm, non-Pokemon creatures take half damage from all Pokemon Moves aside from non-scaling Status Effects.
 
 It's recommended that any creature of Large size to be kept in their Pokeball while traversing public streets in towns and villages, but Huge or larger creatures are mandatorily mandated to stay inside their Pokeballs unless it's for their job or for the sake of a battle.
-## 2a: Create your Trainer
+
+In this game, Pokemon are born either Feral, Anthro, or Furryfied, but this Heritage Trait can be changed later on through a Ball-Transfer Machine and specially-designed Pokeballs which allow for visual/permanent transformations into other Heritage Traits.
+## 2a: Create your Pokemon
 Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
 ## 2b: Choose a Pokemon Heritage Trait
 As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied; this Heritage Trait isn't named in the Heritage section. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it, and this is the Trait that is named in their Heritage section.
-## 2c: Add Pokemon Traits (Optional)
+## 2c: 
+At the bottom of the Heritage Trait, you list your Pokemon's Strength's and Weaknesses to damage-types, like so:
+	Strengths: Fighting and Grass (x0.25), Poison, Bug, and Fairy (x0.5)
+	Weaknesses: Flying, Rock, Fire, and Psychic (x2)
+If a Pokemon is currently a Shadow Pokemon, above the normal Typings for the Pokemon, the following should be listed:
+	 Currently a Shadow Pokemon!
+	 Strengths: All Types
+	 Weaknesses: None
+	 Shadow Points: 
+## 2d: Add Pokemon Traits (Optional)
 Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
-## 2d: Give your Pokemon its Moves
+## 2e: Give your Pokemon its Moves
 All Pokemon gain access to their Level 1 Moves for free without issue, but any Moves gained afterwards must be gained through EXP expenditure; Moves must be gained in order of Level progression, but that aside, gaining a new Move is like gaining a new Trait in that 10 EXP must be spent to learn a new Move.
 
 Moves learned through TMs require 2 successful Tests on a Standard Test when learning them to learn them permanently.
+
 ### Pokemon Features
 Here is an extensive list of benefits and drawbacks a Pokemon has while out in combat.
 - Pokemon have 3 Heritages they can be born into: Feral, Anthropomorphic, and Furryfied, explained as such:
