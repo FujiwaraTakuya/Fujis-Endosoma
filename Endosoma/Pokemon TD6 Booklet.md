@@ -106,15 +106,15 @@ Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemo
 - Fast Ball - Catches Fast/Fleeing Pokemon effectively; if a Pokemon was running away from Combat during the previous Round, or if they were planning on using Moves that aid in Moving themselves away from a Trainer, this Pokeball makes 8 tests against them; if a Pokemon has 20 or more Initiative, this Pokeball makes 8 Tests against them; these effects do not stack upon each other.
 - Level Ball - Your Pokemon's Experience affects the Catch-Rate; if your Pokemon's Experience is equal-to- or lower than the Opponent Pokemon's Experience, this ball makes 2 Tests against them; if your Pokemon's Experience is above your Opponent's but less than double the amount, this ball makes 4 Tests against them; if your Pokemon's Experience is more than double your Opponent's but less than quadruple (4x), this ball makes 8 Tests against them; if your Pokemon's Experience is equal to or more than 4 times your Opponent's, make 16 Tests against them.
 - Lure Ball - Makes fishing Pokemon easier; when catching a Pokemon Fishing, before, during, or after battle, this ball makes 8 Tests against them.
-- Heavy Ball - 
-- Love Ball - 
-- Friend Ball - 
-- Moon Ball - 
-- Net Ball - 
-- Dive Ball - 
-- Nest Ball - 
-- Repeat Ball - 
-- Timer Ball - 
+- Heavy Ball - Catches Heavy Pokemon with ease; Pokemon between 0-220.2lbs (99.9kg) have 1 Test made against them with this ball; Pokemon between 220.5-440.7lbs (100-199.9kg) have 2 Tests made against them with this ball; Pokemon between 440.9-661.2lbs (200-299.9kg) have 4 Tests made against them with this ball; Pokemon between 661.4+lbs (300+kg) have 5 Tests made against them with this ball.
+- Love Ball - Very good for capturing duplicates; if used on a Pokemon that's the same species as your active Pokemon, regardless of gender, this ball makes 16 Tests against them.
+- Friend Ball - Great way for making friends!; this ball helps convince the Pokemon that the Trainer is friendly, regardless if the Pokemon was caught or not, forcing them to make a Disadvantage Test to maintain or lower their Hostility towards the Trainer; all tests made with this Ball are only performed with 1 Test and can't be increased.
+- Moon Ball - Great for catching Moon Pokemon; Pokemon that evolve using a Moonstone are caught with 8 Tests with this Ball, otherwise only 2 Tests are made.
+- Net Ball - Great Water/Bug catcher; this ball makes 7 Tests against Water and Bug-type Pokemon, whilst making 2 Tests against other types.
+- Dive Ball - Great underwater ball; makes 7 Tests against Pokemon that live in water, but if the ball's being thrown under Water, ignore any underwater penalties while throwing and this ball makes 14 Tests against Pokemon that live in water, otherwise this Ball only makes 2/4 Tests against Pokemon in these conditions. 
+- Nest Ball - Great at catching weaker Pokemon; this ball makes 10 Tests against Pokemon with 0 Experience; it makes 9 Tests against Pokemon with 1-4 experience; every multiple of 4 and lower afterwards lowers the number of Tests this Ball makes against Pokemon (e.g. 28 EXP = 3 Tests made).
+- Repeat Ball - Catching duplicate made easier; if a Pokemon is registered in a Trainer's own Pokedex, the ball makes 7 tests against them, otherwise they only make 2
+- Timer Ball - The patient one; starting at 0 Tests, each Round spent in Combat raises the number of Tests performable by the Ball by +0.8, maxing out at 8 Tests; only whole numbers are accepted, and decimals are ignored.
 - Luxury Ball - 
 - Dusk Ball - 
 - Heal Ball - 
