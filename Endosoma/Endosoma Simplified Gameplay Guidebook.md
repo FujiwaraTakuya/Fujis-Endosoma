@@ -35,7 +35,7 @@ This is the Base-Game content for Tiny Dungeons on how to make a character.
 ### 1a: Who is your character?
 For the sake of the campaign, your character is a being born from a different dimension to this one and being brought into it with the promise of wealth, power, and experiences that you may be seeking- with very little risk, and a whole ton of rewards.
 
-All you need to do is give your character a Name, identify their People (Race), Homeland (Dimension/Place of existence/birth), Age, Eye Colour, Hair Colour, Family Trade (Job), and Belief (Personal Philosophy/Alignment); you ignore Heritage for now, and it's highly recommended to use your/a Fursona/Persona/Identity to hopefully immerse yourself better into the experience. These details are fairly minor, but depending upon the active background certain character traits can bring you benefits or disadvantages to certain rolls; if you're a cook, instead of making cooking Tests at Disadvantage, it could be rolled at Standard or Advantage.
+All you need to do is give your character a **Name, identify their People (Race), Homeland (Dimension/Place of existence/birth), Age, Eye Colour, Hair Colour, Family Trade (Job), and Belief (Personal Philosophy/Alignment)**; you ignore Heritage for now, and it's highly recommended to use your/a Fursona/Persona/Identity. These details are fairly minor, but depending upon the active background certain character traits can bring you benefits or disadvantages to certain rolls; if you're a cook, instead of making cooking Tests at Disadvantage, it could be rolled at Standard or Advantage.
 
 ### 1b: Choosing your Size, Weight, and Starting HP
 From the [Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#) page, your Character's size and weight will generally affect your ability to interact with the world and its environment.
@@ -44,18 +44,16 @@ All character are highly recommended to play Medium-sized characters for the sak
 
 Once you've selected a Size for your character, you'll want to copy the following to your Sheet as a Trait looking like this:
 
-**Size: Category**
-Size (Height, Weight, HP)
+	**Size: Category**
+	Size (Height, Weight, HP)
 
 ### 1c: Picking your Heritage
-Normally, with the TD6 system, your Heritage is the same as selecting your Race in normal TTRPGs which also entitle you to to certain Racial Traits, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
-
-If you want a different Trait that isn't listed on the Trait listing, feel free to check the [Endosoma TD6 Trait Listing](Endosoma%20TD6%20Trait%20Listing.md#); if you want a custom Heritage Trait, discuss the engagement and function with your DM.
+Normally with the TD6 system, your Heritage is Racial and given to you with pre-made races, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
 
 After you've chosen your desired Heritage Trait, you put it into the Heritage section of your Character Sheet whilst also being able to use it as a form of Bio to explain your character's backstory and reasoning for their Trait.
 
 ### 1d: Picking your starting Traits
-If you're playing with the Vanilla TD6 system with pre-made species, you usually don't pick a Trait at the start of the game unless the DM allows you a singular Trait for character creation. If you're making a custom race for your character, your custom race will always be given 3 Traits to define themselves with from the Trait List on page 33, 70, 74, 77, and 83 of the TD6 PDF.
+If you're playing with the Vanilla TD6 system with pre-made species, you only insert the Traits given by them on the Race page. If you're making a custom race, your custom race will always have  3 Traits of your choice from the Trait List on page 33, 70, 74, 77, and 83 of the TD6 PDF.
 
 These Traits once chosen are placed in the Trait-section of your character sheet for more obvious reading and understanding.
 
@@ -67,29 +65,29 @@ With your character being set up for adventuring, your character will have some 
 When you choose a weapon category to be proficient with, instead of rolling that Test with with Disadvantage, you roll 1 Test category higher. If you don't have a Proficiency with a weapon or fighting style, you roll that Test at Disadvantage unless said otherwise.
 
 ### 1f: Picking your Weapon
-After your choice in stats, traits, and abilities has been made, you choose a weapon that either fits your character's Proficiency, or a weapon that fits your character's Backstory. You can discuss with a DM what category a weapon fits into. Once you've chosen a weapon of choice, you add it to your sheet in the Equipped Items and Inventory Section with a Depletion Rating of 6, and if you see the 5 boxes in the middle with letters inside them, they relate to the weapon's Categories and what they fit into, to click on the boxes that your weapon fits into.
+Choose a weapon that either fits your character's Proficiency or Backstory. You can discuss with a DM what category a weapon fits into. Once you've chosen a weapon, add it to your sheet in the Equipped Items and Inventory Section with a Depletion Rating of 6; the 5 boxes in the middle with letters inside them relate to the weapon's Categories and what proficiencies your character has while wielding a weapon.
 
 ### 1g: Using Magic
-Using Magic from Scrolls, Items, or on their surroundings, it requires you to have the Spell-Touched or Spell Reader Traits for your character, but if you want to use magic to a greater degree, including custom magic, it requires you to have the Archmage Prestige Trait.
+Using Magic from Scrolls, Items, or on their surroundings, it requires you to have the Spell-Touched or Spell Reader Traits, but if you want to use stronger magic, including custom magic, it requires you to have the Archmage Prestige Trait.
 
 Spell Reader allows you to read magic scrolls and use their effects when you desire.
 
 Spell-Touched allows you to minorly influence your surroundings and shoot small bolts of magic; check the bottom of page 18 of the TD6 PDF for more details.
 
 ### 1h: Using Familiars and Animal Companions
-When you gain a Familiar, you choose any one creature of Medium or smaller size for your spiritual companion to take the visage of, but depending on your DM, this visage can be bigger if they allow. This creature is incorporeal, meaning they can't touch or be touched by other things and can only communicate telepathically with their master; as long as they're within a 50ft-radius of their master, they can remain manifested until leaving that radius or taking 1 Magic Damage because they only have 1HP. When a Familiar is damaged and defeated, the master takes 1 point of damage. Summoning or unsummoning a familiar is considered a free Action and does not require a Test or an Action to perform, and when summoned, the familiar will appear on or within 5ft of their master.
+When you gain a Familiar, you choose any one creature of equal or smaller size for your spiritual companion to take the visage of, but some DMs allow them to be bigger. This creature is incorporeal, meaning they can't touch or be touched by other things and can only communicate telepathically with their master; as long as they're within a 50ft-radius of their master, they can remain manifested until leaving that radius or taking 1 Magic Damage because they only have 1HP. When a Familiar is damaged and defeated, the master takes 1 point of damage. Summoning or unsummoning a familiar is a free Action and does not require a Test or Action to perform, and when summoned, the familiar will appear on or within 5ft of their master.
 
 When gaining an Animal Companion as an Archdruid, they choose an Animal Type from page 73 (It must be an animal and not a Monster), give them 2 Player Traits, and must make sure that their animal companion is not allowed to have access to magic or Adventurer-specific abilities
 
 ### 1i: Mounting
-To Mount an allied creature inside of combat, it requires an Action with a Standard Test to successfully mount them, and to dismount is a Free Action. When outside of combat, a Test isn't required to mount.
+To Mount an allied creature in of combat, spend 1 Action with a Standard Test to mount them, and dismount is a Free Action. When outside of combat, a Test isn't required to mount.
 
-A creature is only Mountable if they're 1 size-category larger or more to be considered safely Mountable, with creatures of equal-size being unsafe and requiring a Disadvantage Test at the start of each turn to remain Mounted or fall off them; any creature 1 size-category smaller than you is physically incapable of being Mountable unless they have a Trait that says otherwise.
+A creature is only Mountable if they're 1 size-category larger or more to be safely Mountable, with creatures of equal-size being unsafe and requiring a Disadvantage Test at the start of each turn to remain Mounted or fall off them; any creature smaller than you is physically incapable of being Mountable unless they have a Trait that says otherwise.
 
-When riding a Mount at the start of combat, you and your mount share your Initiative together, but if you Mount an allied creature in-combat instead, their Initiative is brought up or down to yours whilst remaining 1 underneath your own when separated.
+When riding a Mount at the start of combat, you and your mount share your Initiative, but if you Mount an allied creature in-combat instead, their Initiative is temporarily brought up or down to yours.
 
 ### 1j: Experience Points
-Experience is gained gradually over the course of the campaign you'll be playing, but instead of a typical Level System most of you might be familiar with, instead this game uses a Point-Buy system, where you use the available given Experience to Buy aspects to your growth, such as more HP, new Proficiencies or Mastery over a Weapon you hold or have interest in, or more Traits.
+Experience is gained gradually over the course of the campaign , but instead of using a Level System, this game uses a Point-Buy system where you use the available EXP to Buy Traits, Proficiencies, HP, and other things that have an EXP cost.
 
 - +1 Max HP - 6 Experience Points
 - Proficiency or Mastery of a Weapon - 8 Experience Points
