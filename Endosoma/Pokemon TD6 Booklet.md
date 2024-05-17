@@ -80,6 +80,59 @@ Here is an extensive list of benefits and drawbacks a Pokemon has while out in c
 
   1 turn after the Shadow Pokemon's first turn, the Pokemon must roll a Disadvantage Test with success between 3-6; if it fails the Test, the Pokemon must flip a coin, with Head causing it to suffer the Hyper Condition which causes it to ignore Trainer commands and has a chance for it to lash out against its Trainer, whilst Tails causes it to suffer the Reverse Condition where it ignores its trainer and every turn it injures itself with Recoil Damage.
 - Only Anthropomorphic or Furryfied Pokemon are capable of naturally opening and throwing Pokeballs on their own with the understanding to release Pokemon from Pokeballs or catch other Pokemon with them. 
+# Trainer Overworld Mechanics
+Here's a list of actions performable by a Trainer outside of Combat:
+- Throw Pokeball (1 Action) - Pokeballs have different effects while trying to catch a Pokemon; throwing one must be done within 50ft, with any additional distance or obstacle lowering the Catch-Rate by 1 Category.
+
+# Pokeball Functions & Catch-Rates
+To catch a Pokemon, the Poke Ball must make contact with the Pokemon in some way either through rubbing off against them, bouncing off against them, or being pressed by them.
+
+All Tests made to catch a Pokemon are rolled at Disadvantage Naturally.
+
+Pokemon have 3 variables that affect their Capture Rate:
+- Pokemon Rarity - Normal Pokemon do not have any bonuses on Tests against being Caught, including Normal Pokemon with alternate formes; Alpha/Totem Pokemon gain +1 on Tests against being Caught; Psuedo Legendary Pokemon gain +1 on Tests against being Caught; Ultrabeasts gain +2 on Tests against being Caught whilst reducing almost all Tests made by other Pokeballs aside from Beast Balls by -2; Mythical Pokemon gain +3 on Tests against being Caught; Legendary Pokemon gain +4 on Tests against being Caught.
+- Stage of Evolution - Pokemon in their 1st Stage of Evolution require 1 Test in order to be caught; those in their 2nd Stage of Evolution require 2 Tests in order to be caught; those in their 3rd Stage of Evolution require 3 Tests in order to be caught; those with more than 3 Stages of Evolution require 4 Tests or more in order to be caught. 
+- Experience - Pokemon between 0-80 EXP have no bonuses on Tests against being caught; Pokemon between 81-120 EXP get +1 on Tests against being Caught; Pokemon between 121-160 get +2 on Tests against being Caught; every 40 EXP after 160 increases the required number of Tests to capture a Pokemon by +1.
+An example of how many Tests is required to catch a Pokemon: Legendary Pokemon with a 2nd-stage Evolution and 500 EXP requires 4+2+8 Tests in total to be caught.
+
+Pokemon can be called by their Trainer with 1 Action whilst returning with a Free Action, but can choose to resist being returned to their Poke Ball if they choose or evade the beam the ball emits.
+A Pokemon's Catch-Rate is not affected by the number of evasive boosts they have.
+Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemon of other kinds.
+
+- Pokeball - Baseline Poke Ball; makes 2 Tests when catching a Pokemon.
+- Great Ball - Upgraded Poke Ball; makes 4 Tests when catching a Pokemon.
+- Ultra Ball - Upgraded Ultra Ball; makes 6 Tests when catching a Pokemon.
+- Master Ball - The penultimate Poke Ball; catches all Pokemon with absolute guarantee. Does not guarantee being impervious to being destroyed. 
+- Fast Ball - Catches Fast/Fleeing Pokemon effectively; if a Pokemon was running away from Combat during the previous Round, or if they were planning on using Moves that aid in Moving themselves away from a Trainer, this Pokeball makes 8 tests against them; if a Pokemon has 20 or more Initiative, this Pokeball makes 8 Tests against them; these effects do not stack upon each other.
+- Level Ball - Your Pokemon's Experience affects the Catch-Rate; if your Pokemon's Experience is equal-to- or lower than the Opponent Pokemon's Experience, this ball makes 2 Tests against them; if your Pokemon's Experience is above your Opponent's but less than double the amount, this ball makes 4 Tests against them; if your Pokemon's Experience is more than double your Opponent's but less than quadruple (4x), this ball makes 8 Tests against them; if your Pokemon's Experience is equal to or more than 4 times your Opponent's, make 16 Tests against them.
+- Lure Ball - Makes fishing Pokemon easier; when catching a Pokemon Fishing, before, during, or after battle, this ball makes 8 Tests against them.
+- Heavy Ball - 
+- Love Ball - 
+- Friend Ball - 
+- Moon Ball - 
+- Net Ball - 
+- Dive Ball - 
+- Nest Ball - 
+- Repeat Ball - 
+- Timer Ball - 
+- Luxury Ball - 
+- Dusk Ball - 
+- Heal Ball - 
+- Quick Ball - 
+- Cherish Ball - 
+- Dream Ball - 
+- Beast Ball - 
+- Strange Ball - 
+- Pokeball (Hisui) - 
+- Great Ball (Hisui) - 
+- Ultra Ball (Hisui) - 
+- Feather Ball (Hisui) - 
+- Wing Bal (Hisui) - 
+- Jet Ball (Hisui) - 
+- Heavy Ball (Hisui) - 
+- Leaden Ball (Hisui) - 
+- Gigaton Ball (Hisui) - 
+- Origin Ball (Hisui) - 
 # Alternate Playstyles
 
 ## Pokemon Rangers
