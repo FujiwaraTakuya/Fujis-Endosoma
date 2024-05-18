@@ -13,7 +13,7 @@ share: true
 - ## Medium (4-8ft)
    - ### (Space: 5ft.; Natural Reach: 5ft; Weight: 60-500lbs.; HP: 6) 
 - ## Large (8-16ft)
-   - ### (Space: 10ftft.; Natural Reach: 10ft; Weight: 500-4000lbs.; HP: 7) 
+   - ### (Space: 10ft.; Natural Reach: 10ft; Weight: 500-4000lbs.; HP: 7) 
 - ## Huge (16-32ft)
    - ### (Space: 15ft.; Natural Reach: 15ft; Weight: 2-16 Tons; HP: 9) 
 - ## Gargantuan (32-64ft)
