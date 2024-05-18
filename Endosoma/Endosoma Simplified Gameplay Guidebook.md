@@ -53,7 +53,7 @@ Normally with the TD6 system, your Heritage is Racial and given to you with pre-
 After you've chosen your desired Heritage Trait, you put it into the Heritage section of your Character Sheet whilst also being able to use it as a form of Bio to explain your character's backstory and reasoning for their Trait.
 
 ### 1d: Picking your starting Traits
-If you're playing with the Vanilla TD6 system with pre-made species, you only insert the Traits given by them on the Race page. If you're making a custom race, your custom race will always have  3 Traits of your choice from the Trait List on page 33, 70, 74, 77, and 83 of the TD6 PDF.
+If you're playing with the Vanilla TD6 system with pre-made species, you only insert the Traits given by them on the Race page. If you're making a custom race, your custom race will always have  3 Traits of your choice from the Trait List on page 34, 70, 74, 77, and 83 of the TD6 PDF.
 
 These Traits once chosen are placed in the Trait-section of your character sheet for more obvious reading and understanding.
 
