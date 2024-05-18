@@ -46,7 +46,7 @@ In this game, Pokemon are born either Feral, Anthro, or Furryfied, but this Heri
 Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
 ## 2b: Choose a Pokemon Heritage Trait
 As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied; this Heritage Trait isn't named in the Heritage section. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it, and this is the Trait that is named in their Heritage section.
-## 2c: 
+## 2c: Pokemon Strengths and Weaknesses
 At the bottom of the Heritage Trait, you list your Pokemon's Strength's and Weaknesses to damage-types, like so:
 	Strengths: Fighting and Grass (x0.25), Poison, Bug, and Fairy (x0.5)
 	Weaknesses: Flying, Rock, Fire, and Psychic (x2)
@@ -55,6 +55,7 @@ If a Pokemon is currently a Shadow Pokemon, above the normal Typings for the Pok
 	 Strengths: All Types
 	 Weaknesses: None
 	 Shadow Points: 
+	 Read [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#) for more about Shadow Pokemon
 ## 2d: Add Pokemon Traits (Optional)
 Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
 ## 2e: Give your Pokemon its Moves
@@ -99,44 +100,63 @@ Pokemon can be called by their Trainer with 1 Action whilst returning with a Fre
 A Pokemon's Catch-Rate is not affected by the number of evasive boosts they have.
 Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemon of other kinds.
 
-- Pokeball - Baseline Poke Ball; makes 2 Tests when catching a Pokemon.
-- Great Ball - Upgraded Poke Ball; makes 4 Tests when catching a Pokemon.
-- Ultra Ball - Upgraded Ultra Ball; makes 6 Tests when catching a Pokemon.
-- Master Ball - The penultimate Poke Ball; catches all Pokemon with absolute guarantee. Does not guarantee being impervious to being destroyed. 
-- Fast Ball - Catches Fast/Fleeing Pokemon effectively; if a Pokemon was running away from Combat during the previous Round, or if they were planning on using Moves that aid in Moving themselves away from a Trainer, this Pokeball makes 8 tests against them; if a Pokemon has 20 or more Initiative, this Pokeball makes 8 Tests against them; these effects do not stack upon each other.
-- Level Ball - Your Pokemon's Experience affects the Catch-Rate; if your Pokemon's Experience is equal-to- or lower than the Opponent Pokemon's Experience, this ball makes 2 Tests against them; if your Pokemon's Experience is above your Opponent's but less than double the amount, this ball makes 4 Tests against them; if your Pokemon's Experience is more than double your Opponent's but less than quadruple (4x), this ball makes 8 Tests against them; if your Pokemon's Experience is equal to or more than 4 times your Opponent's, make 16 Tests against them.
+- **Pokeball** - Baseline Poke Ball; makes 2 Tests when catching a Pokemon.
+- **Great Ball** - Upgraded Poke Ball; makes 4 Tests when catching a Pokemon.
+- **Ultra Ball** - Upgraded Ultra Ball; makes 6 Tests when catching a Pokemon.
+- **Master Ball** - The penultimate Poke Ball; catches all Pokemon with absolute guarantee. Does not guarantee being impervious to being destroyed. 
+- **Fast Ball** - Catches Fast/Fleeing Pokemon effectively; if a Pokemon was running away from Combat during the previous Round, or if they were planning on using Moves that aid in Moving themselves away from a Trainer, this Pokeball makes 8 tests against them; if a Pokemon has 20 or more Initiative, this Pokeball makes 8 Tests against them; these effects do not stack upon each other.
+- **Level Ball** - Your Pokemon's Experience affects the Catch-Rate; if your Pokemon's Experience is equal-to- or lower than the Opponent Pokemon's Experience, this ball makes 2 Tests against them; if your Pokemon's Experience is above your Opponent's but less than double the amount, this ball makes 4 Tests against them; if your Pokemon's Experience is more than double your Opponent's but less than quadruple (4x), this ball makes 8 Tests against them; if your Pokemon's Experience is equal to or more than 4 times your Opponent's, make 16 Tests against them.
 - Lure Ball - Makes fishing Pokemon easier; when catching a Pokemon Fishing, before, during, or after battle, this ball makes 8 Tests against them.
-- Heavy Ball - Catches Heavy Pokemon with ease; Pokemon between 0-220.2lbs (99.9kg) have 1 Test made against them with this ball; Pokemon between 220.5-440.7lbs (100-199.9kg) have 2 Tests made against them with this ball; Pokemon between 440.9-661.2lbs (200-299.9kg) have 4 Tests made against them with this ball; Pokemon between 661.4+lbs (300+kg) have 5 Tests made against them with this ball.
-- Love Ball - Very good for capturing duplicates; if used on a Pokemon that's the same species as your active Pokemon, regardless of gender, this ball makes 16 Tests against them.
-- Friend Ball - Great way for making friends!; this ball helps convince the Pokemon that the Trainer is friendly, regardless if the Pokemon was caught or not, forcing them to make a Disadvantage Test to maintain or lower their Hostility towards the Trainer; all tests made with this Ball are only performed with 1 Test and can't be increased.
-- Moon Ball - Great for catching Moon Pokemon; Pokemon that evolve using a Moonstone are caught with 8 Tests with this Ball, otherwise only 2 Tests are made.
+- **Heavy Ball** - Catches Heavy Pokemon with ease; Pokemon between 0-220.2lbs (99.9kg) have 1 Test made against them with this ball; Pokemon between 220.5-440.7lbs (100-199.9kg) have 2 Tests made against them with this ball; Pokemon between 440.9-661.2lbs (200-299.9kg) have 4 Tests made against them with this ball; Pokemon between 661.4+lbs (300+kg) have 5 Tests made against them with this ball.
+- **Love Ball** - Very good for capturing duplicates; if used on a Pokemon that's the same species as your active Pokemon, regardless of gender, this ball makes 16 Tests against them.
+- **Friend Ball** - Great way for making friends!; this ball helps convince the Pokemon that the Trainer is friendly, regardless if the Pokemon was caught or not, forcing them to make a Disadvantage Test to maintain or lower their Hostility towards the Trainer; all tests made with this Ball are only performed with 1 Test and can't be increased.
+- **Moon Ball** - Great for catching Moon Pokemon; Pokemon that evolve using a Moonstone are caught with 8 Tests with this Ball, otherwise only 2 Tests are made.
 - Net Ball - Great Water/Bug catcher; this ball makes 7 Tests against Water and Bug-type Pokemon, whilst making 2 Tests against other types.
-- Dive Ball - Great underwater ball; makes 7 Tests against Pokemon that live in water, but if the ball's being thrown under Water, ignore any underwater penalties while throwing and this ball makes 14 Tests against Pokemon that live in water, otherwise this Ball only makes 2/4 Tests against Pokemon in these conditions. 
-- Nest Ball - Great at catching weaker Pokemon; this ball makes 10 Tests against Pokemon with 0 Experience; it makes 9 Tests against Pokemon with 1-4 experience; every multiple of 4 and lower afterwards lowers the number of Tests this Ball makes against Pokemon (e.g. 28 EXP = 3 Tests made).
-- Repeat Ball - Catching duplicate made easier; if a Pokemon is registered in a Trainer's own Pokedex, the ball makes 7 tests against them, otherwise they only make 2
-- Timer Ball - The patient one; starting at 0 Tests, each Round spent in Combat raises the number of Tests performable by the Ball by +0.8, maxing out at 8 Tests; only whole numbers are accepted, and decimals are ignored.
-- Luxury Ball - 
-- Dusk Ball - 
-- Heal Ball - 
-- Quick Ball - 
-- Cherish Ball - 
-- Dream Ball - 
-- Beast Ball - 
-- Strange Ball - 
-- Pokeball (Hisui) - 
-- Great Ball (Hisui) - 
-- Ultra Ball (Hisui) - 
-- Feather Ball (Hisui) - 
-- Wing Bal (Hisui) - 
-- Jet Ball (Hisui) - 
-- Heavy Ball (Hisui) - 
-- Leaden Ball (Hisui) - 
-- Gigaton Ball (Hisui) - 
-- Origin Ball (Hisui) - 
+- **Dive Ball** - Great underwater ball; makes 7 Tests against Pokemon that live in water, but if the ball's being thrown under Water, ignore any underwater penalties while throwing and this ball makes 14 Tests against Pokemon that live in water, otherwise this Ball only makes 2/4 Tests against Pokemon in these conditions. 
+- **Nest Ball** - Great at catching weaker Pokemon; this ball makes 10 Tests against Pokemon with 0 Experience; it makes 9 Tests against Pokemon with 1-4 experience; every multiple of 4 and lower afterwards lowers the number of Tests this Ball makes against Pokemon (e.g. 28 EXP = 3 Tests made).
+- **Repeat Ball** - Catching duplicate made easier; if a Pokemon is registered in a Trainer's own Pokedex, the ball makes 7 tests against them, otherwise they only make 2.
+- **Timer Ball** - The patient one; starting at 0 Tests, each Round spent in Combat raises the number of Tests performable by the Ball by +0.8, maxing out at 8 Tests; only whole numbers are accepted, and decimals are ignored.
+- **Luxury Ball** - The rich man/woman's Pokeball; Pokemon inside this ball are exposed to a life of luxury, doubling any friendship-gain with their Trainer, only allows 2 Tests on a catch; a full team of 6 in Luxury Balls is a show of wealth.
+- **Premier Ball** - And you get a Pokeball-; gain 1 for every 10 Pokeballs of any kind that you buy in bulk, acts like a normal Pokeball, just with a different design; nothing special.
+- **Dusk Ball** - The Darkness is yours to capture; this ball deals 6 Tests against Pokemon in caves or at night, otherwise they do 2 Tests.
+- **Heal Ball** - Share the care; Pokemon first caught by this Pokeball, this ball only doing 2 Tests, fully heals the Pokemon whilst removing Status Conditions; outside of Combat, Pokemon heal 1+(1 per 100 EXP the Pokemon has) per hour.
+- **Quick Ball** - THINK FAST CHUCKLENUTS-; when used against a Pokemon on the first Round and Turn of Combat, this ball makes 10 Tests against them.
+- **Cherish Ball** - Who...made this?; normally an unobtainable Pokeball with unknown origin, this ball seems to usually contain special gifts or special Pokemon inside them. Who left them there? Nobody knows, but as far as any studies are aware, they have the same capture strength as the common Pokeball.
+- **Dream Ball** - Let's make our dreams come true; this ball makes 8 Tests against Pokemon that are Sleeping, otherwise they only make 2 Tests.
+- **Beast Ball** - Ult-Roger!; this ball makes 10 Tests against Ultrabeasts, whilst making 2 Test worth 0.1 against non-Ultrabeasts, theoretically meaning you could capture a Pokemon with enough Beast Balls.
+- **Strange Ball** - 
+- **Pokeball (Hisui)** - The first of many; an ancient Pokeball design, this Ball makes 1 Test against Pokemon.
+- **Great Ball (Hisui)** - The second iteration; this Ball makes 4 Tests against Pokemon.
+- **Ultra Ball (Hisui)** -  The third design; this Ball makes 7 Tests against Pokemon, but can only be thrown to hit with a Standard Test or lower due to its design.
+- **Feather Ball (Hisui)** - Take to the skies and claim it; can be thrown 30+ft further, makes 2 Tests against non-flying Pokemon whilst making 3 Tests against flying Pokemon.
+- **Wing Bal (Hisui)** - The clouds seem closer than before; can be thrown 60+ft further, makes 3 Tests against non-flying Pokemon whilst making 4 Tests against flying Pokemon.
+- **Jet Ball (Hisui)** - Let's reach for the Heavens!; can be thrown 90+ft further, makes 4 Tests against non-flying Pokemon whilst making 6 Tests against flying Pokemon.
+- **Heavy Ball (Hisui)** - These balls pack a punch; this ball can only be thrown from 25ft away, and only does 2 Tests against Pokemon, but when thrown at the Back of a Pokemon it instead does 3 Tests instead.
+- **Leaden Ball (Hisui)** - This could crack floors if dropped high enough; this ball can only be thrown from 20ft away, and only does 3 Tests against Pokemon, but when thrown at the Back of a Pokemon it instead does 4 Tests instead.
+- **Gigaton Ball (Hisui)** - Ignore the fact that a 10 year-old can lift and throw this with ease; this ball can only be thrown from 15ft away, and only does 5 Tests against Pokemon, but when thrown at the Back of a Pokemon it instead does 6 Tests instead.
+- **Origin Ball (Hisui)** - The Legendary Ball, catcher of Origin Forme Dialga or Palkia, this ancient ball appears to only be designed to capture and tame the rogue Legendaries when their quarrels begin to bring about the end of all time and reality.
 # Alternate Playstyles
 
 ## Pokemon Rangers
+A Protector of wild Pokemon, they guard Pokemon from Poachers and evil beings from interfering with nature whilst calming and defeating Pokemon who cause trouble to mankind.
+Pokemon Rangers are only allowed to have 1 Pokemon out with them at a time, who's considered their Partner Pokemon, and can imbue their Stylus with energy from an energy-Typing from their Move to befriend Pokemon more easily like normal Type-Weaknesses and strengths.
+Pokemon Rangers get access to a unique 'Weapon' called a Stylus; a special tool for temporarily capturing Pokemon with the bonds of friendship and commanding them to perform actions for the Trainer in their time of need before releasing them back to the wild; this tool can free mind-controlled Pokemon temporarily or cause a Trainer's Pokemon to run away for 5 minutes. A Ranger's Stylus can be upgraded with material upgrades costing money, but have an EXP requirement before they can be upgraded to capture a Pokemon more-easily. A Stylus at its base has 5 HP, attacks made against it are made at Disadvantage, and they can automatically Dodge attacks and Moves with Standard Tests whilst moving.
+When trying to befriend a Pokemon with a Stylus, make 3 Disadvantage Tests, with each successful Test adding 1 stack of Pokemon Ranger's Bond; a Pokemon with below 40 EXP requires 3 successful Tests to be caught; the number of Tests needed to befriend a Pokemon increases by +1 per 40 EXP the Pokemon has. 
+Befriending is not the same as Catching Pokemon, and does not help you Catch a Pokemon later on with a Pokeball.
 
 ## Pokken Fighter
-
+*Special crystals were found that empower the bond between a Trainer and their Pokemon. This Bond allows them to connect with their Pokemon on a deeper level, and achieve combat-tactics uncommon to most Trainers.*
+Pokemon and Trainer only play in Command Mode, and the Trainer cannot Attack or use Items to aid their Pokemon, only evade danger and use items upon themselves. In exchange for this fighting style, Pokken Pokemon gain the Combo Mastery; their first non-move Attack is rolled at Advantage, when a Pokemon rolls a 6 on their Attack/Move roll, they may choose to opt to perform another Attack/Move to continue their 'Combo' whilst dealing 1 less damage for each Move they use in their Combos to a minimum of 1; each Attack/Move after the 1st is rolled at -1 Category on Tests to Hit, down to a minimum of Disadvantage Tests with successes on only 6s. Combo attacks do not consume additional Actions.
+Accuracy Buffs and Debuffs do not affect a Pokken Pokemon's Moves or Attacks chances to hit.
+Pokken Pokemon also gain unique non-Move Attacks for the sake of Combo Mastery; they have different functions, but most do the same amount of damage based off of the Pokemon's Base Damage:
+- Jab - A quick attack, rolled with Advantage Test on Action 1.
+- Low - A fast attack that disables Dodging for 1 Round, rolled with Standard Test on Action 1.
+- Uppercut/Anti-Air - A predictive slow attack that knocks enemies airborne, rolled with Disadvantage Test on Action 1; is rolled with Advantage instead if used during a Clash and the enemy doesn't use an Attack/Move that attacks from the ground/below, is using an Aerial, or is Flying.
+- Aerial - Jump and inflict a stunning blow from above, rolled with Disadvantage on Action 1; rolled with Advantage instead if used during a Clash and the enemy uses a Low, or rolled with Standard if the enemy uses a Jab.
+- Slams - A slow but hard-hitting attack that hits and bounces an enemy onto the ground, leaving them airborne for a few moments, rolled with Disadvantage on Action 1 and deals +1 damage.
+- Sweep - Hit 'em hard and low to knock them into Prone, rolled with Standard on Action 1; does not Combo into other Attacks, but Combos from Slams and Floor Throws.
+- Grapple - Make a fast but obvious grapple on an enemy with 2 Disadvantage Tests; on first success, deals Damage, then 2nd success throws the Target in a direction of choice, otherwise only pushes an enemy back 5ft.
+Pokken Pokemon also gain a Mechanic called The Synergy Gauge; a 100-Point Gauge, taking damage, and half of damage dealt to other Pokemon fills up this gauge until it reaches its peak. This Gauge can be activated once full, and can be activated outside of your turn as a Free Action to enhance your Damage by 1.5x, whilst reducing damage taken by 0.75x; during activation, it'll ignore 1 Attack/Move aimed at the user and protect them from harm until the end of the transformation. The Transformation lasts for 20 Rounds, using Attacks and Moves while in this state reduce the number of Rounds left by -1, whilst taking damage reduces the number of Rounds by -2. 
 ## Hisuian-Style Trainer
+*An old form of live, Hisuian Trainers way of life was constantly under threat of aggressive Pokemon because they feared them as beasts; future generations no-longer have this fear, but they they've managed to maintain their traditions with their equipment.*
+Hisuian-Style Trainers can craft Hisuian-specific gear, make Stealth Checks at Standard, and gains a 2x Bonus on Pokeball Tests when throwing a Hisui-made Pokeball at Pokemon who haven't noticed the Player from Stealth. Hisuian-Style Trainers also gain a +1 Category Bonus when Dodging Pokemon Moves.
