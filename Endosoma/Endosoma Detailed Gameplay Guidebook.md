@@ -56,7 +56,7 @@ If you want a different Trait that isn't listed on the Trait listing, feel free 
 After you've chosen your desired Heritage Trait, you put it into the Heritage section of your Character Sheet whilst also being able to use it as a form of Bio to explain your character's backstory and reasoning for their Trait.
 
 ### 1d: Picking your starting Traits
-If you're playing with the Vanilla TD6 system with pre-made species, you usually don't pick a Trait at the start of the game unless the DM allows you a singular Trait for character creation. If you're making a custom race for your character, your custom race will always be given 3 Traits to define themselves with from the Trait List on page 33, 70, 74, 77, and 83 of the TD6 PDF.
+If you're playing with the Vanilla TD6 system with pre-made species, you usually don't pick a Trait at the start of the game unless the DM allows you a singular Trait for character creation. If you're making a custom race for your character, your custom race will always be given 3 Traits to define themselves with from the Trait List on page 34, 70, 74, 77, and 83 of the TD6 PDF.
 
 These Traits once chosen are placed in the Trait-section of your character sheet for more obvious reading and understanding.
 
