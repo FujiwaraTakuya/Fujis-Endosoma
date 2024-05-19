@@ -102,7 +102,7 @@ These steps come after creating your Character with the TD6 System up above.
 ### 2a: Endosoma's Class System
 Endosoma enables players to feel unique and interesting by giving them the ability to Tri-Multiclass from a massive list of classes, subclasses, and different Traits which can affect their abilities in gameplay while attempting to make any classes played feel valued and enjoyable.
 
-Players choose a Primary Class to play with from the [Classes](Classes.md#) page of the Endosoma Content, but as they play more of the game, they can spend their EXP to gain a Secondary and Tertiary Class; when spending Experience for new Traits, Secondary Classes require 1.5x the EXP cost to gain new Traits, while Tertiary Classes require 2x the EXP cost. Outside of these costs, not much from the classes are inhibited, and be wary these Traits can cost more than non-Endosoma Traits.
+Players choose a Primary Class to play with from the [Endosoma TD6 Classes](Endosoma%20TD6%20Classes.md#) page of the Endosoma Content, but as they play more of the game, they can spend their EXP to gain a Secondary and Tertiary Class; when spending Experience for new Traits, Secondary Classes require 1.5x the EXP cost to gain new Traits, while Tertiary Classes require 2x the EXP cost. Outside of these costs, not much from the classes are inhibited, and be wary these Traits can cost more than non-Endosoma Traits.
 
 At the start of the game, each Class comes with their own Class Ability that comes free with choosing a Class, and 1 free Class Trait that the Player can take with the Class, but any additional Class Traits require EXP in to gain more Traits.
 

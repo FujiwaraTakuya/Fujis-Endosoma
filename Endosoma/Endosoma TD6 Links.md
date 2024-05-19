@@ -3,15 +3,15 @@ share: true
 ---
 #Endosoma #TinyDungeons6 #Digimon #Pokemon 
 Here's the giant list of links related to TD6, Endosoma, and other TD6-related projects by Fujiwara Takuya
-- [Bestiary](Bestiary.md#)
+- [Endosoma TD6 Bestiary](Endosoma%20TD6%20Bestiary.md#)
 
-- [Classes](Classes.md#)
+- [Endosoma TD6 Classes](Endosoma%20TD6%20Classes.md#)
 
 - [Digimon Attacks](Digimon%20Attacks.md#)
 
 - [Digimon Booklet](Digimon%20Booklet.md#)
 
-- [Equipment](Equipment.md#)
+- [Endosoma TD6 Equipment](Endosoma%20TD6%20Equipment.md#)
 
 - [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#)
 
@@ -33,7 +33,7 @@ Here's the giant list of links related to TD6, Endosoma, and other TD6-related p
 
 - [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#)
 
-- [Quest List](Quest%20List.md#)
+- [Endosoma TD6 Quest List](Endosoma%20TD6%20Quest%20List.md#)
 
 - Tiny Dungeons Rulebook (https://drive.google.com/file/d/1xg0bx2-zdZa7hcUbpMyGUYXD4HwMaWXA/view?usp=sharing)
 - 

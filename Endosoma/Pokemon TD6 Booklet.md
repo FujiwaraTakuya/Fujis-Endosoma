@@ -4,6 +4,7 @@ share: true
 #Pokemon #TinyDungeons6 
 This is a booklet explaining on how to play as a Pokemon or Pokemon Trainer in the TTRPG system Tiny Dungeons 2; related pages: [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md#), [Endosoma TD6 Links](Endosoma%20TD6%20Links.md#)
 
+# 
 # Trainer Creation
 If you're planning on playing as JUST a Trainer, you create your Character like normal through the Tiny Dungeons system, but you also gain access to Trainer-only Traits, can add a Starter Pokemon from the list available below (or wait until they find their first Catch of choice through wild encounters) to their Character Sheet in their Inventory-Section as (-Pokeball name-:-Pokemon Name-) before giving the Pokemon themselves a Character Sheet.
 ## 1a: Create your Trainer
