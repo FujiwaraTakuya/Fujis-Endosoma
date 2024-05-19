@@ -26,7 +26,36 @@ Endosoma is an Open World TTRPG System that can work for a Traditional D&D campa
 The main features include exploring an expansive world, TONS of side quests varying in length and difficulty, worthwhile and constant experience gain, and a near-endless exploration of an ever-growing world born from...something.
 
 Vore is optional, you can gain pets, create your own weapons, armour, and equipment, enchant your gear, create jobs and/or buildings, become a Hero, become a Villain, and more! All you need to do is ask, and hope the DM is alright with it.
+## Common Questions (If you don't read the TD6 Rulebook)
 
+### What's a Test?
+It's a form of Dice Roll; when asked to roll a Disadvantage, Standard, or Advantage Test, you're being asked to roll 1/2/3d6.
+
+To succeed on a Test, you must roll a 5 or 6 on a d6 dice, and you only need 1 successful dice to succeed on a roll, so the more dice you have, the easier it becomes to succeed on a Test.
+
+Here's the list of common Tests that can be asked of you:
+- Disadvantage with success only on 6s (1d6)
+- Disadvantage (1d6)
+- Standard (2d6)
+- Advantage (3d6)
+- Advantage with success on 4, 5, and 6s (3d6)
+
+If a Gameplay Mechanic asks you to perform a Test with no Category (i.e. Disadvantage, Standard, Advantage, etc.), there's probably a section of the booklet/guidebook that you didn't read beforehand (E.g. [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#) Pokeball and Catching Mechanic)
+
+### How do I do (Specific Action/Set of Actions)?
+Ask your DM base on their size, physique, abilities, and strength if they're capable of performing certain actions, and if they say yes, they'll more than likely ask you to make corresponding Tests to act upon them.
+### Am I that weak in this game?
+Most weapons aside from Heavy Weapons deal 1 Damage in the base-game of TD6; hordes can be scary to deal with, which is why some roll the dice to use an Action to Dodge attacks. You don't automatically guard or evade attacks that are thrown at you, so keep that in mind when you remain in another enemy's attack-range.
+
+Most base-stats in TD6 are small in number, so the length of encounters are if you manage to roll successful dice rolls; Endosoma intends to add more Trait options and equipment to increase base-damage for common attacks.
+### Are there any limitations?
+It's recommended that Players play a Large or smaller character for the sake of intractability with the world and people; hard to enter and speak to a person privately when you're the size of a building.
+
+Other than that, usually enough of the Rulebook and Guidebook tells you what is and isn't allowed through Character Creation, meaning you can also be pure good, or pure evil if you wished. Depends on what kind of campaign the DM wishes to hold.
+### What's the draw of this game?
+Tiny Dungeon's draw is its simplicity as a TTRPG.
+
+Endosoma intends to add more complex ideas to that simplicity to add more contrasting interactions and create senses of power and progression. For the most part, it wishes to incentivise creativity, experimentation, and personal touches that matter not in the grand-scheme.
 # Character Creation Simplified
 
 This guide mainly covers Vanilla and Endosoma Character Creation, which is done in 2 parts, starting with Vanilla Character Creation before moving on to Endosoma content.
@@ -48,7 +77,7 @@ Once you've selected a Size for your character, you'll want to copy the followin
 	Size (Height, Weight, HP)
 
 ### 1c: Picking your Heritage
-Normally with the TD6 system, your Heritage is Racial and given to you with pre-made races, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
+Think of a Heritage as a natural ability of all of the chosen species a player/character has chosen to play as; normally with the TD6 system, your Heritage is Racial and given to you with pre-made races, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
 
 After you've chosen your desired Heritage Trait, you put it into the Heritage section of your Character Sheet whilst also being able to use it as a form of Bio to explain your character's backstory and reasoning for their Trait.
 
