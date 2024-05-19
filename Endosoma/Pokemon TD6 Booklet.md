@@ -82,9 +82,6 @@ Here is an extensive list of benefits and drawbacks a Pokemon has while out in c
 
   1 turn after the Shadow Pokemon's first turn, the Pokemon must roll a Disadvantage Test with success between 3-6; if it fails the Test, the Pokemon must flip a coin, with Head causing it to suffer the Hyper Condition which causes it to ignore Trainer commands and has a chance for it to lash out against its Trainer, whilst Tails causes it to suffer the Reverse Condition where it ignores its trainer and every turn it injures itself with Recoil Damage.
 - Only Anthropomorphic or Furryfied Pokemon are capable of naturally opening and throwing Pokeballs on their own with the understanding to release Pokemon from Pokeballs or catch other Pokemon with them. 
-# Trainer Overworld Mechanics
-Here's a list of actions performable by a Trainer outside of Combat:
-- Throw Pokeball (1 Action) - Pokeballs have different effects while trying to catch a Pokemon; throwing one must be done within 50ft, with any additional distance or obstacle lowering the Catch-Rate by 1 Category.
 
 # Pokeball Functions & Catch-Rates
 To catch a Pokemon, the Poke Ball must make contact with the Pokemon in some way either through rubbing off against them, bouncing off against them, or being pressed by them.
@@ -125,7 +122,7 @@ Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemo
 - **Cherish Ball** - Who...made this?; normally an unobtainable Pokeball with unknown origin, this ball seems to usually contain special gifts or special Pokemon inside them. Who left them there? Nobody knows, but as far as any studies are aware, they have the same capture strength as the common Pokeball.
 - **Dream Ball** - Let's make our dreams come true; this ball makes 8 Tests against Pokemon that are Sleeping, otherwise they only make 2 Tests.
 - **Beast Ball** - Ult-Roger!; this ball makes 10 Tests against Ultrabeasts, whilst making 2 Test worth 0.1 against non-Ultrabeasts, theoretically meaning you could capture a Pokemon with enough Beast Balls.
-- **Strange Ball** - 
+- **Strange Ball** - Strange metamorphosis through history; when a Pokemon captured from the Past or Future with ancient or future technology travels back to the present, the ball transforms into this strange ball and appears to maintain this form even with the Pokemon released; it appears to only make 2 Tests against Pokemon like a common Pokeball. 
 - **Pokeball (Hisui)** - The first of many; an ancient Pokeball design, this Ball makes 1 Test against Pokemon.
 - **Great Ball (Hisui)** - The second iteration; this Ball makes 4 Tests against Pokemon.
 - **Ultra Ball (Hisui)** -  The third design; this Ball makes 7 Tests against Pokemon, but can only be thrown to hit with a Standard Test or lower due to its design.
@@ -136,6 +133,32 @@ Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemo
 - **Leaden Ball (Hisui)** - This could crack floors if dropped high enough; this ball can only be thrown from 20ft away, and only does 3 Tests against Pokemon, but when thrown at the Back of a Pokemon it instead does 4 Tests instead.
 - **Gigaton Ball (Hisui)** - Ignore the fact that a 10 year-old can lift and throw this with ease; this ball can only be thrown from 15ft away, and only does 5 Tests against Pokemon, but when thrown at the Back of a Pokemon it instead does 6 Tests instead.
 - **Origin Ball (Hisui)** - The Legendary Ball, catcher of Origin Forme Dialga or Palkia, this ancient ball appears to only be designed to capture and tame the rogue Legendaries when their quarrels begin to bring about the end of all time and reality.
+
+# Items & Held Items
+Have a giant list of Items from the games with listings:
+## Trainer Items
+### Escape Items
+- Poke Doll - The oldest escape tool; roll an Advantage Test to distract a group of Pokemon from combat and allow the party to escape an Encounter. Tests at Disadvantage against Trainers' Pokemon and Powerful Pokemon
+- Fluffy Tail - Wiggle-waggles, bounces, and jumps up!; roll a Standard Test to distract a group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against small Pokemon, whilst Testing at Disadvantage against larger Pokemon.
+- Poke Toy - Poofy and flows curiously; roll a Standard Test to distract a Group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against Feline Pokemon. Can also be used in Combat to distract all Pokemon in line-of-sight with a Disadvantage Test, whilst they make a Standard Test to resist, or focus their attacks at the user for 1 Turn.
+### Evolution Items
+### Valuables & Exchange Items
+### Flutes
+### Fossils
+### Repels
+### Scents
+
+
+## Held Items
+### Incense
+### Gems
+### Choice Items
+### Power Items
+### Scarves
+### Mega Stones
+### Plates
+### Drives
+### Memories
 # Alternate Playstyles
 
 ## Pokemon Rangers

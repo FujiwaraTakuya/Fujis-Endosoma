@@ -28,6 +28,11 @@ The main features include exploring an expansive world, TONS of side quests vary
 
 Vore is optional, you can gain pets, create your own weapons, armour, and equipment, enchant your gear, create jobs and/or buildings, become a Hero, become a Villain, and more! All you need to do is ask, and hope the DM is alright with it.
 
+## Common Questions (If you don't read the TD6 Rulebook)
+
+### What's a Test?
+It's a form of Dice Roll; 
+
 # Character Creation Simplified
 
 This guide mainly covers Vanilla and Endosoma Character Creation, which is done in 2 parts, starting with Vanilla Character Creation before moving on to Endosoma content.
@@ -49,7 +54,7 @@ Once you've selected a Size for your character, you'll want to copy the followin
 Size (Height, Weight, HP)
 
 ### 1c: Picking your Heritage
-Normally, with the TD6 system, your Heritage is the same as selecting your Race in normal TTRPGs which also entitle you to to certain Racial Traits, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
+Think of a Heritage as a natural ability of all of the chosen species a player/character has chosen to play as; normally with the TD6 system, your Heritage is Racial and given to you with pre-made races, but if you're making a custom character (and most likely you are), the Heritage section allows you to choose one pre-existing Trait available within the TD6 Booklet's Trait List.
 
 If you want a different Trait that isn't listed on the Trait listing, feel free to check the [Endosoma TD6 Trait Listing](Endosoma%20TD6%20Trait%20Listing.md#); if you want a custom Heritage Trait, discuss the engagement and function with your DM.
 
