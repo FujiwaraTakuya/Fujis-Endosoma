@@ -83,6 +83,15 @@ Here is an extensive list of benefits and drawbacks a Pokemon has while out in c
   1 turn after the Shadow Pokemon's first turn, the Pokemon must roll a Disadvantage Test with success between 3-6; if it fails the Test, the Pokemon must flip a coin, with Head causing it to suffer the Hyper Condition which causes it to ignore Trainer commands and has a chance for it to lash out against its Trainer, whilst Tails causes it to suffer the Reverse Condition where it ignores its trainer and every turn it injures itself with Recoil Damage.
 - Only Anthropomorphic or Furryfied Pokemon are capable of naturally opening and throwing Pokeballs on their own with the understanding to release Pokemon from Pokeballs or catch other Pokemon with them. 
 
+# CR Actions
+Fuji's Pokemon System for TD6 has a special Mechanic for combat called CR Actions (Call & Response).
+
+During Combat, a Pokemon or Trainer can forego using their Action to attack to consume it and gain a CR Action; when an enemy Pokemon uses a Move to attack your Pokemon, consuming your CR Action will allow your Pokemon to use a Move to counter an in-coming Move with 1 of 4 outcomes:
+- Counter - Attack the enemy Target while negating their Move with a d6 duel, best of 3, with higher numbers winning, and the winner of the duel succeeding their previous Test or making their their Test to hit; if the outcome is a draw, both attacks aren't negated and the damage is halved to a minimum of 1.
+- Block - The Defender braces and guards against the attack, reducing by 0.25x the amount with a minimum of 1; if the Move is Super Effective against the Defender the amount is reduced by 0.4x instead; if the Move is Not Effective against the Defender the amount is reduced by 0.2x instead.
+- Dodge - The Defender makes a Disadvantage Test + 1 Disadvantage Test per hit multi-hit Moves would land to evade the attack, before choosing to either move or use a Move to retaliate against their Attacker, with the Attacker being unable to Attack back if they choose the Dodge maneuver.
+- Clash - Risking taking more damage, the Defender clashes Moves against their Attacker (still needing to make an Attack Test to hit) before both combatants perform a Disadvantage Test to see if their attack is still succeeding. The loser of the Clash can make a Disadvantage Test to barely scrape past the Winner's attack then attempt to perform a Counter, Block, or Dodge, but failure results them in taking 1.5x more damage than they would've from taking the hit normally. Successfully Blocking a Clash reduces the damage by 0.5x. Successfully landing a Counter increases the damage the Winner will take by 2x.
+Read [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#) for more details.
 # Pokeball Functions & Catch-Rates
 To catch a Pokemon, the Poke Ball must make contact with the Pokemon in some way either through rubbing off against them, bouncing off against them, or being pressed by them.
 
