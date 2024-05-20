@@ -151,23 +151,477 @@ Have a giant list of Items from the games with listings:
 - Fluffy Tail - Wiggle-waggles, bounces, and jumps up!; roll a Standard Test to distract a group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against small Pokemon, whilst Testing at Disadvantage against larger Pokemon.
 - Poke Toy - Poofy and flows curiously; roll a Standard Test to distract a Group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against Feline Pokemon. Can also be used in Combat to distract all Pokemon in line-of-sight with a Disadvantage Test, whilst they make a Standard Test to resist, or focus their attacks at the user for 1 Turn.
 ### Evolution Items
-### Valuables & Exchange Items
-### Flutes
-### Fossils
-### Repels
-### Scents
+#### Direct use
+##### Non-Stones
+- Black Augurite - 
+- Chipped Pot - 
+- Cracked Pot - 
+- Galarica Cuff - 
+- Peat Block - 
+- Sweet Apple - 
+- Tart Apple - 
+- Auspicious Armor - 
+- Malicious Armor - 
+- Masterpiece Teacup - 
+- Metal Alloy - 
+- Scroll of Darkness - 
+- Scroll of Waters - 
+- Syrupy Apple - 
+- Unremarkable Teacup - 
+##### Stones
+- Fire Stone - 
+- Water Stone - 
+- Thunder Stone - 
+- Leaf Stone - 
+- Moon Stone - 
+- Sun Stone - 
+- Shiny Stone - 
+- Dusk Stone - 
+- Dawn Stone - 
+- Ice Stone - 
+##### Battle Items
+X Attack
+X Defense
+X Sp. Atk
+X Sp. Def
+X Speed
+X Accuracy
+X Dire Hit
+Guard Spec.
+##### Medicine
+###### Healing
+Potion
+Super Potion
+Hyper Potion
+Fresh Water
+Lemonade
+Max Honey
+Moomoo Milk
+Rage Candy Bar
+Soda Pop
+Sweet Heart
+###### Status Healing
+Antidote
+Awakening
+Burn Heal
+Full Heal
+Full Restore
+Ice Heal
+Max Revive
+Paralyze Heal
+Poke Flute
+Revive
+Old Gateau
+Casteliacone
+Lumiose Galette
+Shalour Sable
+Big Malasada
+Pewter Crunchies
+###### Revival Items
+Revive
+Max Revive
+Sacred Ash
+###### Vitamins and Feathers
+HP Up
+Protein
+Iron
+Calcium
+Zinc
+Carbos
+Health Feather
+Muscle Feather
+Resist Feather
+Genius Feather
+Clever Feather
+Swift Feather
+Pretty Feather
+###### Herbal Medicine
+Heal Powder
+Energy Powder
+Energy Root
+Revival Herm
+Remedy
+Fine Remedy
+Superb Remedy
+###### Ability Capsules
+Ability Capsule
+##### Berries
+Cheri Berry - 
+Chesto Berry - 
+Pecha Berry - 
+Rawst Berry - 
+Aspear Berry - 
+Leppa Berry - 
+Oran Berry - 
+Persim Berry - 
+Lum Berry - 
+Sitrus Berry - 
+Figy Berry - 
+Wiki Berry - 
+Mago Berry - 
+Aguav Berry - 
+Iapapa Berry - 
+Razz Berry - 
+Bluk Berry - 
+Nanab Berry - 
+Wepear Berry - 
+Pinap  Berry - 
+Pomeg Berry - 
+Kelpsy Berry - 
+Qualot Berry - 
+Hondew Berry - 
+Grepa Berry - 
+Tamato Berry - 
+Cornn Berry - 
+Magost Berry - 
+Rabuta Berry - 
+Nomel Berry - 
+Spelon Berry - 
+Pamtre Berry - 
+Watmel Berry - 
+Durin Berry - 
+Belue Berry - 
+Occa Berry - 
+Passho Berry - 
+Wacan Berry - 
+Rindo Berry - 
+Yache Berry - 
+Chople Berry - 
+Kebia Berry - 
+Shuca Berry - 
+Coba Berry - 
+Payapa Berry - 
+Tanga Berry - 
+Charti Berry - 
+Kasib Berry - 
+Haban Berry - 
+Colbur Berry - 
+Babiri Berry - 
+Chilan Berry - 
+Liechi Berry - 
+Ganlon Berry - 
+Salac Berry - 
+Petaya Berry - 
+Apicot Berry - 
+Lansat Berry - 
+Starf Berry - 
+Enigma Berry - 
+Micle Berry - 
+Custap Berry - 
+Jaboca Berry - 
+Rowap Berry - 
+Roseli Berry - 
+Kee Berry - 
+Maranga Berry - 
+Hopo Berry - 
 
+#### Held
+- Deep Sea Scale - 
+- Deep Sea Tooth - 
+- Dragon Scale - 
+- Dubious Disc - 
+- Electirizer - 
+- King's Rock - 
+- Magmarizer - 
+- Metal Coat - 
+- Oval Stonev
+- Prism Scale - 
+- Protector - 
+- Razor Claw - 
+- Razor Fang - 
+- Reaper Cloth - 
+- Sachet - 
+- Upgrade - 
+- Whipped Dream - 
+- Strawberry Sweet - 
+- Love Sweet - 
+- Berry Sweet - 
+- Clover Sweet - 
+- Flower Sweet - 
+- Star Sweet - 
+- Ribbon Sweet - 
+##### Valuables & Exchange Items
+- Nugget - 
+- Big Mushroom - 
+- Big Pearl - 
+- Brick Piece (Unpurchasable) - 
+- Gold Leaf (Unpurchasable) - 
+- Pearl - 
+- Silver Leaf (Unpurchasable) - 
+- Slowpoke Tail (Unpurchasable) - 
+- Star Piece - 
+- Stardust - 
+- Tiny Mushroom - 
+- Blue Shard - 
+- Green Shard - 
+- Red Shard - 
+- Shoal Salt - 
+- Shoal Shell - 
+- Yellow Shard - 
+- Rare Bone - 
+- Balm Mushroom - 
+- Big Nugget - 
+- Comet Shard - 
+- Relic Gold (Unpurchasable) - 
+- Strange Souvenir - 
+- Beach Glass - 
+- Chalky Stone - 
+- Lone Earring - 
+- Marble - 
+- Polished Mud Ball (Unpurchasable) - 
+- Stretchy Spring - 
+- Tropical Shell - 
+- Tiny Bamboo Shoot - 
+- Big Bamboo Shoot - 
+- Red Apricot (Unpurchasable) - 
+- Blue Apricot (Unpurchasable) - 
+- Yellow Apricot (Unpurchasable) - 
+- Black Apricot (Unpurchasable) - 
+- Green Apricot (Unpurchasable) - 
+- Pink Apricot (Unpurchasable) - 
+- White Apricot (Unpurchasable) - 
+- Pass Orbs (Unpurchasable) - 
+- Bottle Caps (Unpurchasable) - 
+- Galarica Twigs (Unpurchasable) - 
+- Armorite Ore (Unpurchasable) - 
+- Dynite Ore (Unpurchasable) - 
+##### Flutes
+- Blue Flute - 
+- Yellow Flute - 
+- Red Flute - 
+- Black Flute - 
+- White Flute - 
+##### Fossils
+- Helix Fossil - 
+- Dome Fossil - 
+- Old Amber - 
+- Root Fossil - 
+- Claw Fossil - 
+- Skull Fossil - 
+- Armor Fossil - 
+- Cover Fossil - 
+- Plume Fossil - 
+- Jaw Fossil - 
+- Sail Fossil - 
+- Bird Fossil - 
+- Fish Fossil - 
+- Drake Fossil - 
+- Dino Fossil - 
+##### Repels
+- Repel - 
+- Super Repel - 
+- Max Repel - 
+##### Scents
+- Joy Scent - 
+- Excite Scent - 
+- Vivid Scent - 
 
 ## Held Items
+### Human Items
+#### Bikes
+Bicycle - 
+Acro Bike - 
+Mach Bike - 
+Rotom Bike - 
+#### Fishing Rods
+Old Rod - 
+Fishing Rod - 
+Good Rod - 
+Super Rod - 
+#### Cases
+Coin Case - 
+Pokeblock Case - 
+Poffin Case - 
+Fashion Case - 
+Lens Case - 
+Seal Case - 
+Prop Case - 
+Cologne Case - 
+Disc Case - 
+Voice Case - 
+Gorgeous Box - 
+Apricorn Box - 
+Medal Box - 
 ### Incense
+Full Incense - 
+Lax Incense - 
+Luck Incense - 
+Odd Incense - 
+Pure Incense - 
+Rock Incense - 
+Rose Incense - 
+Sea Incense - 
+Wave incense - 
 ### Gems
+Fire Gem - 
+Water Gem - 
+Electric Gem - 
+Grass Gem - 
+Ice Gem - 
+Fighting Gem - 
+Poison Gem - 
+Ground Gem - 
+Flying Gem - 
+Psychic Gem - 
+Bug Gem - 
+Rock Gem - 
+Ghost Gem - 
+Dragon Gem - 
+Dark Gem - 
+Steel Gem - 
+Normal Gem - 
+Fairy Gem - 
 ### Choice Items
+Choice Band - 
+Choice Scarf - 
+Choice Specs - 
 ### Power Items
+Power Anklet - 
+Power Band - 
+Power Belt - 
+Power Bracer - 
+Power Lens - 
+Power Weight - 
 ### Scarves
-### Mega Stones
+Red Scarf - 
+Blue Scarf - 
+Pink Scarf - 
+Green Scarf - 
+Yellow Scarf - 
+### Mega Stones (Player and Pokemon)
+Key Stone (Trainer worn Item) - 
+Gengarite - 
+Gardevoirite - 
+Ampharosite - 
+Venusaurite - 
+Charizardite X - 
+Blastoisinite - 
+Mewtwonite X - 
+Mewtwonite Y - 
+Blazikenite - 
+Medichamite - 
+Houndoominite - 
+Aggronite - 
+Banettite - 
+Tyranitarite - 
+Scizorite - 
+Pinsirite - 
+Aerodactylite - 
+Lucarionite - 
+Abomasite - 
+Kangaskhanite - 
+Gyaradosite - 
+Absolite - 
+Charizardite Y - 
+Alakazite - 
+Heracronite - 
+Mawilite - 
+Manectite - 
+Garchompite - 
+Latiasite - 
+Latiosite - 
+Swampertile - 
+Sceptilite - 
+Sablenite - 
+Altarianite - 
+Galladite - 
+Audinite - 
+Metagrossite - 
+Sharpedonite - 
+Slowbronite - 
+Steelixite - 
+Pidgeotite - 
+Glalitite - 
+Diancite - 
+Cameruptite - 
+Lopunnite - 
+Salamencite - 
+Beedrillite - 
+Meteorite - 
+
+### Z-Crystals (Only 'held' by Trainer)
+Z-Ring (Trainer worn Item) (Unpurchasable) - 
+Buginium Z (Unpurchasable) - 
+Darkinium Z (Unpurchasable) - 
+Dragonium Z (Unpurchasable) - 
+Electrium Z (Unpurchasable) - 
+Fairium Z (Unpurchasable) - 
+Fightinium Z (Unpurchasable) - 
+Firium Z (Unpurchasable) - 
+Flyinium Z (Unpurchasable) - 
+Ghostium Z (Unpurchasable) - 
+Grassium Z (Unpurchasable) - 
+Grounium Z (Unpurchasable) - 
+Icium Z (Unpurchasable) - 
+Normalium Z (Unpurchasable) - 
+Poisonium Z (Unpurchasable) - 
+Pyschium Z (Unpurchasable) - 
+Rockium Z (Unpurchasable) - 
+Steelium Z (Unpurchasable) - 
+Waterium Z (Unpurchasable) - 
+Z-Power Ring (Trainer worn Item) (Unpurchasable) - 
+Aloraichium Z (Unpurchasable) - 
+Decidium Z (Unpurchasable) - 
+Eevium Z (Unpurchasable) - 
+Incinium Z (Unpurchasable) - 
+Kommonium Z (Unpurchasable) - 
+Lunalium Z (Unpurchasable) - 
+Lycanium Z (Unpurchasable) - 
+Marshadium Z (Unpurchasable) - 
+Mewnium Z (Unpurchasable) - 
+Mimikium Z (Unpurchasable) - 
+Pikanium Z (Unpurchasable) - 
+Pikashunium Z (Unpurchasable) - 
+Primarium Z (Unpurchasable) - 
+Snorlium Z (Unpurchasable) - 
+Solganium Z (Unpurchasable) - 
+Tapunium Z (Unpurchasable) - 
+Ultranecrozium Z (Unpurchasable) - 
 ### Plates
+Blank Plate (Unpurchasable) - 
+Fist Plate (Unpurchasable) - 
+Sky Plate (Unpurchasable) - 
+Toxic Plate (Unpurchasable) - 
+Earth Plate (Unpurchasable) - 
+Stone Plate (Unpurchasable) - 
+Insect Plate (Unpurchasable) - 
+Spooky Plate (Unpurchasable) - 
+Iron Plate (Unpurchasable) - 
+Flame Plate (Unpurchasable) - 
+Splash Plate (Unpurchasable) - 
+Meadow Plate (Unpurchasable) - 
+Zap Plate (Unpurchasable) - 
+Mind Plate (Unpurchasable) - 
+Icicle Plate (Unpurchasable) - 
+Draco Plate (Unpurchasable) - 
+Dread Plate (Unpurchasable) - 
+Pixie Plate (Unpurchasable) - 
+Legend Plate (Unpurchasable) - 
 ### Drives
+Shock Drive (Unpurchasable) - 
+Burn Drive (Unpurchasable) - 
+Chill Drive (Unpurchasable) - 
+Douse Drive (Unpurchasable) - 
 ### Memories
+Bug Memory (Unpurchasable) - 
+Dark Memory (Unpurchasable) - 
+Dragon Memory (Unpurchasable) - 
+Electric Memory (Unpurchasable) - 
+Fairy Memory (Unpurchasable) - 
+Fighting Memory (Unpurchasable) - 
+Fire Memory (Unpurchasable) - 
+Flying Memory (Unpurchasable) - 
+Ghost Memory (Unpurchasable) - 
+Grass Memory (Unpurchasable) - 
+Ground Memory (Unpurchasable) - 
+Ice Memory (Unpurchasable) - 
+Poison Memory (Unpurchasable) - 
+Psychic Memory (Unpurchasable) - 
+Rock Memory (Unpurchasable) - 
+Steel Memory (Unpurchasable) - 
+Water Memory (Unpurchasable) - 
+
+
 # Alternate Playstyles
 
 ## Pokemon Rangers
