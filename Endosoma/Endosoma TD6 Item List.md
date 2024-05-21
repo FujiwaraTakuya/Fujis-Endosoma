@@ -1,6 +1,12 @@
 ---
 share: true
 ---
+Price Conversions between Fantasy Currency & Pokemon Currency:
+1cp (Copper Piece) - P$8
+1sp (Silver Piece) - P$80
+1gp (Gold Piece) - P$800
+1plt (Platinum Piece) - P$8,000
+
 # Potions
 ## Healing
 Mingling Healing Potion (1sp/P$80) - Little remaining or a poorly made health potion; heals 1d2.
