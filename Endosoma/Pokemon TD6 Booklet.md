@@ -144,7 +144,9 @@ Pokeballs can only catch Feral Pokemon unless specially designed to catch Pokemo
 - **Origin Ball (Hisui)** - The Legendary Ball, catcher of Origin Forme Dialga or Palkia, this ancient ball appears to only be designed to capture and tame the rogue Legendaries when their quarrels begin to bring about the end of all time and reality.
 
 # Items & Held Items
-Have a giant list of Items from the games with listings:
+It should be noted that none of these aside from healing items (excluding revival items as well) have any affect on non-Pokemon creatures, and only at half-effect. Anything that heals below 1 has no effect.
+
+Have a giant list of Items from the games with listings, along with P$ pricings and Fantasy Pricings:
 ## Trainer Items
 ### Escape Items
 - Poke Doll - The oldest escape tool; roll an Advantage Test to distract a group of Pokemon from combat and allow the party to escape an Encounter. Tests at Disadvantage against Trainers' Pokemon and Powerful Pokemon
@@ -153,19 +155,19 @@ Have a giant list of Items from the games with listings:
 ### Evolution Items
 #### Direct use
 ##### Non-Stones
-- Black Augurite - 
-- Chipped Pot - 
-- Cracked Pot - 
+- Black Augurite (Unpurchasable) - 
+- Chipped Pot (Unpurchasable) - 
+- Cracked Po (Unpurchasable)t - 
 - Galarica Cuff - 
 - Peat Block - 
 - Sweet Apple - 
 - Tart Apple - 
 - Auspicious Armor - 
 - Malicious Armor - 
-- Masterpiece Teacup - 
+- Masterpiece Teacup (Unpurchasable) - 
 - Metal Alloy - 
-- Scroll of Darkness - 
-- Scroll of Waters - 
+- Scroll of Darkness (Unpurchasable) - 
+- Scroll of Waters (Unpurchasable) - 
 - Syrupy Apple - 
 - Unremarkable Teacup - 
 ##### Stones
@@ -179,142 +181,6 @@ Have a giant list of Items from the games with listings:
 - Dusk Stone - 
 - Dawn Stone - 
 - Ice Stone - 
-##### Battle Items
-X Attack
-X Defense
-X Sp. Atk
-X Sp. Def
-X Speed
-X Accuracy
-X Dire Hit
-Guard Spec.
-##### Medicine
-###### Healing
-Potion
-Super Potion
-Hyper Potion
-Fresh Water
-Lemonade
-Max Honey
-Moomoo Milk
-Rage Candy Bar
-Soda Pop
-Sweet Heart
-###### Status Healing
-Antidote
-Awakening
-Burn Heal
-Full Heal
-Full Restore
-Ice Heal
-Max Revive
-Paralyze Heal
-Poke Flute
-Revive
-Old Gateau
-Casteliacone
-Lumiose Galette
-Shalour Sable
-Big Malasada
-Pewter Crunchies
-###### Revival Items
-Revive
-Max Revive
-Sacred Ash
-###### Vitamins and Feathers
-HP Up
-Protein
-Iron
-Calcium
-Zinc
-Carbos
-Health Feather
-Muscle Feather
-Resist Feather
-Genius Feather
-Clever Feather
-Swift Feather
-Pretty Feather
-###### Herbal Medicine
-Heal Powder
-Energy Powder
-Energy Root
-Revival Herm
-Remedy
-Fine Remedy
-Superb Remedy
-###### Ability Capsules
-Ability Capsule
-##### Berries
-Cheri Berry - 
-Chesto Berry - 
-Pecha Berry - 
-Rawst Berry - 
-Aspear Berry - 
-Leppa Berry - 
-Oran Berry - 
-Persim Berry - 
-Lum Berry - 
-Sitrus Berry - 
-Figy Berry - 
-Wiki Berry - 
-Mago Berry - 
-Aguav Berry - 
-Iapapa Berry - 
-Razz Berry - 
-Bluk Berry - 
-Nanab Berry - 
-Wepear Berry - 
-Pinap  Berry - 
-Pomeg Berry - 
-Kelpsy Berry - 
-Qualot Berry - 
-Hondew Berry - 
-Grepa Berry - 
-Tamato Berry - 
-Cornn Berry - 
-Magost Berry - 
-Rabuta Berry - 
-Nomel Berry - 
-Spelon Berry - 
-Pamtre Berry - 
-Watmel Berry - 
-Durin Berry - 
-Belue Berry - 
-Occa Berry - 
-Passho Berry - 
-Wacan Berry - 
-Rindo Berry - 
-Yache Berry - 
-Chople Berry - 
-Kebia Berry - 
-Shuca Berry - 
-Coba Berry - 
-Payapa Berry - 
-Tanga Berry - 
-Charti Berry - 
-Kasib Berry - 
-Haban Berry - 
-Colbur Berry - 
-Babiri Berry - 
-Chilan Berry - 
-Liechi Berry - 
-Ganlon Berry - 
-Salac Berry - 
-Petaya Berry - 
-Apicot Berry - 
-Lansat Berry - 
-Starf Berry - 
-Enigma Berry - 
-Micle Berry - 
-Custap Berry - 
-Jaboca Berry - 
-Rowap Berry - 
-Roseli Berry - 
-Kee Berry - 
-Maranga Berry - 
-Hopo Berry - 
-
 #### Held
 - Deep Sea Scale - 
 - Deep Sea Tooth - 
@@ -340,6 +206,144 @@ Hopo Berry -
 - Flower Sweet - 
 - Star Sweet - 
 - Ribbon Sweet - 
+#### Battle Items
+- X Attack - 
+- X Defense - 
+- X Sp. Atk - 
+- X Sp. Def - 
+- X Speed - 
+- X Accuracy - 
+- X Dire Hit - 
+- Guard Spec. - 
+##### Medicine
+###### Healing
+- Potion (P$200/2sp 5c) - The common healing potion for Pokemon; heals them 2hp
+- Super Potion (P$700/8sp 8cp) - A stronger healing potion for Pokemon ; heals them 5hp
+- Hyper Potion (P$1,500/1gp 8s 8cp) - A very strong healing potion for Pokemon; heals them 20hp
+- Max Potion (P$2,500/3gp 1sp 3cp) - A potent healing potion for Pokemon; heals them to full HP.
+- Full Restore (P$3,000/3gp 7sp 5cp) - A powerfully effective healing potion that also heals conditions for Pokemon; heals them to full HP and of their Status Conditions.
+- Fresh Water (P$200/2sp 5cp) - Fresh water that's collected from Mt. Silver from the Kanto Region; heals them 3hp
+- Soda Pop (P$300/3sp 7cp) - A bubbly soda with a special design that uses a marble inside to stop the drink from spilling at odd angles; heals them 5 hp
+- Lemonade (P$400/5sp) - A sweet and refreshing drink that tastes like Lemonade; heals them 7 hp.
+- Moomoo Milk (P$600/7sp 5cp) - Highly nutritious milk; heals them for 10hp.
+- Rage Candy Bar (P$2,000/2gp 5sp) - A Jhoto local speciality from Mahogany Town; heals them 2 hp, heal them of all status conditions, and can be used to draw a certain Pokemon out for battle.
+- Sweet Heart (P$3,000/3gp 7sp 5cp) - A large piece of chocolate shaped like a heart; heals them 2 hp.
+- Max Honey (P$4,000/5gp) - A special type of food only produced by a Dynamax Vespiqueen; revives a fainted Pokemon, then heals them back to full hp.
+
+###### Status Healing
+- Antidote (P$200/2sp 5cp) - 
+- Awakening (P$200/2sp 5cp) - 
+- Burn Heal (P$200/2sp 5cp) - 
+- Full Heal (P$400/5sp) - 
+- Ice Heal (P$200/2sp 5cp) - 
+- Paralyze Heal (P$200/2sp 5cp) - 
+- Poke Flute (P$8,000/1plt) - 
+- Lava Cookie (P$350/4sp 5cp) - 
+- Old Gateau (P$1000/1gp 2sp 5cp) - 
+- Casteliacone (P$100/1sp 3cp) - 
+- Lumiose Galette (P$100/1sp 3cp) - 
+- Shalour Sable (P$100/1sp 3cp) - 
+- Big Malasada (P$350/4sp 5cp) - 
+- Pewter Crunchies (P$500/6sp 3cp) - 
+###### Revival Items
+- Revive (P$2000/2gp 5sp) - 
+- Max Revive (P$5,000/6gp 2sp 5cp) - 
+- Sacred Ash (Unpurchasable) - 
+###### Vitamins and Feathers
+- HP Up - 
+- Protein - 
+- Iron - 
+- Calcium - 
+- Zinc - 
+- Carbos - 
+- Health Feather - 
+- Muscle Feather - 
+- Resist Feather - 
+- Genius Feather - 
+- Clever Feather - 
+- Swift Feather - 
+- Pretty Feather - 
+###### Herbal Medicine
+- Heal Powder (P$300/3sp 8cp) - A hand-made edible medicine with a special recipe that heals a Pokemon of all of their Status Conditions, but makes them not like you because of it; makes Pokemon Disobedient for 15 Rounds.
+- Energy Powder (P$500/6sp 3cp) - A hand-made edible medicine with a special recipe that heals a Pokemon, but makes them not like you because of it; heals them for 6hp, and makes Pokemon Disobedient for 10 Rounds.
+- Energy Root (P$1,200/1gp 5sp) - A stronger hand-made edible medicine with a special recipe that heals a Pokemon, but makes them not like you because of it; heals them for 12 hp, and makes Pokemon Disobedient for 20 Rounds.
+- Revival Herb (P$2,800/3gp 5sp) - A special, powerful herm that revives a Pokemon and fully heals them, but its strong taste isn't enjoyable to any Pokemon despite its effects; revives and fully heals a Pokmemon, then makes them Disobedient for 25 Rounds.
+- Remedy (Hisui) (P$225/2sp 9cp) - A hand-made edible medicine that even an untrained apothecary can make, it heals quite well, but also makes your Pokemon not like you for it; heals 6 hp, and Pokemon become Disobedient for 10 Rounds of Combat.
+- Fine Remedy (Hisui) (P$525/6sp 4cp) - A hand-made edible medicine that even an untrained apothecary can make, it heals quite a bit more than its weaker counterpart, but also makes your Pokemon not like you more for it; heals 6 hp, and Pokemon become Disobedient for 15 Rounds of Combat.
+- Superb Remedy (Hisui) (P$1,125/1gp 3sp 4cp) - A hand-made edible medicine that even an untrained apothecary can make, it heals quite a lot more than its weaker counterparts, but also makes your Pokemon not like you evenmore for it; heals 12 hp, and Pokemon become Disobedient for 20 Rounds of Combat.
+###### Ability Capsules
+- Ability Capsule - 
+##### Berries (Un-purchase unless in bulk)
+- Cheri Berry - 
+- Chesto Berry - 
+- Pecha Berry - 
+- Rawst Berry - 
+- Aspear Berry - 
+- Leppa Berry - 
+- Oran Berry - 
+- Persim Berry - 
+- Lum Berry - 
+- Sitrus Berry - 
+- Figy Berry - 
+- Wiki Berry - 
+- Mago Berry - 
+- Aguav Berry - 
+- Iapapa Berry - 
+- Razz Berry - 
+- Bluk Berry - 
+- Nanab Berry - 
+- Wepear Berry - 
+- Pinap  Berry - 
+- Pomeg Berry - 
+- Kelpsy Berry - 
+- Qualot Berry - 
+- Hondew Berry - 
+- Grepa Berry - 
+- Tamato Berry - 
+- Cornn Berry - 
+- Magost Berry - 
+- Rabuta Berry - 
+- Nomel Berry - 
+- Spelon Berry - 
+- Pamtre Berry - 
+- Watmel Berry - 
+- Durin Berry - 
+- Belue Berry - 
+- Occa Berry - 
+- Passho Berry - 
+- Wacan Berry - 
+- Rindo Berry - 
+- Yache Berry - 
+- Chople Berry - 
+- Kebia Berry - 
+- Shuca Berry - 
+- Coba Berry - 
+- Payapa Berry - 
+- Tanga Berry - 
+- Charti Berry - 
+- Kasib Berry - 
+- Haban Berry - 
+- Colbur Berry - 
+- Babiri Berry - 
+- Chilan Berry - 
+- Liechi Berry - 
+- Ganlon Berry - 
+- Salac Berry - 
+- Petaya Berry - 
+- Apicot Berry - 
+- Lansat Berry - 
+- Starf Berry - 
+- Enigma Berry - 
+- Micle Berry - 
+- Custap Berry - 
+- Jaboca Berry - 
+- Rowap Berry - 
+- Roseli Berry - 
+- Kee Berry - 
+- Maranga Berry - 
+- Hopo Berry - 
+
+
 ##### Valuables & Exchange Items
 - Nugget - 
 - Big Mushroom - 
@@ -419,207 +423,207 @@ Hopo Berry -
 ## Held Items
 ### Human Items
 #### Bikes
-Bicycle - 
-Acro Bike - 
-Mach Bike - 
-Rotom Bike - 
+- Bicycle - 
+- Acro Bike - 
+- Mach Bike - 
+- Rotom Bike - 
 #### Fishing Rods
-Old Rod - 
-Fishing Rod - 
-Good Rod - 
-Super Rod - 
+- Old Rod - 
+- Fishing Rod - 
+- Good Rod - 
+- Super Rod - 
 #### Cases
-Coin Case - 
-Pokeblock Case - 
-Poffin Case - 
-Fashion Case - 
-Lens Case - 
-Seal Case - 
-Prop Case - 
-Cologne Case - 
-Disc Case - 
-Voice Case - 
-Gorgeous Box - 
-Apricorn Box - 
-Medal Box - 
+- Coin Case - 
+- Pokeblock Case - 
+- Poffin Case - 
+- Fashion Case - 
+- Lens Case - 
+- Seal Case - 
+- Prop Case - 
+- Cologne Case - 
+- Disc Case - 
+- Voice Case - 
+- Gorgeous Box - 
+- Apricorn Box - 
+- Medal Box - 
 ### Incense
-Full Incense - 
-Lax Incense - 
-Luck Incense - 
-Odd Incense - 
-Pure Incense - 
-Rock Incense - 
-Rose Incense - 
-Sea Incense - 
-Wave incense - 
+- Full Incense - 
+- Lax Incense - 
+- Luck Incense - 
+- Odd Incense - 
+- Pure Incense - 
+- Rock Incense - 
+- Rose Incense - 
+- Sea Incense - 
+- Wave incense - 
 ### Gems
-Fire Gem - 
-Water Gem - 
-Electric Gem - 
-Grass Gem - 
-Ice Gem - 
-Fighting Gem - 
-Poison Gem - 
-Ground Gem - 
-Flying Gem - 
-Psychic Gem - 
-Bug Gem - 
-Rock Gem - 
-Ghost Gem - 
-Dragon Gem - 
-Dark Gem - 
-Steel Gem - 
-Normal Gem - 
-Fairy Gem - 
+- Fire Gem - 
+- Water Gem - 
+- Electric Gem - 
+- Grass Gem - 
+- Ice Gem - 
+- Fighting Gem - 
+- Poison Gem - 
+- Ground Gem - 
+- Flying Gem - 
+- Psychic Gem - 
+- Bug Gem - 
+- Rock Gem - 
+- Ghost Gem - 
+- Dragon Gem - 
+- Dark Gem - 
+- Steel Gem - 
+- Normal Gem - 
+- Fairy Gem - 
 ### Choice Items
-Choice Band - 
-Choice Scarf - 
-Choice Specs - 
+- Choice Band - 
+- Choice Scarf - 
+- Choice Specs - 
 ### Power Items
-Power Anklet - 
-Power Band - 
-Power Belt - 
-Power Bracer - 
-Power Lens - 
-Power Weight - 
+- Power Anklet - 
+- Power Band - 
+- Power Belt - 
+- Power Bracer - 
+- Power Lens - 
+- Power Weight - 
 ### Scarves
-Red Scarf - 
-Blue Scarf - 
-Pink Scarf - 
-Green Scarf - 
-Yellow Scarf - 
+- Red Scarf - 
+- Blue Scarf - 
+- Pink Scarf - 
+- Green Scarf - 
+- Yellow Scarf - 
 ### Mega Stones (Player and Pokemon)
-Key Stone (Trainer worn Item) - 
-Gengarite - 
-Gardevoirite - 
-Ampharosite - 
-Venusaurite - 
-Charizardite X - 
-Blastoisinite - 
-Mewtwonite X - 
-Mewtwonite Y - 
-Blazikenite - 
-Medichamite - 
-Houndoominite - 
-Aggronite - 
-Banettite - 
-Tyranitarite - 
-Scizorite - 
-Pinsirite - 
-Aerodactylite - 
-Lucarionite - 
-Abomasite - 
-Kangaskhanite - 
-Gyaradosite - 
-Absolite - 
-Charizardite Y - 
-Alakazite - 
-Heracronite - 
-Mawilite - 
-Manectite - 
-Garchompite - 
-Latiasite - 
-Latiosite - 
-Swampertile - 
-Sceptilite - 
-Sablenite - 
-Altarianite - 
-Galladite - 
-Audinite - 
-Metagrossite - 
-Sharpedonite - 
-Slowbronite - 
-Steelixite - 
-Pidgeotite - 
-Glalitite - 
-Diancite - 
-Cameruptite - 
-Lopunnite - 
-Salamencite - 
-Beedrillite - 
-Meteorite - 
+- Key Stone (Trainer worn Item) - 
+- Gengarite - 
+- Gardevoirite - 
+- Ampharosite - 
+- Venusaurite - 
+- Charizardite X - 
+- Blastoisinite - 
+- Mewtwonite X - 
+- Mewtwonite Y - 
+- Blazikenite - 
+- Medichamite - 
+- Houndoominite - 
+- Aggronite - 
+- Banettite - 
+- Tyranitarite - 
+- Scizorite - 
+- Pinsirite - 
+- Aerodactylite - 
+- Lucarionite - 
+- Abomasite - 
+- Kangaskhanite - 
+- Gyaradosite - 
+- Absolite - 
+- Charizardite Y - 
+- Alakazite - 
+- Heracronite - 
+- Mawilite - 
+- Manectite - 
+- Garchompite - 
+- Latiasite - 
+- Latiosite - 
+- Swampertile - 
+- Sceptilite - 
+- Sablenite - 
+- Altarianite - 
+- Galladite - 
+- Audinite - 
+- Metagrossite - 
+- Sharpedonite - 
+- Slowbronite - 
+- Steelixite - 
+- Pidgeotite - 
+- Glalitite - 
+- Diancite - 
+- Cameruptite - 
+- Lopunnite - 
+- Salamencite - 
+- Beedrillite - 
+- Meteorite - 
 
 ### Z-Crystals (Only 'held' by Trainer)
-Z-Ring (Trainer worn Item) (Unpurchasable) - 
-Buginium Z (Unpurchasable) - 
-Darkinium Z (Unpurchasable) - 
-Dragonium Z (Unpurchasable) - 
-Electrium Z (Unpurchasable) - 
-Fairium Z (Unpurchasable) - 
-Fightinium Z (Unpurchasable) - 
-Firium Z (Unpurchasable) - 
-Flyinium Z (Unpurchasable) - 
-Ghostium Z (Unpurchasable) - 
-Grassium Z (Unpurchasable) - 
-Grounium Z (Unpurchasable) - 
-Icium Z (Unpurchasable) - 
-Normalium Z (Unpurchasable) - 
-Poisonium Z (Unpurchasable) - 
-Pyschium Z (Unpurchasable) - 
-Rockium Z (Unpurchasable) - 
-Steelium Z (Unpurchasable) - 
-Waterium Z (Unpurchasable) - 
-Z-Power Ring (Trainer worn Item) (Unpurchasable) - 
-Aloraichium Z (Unpurchasable) - 
-Decidium Z (Unpurchasable) - 
-Eevium Z (Unpurchasable) - 
-Incinium Z (Unpurchasable) - 
-Kommonium Z (Unpurchasable) - 
-Lunalium Z (Unpurchasable) - 
-Lycanium Z (Unpurchasable) - 
-Marshadium Z (Unpurchasable) - 
-Mewnium Z (Unpurchasable) - 
-Mimikium Z (Unpurchasable) - 
-Pikanium Z (Unpurchasable) - 
-Pikashunium Z (Unpurchasable) - 
-Primarium Z (Unpurchasable) - 
-Snorlium Z (Unpurchasable) - 
-Solganium Z (Unpurchasable) - 
-Tapunium Z (Unpurchasable) - 
-Ultranecrozium Z (Unpurchasable) - 
+- Z-Ring (Trainer worn Item) (Unpurchasable) - 
+- Buginium Z (Unpurchasable) - 
+- Darkinium Z (Unpurchasable) - 
+- Dragonium Z (Unpurchasable) - 
+- Electrium Z (Unpurchasable) - 
+- Fairium Z (Unpurchasable) - 
+- Fightinium Z (Unpurchasable) - 
+- Firium Z (Unpurchasable) - 
+- Flyinium Z (Unpurchasable) - 
+- Ghostium Z (Unpurchasable) - 
+- Grassium Z (Unpurchasable) - 
+- Grounium Z (Unpurchasable) - 
+- Icium Z (Unpurchasable) - 
+- Normalium Z (Unpurchasable) - 
+- Poisonium Z (Unpurchasable) - 
+- Pyschium Z (Unpurchasable) - 
+- Rockium Z (Unpurchasable) - 
+- Steelium Z (Unpurchasable) - 
+- Waterium Z (Unpurchasable) - 
+- Z-Power Ring (Trainer worn Item) (Unpurchasable) - 
+- Aloraichium Z (Unpurchasable) - 
+- Decidium Z (Unpurchasable) - 
+- Eevium Z (Unpurchasable) - 
+- Incinium Z (Unpurchasable) - 
+- Kommonium Z (Unpurchasable) - 
+- Lunalium Z (Unpurchasable) - 
+- Lycanium Z (Unpurchasable) - 
+- Marshadium Z (Unpurchasable) - 
+- Mewnium Z (Unpurchasable) - 
+- Mimikium Z (Unpurchasable) - 
+- Pikanium Z (Unpurchasable) - 
+- Pikashunium Z (Unpurchasable) - 
+- Primarium Z (Unpurchasable) - 
+- Snorlium Z (Unpurchasable) - 
+- Solganium Z (Unpurchasable) - 
+- Tapunium Z (Unpurchasable) - 
+- Ultranecrozium Z (Unpurchasable) - 
 ### Plates
-Blank Plate (Unpurchasable) - 
-Fist Plate (Unpurchasable) - 
-Sky Plate (Unpurchasable) - 
-Toxic Plate (Unpurchasable) - 
-Earth Plate (Unpurchasable) - 
-Stone Plate (Unpurchasable) - 
-Insect Plate (Unpurchasable) - 
-Spooky Plate (Unpurchasable) - 
-Iron Plate (Unpurchasable) - 
-Flame Plate (Unpurchasable) - 
-Splash Plate (Unpurchasable) - 
-Meadow Plate (Unpurchasable) - 
-Zap Plate (Unpurchasable) - 
-Mind Plate (Unpurchasable) - 
-Icicle Plate (Unpurchasable) - 
-Draco Plate (Unpurchasable) - 
-Dread Plate (Unpurchasable) - 
-Pixie Plate (Unpurchasable) - 
-Legend Plate (Unpurchasable) - 
+- Blank Plate (Unpurchasable) - 
+- Fist Plate (Unpurchasable) - 
+- Sky Plate (Unpurchasable) - 
+- Toxic Plate (Unpurchasable) - 
+- Earth Plate (Unpurchasable) - 
+- Stone Plate (Unpurchasable) - 
+- Insect Plate (Unpurchasable) - 
+- Spooky Plate (Unpurchasable) - 
+- Iron Plate (Unpurchasable) - 
+- Flame Plate (Unpurchasable) - 
+- Splash Plate (Unpurchasable) - 
+- Meadow Plate (Unpurchasable) - 
+- Zap Plate (Unpurchasable) - 
+- Mind Plate (Unpurchasable) - 
+- Icicle Plate (Unpurchasable) - 
+- Draco Plate (Unpurchasable) - 
+- Dread Plate (Unpurchasable) - 
+- Pixie Plate (Unpurchasable) - 
+- Legend Plate (Unpurchasable) - 
 ### Drives
-Shock Drive (Unpurchasable) - 
-Burn Drive (Unpurchasable) - 
-Chill Drive (Unpurchasable) - 
-Douse Drive (Unpurchasable) - 
+- Shock Drive (Unpurchasable) - 
+- Burn Drive (Unpurchasable) - 
+- Chill Drive (Unpurchasable) - 
+- Douse Drive (Unpurchasable) - 
 ### Memories
-Bug Memory (Unpurchasable) - 
-Dark Memory (Unpurchasable) - 
-Dragon Memory (Unpurchasable) - 
-Electric Memory (Unpurchasable) - 
-Fairy Memory (Unpurchasable) - 
-Fighting Memory (Unpurchasable) - 
-Fire Memory (Unpurchasable) - 
-Flying Memory (Unpurchasable) - 
-Ghost Memory (Unpurchasable) - 
-Grass Memory (Unpurchasable) - 
-Ground Memory (Unpurchasable) - 
-Ice Memory (Unpurchasable) - 
-Poison Memory (Unpurchasable) - 
-Psychic Memory (Unpurchasable) - 
-Rock Memory (Unpurchasable) - 
-Steel Memory (Unpurchasable) - 
-Water Memory (Unpurchasable) - 
+- Bug Memory (Unpurchasable) - 
+- Dark Memory (Unpurchasable) - 
+- Dragon Memory (Unpurchasable) - 
+- Electric Memory (Unpurchasable) - 
+- Fairy Memory (Unpurchasable) - 
+- Fighting Memory (Unpurchasable) - 
+- Fire Memory (Unpurchasable) - 
+- Flying Memory (Unpurchasable) - 
+- Ghost Memory (Unpurchasable) - 
+- Grass Memory (Unpurchasable) - 
+- Ground Memory (Unpurchasable) - 
+- Ice Memory (Unpurchasable) - 
+- Poison Memory (Unpurchasable) - 
+- Psychic Memory (Unpurchasable) - 
+- Rock Memory (Unpurchasable) - 
+- Steel Memory (Unpurchasable) - 
+- Water Memory (Unpurchasable) - 
 
 
 # Alternate Playstyles
