@@ -21,3 +21,38 @@ Mega Potion (9plt 8gp 5sp/P$78,800) - An immensely powerful potion using rare in
 Full Potion (23plt 7gp 8sp/P$190,2400) - The penultimate potion, one that functions by fully healing its user back to full health, but that does not include status conditions.
 
 ## Status Condition Potions
+Anti-Toxin Potion
+Anti-Petrification Potion
+Anti-Burning Potion
+Anti-Freezing Potion
+Anti-Bleeding Lotion
+Hydrophobic Lotion
+Cold-Resistance Lotion
+Heat-Resistance Lotion
+Antidote
+Clear-Mind Potion
+Blessed Water
+Mind-Dulling Potion
+
+## Effect Potions
+### Self
+Temporary Growth
+Temporary Shrinking
+Stone Coating
+Metal Coating
+Temporary Minor Shapeshifting
+Temporary Moderate Shapeshifting
+Temporary Major Shapeshifting
+Temporary Minor Polymorph
+Temporary Moderate Polymorph
+Temporary Major Polymorph
+
+### Weapon/Armour
+Minor Repair Oil
+Major Repair Oil
+Poison Vial
+Venom vial
+Ignition Oil
+Freeze Powder Coating
+Electrocution Battery Attachment
+Razor Wire Binding
