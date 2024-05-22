@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-**The system that Fuji came up for combat is what he likes to call: The Call and Response System.**
+**The special system that Fuji came up for Pokemon-like combat is what he likes to call: The Call and Response System.**
 
 # Call & Response System
 On top of attacking, all Pokemon per-round gain 1 CR Action; when a Pokemon-Character attacks another Pokemon-Character or a Pokemon's Trainer with a Pokemon Move, the Targeted Trainer's Pokemon or Pokemon-Character can use a CR Action to **Counter, Block, Dodge, or Clash** the attack. During a Player's turn, they may use their remaining Actions to gain additional spendable CR Actions that last until the start of your next turn, or until they're used in reaction to Moves directed at you or your Trainer.
