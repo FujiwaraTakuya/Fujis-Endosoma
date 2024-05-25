@@ -128,30 +128,30 @@ Smash ### 3x3 square in front of you
 Thrust ### 1x5 line in front of you
 
 (Prereq; Mecha Stylist Training, Mecha Style: Ride)
-###Gunner’s Barrage (Class Trait)
+### Gunner’s Barrage (Class Trait)
 Shoot the fuckin’ lazers### all the fuckin’ lazers at ‘em!! You fire all of your ranged weaponry at a target within line of sight and not blocked by units, all your attacks being made to hit in that single spot. Once all attacks have been fired, all of our ranged weaponry are disabled from usage### whether or not they have or haven’t been used during the attack, for x+2 rounds where x is the number of weapons used. All attacks must have seperate rolls to hit. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Marksman, Educated)
-###On-board A.I. (Class Trait)
+### On-board A.I. (Class Trait)
 Calculating trajectory of projectile pathing and optimum angle to sever your opponent in half. You spend 1 Combat Action to perform an enhanced version of Focus that functions with Attacks, Test for Abilities, and Evade. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Educated)
 ###Rending Blitz (Class Trait)
 You’re a little bit too tough. Bonks your armour off. You dash your mech past 3 targets within Close range of each other and deal 3 strikes at Disadvantage, each dealing 2 damage and increasing future damage they’ll take by +1 to each target hit for 3 turns. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Opportunist, Educated)
-###Carpet Blaze (Class Trait)
+### Carpet Blaze (Class Trait)
 Light ‘em up, everything! That’s politically correct, right? You launch a barrage of missiles in a 7x4 line of your choosing, taking 1 turn to fly and land in the ground before exploding and dealing 2 damage to all enemies within the radius before setting the floor ablaze for 5 turns; each turn that an enemy stays inside that AOE they take 1 damage. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Perceptive, Educated)
-###Overclock (Class Trait)
+### Overclock (Class Trait)
 I will bet everything on the few seconds to reach a new future!!! You overclock your mecha’s system to perform at its absolute best, causing your mecha to be able to perform 3 Combat Actions per-turn up to a maximum of 3 turns before your mech must remain initiative for an equal number of turns. You can also stop this ability whenever after 1 turn of usage, and this does not take up a Combat Action to use. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Opportunist, Diehard, Educated)
-###Biosignature Synchronization (Class Trait)
+### Biosignature Synchronization (Class Trait)
 It recognises me and only me. You’ve enabled a biosignature system into your mecha so that it can only be operated by you, and also gain greater handling-proficiency with your mech as it reads your vital signs and brain waves. Evade rolls are rolled at Standard, your mech will warn you of potential dangers if you succeed a Disadvantage roll, and if you do succeed in the Disadvantage roll you’re allowed a single out-of-turn Combat Action to do anything your mech can pull off before the danger will either continue or be delayed by whatever Action you perform. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Insightful, Perceptive)
 ###Mecha Two-handed Wielding (Class Trait)
 I mean, two’s better than one, sooo…. Due to your mecha’s sheer strength, your mecha can wield two Light or Heavy Weapons in-hand; wielding 2 Light Weapons can be handled like normal, but wielding 2 Heavy weapons lowers your Attack roll by -1 Test. (Prereq; Mecha Stylist Training, Mecha Style: Ride, Berzerker, Educated)
-###Bio-Mecha (Class Trait)
+### Bio-Mecha (Class Trait)
 It’s alive! It’s aliiiiiive!! Using some experimental chemicals, magic, and/or technology, not only is your Mecha now part-organic, it is alive and sentient but not with enough intelligence or organs to speak back our language other than being able to type it back using the monitors. Your previous technology has become Bio-weapons and are now capable of being upgraded with special properties for unique effects. Your ranged weaponry are also capable of shooting more than just standard ammo, and if an attack would put you or the mecha’s life in danger, make a Disadvantage roll to see whether or not the mecha will dodge a life-threatening attack for you. (Prereq; Mecha Stylist Training, all MS: Ride Traits)
 
-### # Mecha Style: Live (Class)
+### Mecha Style: Live (Class)
 Let’s show them what we can do, (Insert Partner’s Name)! You’re now the proud owner of a fully sentient mecha equal to, or one size category larger/smaller than yourself. They have their own personality, attitude, and thoughts, but are subservient to you…for the most part. Downed Live Mechas can only be repaired and revitalized by their owners or Mechasmiths. All Live Mechas start with 8 Max HP, start out with 2 Weapon Group Proficiencies, 1 Trait and Heritage Trait, 2 weapon masteries, equipped with 1 Light/Heavy/Ranged Weapon, and 25ft of movement. (Prereq; Mecha Stylist Training)
 
-### # Mecha Style: Full Dive (Class)
+### Mecha Style: Full Dive (Class)
 The bigger they are, the bigger the trophy for my legend! You’re now the owner of a mecha 1, 2, or 3 size categories smaller than your current size; when you use it by throwing its box-shaped unit at an area within 25ft, an energy barrier forms around you, protecting you from attacks with up to 3 damage as your entire consciousness is temporarily transferred into your mech. If your mecha’s defeated, your consciousness reverts back to your body and are Exhausted for 1 Turn. All Full Dive Mechas start with 6 Max HP, start out with 1 Weapon Group Proficiency, 1 Trait and Heritage Trait, gain the Evasive Trait for free, equipped with 1 Light/Heavy/Ranged Weapon, have interchangeable limbs, and 15ft of movement. (Prereq; Mecha Stylist Training)
 
-### # Mecha Style: Burst (Class)
+### Mecha Style: Burst (Class)
 When you want something done right, do it yourself. With your knowledge and a guidebook of custom suits and technology, you’ve managed to create a special armoured suit which not only protects you, but can carry ample firepower that you can more-easily upgrade to your will and desire; the suit either materializing upon the user through magical or digital means, or the suit expanding and wrapping around the user. All Burst mechas are customizable suits of armour; start with 3 Max HP, equipped with 1 Light/Heavy weapon and a Ranged Weapon, and is more-easily upgradable without the need for Mechasmiths. (Prereq; Mecha Stylist Training)
 
 
