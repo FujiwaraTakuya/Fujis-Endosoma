@@ -152,34 +152,42 @@ Let’s show them what we can do, (Insert Partner’s Name)! You’re now the pr
 The bigger they are, the bigger the trophy for my legend! You’re now the owner of a mecha 1, 2, or 3 size categories smaller than your current size; when you use it by throwing its box-shaped unit at an area within 25ft, an energy barrier forms around you, protecting you from attacks with up to 3 damage as your entire consciousness is temporarily transferred into your mech. If your mecha’s defeated, your consciousness reverts back to your body and are Exhausted for 1 Turn. All Full Dive Mechas start with 6 Max HP, start out with 1 Weapon Group Proficiency, 1 Trait and Heritage Trait, gain the Evasive Trait for free, equipped with 1 Light/Heavy/Ranged Weapon, have interchangeable limbs, and 15ft of movement. (Prereq; Mecha Stylist Training)
 
 ### Mecha Style: Burst (Class)
-When you want something done right, do it yourself. With your knowledge and a guidebook of custom suits and technology, you’ve managed to create a special armoured suit which not only protects you, but can carry ample firepower that you can more-easily upgrade to your will and desire; the suit either materializing upon the user through magical or digital means, or the suit expanding and wrapping around the user. All Burst mechas are customizable suits of armour; start with 3 Max HP, equipped with 1 Light/Heavy weapon and a Ranged Weapon, and is more-easily upgradable without the need for Mechasmiths. (Prereq; Mecha Stylist Training)
+*When you want something done right, do it yourself.* With your knowledge and a guidebook of custom suits and technology, you’ve managed to create a special armoured suit which not only protects you, but can carry ample firepower that you can more-easily upgrade to your will and desire; the suit either materializing upon the user through magical or digital means, or the suit expanding and wrapping around the user. All Burst mechas are customizable suits of armour; start with 3 Max HP, equipped with 1 Light/Heavy weapon and a Ranged Weapon, and is more-easily upgradable without the need for Mechasmiths. (Prereq; Mecha Stylist Training)
 
 
+## The Heroless (Class)
+*I don't care about all your namby-pamby bullshit, I'm living through this shit my way.* Either a trained assassin, or an Otaku-turned-contract-killer, you managed to make use of some advanced technological weapon that creates an intense beam of plasma that you can attack your foes with; its design's ancient, with the unique caveat of being rechargeable through vigorous shaking, but it appears upgrades or additional weapons can be made based off of its design with enough materials, tools, and technical know-how. **Gain a Beam melee-weapon (Light/Heavy) that replaces Durability with Charge, and having a Charge of 6. Recharging requires 1 Action to perform, and restores 6 Charges to your weapon.**
+
+**Actions performable while wielding this kind of weapon is listed like so:**
+- **Strike: Standard Attack, applies benefits from Traits that enhance basic Melee attacks.**
+- **Heavy Strike: An Attack that breaks the Guard of Guarding enemies if struck; costs 1 Action and deals +1 Damage, but can't be taken before or after a Strike due to the strength of the attack. Can be held instead of released to perform Charged Strike.**
+- **Charged Strike: Only usable after holding a Heavy Strike. Holding a Heavy Strike with its trigger pressed down, energy from the battery charges the plasma for a greater strike, converting its single-target attack into a cone-ranged slash (Based on the weapon's Reach) that bypasses any Guarding enemy's Guard (But not barriers) and dealing Heavy Strike's +1 Damage plus +1 Damage per point of Charge consumed to charge the attack up to a Maximum of +3 Damage/3 points of Charge.**
+- 
 # Unchained
 
 ## Sofficer (Class)
 I will uphold the law with my body and soul!...Mostly my body. Due to your physical physique and unique practical training, you’ve learnt a unique form of hand-to-hand combat that focuses upon quickly subduing and restricting a target’s movements and actions while avoiding and disabling surrounding assailants with complex maneuvers. You gain Proficiency with Unarmed strikes, and when performing grapple checks on a target, you deal +1 extra damage while restraining the target and automatically perform the Evade Combat Action for free while you’re grappling a target and are being attacked by them or other enemies.
-###  CQC Manipulator (Class Trait)
+### CQC Manipulator (Class Trait)
 How d’ya like that feint? If you miss an attack on your opponent, you can choose to allow them to attempt to attack back with no negative modifiers; if the attack would land, immediately make a Disadvantage roll to Evade the hit, and if the attack misses by successful Evasion or bad rolls, you make an immediate Disadvantage roll to counter-hit without counter. If the counter-hit is successful, the target is stunned for 1 turn but if they can’t be stunned, they take +1 damage for 1 turn. (Prereq: Sofficer, Opportunist Trait)
-###  Martial Arts Training (Class Trait)
+### Martial Arts Training (Class Trait)
 Don’t think I’m just some ordinary Tavern-brawler. You’ve been trained in Martial Arts, gaining +1 damage in your Unarmed damage, your Unarmed Attack tests are rolled at Advantage, and are given the ability to counter-attack upon enemies within Close Range who’ve missed an attack. (Prereq: Sofficer, Martial Artist, Opportunist Trait)
-###  Scissor-lock (Class Trait)
+### Scissor-lock (Class Trait)
 Struggle any further and my thighs are gonna snap your collar bone! As a Combat Action, you can lunge forwards 5ft in any direction before attempting to lock your legs around your target in a grapple Test and force them into the Prone state, yourself also entering a Prone state as you hold them down; the same turn you manage to land this grapple upon your target, immediately perform a Test for free to deal 2 damage to the target. Once the target has been knocked out from the grapple, you immediately escape from the Prone position and are standing again, but you can end the grapple whenever to return to a Standing position during your turn. For every size category at Large or above, increase the grapple range and number of grapplable targets of this trait by +1; at Very Large it becomes a range of 1x2; at Giant it becomes 1x3, and etc. (Prereq: Sofficer, Strong)
-###  Disarm and Conquer (Class Trait)
+### Disarm and Conquer (Class Trait)
 Edged weapons are dangerous! Slaps hand with knife in it. You could seriously hurt somebody! You attempt to disarm every enemy within your melee range with an Attack Action; the test is rolled with your proficiency in weapons or unarmed combat except for Heavy weapons which are automatically rolled at Standard even if you have mastery of a weapon, or Disadvantage if you have no or only proficiency in Heavy weapons. All targets fail automatically if they haven’t used the Evade command whereas successful Evades cause the user to maintain a hold of their weapon. All targets who have their weapons knocked away have them flung 15ft away from themselves, then you take the opportunity in the confusion to attack everyone at once, dealing 2 damage; those who used the Evade action during their turn can only avoid this second attack if their first attempt to Evade was successful. (Prereq: Sofficer, Opportunist Trait, Cleave)
-###  Authoritative Aura (Class)
+### Authoritative Aura (Class)
 Everybody SHUT UP! I have an erec### When raising your voice to speak to a large crowd of people, no matter the situation, you gain an Advantage to controlling/manipulating the crowds, and if any form of law enforcements are under your command or if someone higher-up agrees/goes along with your suggestion, they’ll follow your orders to best extent of their abilities. When in combat, you can use this Trait to give every ally +1 Temp. HP up to a Maximum of 2. This Temp. HP will dissipate at the end of combat. (Prereq: Sofficer, Charismatic, )
-###  Riot Form (Class)
+### Riot Form (Class)
 Stop the crowds movements and push them back### EVERYONE!! Using a Tower Shield in-hand, you raise your defenses and make Advantage Tests against any projectiles your shield is capable of deflecting and negate the damage on successful rolls. Whenever an opponent attempts to shove or reposition you, you make a Standard Test to negate the Reposition/Shove, and for every failed attempt to Attack, Reposition, or Shove, perform a counter-Attack upon the target with a Standard Test.
-###  Wrestling Style: Taunt and Dominate (Class)
+### Wrestling Style: Taunt and Dominate (Class)
 How does it feel to be thrown around by a superior fighter? Humiliating, ain’t it? You can choose either to use this as an Offensive or Defensive Trait; if you use this Trait to attack your opponent, make a Grapple check against your opponent, if you miss, your grapple misses entirely but if it lands you knock the target over into the Prone state before slamming them into the floor for 3 damage. If they’re still alive, roll Standard to Taunt the target, but if they’re dead/unconscious, roll Advantage to Taunt all enemies within ear-shot. Taunted enemies must make a Disadvantage Test at the start of their turns to overcome the effects of Taunting, otherwise they lose 1 Combat Action during their turns, and can only Move or Attack during them.
-###  Protector’s Restraint (Class)
+### Protector’s Restraint (Class)
 Oi, you! You’ve violated the law! Do you have a license for that? Prepare this Trait as an Action; if you’re standing by an ally within 5ft of you and they’re attacked by an enemy, you can make a Disadvantage Test to deflect the Attack, a 2nd Disadvantage Test to disarm them, then a 3rd test at Standard to grapple the Target; if you fail any rolls in the sequence, the assault ends.
-###  Heavy Grappling Training (Class)
+### Heavy Grappling Training (Class)
 Bigger criminals are just as easy to restrain. You’re able to grapple targets from Medium up to Very Large Size at Advantage.
-###  Light Grappling Training (Class)
+### Light Grappling Training (Class)
 Hahah### gotcha ya tiny fuck! You’re able to grapple targets from Medium to Very Small at Standard.
-###  Commanding Sofficer Status (Class)
+### Commanding Sofficer Status (Class)
 We need to do this! That’s an order!! Due to your high skill and lengthy experience, you exude an aura of courageous or commanding status that enables your allies to roll any mind-affecting Tests with Advantage. Also during your turn, you can command all of your allies to perform 1 Action each for free, but it’s up to them to determine what you mean by your command. (Prereq:Sofficer, all Sofficer Traits, Strong, Charismatic, Perceptive, Insightful )
 
 
