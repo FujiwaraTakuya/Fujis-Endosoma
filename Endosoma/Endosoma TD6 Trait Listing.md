@@ -9,7 +9,7 @@ share: true
 # Endosoma Vore Traits
 ## Pred Traits
 
-### Hungry Jaws:
+### Hungry Jaws
 *So hungry...so incredibly hungry...you'll have to do.* You're so hungry you don't even try to grapple the prey and immediately make a Devour Test.
 ### Strong-tail
 *You think my tail looks silly? Why don't you come closer and say it to my face!* you can grapple enemies within 10ft with your tail and bring them closer to you.
@@ -44,7 +44,7 @@ Sorry sir but I don't give piggy back rides, but I do have an alternative. As a 
 ### Strong Stance
 *Is carrying this much a hindrance? Nonsense! I can still haul a couple hundred more pounds!* You can remain mobile even while after consuming a prey +1 size-category larger than yourself/enough prey that exceed your total limit. Reduce your Movement by -15ft and no longer become immediately immobile after eating 1 prey above your limit. ***Requires Titan-Stomach.***
 ### The penultimate hunger
-*I-I can continue eating! Th-this is just a warm u-Ourp!-pf-## ooof....* You are now able to eat past your natural limits and over-stuff yourself with +1 additional prey of any size once you've eaten to your limit. To devour them, you must roll at Disadvantage to consume them, and is unaffected by other Traits to increase the roll. ***Requires Titan Stomach, Strong Stance, and Hungry Jaws.***
+*I-I can continue eating! Th-this is just a warm u-Ourp!-pf-- ooof....* You are now able to eat past your natural limits and over-stuff yourself with +1 additional prey of any size once you've eaten to your limit. To devour them, you must roll at Disadvantage to consume them, and is unaffected by other Traits to increase the roll. ***Requires Titan Stomach, Strong Stance, and Hungry Jaws.***
 
 ## Endosoma Vore Prey Traits
 
@@ -55,7 +55,7 @@ Sorry sir but I don't give piggy back rides, but I do have an alternative. As a 
 ### Magic Hands \* 
 *Don't watch the mouth, watch the hands~* You're magical touch allows you to heal a target by rubbing and/or massaging them for +1 HP alongside the Healer Trait. *Requires Healer Trait.  
 ### Parasite \* 
-*I don't get it## I'm still starving! I had a huge lunch and that little critter## how can I still be hungry!?* When inside someone, you can do a 2d6/Standard test to leech life off them and heal by 1 while the target takes 1 damage. The Predator can take a Standard Test if they're 1 size category smaller or larger than themselves, but must take a Disadvantage Test if they're 2 or more size categories smaller or larger than themselves.
+*I don't get it-- I'm still starving! I had a huge lunch and that little critter-- how can I still be hungry!?* When inside someone, you can do a 2d6/Standard test to leech life off them and heal by 1 while the target takes 1 damage. The Predator can take a Standard Test if they're 1 size category smaller or larger than themselves, but must take a Disadvantage Test if they're 2 or more size categories smaller or larger than themselves.
 ### Symbiote
 *Don't we feel much better?* *Yes...we do....* You have the ability to merge yourself with your predator with 3 options:
 
