@@ -167,6 +167,7 @@ The bigger they are, the bigger the trophy for my legend! You’re now the owner
 - **Quick-Step: Like Dodge but consumed after proper usage, costs 1 Action; the user waits for their Target to make a successful attack against them before attempting to evade the attack with a Standard Test, with success moving them 5ft away in any available direction without triggering an Attack of Opportunity and allowing them to then make a Strike against their attacker or a Strong Haymaker for free. Consumes 1 Charge with each strike.**
 - **Guard: Using your weapon, you guard against any attack thrown at you from in front of you, consuming 1 Charge with each Strike/Projectile you guard against; can't protect you against powerful attacks like Heavy Strike or Strong Haymaker.**
 
+**After landing a killing blow on an enemy, roll **
 # Unchained
 
 ## Sofficer (Class)
