@@ -177,6 +177,10 @@ The bigger they are, the bigger the trophy for my legend! You’re now the owner
 - **5) Anarchy in the Galaxy - Like rolling 7s at a Jackpot machine, this is a very powerful Dark Trance to get as it can reward the user with riches or massive killing potential in a pink energy rain-shower; over the course of a Quest, every Anarchy in the Galaxy rolled during a Dark Trance gives you 1 stack of said Trance, with each stack giving you 1d6 worth of Gold at the end of a Quest; you can choose to spend all stacks of A.i.t.G. while in combat to deal 7 Damage per-Stack gained in a 25ft Radius. This attack can't be Dodged or Blocked.**
 - **6) Cherry - The Heroless gains +2 Action Economy and all enemies are unable to Dodge their attacks; does not stop Guarding.**
 
+### Perfect Dodge/Perfect Dodge-Throw
+When a successful Dodge/Dark Step is performed, roll a Disadvantage Test with success on a 6 only; a successful Test causes the Heroless to perform a Perfect Dodge, allowing them to perform 1d6 Strikes against them or performing a guaranteed Wrestling Move regardless if they're Stunned.
+### Rapid Charging*
+Rapidly jerking your Beam Weapon becomes more efficient as you rapidly recharge it an additional +3 Charges.
 ### Technique of Love
 *The Memory of Demon corresponds to Dan Smith, who was nicknamed the Hellion and had a weapon called the Demon Gun.* With an Action and Standard Test, perform a Leaping Strike at an enemy up to 15ft away that deals +1 Damage.
 ### Technique of God*
@@ -189,8 +193,11 @@ The bigger they are, the bigger the trophy for my legend! You’re now the owner
 When performing a Guard as an Action, roll a Disadvantage Test; if successful, the Heroless can then perform a Standard Test to hit all of those around them in a 5ft-radius with a Spinning Strike as a counterattack.
 ### Triangle Death Blow
 When the Heroless is performing a Finisher, they roll a Disadvantage Test until failure; for each successful Test, the number of Targets hit by the Finisher increase by +1 per success and killing them regardless of their HP; this effect does not work on Powerful Enemies and instead only deals x3 Damage to them.
+
+### Rising Kick
 ### Resurrection
 After the Heroless' HP reaches 0, they must perform 3 Disadvantage Tests; if even one of them is a success, the Heroless revives after the strike and heals up to 15% of their Max HP; after each successful revive, reduce the number of Tests rolled by -1 to a minimum of 1 until the end of Combat.
+
 
 # Unchained
 
