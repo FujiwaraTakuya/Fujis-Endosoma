@@ -45,7 +45,8 @@ Sorry sir but I don't give piggy back rides, but I do have an alternative. As a 
 *Is carrying this much a hindrance? Nonsense! I can still haul a couple hundred more pounds!* You can remain mobile even while after consuming a prey +1 size-category larger than yourself/enough prey that exceed your total limit. Reduce your Movement by -15ft and no longer become immediately immobile after eating 1 prey above your limit. ***Requires Titan-Stomach.***
 ### The penultimate hunger
 *I-I can continue eating! Th-this is just a warm u-Ourp!-pf-- ooof....* You are now able to eat past your natural limits and over-stuff yourself with +1 additional prey of any size once you've eaten to your limit. To devour them, you must roll at Disadvantage to consume them, and is unaffected by other Traits to increase the roll. ***Requires Titan Stomach, Strong Stance, and Hungry Jaws.***
-
+### The anti-struggler hold
+*Think you're a fighter? I've had stronger meals than you, pint-sized!* When a
 ## Endosoma Vore Prey Traits
 
 ### Forceful Entry
@@ -68,3 +69,7 @@ Sorry sir but I don't give piggy back rides, but I do have an alternative. As a 
 After every 2nd round after merging with your predator, you must make a Standard Test or be forcibly expelled from the Pred, reversing the effect you chose to give the Predator. If any damage was taken while you were both combined, damage is split amongst you both evenly until either you're both left at 1HP or both taken to 0, causing you both to immediately uncombine from each other and fall unconscious; this applies to healing too.
 
 While outside of combat, you only make a Test every waking hour, and every 8 hours during periods of sleep or while under the Sleep Condition.
+### 
+## Endosoma Vore Switch Traits
+
+### 
