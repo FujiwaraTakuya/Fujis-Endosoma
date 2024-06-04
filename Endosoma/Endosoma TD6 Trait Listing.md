@@ -92,6 +92,10 @@ While outside of combat, you only make a Test every waking hour, and every 8 hou
 
 ## Switch Traits
 
+### Vorifice Gambit
+*I choose to tactically ambush you...right...about...now!* Choosing either to hide in an allied Predator's guts or hiding an allied Switch inside of yourself safely, when within Grapple Range, the Predator is able to use an Action to leap out of their Predator's orifice to lunge out and tackle their Targeted Prey as long as the orifice is facing the direction of their Target. This Grapple attempt is made at +1 Test Category, and if successful, your Devour Attempt is made at +1 Test Category.
+### Vorifice Gambler's Gambit
+*The risks are usually worth it! Nom!!* When attempting Vorifice Gambit, you skip the Grapple attempt and try to make a singular Devour attempt instead with an additional +1 Test Category; if all dice roll below 5, the Devour attempt fails and your Target makes a test against you at Disadvantage.
 ### Parasite - Type: Tailmaw
 (Pre-Req: Symbiote)
 ### Parasite - Type: Breast
@@ -102,3 +106,11 @@ While outside of combat, you only make a Test every waking hour, and every 8 hou
 (Pre-Req: Symbiote)
 ### Parasite - Type: Bellymaw
 (Pre-Req: Symbiote)
+### Vorequilibrium
+*Try as you might, but you are unbalanced; you will not hit me, nor my ally.* This Trait only works while an ally is inside you, or you're inside an ally. When an ally attempts to make an attack at a Target within vision from your orifice/body, you can make a Standard Test to perform a single Weapon Attack/Unarmed Strike to hit the Target Simultaneously if within Melee Range, or shoot them at Range with a Disadvantage Test if applicable.
+When an enemy attempts to attack you and your ally inside you/while inside another, you can perform a Disadvantage Test to make a powerful leap up into the air from their guts or launch your ally out of your own orifice rapidly to evade the attack in an odd way, causing them to fly up 10ft into the air whist the ally Dodges the attack before opening their orifice once more to receive them back down into their depths.
+### Fused Vorequilibrium
+*I...no, we will overpower you with our combined might!* If an ally is within you, or you're within an Ally, as long as both parties consent to the Action the user of this Trait spends their 2 Actions to merge and share a body/being with their vorish partner, either becoming a single identity with fused species (Chimera Form) or a multi-headed being (Cerberus Form).
+While in Chimera Form, Players take the Highest Initiative of the two, and take turns each Round Piloting their fused identity. For each player fused this way, the fused entity gains +1 Action Economy, +10ft of Movement, and +1 Weapon Damage and Unarmed for every Ally fused to the host, and +1 Size Category for every 2 Allies fused to the host. Being fused like this means they both share health, and only go down once their fused form's HP reaches 0. Any damage that's taken once they unfused is split equally as possible amongst all parties after un-fusing. If the Player(s) prefer, they can designate 1 Character/the Host to be the main being controlling the entire body whilst discussing over the Actions taken instead.
+While in Cerberus Form the fused entity does not share the same Initiative order, but is instead 1 below the fastest ally in order of fastest to slowest, gains +1 Action Economy, +15ft of Movement, and +1 pair of Arms for every Ally fused to the host, and +1 Size Category for every 2 Allies fused to the host. While fused like this, both allies retain their separate HP pools. but damage taken is split equally amongst all fused parties; those who have their HP reduced to 0 while fused will become automatically unfused from the fused body, reducing the combined benefits or the fusion entirely. Cerberus gets only 1 dedicated Move action, with every additional Action being a separate Action performable by every separate Head, be it an additional Move Action, Attack Action, or some other kind of Action performable thanks to the combined Traits.
+For both forms, the Traits from both allies combine together when creating the combined entity(ies) to aid in their combat capabilities or non-combat capabilities. (Pre-Req: Symbiote)
