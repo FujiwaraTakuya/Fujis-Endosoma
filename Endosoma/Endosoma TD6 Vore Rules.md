@@ -22,7 +22,7 @@ If the target prey is an ally, if they're willing to be eaten, no roll is needed
 Inside the stomach/chamber
 
 When a prey starts their turn within a stomach, they can choose one of the following:
-*) Escape - Attempt a test to escape the/a chamber within the predator; if there are multiple chambers, with each success the prey can continue escaping until they're either out of the predator, or fail a test.
+*) Escape - Attempt a Disadvantage Test to escape the/a chamber within the predator; if there are multiple chambers, with each success the prey can continue escaping until they're either out of the predator, or fail a test.
 *) Rub Insides - Ultimately does nothing other than comfort the predator and let them know you're enjoying the environment.
 *) Test for Ability - Magic Casters can still use magic on themselves, the predator's insides, or the the area around them, but blindly shooting magic around the predator without a sense of direction requires the caster to roll a 1d8 to determine which direction it should be aimed towards. Melee and projectiles can't be used while in here aside from items.
 *) Wait - Essentially do nothing because they can't think of anything to do so either await their fate, or hope for their ally to save them.
