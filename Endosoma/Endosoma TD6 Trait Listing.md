@@ -92,4 +92,13 @@ While outside of combat, you only make a Test every waking hour, and every 8 hou
 
 ## Switch Traits
 
-### 
+### Parasite - Type: Tailmaw
+(Pre-Req: Symbiote)
+### Parasite - Type: Breast
+(Pre-Req: Symbiote)
+### Parasite - Type: Cock
+(Pre-Req: Symbiote)
+### Parasite - Type: Pucker
+(Pre-Req: Symbiote)
+### Parasite - Type: Bellymaw
+(Pre-Req: Symbiote)
