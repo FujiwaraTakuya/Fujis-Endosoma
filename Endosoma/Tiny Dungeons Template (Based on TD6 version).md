@@ -45,6 +45,8 @@ share: true
 - [ ] Ranged
 - [ ] Unarmed
 - [ ] Improvise
+### Mastery
+
 
 ## Heritage Trait(s)
 
