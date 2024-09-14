@@ -368,3 +368,28 @@ Combat will continue to go on like this until one side is all Knocked, Dead, Car
 In combat, everyone starts in Assault Mode. Rounds last 4 Seconds each Round.
 Each Action a player spends during their turn last a certain amount of seconds- either pulling off or how long until they land the attack, and each Action is queued one after another kinda like Final Fantasy 13. During Combat after queueing your Action(s), you can choose to perform an Action Break to stop your Queued Actions to setup a new set of Actions.
 When a Player runs out of HP, they're Downed not Dead, and to kill a Downed person, they either have to spend 2 continuous Rounds being Gripped by another creature, or spend 3 continuous Rounds drowning in water.
+
+
+# Character Creation Sheet
+## Stats
+- HP - 
+- Posture - 
+- Blood - 
+- Hunger - 
+- Thirst - 
+- Tempo - 
+- Ether - 
+- Sanity - 
+## Core Stats
+- Strength - 
+- Fortitude - 
+- Agility - 
+- Intelligence - 
+- Willpower - 
+- Charisma -
+## Weapon Class
+- Heavy Weapon Proficiency - 
+- Medium Weapon Proficiency - 
+- Light Weapon Proficiency -
+## Attunement
+- 
