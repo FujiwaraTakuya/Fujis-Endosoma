@@ -4,7 +4,7 @@ share: true
 # Prologue
 ***"The Gods are dead. No one is here to save us. We're all damned to seek an eternity of suffering until the Depths claim us once and for all as we are nothing but playthings to the ones who watch us from below. Some find solace in mundanity, others in the collective madness that comes from centuries of corruption from the unholy embrace that infects our lands. In the end, the Drowned Gods merely take plight in your endless suffering as you die, die, and die again so that you may one day escape this hell, or attain a glimpse of Immortality as: The Deepwoken."***
 
-Those were the words written by a bored guy in his mid-20s-30s for a game that was quite the popular experience in the 2020s, but gained a massive uproar in popularity by the 2030s with the Development of Official Nerve VR Gear that would allow a Player to experience the world of Video Games in a whole new light unlike anything that was experienced before. Wearing a biker helmet-type console upon their head, they lay down on their bed and start up the console with a voice command before having your nerves safely hijacked by the helmet to simulate the game inside your brain and allow you to experience that not only you could feel, smell, sense, and taste everything the world had to offer to you- it was truly a masterclass of design by several gifted scientists and engineers to bring this product to the public. Many a game were designed using the existing engines at the time, but one that had potential, surprisingly, was Roblox with its surprisingly in-depth engine which remained wholly under the radar of most developers until some talented individuals were able to create truly impressive experiences with graphics, sound design, and mechanics you'd normally see in more common triple-A titles. And with this experimentation, came to the advancement Deepwoken NVR.
+Those were the words written by a bored guy in his mid-20s-30s for a game that was quite the popular yet frustrating experience in the 2020s, but gained a massive uproar in popularity by the 2030s with the development of Official Nerve VR Gear that would allow a Player to experience the world of Video Games in a whole new light unlike anything that was experienced before. Wearing a biker helmet-type console upon their head, they lay down on their bed and start up the console with a voice command before having your nerves safely hijacked by the helmet to simulate the game inside your brain and allow you to experience that not only you could feel, but smell, sense, and taste everything the world had to offer to you- it was truly a masterclass of design by several gifted scientists and engineers to bring this product to the public. Many a game were designed using the existing engines at the time, but one that had potential, surprisingly, was Roblox with its surprisingly in-depth engine which remained wholly under the radar of most developers until some talented individuals were able to create truly impressive experiences with graphics, sound design, and mechanics you'd normally see in more common triple-A titles. And with this experimentation, came to the advancement Deepwoken NVR.
 
 
 # Stats
@@ -247,8 +247,8 @@ Atk. Limit (Per-Round): 4
 Melee Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
-Critical Attack: Axe Kicks/Lunging Grapple
-Critical Effect: Heavy Thrust dealing 4.5x Posture Damage on Block
+Critical Attack: Axe Kicks / Lunging Grapple
+Critical Effect: Heavy slam of ankle forcing Prone / Obvious lunging bear-hug into suplex forcing Prone and reposition behind Player
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Legs
 Atk. Dmg. : 2
