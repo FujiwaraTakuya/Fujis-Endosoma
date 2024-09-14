@@ -6,7 +6,9 @@ share: true
 
 Those were the words written by a bored guy in his mid-20s-30s for a game that was quite the popular yet frustrating experience in the 2020s, but gained a massive uproar in popularity by the 2030s with the development of Official Nerve VR Gear that would allow a Player to experience the world of Video Games in a whole new light unlike anything that was experienced before. Wearing a biker helmet-type console upon their head, they lay down on their bed and start up the console with a voice command before having your nerves safely hijacked by the helmet to simulate the game inside your brain and allow you to experience that not only you could feel, but smell, sense, and taste everything the world had to offer to you- it was truly a masterclass of design by several gifted scientists and engineers to bring this product to the public. Many a game were designed using the existing engines at the time, but one that had potential, surprisingly, was Roblox with its surprisingly in-depth engine which remained wholly under the radar of most developers until some talented individuals were able to create truly impressive experiences with graphics, sound design, and mechanics you'd normally see in more common triple-A titles. And with this experimentation, came to the advancement Deepwoken NVR.
 
+The game was, ultimately, made more accessible to the player base due to its Roguelike perma-death nature not working well with the new system of gameplay, leading to a change in management, and a vast difference in creative choices for the gameplay. It's been 2 years since the release of the NVR port, and a sudden change in its code began to spread gradually due to the influence of an unknown Hacker with many faces, voices, and abilities, with no known name other than the attempted alias: Blank, but because their actions are that of a single player and most of the community being, well, the community, since they referenced their name as square-brackets, they've been dubbed BoxHead. Surprisingly tame, but Roblox censorships do be like that. They made a decree that changed the entire experience of the game unlike what it once was before: "-all stats are now uncapped! Have fun, while it lasts~" before leaving a group of players they assaulted upon The Isle of Vigils.
 
+The world is changing; the gears shifting, perspectives turning, lives twisting into
 # Stats
 These are the Health/Personal statistics to keep one's self alive, listed as such:
 - HP - How many times you can get hit with Physical and Elemental Damage.
@@ -20,7 +22,7 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 
 **HP** - All players/humanoid creatures start with 10 Max HP.
 
-**Posture** - All players/humanoid creatures start with 10 Max Posture. In Combat, Posture starts at 0, takes damage when blocking damage instead of parrying, and breaks when at Max, leaving the Defender helpless and Posture-Broken for 2 Seconds whilst increaseing damage taken during this period by 2x the total damage; this helplessness can carry over to the next Round.
+**Posture** - All players/humanoid creatures start with 10 Max Posture. In Combat, Posture starts at 0, takes damage when blocking damage instead of parrying, and breaks when at Max, leaving the Defender helpless and Posture-Broken for 2 Seconds whilst increasing damage taken during this period by 2x the total damage; this helplessness can carry over to the next Round.
 
 **Blood** - All players/living creatures start with 100 Max Blood. Taking damage removes points of Blood from your Blood Gauge, causing deadly problems if it's empty. This issue can be healed with rest at a campfire, but it takes in-game time to heal the blood back- around 3 seconds for each point of Blood recovered. Blood can only be healed while resting at a Campfire, and while the player's hunger is sated (above 0).
 
@@ -28,7 +30,7 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 
 **Thirst** - All players/living creatures start with 100 Max Thirst. Hydration is important while out in the wild, especially when crossing the seas where clean water is very difficult to come across. Hunger is reduced by 40 points every hour and 25 minutes.
 
-**Tempo** - All players/humanoid creatures start with 100 Max Tempo. Outside of combat and before combat starts, Tempo always remains at 0. When a humanoid creature is hit for the first time in Combat their Tempo rises up to 45 instantly with successive hits after only giving 5 Tempo per-hi taken, and for every 25 points of Tempo gained, increase the creature's Ether generation per-Round by +1. At 45 Tempo, a creature can use their Vent to unleash and pushes all creatures back by 40ft, unless the ability is blocked.
+**Tempo** - All players/humanoid creatures start with 100 Max Tempo. Outside of combat and before combat starts, Tempo always remains at 0. When a humanoid creature is hit for the first time in Combat their Tempo rises up to 45 instantly with successive hits after only giving 5 Tempo per-hi taken, and for every 25 points of Tempo gained, increase the creature's Ether generation per-Round by +1. At 40 Tempo, a humanoid can use their Vent to unleash and pushes all creatures back by 40ft, unless the ability is blocked.
 
 **Ether** - All players start with 100 Max Ether. Players naturally regen 10 point of Ether per 4 seconds outside of combat. During Combat each Round, all Players Regen 1 point of Ether per-second,  and only at the start of each Round. The amount of Ether Regen'd is influenced by the player's Tempo. Other humanoid creatures unlike Players do not have Ether requirements, but instead have predictable attack sequences.
 
@@ -123,10 +125,9 @@ If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons f
 If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
 
 # Weapon and Equipment
-Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon. 
+Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon. Crits can only be made once per-round unless specified otherwise.
 
 There are 3 Main Categories of Weaponry that affect your style of combat; here are a list of base-stats for the starting weapons: 
-
 
 ## Heavy - Consists of Great Axes, Great Swords, and Great Hammers.
 ### Great Axes: 
@@ -259,8 +260,10 @@ Atk. Spd. : 1 Seconds
 Atk. Limit (Per-Round): 4
 Melee Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
-Critical Range: 5ft
+Critical Range: 5ft. cone
 Critical Attack: Roundhouse Kick
+Critical Effect: Sweep heel in a 5ft cone and deal Flourish Damage instead whilst knocking back 10ft
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Guns (Pistols)
 Atk. Dmg. : 2
 Pstr. Dmg. : 3
@@ -272,6 +275,8 @@ Melee Range: 5ft.
 Flourish Combo: Quick Attack x2 -> Flourish
 Powder Blast Range: 5ft
 Critical Shot Range: 30ft.
+Critical Effect: Projectile that deals 3x Attack Damage or Posture Damage on Block
+Critical Speed: 1 Second
 ### Rapiers
 Atk. Dmg. : 2
 Pstr. Dmg. : 1
@@ -292,8 +297,9 @@ Atk. Spd. : 1 Seconds
 Atk. Limit (Per-Round): 
 Melee Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
-Critical Range: 
-Critical Attack: 
+Critical Shot Range: 120ft.
+Critical Effect: Projectile that deals 2x Attack Damage or Posture Damage on Block; can be performed twice in 1 Round, with a 1 second cooldown between shots- including consecutive rounds
+Critical Speed: 1 Second
 
 There is a 4th Category- Hybrid which is a mixture of 2 or more stats focusing upon physical elements of the weapon, and Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
 # Attunements
@@ -307,23 +313,23 @@ These are the elements a Player can control; they can manipulate the element it 
 
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
-- Move - Move up to 15ft, Run up to 30ft, or Sprint up to 60ft
-- Quick Attack - Perform a short, quick attack with varying speed amongst weapons
-- Critical Attack - Perform a strong but obvious attack with various offensive properties based upon weapon
-- Uppercut - Evading an incoming attack, you weave around/under the Physical attack before attempting to launch yourself and your opponent skywards
-- Feint/Attack-Cancel - Fake an attack/cancel an attack mid-way through swinging at the cost of Posture
-- Block - Guarding against any and all damage geared towards them in exchange for Posture damage
-- Parry - Attempt to deflect an attack with high risks for a large reward
-- Dodge - Move up to the maximum Move distance to dodge out of most attacks with invincibility/damage reduction 
-- Dodge-Feint - Feign a large-moving dodge to side-step 5ft in a direction of choice
-- Vent - Use 40 Tempo to blow away every creature within 5ft 20ft away without damage
-- Wait - Spend 1 Second doing nothing 
-- Cast Mantra - Perform a specialised action using Ether to assault your enemy(ies)
-- Feint Mantra* - Cancel the usage of a Mantra and its Ether consumption to bait an attack in or switch up attacks. (Note: Only certain Attunements can allow you to perform this sort of Action)
-- Quick-Equip Item/Equipment - Swap out a held item or bring out a held item from the Player's inventory
+- Move - Move up to 15ft, Run up to 30ft, or Sprint up to 60ft (1/2/3 seconds; Sprint disables Quick Attack, Block, Parry, Quick-Equip, Throw, and Use Item.)
+- Quick Attack - Perform a short, quick attack with varying speed amongst weapons (1 second)
+- Critical Attack - Perform a strong but obvious attack with various offensive properties based upon weapon (2 seconds/varies)
+- Uppercut - Evading an incoming attack, you weave around/under the Physical attack before attempting to launch yourself and your opponent skywards (2 seconds)
+- Feint/Attack-Cancel - Fake an attack/cancel an attack mid-way through swinging at the cost of Posture (1 second)
+- Block - Guarding against any and all damage geared towards them in exchange for Posture damage (1~ second)
+- Parry - Attempt to deflect an attack with high risks for a large reward (2 seconds with 1 second cooldown on failed parry, can parry 7 attacks in 1 second)
+- Dodge - Move up to the maximum Move distance to dodge out of most attacks with invincibility/damage reduction (2 seconds with 4 second cooldown)
+- Dodge-Feint - Feign a large-moving dodge to side-step 5ft in a direction of choice (1 Second; performable only twice in 4 Round)
+- Vent - Use 40 Tempo to gain invulnerability for 2 seconds and blow away every creature within 5ft, 20ft away without damage; is blockable to negate knockback (2 seconds with 1 second end-lag)
+- Wait - Spend 1 Second doing nothing (1 second)
+- Cast Mantra - Perform a specialised action using Ether to assault your enemy(ies) (Varies; usually 1 second start-up)
+- Feint Mantra* - Cancel the usage of a Mantra and its Ether consumption to bait an attack in or switch up attacks. (Note: Only certain Attunements can allow you to perform this sort of Action) (1 second)
+- Quick-Equip Item/Equipment - Swap out a held item or bring out a held item from the Player's inventory (2-4 seconds)
 - Throw Item/Weapon - Take any held item in-hand and lob it at at a Target within range.
-- Use Item/add/switch Equipment - Depending on the item in-hand, use it for its intended effect/switch pieces of equipment
-- Action Break - Once per-round, a Player can spend an Action Break to change their queued actions after  seeing each Action happen during Combat; even if interrupted, they can start new Actions instead based on how much time is left during the Round.
+- Use Item/add/switch Equipment - Depending on the item in-hand, use it for its intended effect/switch pieces of equipment (1 Second)
+- Action Break - Once per-round, a Player can spend an Action Break to change their queued actions after  seeing each Action happen during Combat; even if interrupted, they can start new Actions instead based on how much time is left during the Round. (Instant)
 
 # Combat Explained
 ## Combat Part 1: Round 1: Battle-Start
