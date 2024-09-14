@@ -1,6 +1,11 @@
 ---
 share: true
 ---
+# Prologue
+***"The Gods are dead. No one is here to save us. We're all damned to seek an eternity of suffering until the Depths claim us once and for all as we are nothing but playthings to the ones who watch us from below. Some find solace in mundanity, others in the collective madness that comes from centuries of corruption from the unholy embrace that infects our lands. In the end, the Drowned Gods merely take plight in your endless suffering as you die, die, and die again so that you may one day escape this hell, or attain a glimpse of Immortality as: The Deepwoken."***
+
+Those were the words written by a bored guy in his mid-20s-30s for a game that was quite the popular experience in the 2020s, but gained a massive uproar in popularity by the 2030s with the Development of Official Nerve VR Gear that would allow a Player to experience the world of Video Games in a whole new light unlike anything that was experienced before. Wearing a biker helmet-type console upon their head, they lay down on their bed and start up the console with a voice command before having your nerves safely hijacked by the helmet to simulate the game inside your brain and allow you to experience that not only you could feel, smell, sense, and taste everything the world had to offer to you- it was truly a masterclass of design by several gifted scientists and engineers to bring this product to the public. Many a game were designed using the existing engines at the time, but one that had potential, surprisingly, was Roblox with its surprisingly in-depth engine which remained wholly under the radar of most developers until some talented individuals were able to create truly impressive experiences with graphics, sound design, and mechanics you'd normally see in more common triple-A titles. And with this experimentation, came to the advancement Deepwoken NVR.
+
 
 # Stats
 These are the Health/Personal statistics to keep one's self alive, listed as such:
@@ -15,7 +20,7 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 
 **HP** - All players/humanoid creatures start with 10 Max HP.
 
-**Posture** - All players/humanoid creatures start with 10 Max Posture. In Combat, Posture starts at 0, and breaks when at Max, leaving the Defender helpless and Posture-Broken for 2 Seconds and increases damage taken during this period by 2x the total damage; this helplessness can carry over to the next Round.
+**Posture** - All players/humanoid creatures start with 10 Max Posture. In Combat, Posture starts at 0, takes damage when blocking damage instead of parrying, and breaks when at Max, leaving the Defender helpless and Posture-Broken for 2 Seconds whilst increaseing damage taken during this period by 2x the total damage; this helplessness can carry over to the next Round.
 
 **Blood** - All players/living creatures start with 100 Max Blood. Taking damage removes points of Blood from your Blood Gauge, causing deadly problems if it's empty. This issue can be healed with rest at a campfire, but it takes in-game time to heal the blood back- around 3 seconds for each point of Blood recovered. Blood can only be healed while resting at a Campfire, and while the player's hunger is sated (above 0).
 
@@ -38,34 +43,64 @@ The Stats that affect gameplay are listed as such:
 - Willpower - Enhance Elemental and Willpower Mantras, Ether increase, Enchanting Items, and ability to deal with Willpower-based tasks.
 - Charisma - Enhance Elemental and Charisma Mantras, Ether increase, Charisma effects and manipulation, and ability to deal with Charisma-based tasks.
 
-## Weapon Class
-- Heavy Weapon Proficiency - Heavy Weapon wielding skill, Percentile increase to weapon damage, Mantras, and Talents
-- Medium Weapon Proficiency - Medium Weapon wielding skill, Percentile increase to weapon damage, Mantras, and Talents
-- Light Weapon Proficiency - Light Weapon wielding Skill, Percentile increase to weapon damage, Mantras, and Talents
-
 **Strength** - All players/humanoid creatures start with a Max Carry Capacity of 25 items of objects weighing up to 3.04kg/6.61lbs each and can throw objects only up to 15ft.
 
-Every 10 points in this stat increases the Armour Penetration of Melee Weapon Damage by +1, Strength-based Mantra Damage and Effects by +2 per-point; for every 5 points throwing-distance is increased by +5ft, every 12 points increases Posture Damage against Blocking enemies by +2, Posture Damage against Unflinching Creatures by +4, and for every point of Strength increases your Max Carry Capacity by +1.
+Every 10 points in this stat increases the Armour Penetration of Melee Weapon Damage by +1, Strength-based Mantra Damage and Effects by +2 per-point; for every 5 points throwing-distance is increased by +5ft; every 12 points increases Posture Damage against Blocking enemies by +2, Posture Damage against Unflinching Creatures by +4; and for every point of Strength increases your Max Carry Capacity by +1.
 
 **Fortitude** - All players/humanoid creatures start with 10 Max HP and 0 points of Damage Resistance.
 
-Every point in this stat increases the Max HP by +1, every 10 points increases their Max Posture by +5, increase Fortitude-based Mantra Damage and Effects by +2 per point, every 20 points increases the Player's Physical Damage Resistance by +1, and every 25 points increases the Player's Magical Damage Resistance by +1.
+Every point in this stat increases the Max HP by +1; every 10 points increases their Max Posture by +5; increase Fortitude-based Mantra Damage and Effects by +2 per point; every 20 points increases the Player's Physical Damage Resistance by +1, and every 25 points increases the Player's Magical Damage Resistance by +1.
 
 **Agility** - All players/humanoid creatures are physically capable of scaling 5ft walls or holes/caverns with an equal-distance start-up, Move 60ft outside of Combat every 4 seconds and 30ft in combat.
 
-Every 10 points of this Stat increases the Climbing/Leap distance by +5ft, increases the Base Movement outside of Combat by +10ft and inside by +5ft, increase Agility-based Mantra Damage and Effects by +2 per point, every 20 points increases the amount of Bleed Damage dealt while attacking Blocking enemies by +1, every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points increases the amount of Posture Damage dealt while Parrying enemies by +1.
+Every 10 points of this Stat increases the Climbing/Leap distance by +5ft, increases the Base Movement outside of Combat by +10ft and inside by +5ft; increase Agility-based Mantra Damage and Effects by +2 per point; every 20 points increases the amount of Bleed Damage dealt while attacking Blocking enemies by +1; every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points decreases the amount of Posture Damage taken while being Parried by enemies by -1.
 
-**Intelligence** - All players/humanoid creatures are unable to craft basic items outside of Campfires, food, and Mantra Manipulation.
+**Intelligence** - All players/humanoid creatures are unable to craft basic items outside of Campfires, food, and Mantra Modification.
 
-Every 10 points increases Elemental Mantras and Intelligence-based by +1, every 3 points increases Max Ether; at 10 points of Intelligence the Player can craft Basic Items; at 20 Intelligence they can craft Intermediate Items; at 40 they can craft Advanced Items; at 60 they can craft Master Items; at 100 they can craft Legendary Items; at 101+ they can craft Mythical Items. 
+Every 10 points increases Elemental and Intelligence-based Mantras and Effects by +1, every 3 points increases Max Ether by +3; every 15 points increases Elemental Mantras by +1 Players gain item-crafting at the following benchmarks:
+- 10 - They  can craft Basic Items and equipment.
+- 20 - They can craft Intermediate Items and equipment.
+- 40 - They can craft Advanced Items and equipment.
+- 60 - They can craft Master Items and equipment.
+- 100 - They can craft Legendary Items and equipment.
+- 101+ - They can craft Mythical Items. and equipment 
 
 **Willpower** - All players/humanoid creatures start with 100 Max Sanity unless specified otherwise.
 
-Every point of Willpower increases their Max Sanity by +2, their Max Ether by +3, every 10 points increases Willpower Mantras by +1, and every 15 points increases Elemental Mantras by +1; while crafting an Item, you can Enchant it with Willpower up to its Material-Cap, and both crafting Stats do not need to be taken by the same Player to Enchant an item. 
+Every point of Willpower increases their Max Sanity by +2, their Max Ether by +1; every 10 points increases Willpower Mantras and effects by +1, and every 15 points increases Elemental Mantras by +3; Players gain the ability to manually Enchant owned weaponry and armour, but the Enchantment is usually random and no two pieces of equipment can have the same Enchantments while equipped, with the level of the Enchantment being chosen once a Player's Willpower hits the following benchmark:
+- 20 - They can give equipment Tier 1 Enchantments
+- 40 - They can give equipment Tier 2 Enchantments
+- 60 - They can give equipment Tier 3 Enchantments
+- 80 - They can give equipment Tier 4 Enchantments
+- 100 - They can give equipment Tier 5 Enchantments
+- 101+ - They can give equipment Tier 6 Enchantments
 
 **Charisma** - Aside from The Knives of Eylis, The Ministry, and The Hundred Legions who always have a negative reputation with all other than those a part of their Factions, and those from Etrea and The Lost Celtor who have Positive reputation with all apart from those in the above-mentioned Factions, all Factions have Neutral Reputation with the Player(s).
 
-This stat affects a number of Charisma-based Actions including Vows of Mastery; every 3 points increases Vow of Mastery Effects by +1 whilst increasing other Charisma based Actions by +1 per 2 points; it also increases Elemental Mantras by +1 every 20 points whilst every point increases Max Ether by +2, and every 10 points increases Charisma-based Mantras by +1.
+This stat affects a number of Charisma-based Mantras and Effects, including Vows of Mastery; every 3 points increases Vow of Mastery Effects by +2 whilst increasing other Charisma Mantas and Effects by +1 per 2 points; it also increases Elemental Mantras by +1 every 15 points whilst every point increases Max Ether by +3; higher levels of Charisma in positive-connection factions can allow Players to gain percentile-discounts on purchasing items whilst being capped at 25% in negative-connection factions- the system based on the following Benchmarks:
+- 10 - 5% Discount
+- 20 - 10% Discount
+- 30 - 15% Discount
+- 40 - 20% Discount
+- 50 - 25% Discount
+- 60 - 30% Discount
+- 70 - 35% Discount
+- 80 - 40% Discount
+- 90 - 45% Discount
+- 100 - 50% Discount
+- 200 - 55% Discount
+- 300 - 60% Discount
+- 400 - 65% Discount
+- 500 - 70% Discount
+- 600 - 75% Discount
+- 700 - 80% Discount
+- 800 - 85% Discount
+- 900 - 90% Discount
+- 1000 - 95% Discount
+# Weapon Class
+- Heavy Weapon Proficiency - Heavy Weapon wielding skill, Percentile increase to weapon damage, Mantras, and Talents
+- Medium Weapon Proficiency - Medium Weapon wielding skill, Percentile increase to weapon damage, Mantras, and Talents
+- Light Weapon Proficiency - Light Weapon wielding Skill, Percentile increase to weapon damage, Mantras, and Talents
 
 **Heavy Weapon Proficiency** - Each 10 points of this Stat increases Heavy Weapon Damage by +1; every 20 points increases Two-Handed Heavy Weapon Damage by an additional +3; when Two-Handing any other weapon-type, increase their Weapon Damage by +1 instead.
 
@@ -88,109 +123,159 @@ If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons f
 If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
 
 # Weapon and Equipment
-There are 3 Main Categories of Weaponry that affect your style of combat; here ar e a list of base-stat weapons without specialization: 
+There are 3 Main Categories of Weaponry that affect your style of combat; here are a list of base-stats for the starting weapons: 
 
+\*Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon.
 ## Heavy - Consists of Great Axes, Great Swords, and Great Hammers.
 ### Great Axes: 
-Atk. Dmg. : 5
-Pstr. Dmg. : 3
+Atk. Dmg. : 3
+Pstr. Dmg. : 4
 Bld. Dmg. : 3
-Flrsh. Dmg. : 1
-Atk. Spd. : 2 Seconds
+Flrsh. Dmg. : 3
+Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+Atk. Limit (Per-Round): 2
 Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft.
+Critical Attack: Overhead Slash
 ### Great Swords: 
-Atk. Dmg. : 4
-Pstr. Dmg. : 2
-Bld. Dmg. : 2
-Flrsh. Dmg. : 3
-Atk. Spd. : 2 Seconds
+Atk. Dmg. : 3
+Pstr. Dmg. : 3
+Bld. Dmg. : 5
+Flrsh. Dmg. : 1
+Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+Atk. Limit (Per-Round): 2
 Range: 10ft.
 Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Overshoulder Slash
 ### Great Hammer: 
 Atk. Dmg. : 3
 Pstr. Dmg. : 5
 Bld. Dmg. : 1
 Flrsh. Dmg. : 5
-Atk. Spd. : 2 Seconds
+Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+Atk. Limit (Per-Round): 2
 Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Overhead Smash
 ## Medium - Consists of Swords, Spears, Clubs, and Rifles.
 ### Swords: 
-Atk. Dmg. : 3
-Pstr. Dmg. : 5
-Bld. Dmg. : 1
-Flrsh. Dmg. : 5
-Atk. Spd. : 1.5 Seconds
-Range: 5ft.
-Flourish Combo: Quick Attack x3 -> Flourish
-### Spears: 
-Atk. Dmg. : 3
-Pstr. Dmg. : 5
-Bld. Dmg. : 1
-Flrsh. Dmg. : 5
-Atk. Spd. : 2 Seconds
-Range: 10ft.
-Flourish Combo: Quick Attack x3 -> Flourish
-### Clubs: 
-Atk. Dmg.: 3
-Pstr. Dmg.: 5
-Bld. Dmg.: 1
-Flrsh. Dmg. : 5
-Atk. Spd.: 1.5 Seconds
-Range: 5ft.
-Flourish Combo: Quick Attack x3 -> Flourish
-### Rifles: 
-Atk. Dmg. : 5
-Pstr. Dmg. : 5
-Bld. Dmg. : 2
-Flrsh. Dmg. : 3
-Atk. Spd. : 2 Seconds
-Melee Range: 10ft.
-Flourish Combo: Quick Attack -> Powder Blast -> Quick Attack ->Powder Blast -> Flourish
-Ammo-less Fire Range
-Rngd. Fire Range: 30ft.
-Rld. Spd.: 4 Seconds
-
-## Light - Consists of Daggers, Fists, Guns, and Rapiers.
-### Daggers
-Atk. Dmg. : 1
-Pstr. Dmg. : 2
-Bld. Dmg. : 3
-Flrsh. Dmg. : 1
-Atk. Spd. : 1 Seconds
-Melee Range: 5ft.
-Flourish Combo: Quick Attack x4 -> Flourish
-### Fists
 Atk. Dmg. : 2
 Pstr. Dmg. : 2
-Bld. Dmg. : 1
-Flrsh. Dmg. : 4
-Atk. Spd. : 1 Seconds
-Melee Range: 5ft.
-Flourish Combo: Quick Attack x4 -> Flourish
-### Guns (Pistols)
-Atk. Dmg. : 3
+Bld. Dmg. : 4
+Flrsh. Dmg. : 2
+Atk. Spd. : 1.5 Seconds
+Atk. Limit (Per-Round): 3
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Penetrating Thrust
+### Spears: 
+Atk. Dmg. : 2
 Pstr. Dmg. : 1
+Bld. Dmg. : 3
+Flrsh. Dmg. : 2
+Atk. Spd. : 1.5 Seconds
+Atk. Limit (Per-Round): 3
+Range: 10ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft->10ft
+Critical Attack: Sweep and Charge
+### Clubs: 
+Atk. Dmg.: 2
+Pstr. Dmg.: 4
+Bld. Dmg.: 1
+Flrsh. Dmg. : 3
+Atk. Spd.: 1.5 Seconds
+Atk. Limit (Per-Round): 3
+Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Overhead Smack
+### Rifles: 
+Atk. Dmg. : 2
+Pstr. Dmg. : 3
+Bld. Dmg. : 2
+Flrsh. Dmg. : 4
+Atk. Spd. : 1.5 Seconds
+Atk. Limit (Per-Round): 3
+Melee Range: 10ft.
+Flourish Combo: Quick Attack -> Powder Blast -> Quick Attack ->Powder Blast -> Flourish
+Powder Blast Range: 5ft
+Critical Shot Range: 30ft.
+
+
+## Light - Consists of Daggers, Fists, Guns, Rapiers, and Bows.
+### Daggers
+Atk. Dmg. : 1
+Pstr. Dmg. : 1
+Bld. Dmg. : 3
+Flrsh. Dmg. : 2
+Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 4
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5-10ft
+Critical Attack: Swirling Strikes
+### Fists
+Atk. Dmg. : 1
+Pstr. Dmg. : 3
 Bld. Dmg. : 1
 Flrsh. Dmg. : 2
 Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 4
 Melee Range: 5ft.
-Flourish Combo: Quick Attack x4 -> Flourish
-Ammo-less Fire Range: 5ft
-Rngd. Fire Range: 20ft.
-Rld. Spd.: 1 Second(s) per-bullet/2 Seconds per-mag.
-
-### Rapiers
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Axe Kicks/Lunging Grapple
+### Legs
 Atk. Dmg. : 2
-Pstr. Dmg. : 2
-Bld. Dmg. : 2
+Pstr. Dmg. : 3
+Bld. Dmg. : 1
 Flrsh. Dmg. : 3
 Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 4
 Melee Range: 5ft.
-Flourish Combo: Quick Attack x4 -> Flourish
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 5ft
+Critical Attack: Roundhouse Kick
+### Guns (Pistols)
+Atk. Dmg. : 2
+Pstr. Dmg. : 3
+Bld. Dmg. : 1
+Flrsh. Dmg. : 1
+Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 4
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x2 -> Flourish
+Powder Blast Range: 5ft
+Critical Shot Range: 30ft.
+### Rapiers
+Atk. Dmg. : 2
+Pstr. Dmg. : 1
+Bld. Dmg. : 2
+Flrsh. Dmg. : 2
+Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 4
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 
+Critical Attack: 
+### Bows
+Atk. Dmg. : 1
+Pstr. Dmg. : 3
+Bld. Dmg. : 1
+Flrsh. Dmg. : 2
+Atk. Spd. : 1 Seconds
+Atk. Limit (Per-Round): 
+Melee Range: 5ft.
+Flourish Combo: Quick Attack x3 -> Flourish
+Critical Range: 
+Critical Attack: 
 
-There is a 4th Category- Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
+There is a 4th Category- Hybrid which is a mixture of 2 or more stats focusing upon physical elements of the weapon, and Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
 # Attunements
 These are the elements a Player can control; they can manipulate the element it relates to, listed as such:
 - Firecharm
