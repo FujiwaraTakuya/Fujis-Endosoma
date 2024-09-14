@@ -123,9 +123,11 @@ If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons f
 If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
 
 # Weapon and Equipment
+Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon. 
+
 There are 3 Main Categories of Weaponry that affect your style of combat; here are a list of base-stats for the starting weapons: 
 
-\*Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon.
+
 ## Heavy - Consists of Great Axes, Great Swords, and Great Hammers.
 ### Great Axes: 
 Atk. Dmg. : 3
@@ -138,6 +140,8 @@ Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft.
 Critical Attack: Overhead Slash
+Critical Effect: 1-Hit Hyper Armour into Unblockable ground-slam and force-Prone for 1 second
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Great Swords: 
 Atk. Dmg. : 3
 Pstr. Dmg. : 3
@@ -149,6 +153,8 @@ Range: 10ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
 Critical Attack: Overshoulder Slash
+Critical Effect: 1-Hit Hyper Armour into Unstoppable ground-slash and force-Daze 2 seconds.
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Great Hammer: 
 Atk. Dmg. : 3
 Pstr. Dmg. : 5
@@ -160,6 +166,9 @@ Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
 Critical Attack: Overhead Smash
+Critical Effect: 1-Hit Hyper Armour into Untoppable ground-smash and force-Prone for 2 seconds
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
+
 ## Medium - Consists of Swords, Spears, Clubs, and Rifles.
 ### Swords: 
 Atk. Dmg. : 2
@@ -172,6 +181,8 @@ Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
 Critical Attack: Penetrating Thrust
+Critical Effect: Heavy Thrust dealing 4.5x Posture Damage on Block
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Spears: 
 Atk. Dmg. : 2
 Pstr. Dmg. : 1
@@ -183,6 +194,8 @@ Range: 10ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft->10ft
 Critical Attack: Sweep and Charge
+Critical Effect: 5ft-Cone Slash into 5ft leap and thrust
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Clubs: 
 Atk. Dmg.: 2
 Pstr. Dmg.: 4
@@ -194,6 +207,8 @@ Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
 Critical Attack: Overhead Smack
+Critical Effect: Instant Posture-break on Block
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Rifles: 
 Atk. Dmg. : 2
 Pstr. Dmg. : 3
@@ -205,13 +220,14 @@ Melee Range: 10ft.
 Flourish Combo: Quick Attack -> Powder Blast -> Quick Attack ->Powder Blast -> Flourish
 Powder Blast Range: 5ft
 Critical Shot Range: 30ft.
-
+Critical Effect: Projectile that deals 3x Attack Damage or Posture Damage on Block
+Critical Speed: 2 Seconds (End-Lag time: 1 Second)
 
 ## Light - Consists of Daggers, Fists, Guns, Rapiers, and Bows.
 ### Daggers
 Atk. Dmg. : 1
 Pstr. Dmg. : 1
-Bld. Dmg. : 3
+Bld. Dmg. : 4
 Flrsh. Dmg. : 2
 Atk. Spd. : 1 Seconds
 Atk. Limit (Per-Round): 4
@@ -219,10 +235,12 @@ Melee Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5-10ft
 Critical Attack: Swirling Strikes
+Critical Effect: Spinning slash and stab attack moving 5ft in any direction or in place, doing 3 separate fast hits; Bleed Damage increased to x2
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Fists
 Atk. Dmg. : 1
 Pstr. Dmg. : 3
-Bld. Dmg. : 1
+Bld. Dmg. : 2
 Flrsh. Dmg. : 2
 Atk. Spd. : 1 Seconds
 Atk. Limit (Per-Round): 4
@@ -230,6 +248,8 @@ Melee Range: 5ft.
 Flourish Combo: Quick Attack x3 -> Flourish
 Critical Range: 5ft
 Critical Attack: Axe Kicks/Lunging Grapple
+Critical Effect: Heavy Thrust dealing 4.5x Posture Damage on Block
+Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Legs
 Atk. Dmg. : 2
 Pstr. Dmg. : 3
