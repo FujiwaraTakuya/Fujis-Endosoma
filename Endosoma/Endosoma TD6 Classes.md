@@ -207,11 +207,68 @@ After the Heroless' HP reaches 0, they must perform 3 Disadvantage Tests; if eve
 *Through years of traditions and research, life is equally renewed as it is taken away, and one must be able to handle these burdens less they lose themselves in the seas of life and drown.* Being born in the Society of Souls, you eventually join the guardsmen known as the Gotei 13 to become a protector of the people, eventually becoming powerful enough to gain your own Zanpakuto as you subdue an Asauchi that turns into your new blade and you begin to understand more about your blade and soul. ***Gain a Katana called a Zanpakuto that allows you to cleanse Hollows of their Corruption and purify Lost Spirits for entry into the Society of Souls. At 150 EXP, the Reaper must roll a Disadvantage Test with success only on 6s every in-game hour in order to hear the whispers of your soul inside your Zanpakuto, with 3 successful attempts guaranteeing the connection between Reaper and their Soul who tells them part of their name, unlocking its Shikai form; at 1000 EXP, the Reaper may gain access to their Bankai- but only if they're able to subdue it within their own soul through battle or special manifestation techniques made by the Reapers; at 10000 EXP, its possible for a Reaper with such power and experience to unlock their True Shikai and Bankai by Training, learning their other names (if they have more than one), and/or learning to become one with and accepted by their Soul.***
 ### Arrancars (Class Theme)
 *Life brought back from the pain and regret of being unable to pass away, and corrupted and reborn by those emotions and the death of their own soul, they return either as a powerful Hollow who feeds on other souls and culminates into a powerful mass of power unlike anything seen before, or become a part of that mass and losing themselves in that desperation for survival, power, and control.* Starting out as a Hollow born from the leftover regrets and emotions they had before they died then either not being purified or being killed by other Hollows, commonly being reborn either a Fishbones, Hexapodus, Shrieker, or Demi-Hollow with no memory/nearly no memory of their past life, either they start feasting on their family first before pursuing random targets with high Spiritual Pressure or are forced to dine on other Hollows to fill that never-ending hunger within themselves. ***Depends on the campaign; start either as a Hollow or Arrancar.***
-- ***Hollow (Sub-Class Theme): The weakest of the Hollows, devouring enough Souls/Hollows to gain enough Soul EXP allows them to evolve to higher statuses; at 100 S.EXP, they evolve into an Advanced Hollow capable of sapient thought and speech with additional powerful features; at 500 S.EXP, along with power they evolve into a new form of Hollow called a Menos- specifically the Adjuchas classification, and gain an even more advanced perception of themselves, the world around them, and an even more unique form with with features similar to animals with a monstrous, bone-covered features; at 1250 S.EXP, they evolve into the very powerful Vasto Lorde which attain more human-like appearances but vary in size and physicality. With aid, at Adjuchas or Vasto Lorde Hollows can have their mask ripped off/apart to transform them into an Arrancar, with Vasto Lorde Hollows having a greater source of unique and powerful abilities to their repertoire.***
-- ***Arrancar (Sub-Class Theme): ***
-- ***Vastocar (Sub-Class Theme)***
+- **Hollow (Sub-Class Theme):** *Dying twice and being reborn anew, a Hollow remembers next to nought of their previous life other than strong memories of those closest to them. More often than not, this turns them into their main prey as a result.* The weakest of the Hollows, devouring enough Souls/Hollows to gain enough Soul EXP allows them to evolve to higher statuses; at 100 S.EXP, they evolve into an Advanced Hollow capable of sapient thought and speech with additional powerful features; at 500 S.EXP, along with power they evolve into a new form of Hollow called a Menos- specifically the Adjuchas classification, and gain an even more advanced perception of themselves, the world around them, and an even more unique form with with features similar to animals with a monstrous, bone-covered features; at 1250 S.EXP, they evolve into the very powerful Vasto Lorde which attain more human-like appearances but vary in size and physicality. With aid, at Adjuchas or Vasto Lorde Hollows can have their mask ripped off/apart to transform them into an Arrancar, with Vasto Lorde Hollows having a greater source of unique and powerful abilities to their repertoire.
+	- **Arrancar (Sub-Class Theme):** *A higher-class of Hollow, evolving from Adjuchas after having their mask be torn from their face using special items- specifically The Hogyoku, they take on humanoid forms with leftover pieces of their mask residing upon their face; they retain traits of Hollows such as having a hole within a part of their body that pierces the hole way through their limb/body/head, but unlike other Hollows they regain internal organs similar to a human, but it's unknown as to what their biology looks like.* Arrancars are usually made through evolving an Adjuchas through The Hogyoku, but through specific scientific processes, artificial Arrancars can be made by forcing a Hollow to endure life-threatening experiments to the point of evolution or death. ***Players may start as an Arrancar born artificially for the sake of a campaign, but depending upon the setting they may start with 0 EXP or a set amount of EXP.***
+	- **Vastocar (Sub-Class Theme):** *A rare sight to behold, their power is almost as befuddling as their personalities, but make no mistake, underneath the sea of souls they inhabit within themselves, their power is grand and not to be underestimated.* A stronger, even more-powerful form of an Arrancar, born from the evolution of a Powerful Hollow or a Vasto Lorde-class Hollow, Vastocars gain access to the abilities of an Arrancar and more due to their larger pool of power that far-outclass regular Arrancars as a result. ***Power Must be gained through Evolution of a Vasto Lorde-class Hollow; evolved similarly to an Arrancar.***
+Once a Hollow evolves into an Arrancar, the following abilities are gained:
+
 ### Quincies (Class Theme)
 *A bi-product of an old king's thirst for revenge an old power that created everything, a Quincy are regular humans capable of using similar abilities to Reapers and Arrancars but are able to siphon the very essence that makes up their worlds and turn it into their power and ammunition to defeat their foes and obliterate their soul from existence.*
+
+## Summon Knight (Class)
+*Born from an ancient legend of a Blacksmith, his colleagues, and his Summon Monster defeating an ancient and terrible evil that threatened to destroy their home and everything in existence, this hero lead to the creation of the Summon Knights who craft weapons for others and themselves to defeat evil monsters and save those who need aid.* Within a 24-168 hour window, a Summon Knight can craft powerful weapons that vary in size, shape, and design with great technique so long as they have the materials for it; these weapons are limited specifically to: Swords/Daggers, Axes, Spears/Polearms, Knuckle Gauntlets, and a Drill Gauntlet, with other weapons not listed above being more difficult to craft without prior-teaching. ***All Weapons crafted by a Summon Knight must be performed with their Summon Monster for maximum results; without causes their tool to be 75/50% as effective.***
+### Smithing (Class Passive)
+When Crafting a new Weapon, a Weapon Mold is needed as a base for the design; a clay-like material used to keep the shape of whatever's poured into it that can then be recollected afterwards as a blueprint to create the same weapon later for profit. Summon Knights only need the
+
+### Weapon Mastery (Class Passive)
+
+
+### Summon Knight Fighting-Style (Class Passive)
+*As a Summon Knight, they craft their own weapons and can only gain Mastery with Weapons they've made on their own with their Summon Monster. With that in mind, they've been trained to fight with certain techniques in mind to fully-utilize any weapon they've made to the fullest, allowing them the best control over their tools and the battlefield.* Each Summon Knight fighting-style is listed below as to what each weapon-type can do in combat. ***All Summon Knights start out with 1 unbreakable low-damage Blacksmith Hammer, 1 Weapon Mold of their choosing from the above-listed options, and Iron Ore.***
+#### Blacksmith's Hammer
+- Overhead Swing: 5ft Range, Advantage Test, 1 Physical Damage
+	- Partial-Charged Overhead Swing: 5ft Range, Standard Test, 2 Physical Damage
+	- Full-Charged Overhead Swing: 5ft Range, Disadvantage Test, 3 Physical Damage
+- Aerial Overhead Smash: 5ft Range, 5ft Horizontal/Vertical Movement, Standard Test, 2 Physical Damage
+#### Swords/Daggers
+##### Light/Medium Swords/Daggers
+- Sword/Dagger Combos
+	- Slash Combo (Slash-Slash-Slash): 5ft Range, 3x Standard Tests, 1 Physical Damage each
+	- Slash-Stab Combo (Slash-Slash-Stab): 5ft Range, 2x Standard Tests + 1 Disadvantage Test, 1 Physical Damage per-Standard + 2 Physical Damage per-Disadvantage
+	- Slash-Stab-Stab Combo (Do I need to explain?): 5ft Range, 1 Standard Test + 2 Disadvantage Tests, 1 Physical Damage per-Standard + 2 Physical Damage per-Disadvantage
+- Lunging Stab: 10ft Range, Disadvantage Test, 2 Physical Damage
+- Aerial Slash: 5ft Range, 5ft Horizontal/Vertical Movement, Standard Test, 2 Physical Damage
+#### Heavy Swords
+- Overhead Slash: 5ft Range, Standard Test, 2 Physical Damage
+	- Partial-Charged Overhead Slash: 5ft Range, Disadvantage Test, 3 Physical Damage
+	- Full-Charged Overhead Slash: 5ft Range, Disadvantage Test, 4 Physical Damage
+- Heavy Sword Combos
+	- Slash Combo (Slash-Slash-Slash): 5ft Range, 2x Disadvantage Test + 1x Standard Tests, 2 Physical Damage each
+	- Slash-Stab Combo (No explanation needed): 5ft Range, 2x Disadvantage Test, 2 Physical Damage first-hit + 3 Physical Damage second-hit
+	- Slash-Slash-Stab Combo (Do I need to explain?): 5ft Range, 3 Disadvantage Tests, 2 Physical Damage per-Slash + 3 Physical Damage on Stab
+- Lunging Stab: 10ft Range, Disadvantage Test, 3 Physical Damage
+- Aerial Slash: 5ft Range, 5ft Horizontal/Vertical Movement, Standard Test, 3 Physical Damage
+#### Axes/Giant Hammers
+- Axe Slash/Hammer Smash: 5ft Range, Standard Test, 2 Physical Damage
+	- Partial-Charged Axe Slash/Hammer Smash: 5ft Range, Disadvantage Test, 4 Physical Damage
+	- Full-Charged Axe Slash/Hammer Smash: 5ft Range, Disadvantage Test w/ success only on 6s, 6 Physical Damage
+- Rising Slash/Smash: 5ft Range, Standard Test, 1 Physical Damage
+	- Partial-Charged Rising Slash/Smash: 5ft Range, Disadvantage Test, 3 Physical Damage, Standard Test to Launch 5ft vertically & horizontally and Disadvantage Test to Prone
+	- Full-Charged Rising Slash/Smash: 5ft Range, Disadvantage Test, 5 Physical Damage, Advantage Test to Launch 10ft vertically & horizontally and Standard Test to Prone
+- Axe Combos
+	- Slash/Smash Combo (Slash-Slash): 5ft Range, 1x Disadvantage Test + 1 Standard Test, 2 Physical Damage each
+	- Slash/Smash-Upper Combo (Slash-Rising Slash): 5ft Range, 2x Disadvantage Tests, 2 Physical Damage first hit + 3 Physical Damage second hit, Standard Test to Launch 5ft vertically & horizontally and Disadvantage Test to Prone
+	- Upper-Crash Combo (Rising Slash-Aerial Slash): 5ft Range, Disadvantage Test to hit & Launch + Disadvantage Test to leap and hit + Prone, 3 Physical Damage first hit + Standard Test to Launch 5ft vertically & horizontally, then 4 Physical Damage second hit + Standard Test to Prone
+	- Double-Upper Combo (Rising Slash x2): 5ft Range, 2x Disadvantage Tests + each hit can Launch & Prone, 3 Physical Damage first hit + Standard Test to Launch 5ft vertically + Disadvantage Test to Prone, then 5 Damage second hit + Advantage Test to Launch 10ft vertically and horizontally + Standard Test to Prone or KO for 1 Round if already Prone.
+- Aerial Slash/Smash: 5ft Range, 5ft Horizontal/Vertical Movement, Disadvantage Test, 3 Physical Damage
+#### Spears/Polearms
+
+
+#### Knuckle Gauntlets
+
+
+#### Drill Gauntlets
+
 # Unchained
 
 ## Sofficer (Class)
