@@ -6,11 +6,17 @@ share: true
 
 Those were the words written by a bored guy in his mid-20s-30s for a game that was quite the popular yet frustrating experience in the 2020s, but gained a massive uproar in popularity by the 2030s with the development of Official Nerve VR Gear that would allow a Player to experience the world of Video Games in a whole new light unlike anything that was experienced before. Wearing a biker helmet-type console upon their head, they lay down on their bed and start up the console with a voice command before having your nerves safely hijacked by the helmet to simulate the game inside your brain and allow you to experience that not only you could feel, but smell, sense, and taste everything the world had to offer to you- it was truly a masterclass of design by several gifted scientists and engineers to bring this product to the public. Many a game were designed using the existing engines at the time, but one that had potential, surprisingly, was Roblox with its surprisingly in-depth engine which remained wholly under the radar of most developers until some talented individuals were able to create truly impressive experiences with graphics, sound design, and mechanics you'd normally see in more common triple-A titles. And with this experimentation, came to the advancement Deepwoken NVR.
 
+Set in a post-human civilization, humans are an anomaly to say the least existing in this world, with most humanoid originating from animal, fish, or insectoid origins, with the other races being a rarer kin amongst the populous, but not an impossibility. With the sea levels rising and most islands being swallowed by the depths of the oceans, sailing in this environment is the most common form of transportation amongst the populations of each city as barriers erected to protect the unprepared from the unknown in the vast oceans outside of the known Luminants. While laws and villages exist, assassins and bandits still exist and persist to bring harm to others, so there will always be hell around every corner, be it humanoid, or something you wished you never walked into.
+
 The game was, ultimately, made more accessible to the player base due to its Roguelike perma-death nature not working well with the new system of gameplay, leading to a change in management, and a vast difference in creative choices for the gameplay. It's been 2 years since the release of the NVR port, and a sudden change in its code began to spread gradually due to the influence of an unknown Hacker with many faces, voices, and abilities, with no known name other than the attempted alias: Blank, but because their actions are that of a single player and most of the community being, well, the community, since they referenced their name as square-brackets, they've been dubbed BoxHead. Surprisingly tame, but Roblox censorships do be like that. They made a decree that changed the entire experience of the game unlike what it once was before: "-all stats are now uncapped! Have fun, while it lasts~" before leaving a group of players they assaulted upon The Isle of Vigils.
 
-The world is changing; the gears shifting, perspectives turning, lives twisting into
+The world is changing; the gears shifting, perspectives turning, lives twisting into something else that it once was; the NPCs have been given life, content once hidden now exposed to the public in vast detail- all of the prizes now thrown in sight, ready for the taking... yet every hand falls too short. Even in groups, the follies of man won't allow these rewards to be retrieved so easily. While the changes to the world are currently unknown, surprisingly majority of the game has appeared to be left unaffected, and 2 weeks after the incident, all service was running again like nothing happened.
+
+***While death no longer be permanent, the trials ahead are no easier than before- more so when you face the trails head-on instead of behind a screen. Think you can handle the horrors and misfortunes that await you ahead now? They certainly don't believe so.***
 # Stats
 These are the Health/Personal statistics to keep one's self alive, listed as such:
+- Race - What race you are within this world.
+- Power - Essentially your Level.
 - HP - How many times you can get hit with Physical and Elemental Damage.
 - Posture - How many times a Player can be hit while Blocking/in Super Armor before their Guard is broken and unable to attack for 3 seconds.
 - Blood - How much Blood that exists inside a person before they suffer Anaemia/Bloodloss.
@@ -19,6 +25,32 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 - Tempo - Player's Passive Ether-gain and permittable Vent-gauge.
 - Ether - Player's 'Magic' gauge for Mantra-usage; regens outside of combat.
 - Sanity - Semi-permanent Psychological damage; max damage explodes the Player's head and instantly sends them into The Depths.
+- Knowledge - Wisdom gained throughout a player's life, turned into currency, and can be used as payment for certain beings, interactions, or objects.
+
+Race - Players get to pick from a select number of races from the following which provide benefits to their core-stats (Race info is purely subjective, and colours can be different if you wish; can also create your own subraces if you'd prefer to be more animalistic):
+- Capra - Descendants of goats with goat-like horns, eyes, and goat-shaped skull masks, usually with green, bluish, or reddish skin. **+3 Intelligence, +2 Willpower. Capras come with 1 of 3 marks that do the following:**
+	- Mark of Ku (Red) - Create a 15ft healing pulse that heals all creatures within its radius by 15% of their total max HP (15% of all Creatures' Max HP as healing). Must be activated at a Campfire.
+	- Mark of Nemit (Green) - Creates a 15ft Aura that increases the stats gained from eating/drinking food by 50%. Doesn't require a Campfire to activate.
+	- Mark of Jurik (Blue) - Create a 15ft Aura that increases Sanity by +15 per-hour. Doesn't require a Campfire to activate.
+- Ganymede - A snail race that wears a large fancy wizards hat and sports a shall on their lower back (no, they can't hide or rest in it), with navy, gray, green, brown, or purple skin. **+3 Willpower, +2 Intelligence, Insanity-gain from The Depths is reduced from 25 to 5, and Knowledge-requirements for Deep Shrines have been reduced from 5 to 1.**
+- Tiran - A bird-looking race with brown, pale, or dark blue skin. **+3 Agility, +2 Willpower, takes 25% less fall damage, and comes with a and can craft a Feathered Glider that falls slower than any other form of glider or gliding ability.**
+- Chrysid - A moth-looking race without wings, and white, brown, grey, or green skin. **+3 Charisma, +2 Agility, releases Mothwing Dust that coats a creature's skin, revealing them to the Chrysid their position by highlighting them to their sight, whilst for others they let off a glow with the scales on them that last until the end of combat.**
+- Felinor - A cat-like race that equally acts the same way but with the intelligence of a human, with pale-grey, black, beige, or light skin. **+3 Agility, +2 Charisma, gains 1.25x modifier when climbing/scaling walls; 1.5x when it's a wooden surface, increase Stealth bonuses by 25%.**
+- Khan - Monkey-like race with pale skin. **+3 Strength, +2 Agility, can wield any weapon with 3 less Stat and Proficiency points than other races; Power still applies.**
+- Vesperian - A beetle-like race with organically grown masks, and brown, green, or murky green skin. **+3 Fortitude,+2 Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest..**
+- Gremor - A deer-like race with green, blue, or brown skin and horns. **+3 Fortitude, +2 Strength, always knows the direction of True East, reduces hunger-rate by -5 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by 25%.**
+- Canor - A dog-featured face with lion-like aspects, pale brown, dark brown, or dark green skin. **+3 Strength, +2 Charisma, and allies take less damage from you whilst dealing less damage to you by 50%.**
+- Adret - A non-animal race with blue skin and markings on their face, theorised to have from The Waves. **+3 Charisma, +2 Willpower; gains +3 additional unstated EXP at every Power after Power 1, with every Power after giving an additional +3 unstated EXP.**
+- Celtor - Racoon-like humanoids with markings over their eyes and pale brown green skin. **+3 Charisma, +2 intelligence, owned ships have +20% HP, ships move 20% faster and more efficiently diagonally than other species, and all purchasable ships come at a 20% discount at a Shipwright.**
+- Etrean - Serpent people with sharp eyes and scaly features, and pale skin. **+1 HP, +3 Intelligence, +2 Agility, status effects (good or bad) are reduced in effect and duration by 20%, and take half damage from acid rain.**
+- Lightborn - Possibly the fragments of the gods above; hybrids formed from humans and Celestials, sporting a halo above their head, around their neck, or split in 2 around both arms, with fair or white skin. **+2 Strength, Fortitude, Agility, Intelligence, Willpower, +5 to any Core Stat for free after Core Stat point allocation.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
+- Heliodar (Subrace) - A Phoenix-like race, with obvious bird-like features like a Tiran but with orange skin. **+3 Strength, Fortitude, +2 Agility, Intelligence, and the ability to manifest wings upon their back and use it for gliding or temporary flight, capable of travelling 120ft per-Power in any direction with flight or gliding without flight; does not negate or reduce fall damage.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
+- Drakkard - A dragon-like race with brown, blue, green, or purple skin. **+2 Agility, Fortitude, gains a white aura that can be chosen to be emitted whilst reducing hunger rates by -20, thirst-rate by -30, increases EXP-gain by 1.5x, and HP-Regen of 1 per-hour.**
+- Auroran (Subrace) - An unknown unique variant of Gremor with white skin and horns with blue tips. **+3 Fortitude, +2 Strength, always knows the direction of True South, reduces hunger-rate by -10 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by half.**
+- Aberrant Capra (Subrace) - Variant race with grey skin born while stuck in the Depths, affected during the fetus stage, and usually expected to be dead before they reach adulthood. **+3 Intelligence, +2 Willpower, can heal a single ally's Sanity by +5 every 4 seconds while at a Campfire or has a Power of 5+.**
+- Primal Vesperian (Subrace) - Variant race with black or brown skin and reverse-coloured mask, **+2 HP, Fortitude, Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest.**
+
+Power - A track of the Level you have in the world; to start at Power 1, which is a character creation requirement, you must spend 15 points on Core Stat allocations whilst spending another 10 on a chosen Attunement or a 6/4 distribution between 2 Attunements, totalling up to 25 Spent Investment Points (+5 from Racial modifiers).
 
 **HP** - All players/humanoid creatures start with 10 Max HP.
 
@@ -37,7 +69,7 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 **Sanity** - All players/humanoid creatures start with 100 Max Sanity. Sanity will always start at 0 where one is sane, but as they're assaulted with effects that raise one's Sanity gauge, the only way to lessen and save one's sanity is by killing creatures from The Depths.
 
 # Core Stats
-The Stats that affect gameplay are listed as such:
+The Stats that affect gameplay are listed as such (Note that 0 does not mean a dead stat, just that this is the human-average):
 - Strength - Your Carry Weight, throw-distance, Posture Damage against Blockers & Unflinching, and ability to deal with Strength-based tasks.
 - Fortitude - Extra HP, Damage Resistances, and ability to with Fortitude-based Tasks 
 - Agility - Parkour ability, Outside and Inside-Combat Movement, Posture Damage against Unflinching, reduction of Posture Damage from being Parried, and ability to deal with Agility-based tasks.
@@ -369,7 +401,8 @@ In combat, everyone starts in Assault Mode. Rounds last 4 Seconds each Round.
 Each Action a player spends during their turn last a certain amount of seconds- either pulling off or how long until they land the attack, and each Action is queued one after another kinda like Final Fantasy 13. During Combat after queueing your Action(s), you can choose to perform an Action Break to stop your Queued Actions to setup a new set of Actions.
 When a Player runs out of HP, they're Downed not Dead, and to kill a Downed person, they either have to spend 2 continuous Rounds being Gripped by another creature, or spend 3 continuous Rounds drowning in water.
 
-
+# Character Creation Explained
+1) First off, use the following Character Sheet down below as your reference
 # Character Creation Sheet
 ## Stats
 - HP - 
