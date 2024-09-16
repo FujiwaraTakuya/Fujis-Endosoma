@@ -343,22 +343,22 @@ Critical Speed: 1 Second
 There is a 4th Category- Hybrid which is a mixture of 2 or more stats focusing upon physical elements of the weapon, and Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
 # Attunements
 These are the elements a Player can control; they can manipulate the element it relates to, listed as such:
-- Firecharm
-- Galebreathe
-- Frostdraw
-- Thundercall
-- Shadowcast
-- Ironsing
-- Cursechant
-- Toxinfection
-- Monstermorph
-- Mirrorshine
-- Techtonicshift
-- Spectralhaunt
-- Naturesymbios
-- Psychoblast
-- Oceanflow
-- Spiritcry
+- Firecharm (Fire)
+- Galebreathe (Wind)
+- Frostdraw (Ice)
+- Thundercall (Lightning)
+- Shadowcast (Shadows)
+- Ironsing (Metal)
+- Cursechant (Cursed Energy)
+- Toxinfection (Poison)
+- Monstermorph (Monster)
+- Mirrorshine (Reflection)
+- Techtonicshift (Earth)
+- Spectralhaunt (Ghost)
+- Naturesymbios (Plants)
+- Psychoblast (Insanity)
+- Oceanflow (Water)
+- Spiritcry (Emotions)
 
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
