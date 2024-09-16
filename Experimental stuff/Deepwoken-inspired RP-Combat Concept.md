@@ -422,6 +422,7 @@ When a Player runs out of HP, they're Downed not Dead, and to kill a Downed pers
 
 # Character Creation Explained
 1) First off, use the following Character Sheet down below as your reference
+2) 
 # Character Creation Sheet
 ## Stats
 - Race - 
