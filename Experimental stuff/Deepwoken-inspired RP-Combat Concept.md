@@ -349,6 +349,16 @@ These are the elements a Player can control; they can manipulate the element it 
 - Thundercall
 - Shadowcast
 - Ironsing
+- Cursechant
+- Toxinfection
+- Monstermorph
+- Mirrorshine
+- Techtonicshift
+- Spectralhaunt
+- Naturesymbios
+- Psychoblast
+- Oceanflow
+- Spiritcry
 
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
@@ -412,6 +422,8 @@ When a Player runs out of HP, they're Downed not Dead, and to kill a Downed pers
 1) First off, use the following Character Sheet down below as your reference
 # Character Creation Sheet
 ## Stats
+- Race - 
+- Power - 
 - HP - 
 - Posture - 
 - Blood - 
@@ -420,6 +432,9 @@ When a Player runs out of HP, they're Downed not Dead, and to kill a Downed pers
 - Tempo - 
 - Ether - 
 - Sanity - 
+- Knowledge - 
+- Talents - 
+	- 
 ## Core Stats
 - Strength - 
 - Fortitude - 
