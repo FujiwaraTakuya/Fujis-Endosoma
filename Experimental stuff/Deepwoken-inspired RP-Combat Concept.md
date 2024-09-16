@@ -79,7 +79,7 @@ At the maximum-cap of Power 20, one should have 325 Investment Points spent (Inc
 The Stats that affect gameplay are listed as such (Note that 0 does not mean a dead stat, just that this is the human-average):
 - Strength - Your Carry Weight, throw-distance, Weapon Penetration, Posture Damage against Blockers & Unflinching, and ability to deal with Strength-based tasks.
 - Fortitude - Extra HP, Damage Resistances, and ability to with Fortitude-based Tasks 
-- Agility - Parkour ability, Outside and Inside-Combat Movement, Posture Damage against Unflinching, reduction of Posture Damage from being Parried, and ability to deal with Agility-based tasks.
+- Agility - Parkour ability, Outside and Inside-Combat Movement, increase Bleed Damage, Posture Damage against Unflinching, reduction of Posture Damage from being Parried, and ability to deal with Agility-based tasks.
 - Intelligence - Enhance Elemental and Intelligence Mantras, Ether increase, enables item/equipment Crafting, and ability to deal with Intelligence-based tasks.
 - Willpower - Enhance Elemental and Willpower Mantras, Ether increase, Enchanting Items, and ability to deal with Willpower-based tasks.
 - Charisma - Enhance Elemental and Charisma Mantras, Ether increase, Charisma effects and manipulation, and ability to deal with Charisma-based tasks.
@@ -94,9 +94,9 @@ Every point in this stat increases the Max HP by +1; every 10 points increases t
 
 **Agility** - All players/humanoid creatures are physically capable of scaling 5ft walls or holes/caverns with an equal-distance start-up, Move 60ft outside of Combat every 4 seconds and 30ft in combat.
 
-Every 10 points of this Stat increases the Climbing/Leap distance by +5ft, increases the Base Movement outside of Combat by +10ft and inside by +5ft; increase Agility-based Mantra Damage and Effects by +2 per point; every 20 points increases the amount of Bleed Damage dealt while attacking Blocking enemies by +1; every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points decreases the amount of Posture Damage taken while being Parried by enemies by -1.
+Every 10 points of this Stat increases the Climbing/Leap distance by +5ft, increases the Base Movement outside of Combat by +10ft and inside by +5ft; increase Agility-based Mantra Damage and Effects by +2 per point; every 20 points increases the amount of Bleed Damage dealt while attacking  enemies by +1; every 12 points increases Posture Damage against Unflinching Creatures by +1, and every 25 points decreases the amount of Posture Damage taken while being Parried by enemies by -1.
 
-**Intelligence** - All players/humanoid creatures are unable to craft basic items outside of Campfires, food, and Mantra Modification.
+**Intelligence** - All players/humanoid creatures are unable to craft m items outside of Campfires, food, and Mantra Modification.
 
 Every 10 points increases Elemental and Intelligence-based Mantras and Effects by +1, every 3 points increases Max Ether by +3; every 15 points increases Elemental Mantras by +1 Players gain item-crafting at the following benchmarks:
 - 10 - They  can craft Basic Items and equipment.
@@ -145,6 +145,8 @@ This stat affects a number of Charisma-based Mantras and Effects, including Vows
 
 **Heavy Weapon Proficiency** - Each 10 points of this Stat increases Heavy Weapon Damage by +1; every 20 points increases Two-Handed Heavy Weapon Damage by an additional +3; when Two-Handing any other weapon-type, increase their Weapon Damage by +1 instead.
 
+With at least 40 points of Heavy Weapon Proficiency, you can choose to One-Hand Heavy weapons and wield an off-hand weapon for blocking, parrying, or firing a projectile.
+
 If you have at least 40 points of Medium Weapon Proficiency, you can One-Hand Heavy Weapons for faster attacks- 0.5 seconds faster, in exchange for no Damage Bonus from Two-Handed fighting.
 
 If you have at least 40 points of Light Weapon Proficiency, you can increase your Bleed Damage with Heavy Weapons by +1 for One-Handed; +2 for Two-Handed.
@@ -159,9 +161,9 @@ If you have at least 40 points of Light Weapon Proficiency, every 20 points incr
 
 **Light Weapon Proficiency** - Each 10 points of this Stat increases Light Weapon Damage by +1; every 20 points increase Light Weapon Bleed Damage by an additional +1, and every 25 points increases Bleed Damage with all weapons by +1.
 
-If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons for +1 Light Weapon Damage in exchange for making your attacks come out +0.5 seconds slower.
+If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons for +1 Light Weapon Damage per 20 Points of Heavy Weapon Training and +1 Light Weapon Posture Damage per 25 points of Heavy Weapon Training in exchange for making your attacks come out +0.5 seconds slower.
 
-If you have 40 Points of Medium Weapon Training, you can choose to attack wide with your attack in a Cone to hit more enemies at once in exchange for making your attacks come out +0.5 seconds slower.
+If you have 40 Points of Medium Weapon Training, and every 40 Points after, you can perform an additional Critical attack during your round of Combat whilst dealing an additional +0.5x modifier to Damage & Bleed Damage, up to a maximum of 4 Critical attacks in 1 Round and a 3x modifier.
 
 # Weapon and Equipment
 Critical Attacks deal 1.5x Atk/Pstr. Dmg. if they hit their target, with different effects with each weapon. Crits can only be made once per-round unless specified otherwise.
@@ -446,5 +448,20 @@ When a Player runs out of HP, they're Downed not Dead, and to kill a Downed pers
 - Heavy Weapon Proficiency - 
 - Medium Weapon Proficiency - 
 - Light Weapon Proficiency -
+
+### Weapon Stats
+#### Weapon Name 
+Atk. Dmg. : #
+Pstr. Dmg. : #
+Bld. Dmg. : #
+Flrsh. Dmg. : #
+Atk. Spd. : # Seconds 
+Atk. Limit (Per-Round): #
+Range: # ft.
+Flourish Combo: 
+Critical Range: # ft.
+Critical Attack: 
+Critical Effect: 
+Critical Speed: # Seconds (Start-up time: # Second)
 ## Attunement
 - 
