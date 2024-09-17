@@ -159,7 +159,7 @@ If you have at least 40 points of Heavy Weapon Proficiency, while Two-Handing a 
 
 If you have at least 40 points of Light Weapon Proficiency, every 20 points increases your Medium Weapon Damage by +1 whilst increasing your Bleed Damage by +2.
 
-**Light Weapon Proficiency** - Each 10 points of this Stat increases Light Weapon Damage by +1; every 20 points increase Light Weapon Bleed Damage by an additional +1, and every 25 points increases Bleed Damage with all weapons by +1.
+**Light Weapon Proficiency** - Each 10 points of this Stat increases Light Weapon Damage by +1; every 20 points increase Light Weapon Bleed Damage by an additional +1, and every 25 points increases Bleed Damage with all weapons by +1. Light weapons can also deal Bleed Damage to an enemy if it hits their Block, but not if it strikes their Parry.
 
 If you have 40 Points of Heavy Weapon Training, you can Two-hand light weapons for +1 Light Weapon Damage per 20 Points of Heavy Weapon Training and +1 Light Weapon Posture Damage per 25 points of Heavy Weapon Training in exchange for making your attacks come out +0.5 seconds slower.
 
@@ -359,7 +359,7 @@ These are the elements a Player can control; they can manipulate the element it 
 - Spectralhaunt (Ghost)
 - Naturesymbios (Plants)
 - Psychoblast (Insanity)
-- Oceanflow (Water)
+- Riverflow (Water - Minor Insanity)
 - Spiritcry (Emotions)
 
 # Actions
@@ -380,7 +380,8 @@ These are the actions you can perform during Combat in no particular order, list
 - Quick-Equip Item/Equipment - Swap out a held item or bring out a held item from the Player's inventory (2-4 seconds)
 - Throw Item/Weapon - Take any held item in-hand and lob it at at a Target within range.
 - Use Item/add/switch Equipment - Depending on the item in-hand, use it for its intended effect/switch pieces of equipment (1 Second)
-- Action Break - Once per-round, a Player can spend an Action Break to change their queued actions after  seeing each Action happen during Combat; even if interrupted, they can start new Actions instead based on how much time is left during the Round. (Instant)
+- Action Break - Once per-round, a Player can spend an Action Break to change their queued actions after seeing each Action happen during Combat; even if interrupted, they can start new Actions instead based on how much time is left during the Round. (Instant)
+- Creative Action - Once per-round, depending upon the complexity of a desired Creative Action, a Player can request the DM the ability to perform a set of actions in a sequence that can be performed between 1-4 seconds out of the available Actions mentioned up above, enabling to perform more complex manoeuvres which can yield surprising results if you have an idea and want to act upon it. Note that Creative Actions won't allow you to perform Quick Attacks more often than the allotted combat-speed will allow for each weapon, but can offer ways to surpass difficult enemies and their abilities or protective capabilities.
 
 # Combat Explained
 ## Combat Part 1: Round 1: Battle-Start
@@ -401,6 +402,10 @@ There are 3 types of Combat-States: Assault, Attack, and Defence. On Round 1, al
 ### Combat State: Assault Mode
 All creatures in Assault Mode act Simultaneously to one and another and perform competing Actions in order to shift themselves into Attack Mode; their 1st Action will compete against each other for speed with those landing their hit first enabling them to act in Attack Mode on the next Round whilst putting their opponent into Defence Mode and continue fighting with their advantage. Those in Assault Mode can Attack or Defend semi-freely.
 The Player who lands their 1st Attack upon another Creature in Assault Mode will immediately cease any Actions they had Queued up for their Turn during that Round. This also locks that Player and those hit by their Attack(s) into Attack and Defence Modes respectively. Those who weren't hit remain in Assault Mode until they've been hit/land a hit.
+
+## Combat Part 2: Round 2+: Battle-Onwards.
+From Round 2 onwards, if any creature is in Assault Mode, they'll act first and simultaneously at any target of their choosing; if a creature/multiple creatures are in Attack Mode, each must roll a dice with the higher number of the group dictating the initiative-order of each group who Attacks  and Defends first, whilst also making the ones at the top of that Initiative Order attack simultaneously with those in Assault Mode.
+
 ### Combat State: Attack Mode
 Creatures in Assault Mode have active advantage fighting other creatures, being fully capable of attacking enemies to their heart's content whilst also maintaining the ability to Dodge, Block, Parry, Vent, and use Items.
 If you're hit by an Attack or some other Action during your Attack Mode, you're automatically placed into Defence Mode, and whatever Seconds you have left in your Turn, with the next Second available being impossible for the player to Block, Dodge, use Items, Attack, or Cast Mantras, are turned into your Defence Mode Actions that you can designate in the heat of the moment before the end of your Turn.
@@ -410,9 +415,6 @@ Creatures in Defence Mode have a disadvantage in combat, usually placed in this 
 If a Creature in Defence Mode lands a Parry against their opponent's Attack, both parties switch Modes i.e. Defence to Attack and Attack to Defence, and thus the Creature in Attack Mode can now do actions only permittable in Attack Mode.
 If you're able to successfully land a Vent against a creature in Attack Mode, you and all creatures within the radius of the Vent are pushed back and placed back into Assault Mode.
 
-## Combat Part 2: Round 2+: Battle-Onwards.
-From Round 2 onwards, if any creature is in Assault Mode, they'll act first and simultaneously at any target of their choosing; if a creature/multiple creatures are in Attack Mode, each must roll a dice with the higher number of the group dictating the initiative-order of each group who Attacks  and Defends first, whilst also making the ones at the top of that Initiative Order attack simultaneously with those in Assault Mode.
-
 Combat will continue to go on like this until one side is all Knocked, Dead, Carried, all but 1 side have managed to successfully flee Combat, or a mixture of the 4.
 
 # Combat Summarised
@@ -421,7 +423,7 @@ Each Action a player spends during their turn last a certain amount of seconds- 
 When a Player runs out of HP, they're Downed not Dead, and to kill a Downed person, they either have to spend 2 continuous Rounds being Gripped by another creature, or spend 3 continuous Rounds drowning in water.
 
 # Character Creation Explained
-1) First off, use the following Character Sheet down below as your reference
+1) First off, use the following Character Sheet down below as your reference; use Google Docs, Microsoft Word, Notepad, or anything else you have if you need to.
 2) 
 # Character Creation Sheet
 ## Stats
