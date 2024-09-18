@@ -361,131 +361,191 @@ These are the elements a Player can control; they can manipulate the element it 
 - Psychoblast (Insanity)
 - Riverflow (Water - Minor Insanity)
 - Spiritcry (Emotions)
+Players can learn multiple Attunements at any time during the campaign, but at Character Creation Players can only learn 2 Attunements at the start at a 6/4 split. Any new Attunements gained outside of Character Creation start at 1 IP for free.
+
+Attunements also come with Training Levels ranging from 1-5 to show the player's Mastery over their Mantra(s); starting from TL 1, to increase one's Training Level one must find a Master of their Mantra of choice and have them teach them their Attunement usually at the cost of a mixture of money, a material related to their Attunement, and the appropriate number of Investment Points invested into your Attunement- normally looking something like this:
+- Level 1: Novice
+- Level 2: Adept (20+) (Upgrade Cost: 1,000)
+- Level 3: Expert (40+) (Upgrade Cost: 2,000)
+- Level 4: Master (60+) (Upgrade Cost: 4,000)
+- Level 5: Legendary (80+) (Upgrade Cost: 8,000)
+- Level 6: Mythical (100+) (Upgrade Cost: 16,000)
+The total cost for all training adding up to: 31,000
+There are multiple benefits for upgrading your Attunements Training Level:
+- You gain a +0.5x boost to the Mantras base damage and effects from Modifiers per-Training Level above Level 1 (Max of 3.5x)
+- Mantras can gain additional effects from increasing your Training Level, such as Thunder Kick from Thundercall getting the effect Instant Guardbreak.
+For combat, almost all Mantras have a cast time of 2 seconds (1 second of wind-up 'til the actual attack), but some can vary with duration, end-lag, and casting types that affect the way the Mantra is used. Mantras can also be only casted once per-round, meaning you can't chain-cast the same Mantra inside of combat.
 ## Firecharm
 ### Mantras
 #### Fire Blade
 Mantra Type: Combat
 Range: 5ft Cone
-Effect: 
-Properties: 
-Optional Modifiers: 
+Ether Cost: 10 Ether
+Casting Type: Maintained Cast
+Effect: Hold your weapon over your head and engulf it in flames before swinging down and slashing your opponent with a flaming blade whilst scorching the earth to the sides. 
+Properties: Move up to 5ft in any direction before attacking with the Mantra; can break breakable/broken/weakened objects/surfaces.
+Deals 2 Damage, 4 Posture Damage on-block, inflicts Burn on successful hit, and at TL 5 with Firecharm it Insta-Guardbreaks on block.
+While using the Starkindred Oath's Starkindred Wings, Fire Blade can now move the user 5-15ft first whilst charging for an additional 0.5 seconds before unleashing a 2 second-long large fire plume that's 15ft wide, 30ft long, and 20ft high. Creatures stuck in the plume take 1d4 damage per-second.
+Optional Modifiers: Mainly gains benefits from Duration and Intensity Modifiers; does not have any Unique Effects from Modifiers.
 #### Flame Repulsion
 Mantra Type: Combat
-Range: 
-Effect: 
-Properties: 
-Optional Modifiers: 
+Range: 5ft Radius
+Ether Cost: 20 Ether
+Casting Type: Ritual
+Effect: surround yourself with a collecting sphere of flames as armour before reflecting any damage taken down to a minimum of 1 Damage.
+Properties: Activates on second 1 for 0.5 seconds before repelling everything in its radius back 15ft unless blocked, ending with 1 second of end-lag; during the duration, damage taken is reduced by 75% whilst reflecting the mitigated damage; gain Hyper-Armour during the end-lag of the Mantra.
+Deals 1 Damage on-hit even without taking any damage, deals Posture equal to 25% of total damage dealt to a minimum of 1, and inflicts Burn on a successful hit.
+Optional Modifiers: Mainly benefits from Cloud/Stratus Stones; can be Modified by a Spring Spark to make the Mantra fire out as a small projectile up to 20ft before exploding outwards and repelling all within the radius, whilst losing the Damage Reduction and Reflection.
 #### Burning Servants
 Mantra Type: Combat
-Range: 
-Effect: 
-Properties: 
-Optional Modifiers: 
+Range: 5ft radius
+Ether Cost: 20 Ether
+Casting Type: Concentration
+Effect: Summon 6 blazing armoured warriors with halberds in a circle, attacking as they're summoned, then waiting for a second before attacking in unison together.
+Properties: Within a 10ft ring, 6 flaming warriors spawn in one after another, dealing 2 Damage once to every creature within its radius within 1 second, waiting 1 second, before finally finishing with 1 last thrust that also deals 2 Damage before dissipating; during the 2nd second of Cast Time the user can't attack but they can Dodge, Block, or Parry if any attacks are thrown their way.
+Deals 2 Damage per-thrust, 20 Posture Damage on block, and inflicts Burn on a successful hit.
+Optional Modifiers: Gains special benefits from Cloud/Stratus Stones by adding 1 extra Servant, with every 3 extra servants increasing the base-Damage of each Thrust made by +1; when a Reversal Spark is applied to the Mantra, instead of attacking inwards, the warriors attack outwards instead, with anyone hit being caused to fall Prone after being struck.
 #### Fire Gun
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Grab
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Blind
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame of Denial
 Mantra Type: Support
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Fire Palm
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Fire Eruption
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Fire Forge
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Graceful Flame
 Mantra Type: Support
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Relentless Flames
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Sentinel
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Rising Flame
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flare Volley
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Leap
 Mantra Type: Movement
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Assault
 Mantra Type: Movement
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Wisp
 Mantra Type: Support
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Ash Slam
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flame Ballista
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
 #### Flaming Scourge
 Mantra Type: Combat
 Range: 
+Ether Cost:
+Casting Type: 
 Effect: 
 Properties: 
 Optional Modifiers: 
@@ -596,7 +656,51 @@ Optional Modifiers:
 ## Spiritcry
 ### Mantras
 ### Talents
+## Mantra Modifiers
+Mantras are the memories, teachings, and ability to create and use special techniques by past Masters of the Attunements. One can Recall that memory of the Mantra to later give it benefits with Mantra Modifiers to enhance the technique further than normal, or even give them special abilities or change how they work completely. 
 
+Mantra Modifiers are special items that you can gain over the course of the campaign that help apply additional benefits and downsides to your Mantra depending on the technique itself and the Modifiers being applied to it, with certain Modifiers giving neutral benefits whilst others give unique benefits like creating more summonable projectiles whilst using the attack or changing the way a Mantra fundamentally works overall.
+
+Here's the basic-list of effects that a Modifier can do to affect Mantras without giving unique effects:
+### Common Modifiers
+- Cloud Stone +5ft to Width of Mantra, -1 second to Mantra Duration, +10 Ether Cost
+- Stratus Stone - +10ft to Width of Mantra, +20 Ether Cost
+- Crystal Lens - +5ft to Length of Mantra, -5ft to Width of Mantra, +10 Ether Cost
+- Perfect Lens - +10ft to Length of Mantra, +20 Ether Cost
+- Aeon Logstone - +2 seconds to Mantra Duration, -5ft to Range of Mantras, +10 Ether Cost
+- Eternal Logstone - +3 Seconds to Mantra Duration, +20 Ether Cost
+- Drift Shard - -1 second to Mantra Duration, increases Projectile Range by +10ft/Decreases length needed to finish multi-hit Mantras by -0.5 Second, +10 Ether Cost
+- Rush Shard - Increases Projectile Range by +15ft and increases the difficulty to Dodge and Parry by +1/Decreases length needed to finish multi-hit Mantras by -1 Second, +20 Ether Cost
+- Amnesic Driftwood - Used to remove all Modifiers on a Mantra; does not refund money or materials used
+- Glass Stone - Increase size of Projectiles by +5ft/reach of Mantra vertically by +5ft, -1 second to Mantra Duration, +2 seconds to elemental and passive effects with Mantra, +10 Ether Cost
+- Magnifying Stone - Increase size of Projectiles by +10ft/reach of Mantra Vertically by +10ft and reach of Cone by +5ft, -1 second to Mantra Duration, +3 seconds to elemental and passive effects with Mantra, +20 Ether Cost
+- Vibrant Gem - +2 Elemental Intensity, +20 Ether Cost
+### Deep Gems
+- Blessed Gem - On a successful hit, the Mantra can be casted an extra time within 4 seconds and carries over to the next round
+- Bloodless Gem - Reduces total damage of Mantra by 20% in exchange for healing them for 60% of the damage dealt, up to to a Cap of 15 HP per-second 
+- Blue Gem - Reduces Mantra Ether Cost by 50%
+- Insignia Gem - After using a Mantra with this Gem, decrease the start-up of the next Mantra used within the Round by 50%
+- Wayward Gem - Gives the player access to the Wayward Mantra. When a Mantra strikes the target, it places a Mark on them visible to everyone, then 1 second after the Mark has been applied the user can teleport to them immediately without wind-up, duration, or end-lag.
+- Wind Gem - After hitting an enemy with the Mantra, for 2 Rounds the user has their Movement Speed tripled
+### Sparks
+- Blast Spark - Applies "Explosion" to compatible Mantra.
+- Magnet Spark - Applies "Magnet Shot" to compatible Mantra.
+- Multiplying Spark - Applies "Triple Shot" to compatible Mantra.
+- Reversal Spark - Applies "Reversal" to compatible Mantra.
+- Round Spark - Applies "Round Shot" to compatible Mantra.
+- Spring Spark - Applies "Spring" to compatible Mantra.
+- Tornado Spark - Applies "Spin" to compatible Mantra.
+- Mirage Stone - Applies "Comfort" to compatible Mantra.
+- Falseflame Stone -  Applies "Negative" to compatible Mantra.
+- Haunting Stone - Applies "Haunting" to compatible Mantra.
+
+The following terms for the Modifier conversions from game to game:
+- Size: Width of Mantra
+- Range: Length of Mantra
+- Duration: How long Mantra lasts
+- Speed: How long it takes to finish the Mantra whilst sometimes adding extra attacks/how fast projectile travels
+- AOE: Height of Mantra 
+- Elemental Intensity: Dictates if an element is powerful enough to affect another element with its presence (E.g. higher Firecharm can melt the ice of a weaker Frostdraw), with every 25 points of Elemental Intensity increasing Attunement Mantra Damage by +1
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
 - Move - Move up to 15ft, Run up to 30ft, or Sprint up to 60ft (1/2/3 seconds; Sprint disables Quick Attack, Block, Parry, Quick-Equip, Throw, and Use Item.)
