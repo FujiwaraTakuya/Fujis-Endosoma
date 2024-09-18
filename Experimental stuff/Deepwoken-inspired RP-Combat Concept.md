@@ -355,12 +355,247 @@ These are the elements a Player can control; they can manipulate the element it 
 - Toxinfection (Poison)
 - Monstermorph (Monster)
 - Mirrorshine (Reflection)
-- Techtonicshift (Earth)
+- Tectonicshift (Earth)
 - Spectralhaunt (Ghost)
 - Naturesymbios (Plants)
 - Psychoblast (Insanity)
 - Riverflow (Water - Minor Insanity)
 - Spiritcry (Emotions)
+## Firecharm
+### Mantras
+#### Fire Blade
+Mantra Type: Combat
+Range: 5ft Cone
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Repulsion
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Burning Servants
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Fire Gun
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Grab
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Blind
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame of Denial
+Mantra Type: Support
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Fire Palm
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Fire Eruption
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Fire Forge
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Graceful Flame
+Mantra Type: Support
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Relentless Flames
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Sentinel
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Rising Flame
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flare Volley
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Leap
+Mantra Type: Movement
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Assault
+Mantra Type: Movement
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Wisp
+Mantra Type: Support
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Ash Slam
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flame Ballista
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+#### Flaming Scourge
+Mantra Type: Combat
+Range: 
+Effect: 
+Properties: 
+Optional Modifiers: 
+### Talents
+#### Amoran Seeker
+##### Flame Within
+##### Last Laugh
+#### Duelist Flame
+##### Concussive Flash
+#### Falling Star Guard
+##### Meteor Impact
+##### Phoenix Impact
+##### Thorns of Fire
+#### Flamecharmer
+##### Azure Flames
+##### Intrepid Flames
+##### Produce Spark
+##### Unyielding Inferno
+##### Wildfire
+#### Flame Brawler
+##### Flaming Uppercut
+#### Flame Dancer
+##### Dancing Steps
+##### Graceful Steps
+##### The Final Act
+#### Flame Warden
+##### Cauterizing Wounds
+##### Flamewalker
+##### Hell's Partisan
+##### Warding Radiance
+#### Immolator
+##### Immolation
+##### Phoenix Flames
+##### Agitating Spark
+#### Inferno
+##### All-Consuming Flame
+##### Corpse Explosion
+##### Pleeksty's Will
+##### Pleeksty's Faith
+#### Lave Serpent
+##### Eruption Path: Lava Serpent
+##### Molten Defence
+##### Empowered Eruption
+##### Flash Point
+##### Scorched Earth
+##### The Floor is Lava
+#### Pyromancer
+##### Hungry Flames
+#### Tamed Flame
+##### Controlled Combustion
+#### The Demon Blade
+##### Explosive Finish
+##### Flaming Flourish
+#### The Emperor's Blade
+##### Emperor Flame
+##### Mirage Clones
+#### Undying Ember
+##### Denial Repulse
+##### Undying Flame
+#### Twisted Puppets
+##### Wraith Path: Twisted Puppets
+##### Burning Puppets
+##### Explosive Rage
+##### Moths to a Flame
+##### Burning Sacrifice
+## Galebreathe
+### Mantras
+### Talents
+## Frostdraw
+### Mantras
+### Talents
+## Thundercall
+### Mantras
+### Talents
+## Shadowcast
+### Mantras
+### Talents
+## Ironsing
+### Mantras
+### Talents
+## Cursechant
+### Mantras
+### Talents
+## Toxinfection
+### Mantras
+### Talents
+## Monstermorph
+### Mantras
+### Talents
+## Mirrorshine
+### Mantras
+### Talents
+## Techtonicshift
+### Mantras
+### Talents
+## Spectralhaunt
+### Mantras
+### Talents
+## Naturesymbios
+### Mantras
+### Talents
+## Psychoblast
+### Mantras
+### Talents
+## Riverflow
+### Mantras
+### Talents
+## Spiritcry
+### Mantras
+### Talents
 
 # Actions
 These are the actions you can perform during Combat in no particular order, listed as such:
