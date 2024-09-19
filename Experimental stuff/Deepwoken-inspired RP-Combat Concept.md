@@ -29,27 +29,44 @@ These are the Health/Personal statistics to keep one's self alive, listed as suc
 - Talents - Passive or active benefits learnt from experience and personal trials.
 
 Race - Players get to pick from a select number of races from the following which provide benefits to their core-stats (Race info is purely subjective, and colours can be different if you wish; can also create your own subraces if you'd prefer to be more animalistic):
-- Capra - Descendants of goats with goat-like horns, eyes, and goat-shaped skull masks, usually with green, bluish, or reddish skin. **+3 Intelligence, +2 Willpower. Capras come with 1 of 3 marks that do the following:**
+- Capra - Descendants of goats with goat-like horns, eyes, and goat-shaped skull masks, usually with green, bluish, or reddish skin. 
+  **+3 Intelligence, +2 Willpower. Capras come with 1 of 3 marks that do the following:**
 	- Mark of Ku (Red) - Create a 15ft healing pulse that heals all creatures within its radius by 15% of their total max HP (15% of all Creatures' Max HP as healing). Must be activated at a Campfire.
 	- Mark of Nemit (Green) - Creates a 15ft Aura that increases the stats gained from eating/drinking food by 50%. Doesn't require a Campfire to activate.
 	- Mark of Jurik (Blue) - Create a 15ft Aura that increases Sanity by +15 per-hour. Doesn't require a Campfire to activate.
-- Ganymede - A snail race that wears a large fancy wizards hat and sports a shall on their lower back (no, they can't hide or rest in it), with navy, gray, green, brown, or purple skin. **+3 Willpower, +2 Intelligence, Insanity-gain from The Depths is reduced from 25 to 5, and Knowledge-requirements for Deep Shrines have been reduced from 5 to 1.**
-- Tiran - A bird-looking race with brown, pale, or dark blue skin. **+3 Agility, +2 Willpower, takes 25% less fall damage, and comes with a and can craft a Feathered Glider that falls slower than any other form of glider or gliding ability.**
-- Chrysid - A moth-looking race without wings, and white, brown, grey, or green skin. **+3 Charisma, +2 Agility, releases Mothwing Dust that coats a creature's skin, revealing them to the Chrysid their position by highlighting them to their sight, whilst for others they let off a glow with the scales on them that last until the end of combat.**
-- Felinor - A cat-like race that equally acts the same way but with the intelligence of a human, with pale-grey, black, beige, or light skin. **+3 Agility, +2 Charisma, gains 1.25x modifier when climbing/scaling walls; 1.5x when it's a wooden surface, increase Stealth bonuses by 25%.**
+- Ganymede - A snail race that wears a large fancy wizards hat and sports a shall on their lower back (no, they can't hide or rest in it), with navy, gray, green, brown, or purple skin. 
+  **+3 Willpower, +2 Intelligence, Insanity-gain from The Depths is reduced from 25 to 5, and Knowledge-requirements for Deep Shrines have been reduced from 5 to 1.**
+- Tiran - A bird-looking race with brown, pale, or dark blue skin. 
+  **+3 Agility, +2 Willpower, takes 25% less fall damage, and comes with a and can craft a Feathered Glider that falls slower than any other form of glider or gliding ability.**
+- Chrysid - A moth-looking race without wings, and white, brown, grey, or green skin. 
+  **+3 Charisma, +2 Agility, releases Mothwing Dust that coats a creature's skin, revealing them to the Chrysid their position by highlighting them to their sight, whilst for others they let off a glow with the scales on them that last until the end of combat.**
+- Felinor - A cat-like race that equally acts the same way but with the intelligence of a human, with pale-grey, black, beige, or light skin. 
+  **+3 Agility, +2 Charisma, gains 1.25x modifier when climbing/scaling walls; 1.5x when it's a wooden surface, increase Stealth bonuses by 25%.**
 - Khan - Monkey-like race with pale skin. **+3 Strength, +2 Agility, can wield any weapon with 3 less Stat and Proficiency points than other races; Power still applies.**
-- Vesperian - A beetle-like race with organically grown masks, and brown, green, or murky green skin. **+3 Fortitude,+2 Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest..**
-- Gremor - A deer-like race with green, blue, or brown skin and horns. **+3 Fortitude, +2 Strength, always knows the direction of True East, reduces hunger-rate by -5 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by 25%.**
-- Canor - A dog-featured face with lion-like aspects, pale brown, dark brown, or dark green skin. **+3 Strength, +2 Charisma, and allies take less damage from you whilst dealing less damage to you by 50%.**
-- Adret - A non-animal race with blue skin and markings on their face, theorised to have from The Waves. **+3 Charisma, +2 Willpower; gains +3 additional universal EXP at every Power after Power 1, with every Power after giving an additional +3 universal EXP.**
-- Celtor - Racoon-like humanoids with markings over their eyes and pale brown green skin. **+3 Charisma, +2 intelligence, owned ships have +20% HP, ships move 20% faster and more efficiently diagonally than other species, and all purchasable ships come at a 20% discount at a Shipwright.**
-- Etrean - Serpent people with sharp eyes and scaly features, and pale skin. **+1 HP, +3 Intelligence, +2 Agility, status effects (good or bad) are reduced in effect and duration by 20%, and take half damage from acid rain.**
-- Lightborn - Possibly the fragments of the gods above; hybrids formed from humans and Celestials, sporting a halo above their head, around their neck, or split in 2 around both arms, with fair or white skin. **+2 Strength, Fortitude, Agility, Intelligence, Willpower, +5 to any Core Stat for free after Core Stat point allocation.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
-- Heliodar (Subrace) - A Phoenix-like race, with obvious bird-like features like a Tiran but with orange skin. **+3 Strength, Fortitude, +2 Agility, Intelligence, and the ability to manifest wings upon their back and use it for gliding or temporary flight, capable of travelling 120ft per-Power in any direction with flight or gliding without flight; does not negate or reduce fall damage.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
-- Drakkard - A dragon-like race with brown, blue, green, or purple skin. **+2 Agility, Fortitude, gains a white aura that can be chosen to be emitted whilst reducing hunger rates by -20, thirst-rate by -30, increases EXP-gain by 1.5x, and HP-Regen of 1 per-hour.**
-- Auroran (Subrace) - An unknown unique variant of Gremor with white skin and horns with blue tips. **+3 Fortitude, +2 Strength, always knows the direction of True South, reduces hunger-rate by -10 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by half.**
-- Aberrant Capra (Subrace) - Variant race with grey skin born while stuck in the Depths, affected during the fetus stage, and usually expected to be dead before they reach adulthood. **+3 Intelligence, +2 Willpower, can heal a single ally's Sanity by +5 every 4 seconds while at a Campfire or has a Power of 5+.**
-- Primal Vesperian (Subrace) - Variant race with black or brown skin and reverse-coloured mask, **+2 HP, Fortitude, Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest.**
+- Vesperian - A beetle-like race with organically grown masks, and brown, green, or murky green skin. **
+  +3 Fortitude,+2 Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest..**
+- Gremor - A deer-like race with green, blue, or brown skin and horns. 
+  **+3 Fortitude, +2 Strength, always knows the direction of True East, reduces hunger-rate by -5 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by 25%.**
+- Canor - A dog-featured face with lion-like aspects, pale brown, dark brown, or dark green skin. 
+  **+3 Strength, +2 Charisma, and allies take less damage from you whilst dealing less damage to you by 50%.**
+- Adret - A non-animal race with blue skin and markings on their face, theorised to have from The Waves. 
+  **+3 Charisma, +2 Willpower; gains +3 additional universal EXP at every Power after Power 1, with every Power after giving an additional +3 universal EXP.**
+- Celtor - Racoon-like humanoids with markings over their eyes and pale brown green skin. 
+  **+3 Charisma, +2 intelligence, owned ships have +20% HP, ships move 20% faster and more efficiently diagonally than other species, and all purchasable ships come at a 20% discount at a Shipwright.**
+- Etrean - Serpent people with sharp eyes and scaly features, and pale skin. 
+  **+1 HP, +3 Intelligence, +2 Agility, status effects (good or bad) are reduced in effect and duration by 20%, and take half damage from acid rain.**
+- Lightborn - Possibly the fragments of the gods above; hybrids formed from humans and Celestials, sporting a halo above their head, around their neck, or split in 2 around both arms, with fair or white skin. 
+  **+2 Strength, Fortitude, Agility, Intelligence, Willpower, +5 to any Core Stat for free after Core Stat point allocation.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
+- Heliodar (Subrace) - A Phoenix-like race, with obvious bird-like features like a Tiran but with orange skin. 
+  **+3 Strength, Fortitude, +2 Agility, Intelligence, and the ability to manifest wings upon their back and use it for gliding or temporary flight, capable of travelling 120ft per-Power in any direction with flight or gliding without flight; does not negate or reduce fall damage.** ***Recommended only 1 per-group, or none at all; subject to DM discretion.***
+- Drakkard - A dragon-like race with brown, blue, green, or purple skin. 
+  **+2 Agility, Fortitude, gains a white aura that can be chosen to be emitted whilst reducing hunger rates by -20, thirst-rate by -30, increases EXP-gain by 1.5x, and HP-Regen of 1 per-hour.**
+- Auroran (Subrace) - An unknown unique variant of Gremor with white skin and horns with blue tips. 
+  **+3 Fortitude, +2 Strength, always knows the direction of True South, reduces hunger-rate by -10 per interval, and if blind (blindfold or actual blindness) reduce the penalty of perception attempts by half.**
+- Aberrant Capra (Subrace) - Variant race with grey skin born while stuck in the Depths, affected during the fetus stage, and usually expected to be dead before they reach adulthood. 
+  **+3 Intelligence, +2 Willpower, can heal a single ally's Sanity by +5 every 4 seconds while at a Campfire or has a Power of 5+.**
+- Primal Vesperian (Subrace) - Variant race with black or brown skin and reverse-coloured mask.
+  **+2 HP, Fortitude, Willpower, gain a natural armour with 10 Armour HP that siphons 1 HPs worth of damage from any attack received; it heals 1 Armour HP per 30 minutes of rest taken at a Campfire or True Rest.**
 
 Power - A track of the Level you have in the world; to start at Power 1, which is a character creation requirement, you must spend 15 points on Core Stat allocations whilst spending another 10 on a chosen Attunement or a 6/4 distribution between 2 Attunements, totalling up to 25 Spent Investment Points (+3 & 2 from Racial modifiers).
 
@@ -402,17 +419,18 @@ Range: 5ft radius
 Ether Cost: 20 Ether
 Casting Type: Concentration
 Effect: Summon 6 blazing armoured warriors with halberds in a circle, attacking as they're summoned, then waiting for a second before attacking in unison together.
-Properties: Within a 10ft ring, 6 flaming warriors spawn in one after another, dealing 2 Damage once to every creature within its radius within 1 second, waiting 1 second, before finally finishing with 1 last thrust that also deals 2 Damage before dissipating; during the 2nd second of Cast Time the user can't attack but they can Dodge, Block, or Parry if any attacks are thrown their way.
+Properties: Within a 10ft ring, 6 flaming warriors spawn in one after another, dealing 2 Damage once to every creature within its radius within 1 second, waiting 1 second, before finally finishing with 1 last thrust that also deals 2 Damage before dissipating; during the 2nd second of Cast Time the user can't attack but they can Dodge, Block, or Parry if any attacks are thrown their way. If struck during the concentration of this Mantra, the warriors lose their ability to attack and fizzle away.
 Deals 2 Damage per-thrust, 20 Posture Damage on block, and inflicts Burn on a successful hit.
 Optional Modifiers: Gains special benefits from Cloud/Stratus Stones by adding 1 extra Servant, with every 3 extra servants increasing the base-Damage of each Thrust made by +1; when a Reversal Spark is applied to the Mantra, instead of attacking inwards, the warriors attack outwards instead, with anyone hit being caused to fall Prone after being struck.
 #### Fire Gun
 Mantra Type: Combat
-Range: 
-Ether Cost:
-Casting Type: 
-Effect: 
-Properties: 
-Optional Modifiers: 
+Range: 40ft
+Ether Cost: 5 Ether per-second
+Casting Type: Ritual Cast
+Effect: Converge the power of flames to your hands to fire 2 flame bullets per-second in a straight line, whilst keeping you partially mobile during its cast.
+Properties: After its start-up, this Mantra shoots indefinitely until the user runs out of Ether or until the user Cancels its use; can be deactivated and reactivated in the same round multiple times, even when hit; can break objects/walls; bullets can light campfires; if used while jumping or moving backwards, the move propels the user 5ft backwards before firing; every second, the user can choose to sped double the mana to fire double the shots; can inflict Burn on a successful hit.
+Deals 1 Damage per-hit, 1 Posture Damage on Block.
+Optional Modifiers: Using a Round Spark, your bullets can split into 2 after travelling 10ft; using a Blast Spark, when a bullet hits an enemy roll a d6, and for every 6 rolled the damage dealt by the bullet is reduced by half but in exchange it hits everything within a 5ft radius of the target hit.
 #### Flame Grab
 Mantra Type: Combat
 Range: 
