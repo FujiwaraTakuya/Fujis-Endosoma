@@ -190,173 +190,313 @@ There are 3 Main Categories of Weaponry that affect your style of combat; here a
 ## Heavy - Consists of Great Axes, Great Swords, and Great Hammers.
 ### Great Axes: 
 Atk. Dmg. : 3
+
 Pstr. Dmg. : 4
+
 Bld. Dmg. : 3
+
 Flrsh. Dmg. : 3
+
 Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+
 Atk. Limit (Per-Round): 2
+
 Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft.
+
 Critical Attack: Overhead Slash
+
 Critical Effect: 1-Hit Hyper Armour into Unblockable ground-slam and force-Prone for 1 second
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Great Swords: 
 Atk. Dmg. : 3
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 5
+
 Flrsh. Dmg. : 1
+
 Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+
 Atk. Limit (Per-Round): 2
+
 Range: 10ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft
+
 Critical Attack: Overshoulder Slash
+
 Critical Effect: 1-Hit Hyper Armour into Unstoppable ground-slash and force-Daze 2 seconds.
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Great Hammer: 
 Atk. Dmg. : 3
+
 Pstr. Dmg. : 5
+
 Bld. Dmg. : 1
+
 Flrsh. Dmg. : 5
+
 Atk. Spd. : 2 Seconds (Start-up time: 1 Second)
+
 Atk. Limit (Per-Round): 2
+
 Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft
+
 Critical Attack: Overhead Smash
+
 Critical Effect: 1-Hit Hyper Armour into Untoppable ground-smash and force-Prone for 2 seconds
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 
 ## Medium - Consists of Swords, Spears, Clubs, and Rifles.
 ### Swords: 
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 2
+
 Bld. Dmg. : 4
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1.5 Seconds
+
 Atk. Limit (Per-Round): 3
+
 Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft
+
 Critical Attack: Penetrating Thrust
+
 Critical Effect: Heavy Thrust dealing 4.5x Posture Damage on Block
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Spears: 
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 1
+
 Bld. Dmg. : 3
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1.5 Seconds
+
 Atk. Limit (Per-Round): 3
+
 Range: 10ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft->10ft
+
 Critical Attack: Sweep and Charge
+
 Critical Effect: 5ft-Cone Slash into 5ft leap and thrust
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Clubs: 
 Atk. Dmg.: 2
+
 Pstr. Dmg.: 4
+
 Bld. Dmg.: 1
+
 Flrsh. Dmg. : 3
+
 Atk. Spd.: 1.5 Seconds
+
 Atk. Limit (Per-Round): 3
+
 Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft
+
 Critical Attack: Overhead Smack
+
 Critical Effect: Instant Posture-break on Block
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Rifles: 
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 2
+
 Flrsh. Dmg. : 4
+
 Atk. Spd. : 1.5 Seconds
+
 Atk. Limit (Per-Round): 3
+
 Melee Range: 10ft.
+
 Flourish Combo: Quick Attack -> Powder Blast -> Quick Attack ->Powder Blast -> Flourish
+
 Powder Blast Range: 5ft
+
 Critical Shot Range: 30ft.
+
 Critical Effect: Projectile that deals 3x Attack Damage or Posture Damage on Block
+
 Critical Speed: 2 Seconds (End-Lag time: 1 Second)
 
 ## Light - Consists of Daggers, Fists, Guns, Rapiers, and Bows.
 ### Daggers
 Atk. Dmg. : 1
+
 Pstr. Dmg. : 1
+
 Bld. Dmg. : 4
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 4
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5-10ft
+
 Critical Attack: Swirling Strikes
+
 Critical Effect: Spinning slash and stab attack moving 5ft in any direction or in place, doing 3 separate fast hits; Bleed Damage increased to x2
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Fists
 Atk. Dmg. : 1
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 2
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 4
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft
+
 Critical Attack: Axe Kicks / Lunging Grapple
+
 Critical Effect: Heavy slam of ankle forcing Prone / Obvious lunging bear-hug into suplex forcing Prone and reposition behind Player
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Legs
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 1
+
 Flrsh. Dmg. : 3
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 4
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 5ft. cone
+
 Critical Attack: Roundhouse Kick
+
 Critical Effect: Sweep heel in a 5ft cone and deal Flourish Damage instead whilst knocking back 10ft
+
 Critical Speed: 2 Seconds (Start-up time: 1 Second)
 ### Guns (Pistols)
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 1
+
 Flrsh. Dmg. : 1
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 4
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x2 -> Flourish
+
 Powder Blast Range: 5ft
+
 Critical Shot Range: 30ft.
+
 Critical Effect: Projectile that deals 3x Attack Damage or Posture Damage on Block
+
 Critical Speed: 1 Second
 ### Rapiers
 Atk. Dmg. : 2
+
 Pstr. Dmg. : 1
+
 Bld. Dmg. : 2
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 4
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Range: 
+
 Critical Attack: 
 ### Bows
 Atk. Dmg. : 1
+
 Pstr. Dmg. : 3
+
 Bld. Dmg. : 1
+
 Flrsh. Dmg. : 2
+
 Atk. Spd. : 1 Seconds
+
 Atk. Limit (Per-Round): 
+
 Melee Range: 5ft.
+
 Flourish Combo: Quick Attack x3 -> Flourish
+
 Critical Shot Range: 120ft.
+
 Critical Effect: Projectile that deals 2x Attack Damage or Posture Damage on Block; can be performed twice in 1 Round, with a 1 second cooldown between shots- including consecutive rounds
+
 Critical Speed: 1 Second
 
 There is a 4th Category- Hybrid which is a mixture of 2 or more stats focusing upon physical elements of the weapon, and Elemental that consists of a mixture of Medium and Heavy weapons that focus upon Elemental Stats instead of Weapon Proficiency Stats, but since they're technically still Medium/Heavy Weapons, it'll just be labelled as such until further notice.
@@ -396,176 +536,301 @@ For combat, almost all Mantras have a cast time of 2 seconds (1 second of wind-u
 ### Mantras
 #### Fire Blade
 Mantra Type: Combat
+
 Range: 5ft Cone
+
 Ether Cost: 10 Ether
+
 Casting Type: Maintained Cast
+
 Effect: Hold your weapon over your head and engulf it in flames before swinging down and slashing your opponent with a flaming blade whilst scorching the earth to the sides. 
+
 Properties: Move up to 5ft in any direction before attacking with the Mantra; can break breakable/broken/weakened objects/surfaces.
 Deals 2 Damage, 4 Posture Damage on-block, inflicts Burn on successful hit, and at TL 5 with Firecharm it Insta-Guardbreaks on block.
 While using the Starkindred Oath's Starkindred Wings, Fire Blade can now move the user 5-15ft first whilst charging for an additional 0.5 seconds before unleashing a 2 second-long large fire plume that's 15ft wide, 30ft long, and 20ft high. Creatures stuck in the plume take 1d4 damage per-second.
+
 Optional Modifiers: Mainly gains benefits from Duration and Intensity Modifiers; does not have any Unique Effects from Modifiers.
 #### Flame Repulsion
 Mantra Type: Combat
+
 Range: 5ft Radius
+
 Ether Cost: 20 Ether
+
 Casting Type: Ritual
+
 Effect: surround yourself with a collecting sphere of flames as armour before reflecting any damage taken down to a minimum of 1 Damage.
+
 Properties: Activates on second 1 for 0.5 seconds before repelling everything in its radius back 15ft unless blocked, ending with 1 second of end-lag; during the duration, damage taken is reduced by 75% whilst reflecting the mitigated damage; gain Hyper-Armour during the end-lag of the Mantra.
 Deals 1 Damage on-hit even without taking any damage, deals Posture equal to 25% of total damage dealt to a minimum of 1, and inflicts Burn on a successful hit.
+
 Optional Modifiers: Mainly benefits from Cloud/Stratus Stones; can be Modified by a Spring Spark to make the Mantra fire out as a small projectile up to 20ft before exploding outwards and repelling all within the radius, whilst losing the Damage Reduction and Reflection.
 #### Burning Servants
-Mantra Type: Combat
-Range: 5ft radius
+Mantra Type: CombatRange: 5ft radius
+
 Ether Cost: 20 Ether
+
 Casting Type: Concentration
+
 Effect: Summon 6 blazing armoured warriors with halberds in a circle, attacking as they're summoned, then waiting for a second before attacking in unison together.
+
 Properties: Within a 10ft ring, 6 flaming warriors spawn in one after another, dealing 2 Damage once to every creature within its radius within 1 second, waiting 1 second, before finally finishing with 1 last thrust that also deals 2 Damage before dissipating; during the 2nd second of Cast Time the user can't attack but they can Dodge, Block, or Parry if any attacks are thrown their way. If struck during the concentration of this Mantra, the warriors lose their ability to attack and fizzle away.
 Deals 2 Damage per-thrust, 20 Posture Damage on block, and inflicts Burn on a successful hit.
+
 Optional Modifiers: Gains special benefits from Cloud/Stratus Stones by adding 1 extra Servant, with every 3 extra servants increasing the base-Damage of each Thrust made by +1; when a Reversal Spark is applied to the Mantra, instead of attacking inwards, the warriors attack outwards instead, with anyone hit being caused to fall Prone after being struck.
 #### Fire Gun
 Mantra Type: Combat
+
 Range: 40ft
+
 Ether Cost: 5 Ether per-second
+
 Casting Type: Ritual Cast
+
 Effect: Converge the power of flames to your hands to fire 2 flame bullets per-second in a straight line, whilst keeping you partially mobile during its cast.
+
 Properties: After its start-up, this Mantra shoots indefinitely until the user runs out of Ether or until the user Cancels its use; can be deactivated and reactivated in the same round multiple times, even when hit; can break objects/walls; bullets can light campfires; if used while jumping or moving backwards, the move propels the user 5ft backwards before firing; every second, the user can choose to sped double the mana to fire double the shots; can inflict Burn on a successful hit.
+
 Deals 1 Damage per-hit, 1 Posture Damage on Block.
+
 Optional Modifiers: Using a Round Spark, your bullets can split into 2 after travelling 10ft; using a Blast Spark, when a bullet hits an enemy roll a d6, and for every 6 rolled the damage dealt by the bullet is reduced by half but in exchange it hits everything within a 5ft radius of the target hit.
 #### Flame Grab
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Blind
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame of Denial
 Mantra Type: Support
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Fire Palm
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Fire Eruption
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Fire Forge
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Graceful Flame
 Mantra Type: Support
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Relentless Flames
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Sentinel
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Rising Flame
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flare Volley
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Leap
 Mantra Type: Movement
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Assault
 Mantra Type: Movement
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Wisp
 Mantra Type: Support
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Ash Slam
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flame Ballista
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 #### Flaming Scourge
 Mantra Type: Combat
+
 Range: 
+
 Ether Cost:
+
 Casting Type: 
+
 Effect: 
+
 Properties: 
+
 Optional Modifiers: 
 ### Talents
 #### Amoran Seeker
