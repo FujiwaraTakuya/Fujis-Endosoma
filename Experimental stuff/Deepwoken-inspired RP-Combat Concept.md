@@ -761,7 +761,7 @@ Moments after launching yourself into the air, roll 1d10 with each number equati
 
 After flying up 20ft into the air, the user and those around them gain Air-Time for 3 seconds, functioning like the Uppercut Action.
 
-Deals 3 Fire Damage with propulsion, 3 Posture Damage on Block, 1 Fire Damage per-slash, 5 unmodifiable & un-buffable Physical Damage if initial attack lands against those in 5ft; inflicts Burn on a successful hit.
+Deals 3 Fire Damage with propulsion, 3 Posture Damage on Block, 1 Fire Damage per-slash, 5 unmodifiable & un-buffable Physical Damage if initial attack lands against those in 5ft; inflicts Burn on a successful hit. This Mantra does not negate any fall damage taken.
 
 Optional Modifiers: Due to functioning like the Uppercut Action, it gains benefits from the "Meteor Impact" and "Phoenix Impact" Talents
 #### Flare Volley
@@ -791,43 +791,57 @@ Optional Modifiers: There are no known Unique effects gained from Modifiers.
 #### Flame Leap
 Mantra Type: Movement
 
-Range: 
+Range: 5ft radius
 
-Ether Cost:
+Ether Cost: 35 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: The user creates a blast of flames below their feet and uses it to launch themselves and their enemies up into the air with them, allowing them to maintain Air-Time with its usage before falling safely back down as they don't fall lower than when they started when using the Mantra.
 
-Properties: 
+Properties: You create a simple propulsion of flames down at your feet, launching yourself up into the air including to those in a 5ft radius around you and functioning like the Uppercut Action, flying up 25ft dealing minimal Fire Damage whilst taking no fall damage from the Mantra's usage unless you fall lower than your starting point of the Mantra's usage.
 
-Optional Modifiers: 
+This Mantra does not negate any fall damage taken if you fall lower than your starting height.
+
+Deals 2 Fire Damage, 2 Posture Damage on block; inflicts Burn on a successful hit.
+
+If cast with your legs covered in water up to your knees, this Mantra loses its 5ft radius blast and its ability to deal damage until your legs aren't submerged in water, but you can still propel yourself skywards.
+
+Optional Modifiers: If Modified with a Reversal Spark, instead of jumping vertically, you launch yourself vertically a front flip an equal distance of jumping before slamming into the floor with an expulsion of flame in the same radius, not knocking back anyone but negating any fall damage taken while using this Mantra.
 #### Flame Assault
 Mantra Type: Movement
 
-Range: 
+Range: 15ft 
 
-Ether Cost:
+Ether Cost: 35 Ether
 
-Casting Type: 
+Casting Type: Maintained 
 
-Effect: 
+Effect: The user cloaks themselves in flames before dashing forwards, burning everyone they dash past whilst knocking them back a bit on a successful hit.
 
-Properties: 
+Properties: While dashing forwards, you do minimal Fire Damage whilst being able to inflict Burn on your opponent, and with proper modifications you can use it more than twice per-round and become a mobile fireball.
 
-Optional Modifiers: 
+Deals 1 Fire Damage, 1 Posture Damage on Block; inflicts Burn on a successful hit.
+
+Optional Modifiers: Benefits from a faster cast-speed, and can be Modified with Crystal/Perfect Lenses to increase its dash-distance.
 #### Flame Wisp
-Mantra Type: Support
+Mantra Type: Wisp, Support
 
-Range: 
+Range: Personal
 
-Ether Cost:
+Ether Cost: 60
 
-Casting Type: 
+Casting Type: Summoning 
 
-Effect: 
+Effect: Absorbs half of the damage dealt by any Burn Damage to living creatures in a nearby radius, and turning it into healing.
 
-Properties: 
+Properties: Summon an independent wisp that hovers close by you and absorbs ambient burn damage from nearby living creatures, including yourself, converting that Fire Damage into healing for yourself.
+
+Heals the user by half of the damage dealt by Burn effects; can reduce the growth-rate of parasite growth by half.
+
+If you use the Lava Serpent Path Talent, half of the damage dealt by your eruptions heal you.
+
+If your HP is full, and you have an unlit campfire near you, it can light the campfire for you.
 
 Optional Modifiers: 
 #### Ash Slam
@@ -1016,6 +1030,7 @@ Here's the basic-list of effects that a Modifier can do to affect Mantras withou
 - Wayward Gem - Gives the player access to the Wayward Mantra. When a Mantra strikes the target, it places a Mark on them visible to everyone, then 1 second after the Mark has been applied the user can teleport to them immediately without wind-up, duration, or end-lag.
 - Wind Gem - After hitting an enemy with the Mantra, for 2 Rounds the user has their Movement Speed tripled
 ### Sparks
+Sparks permanently modify a Mantra so that it does alternate/enhanced effects, but the effects of Sparks can be reversed with Amnesiac Driftwood.
 - Blast Spark - Applies "Explosion" to compatible Mantra.
 - Magnet Spark - Applies "Magnet Shot" to compatible Mantra.
 - Multiplying Spark - Applies "Triple Shot" to compatible Mantra.
