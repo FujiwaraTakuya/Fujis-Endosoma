@@ -526,7 +526,7 @@ Attunements also come with Training Levels ranging from 1-5 to show the player's
 - Level 3: Expert (40+) (Upgrade Cost: 2,000)
 - Level 4: Master (60+) (Upgrade Cost: 4,000)
 - Level 5: Legendary (80+) (Upgrade Cost: 8,000)
-- Level 6: Mythical (100+) (Upgrade Cost: 16,000)
+- Level 6: Mythical (101+) (Upgrade Cost: 16,000)
 The total cost for all training adding up to: 31,000
 There are multiple benefits for upgrading your Attunements Training Level:
 - You gain a +0.5x boost to the Mantras base damage and effects from Modifiers per-Training Level above Level 1 (Max of 3.5x)
@@ -546,7 +546,9 @@ Casting Type: Maintained Cast
 Effect: Hold your weapon over your head and engulf it in flames before swinging down and slashing your opponent with a flaming blade whilst scorching the earth to the sides. 
 
 Properties: Move up to 5ft in any direction before attacking with the Mantra; can break breakable/broken/weakened objects/surfaces.
-Deals 2 Damage, 4 Posture Damage on-block, inflicts Burn on successful hit, and at TL 5 with Firecharm it Insta-Guardbreaks on block.
+
+Deals 2 Fire Damage, 4 Posture Damage on-block, inflicts Burn on successful hit, and at TL 5 with Firecharm it Insta-Guardbreaks on block.
+
 While using the Starkindred Oath's Starkindred Wings, Fire Blade can now move the user 5-15ft first whilst charging for an additional 0.5 seconds before unleashing a 2 second-long large fire plume that's 15ft wide, 30ft long, and 20ft high. Creatures stuck in the plume take 1d4 damage per-second.
 
 Optional Modifiers: Mainly gains benefits from Duration and Intensity Modifiers; does not have any Unique Effects from Modifiers.
@@ -562,7 +564,8 @@ Casting Type: Ritual
 Effect: surround yourself with a collecting sphere of flames as armour before reflecting any damage taken down to a minimum of 1 Damage.
 
 Properties: Activates on second 1 for 0.5 seconds before repelling everything in its radius back 15ft unless blocked, ending with 1 second of end-lag; during the duration, damage taken is reduced by 75% whilst reflecting the mitigated damage; gain Hyper-Armour during the end-lag of the Mantra.
-Deals 1 Damage on-hit even without taking any damage, deals Posture equal to 25% of total damage dealt to a minimum of 1, and inflicts Burn on a successful hit.
+
+Deals 1 Fire Damage on-hit even without taking any damage, deals Posture Damage equal to 25% of total damage taken and dealt back to a minimum of 1, and inflicts Burn on a successful hit.
 
 Optional Modifiers: Mainly benefits from Cloud/Stratus Stones; can be Modified by a Spring Spark to make the Mantra fire out as a small projectile up to 20ft before exploding outwards and repelling all within the radius, whilst losing the Damage Reduction and Reflection.
 #### Burning Servants
@@ -575,7 +578,8 @@ Casting Type: Concentration
 Effect: Summon 6 blazing armoured warriors with halberds in a circle, attacking as they're summoned, then waiting for a second before attacking in unison together.
 
 Properties: Within a 10ft ring, 6 flaming warriors spawn in one after another, dealing 2 Damage once to every creature within its radius within 1 second, waiting 1 second, before finally finishing with 1 last thrust that also deals 2 Damage before dissipating; during the 2nd second of Cast Time the user can't attack but they can Dodge, Block, or Parry if any attacks are thrown their way. If struck during the concentration of this Mantra, the warriors lose their ability to attack and fizzle away.
-Deals 2 Damage per-thrust, 20 Posture Damage on block, and inflicts Burn on a successful hit.
+
+Deals 2 Fire Damage per-thrust, 20 Posture Damage on block, and inflicts Burn on a successful hit.
 
 Optional Modifiers: Gains special benefits from Cloud/Stratus Stones by adding 1 extra Servant, with every 3 extra servants increasing the base-Damage of each Thrust made by +1; when a Reversal Spark is applied to the Mantra, instead of attacking inwards, the warriors attack outwards instead, with anyone hit being caused to fall Prone after being struck.
 #### Fire Gun
@@ -591,43 +595,47 @@ Effect: Converge the power of flames to your hands to fire 2 flame bullets per-s
 
 Properties: After its start-up, this Mantra shoots indefinitely until the user runs out of Ether or until the user Cancels its use; can be deactivated and reactivated in the same round multiple times, even when hit; can break objects/walls; bullets can light campfires; if used while jumping or moving backwards, the move propels the user 5ft backwards before firing; every second, the user can choose to sped double the mana to fire double the shots; can inflict Burn on a successful hit.
 
-Deals 1 Damage per-hit, 1 Posture Damage on Block.
+Deals 1 Fire Damage per-hit, 1 Posture Damage on Block.
 
 Optional Modifiers: Using a Round Spark, your bullets can split into 2 after travelling 10ft; using a Blast Spark, when a bullet hits an enemy roll a d6, and for every 6 rolled the damage dealt by the bullet is reduced by half but in exchange it hits everything within a 5ft radius of the target hit.
 #### Flame Grab
 Mantra Type: Combat
 
-Range: 
+Range: 10ft 
 
-Ether Cost:
+Ether Cost: 20 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: Cloak your palm intense flames before lunging forwards, grabbing your opponent by the chin, and slamming them into the floor, forcing them Prone.
 
-Properties: 
+Properties: Using this Mantra makes you stand still during the start-up before lunging up to 10ft forwards before grabbing a Target in a straight line that was travelled, grabbing them, lifting them off the floor, then slamming them to the ground and dealing Fire Mantra Damage from the flames and Strength Mantra Damage from slamming them to the ground, forcing the Prone Condition upon them.
 
-Optional Modifiers: 
+Deals 1 Physical Damage on contact, 1 Fire Damage, Strength Mantra Damage, 1 Posture Damage on block; inflicts Burn on a successful hit.
+
+Optional Modifiers: Benefits most from Drift/Rush Shards or Crystal/Perfect Lenses
 #### Flame Blind
 Mantra Type: Combat
 
-Range: 
+Range: Personal -> 30ft
 
-Ether Cost:
+Ether Cost: 10 Ether
 
-Casting Type: 
+Casting Type: Concentration Cast
 
-Effect: 
+Effect: Creates a ball of flame with a snap of their fingers that heats up rapidly to the point of imploding in a bright white light, dealing minimal damage in exchange for blinding everything aside its user within its radius.
 
-Properties: 
+Properties: Summons an orb during its start-up, with the 2nd second allowing its user to Block, Parry, or Dodge during this Mantras cast; any creature hit by this Mantras cast is blinded for 1.5 seconds, rendering them unable to Parry during the duration, but blocking the Mantra before it hits negates the Blind effect.
 
-Optional Modifiers: 
+Deals only 1 Fire Damage, 0 Posture Damage; Blinds for 1.5 seconds on successful hit and prevents Parrying.
+
+Optional Modifiers: Aeon Logstones can make the Blind effect last longer; if you have the Concussive Flash Talent, all Blind effects dealt by Flame Bind also Dazes the creatures
 #### Flame of Denial
 Mantra Type: Support
 
-Range: 
+Range: Personal
 
-Ether Cost:
+Ether Cost: 
 
 Casting Type: 
 
@@ -639,45 +647,53 @@ Optional Modifiers:
 #### Fire Palm
 Mantra Type: Combat
 
-Range: 
+Range: 5ft->15ft cone
 
-Ether Cost:
+Ether Cost: 15 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: Create a blast of flames in a 5ft space in front of you before it spreads out into a 15ft cone.
 
-Properties: 
+Properties: The blast of the cone happens in half a second after emission, allowing its user to Block, Parry, or Dodge during the latter-half of the attack's cast.
 
-Optional Modifiers: 
+Deals 2 Fire Damage, 2 Posture Damage on Block; inflicts Burn on a successful hit.
+
+Optional Modifiers: If you have the Wildfire Talent, you can opt to cast the cone of the Mantra at your palm and widening the cone's effect by 10ft, in exchange for losing the initial 5ft of Range and turning the 15ft cone to 10ft.
 #### Fire Eruption
 Mantra Type: Combat
 
-Range: 
+Range: 10ft cone -> 5ft radius at AOI
 
-Ether Cost:
+Ether Cost: 25 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast 
 
-Effect: 
+Effect: Slam your weapon into the ground creating a small crater, blasting your enemies in flames, before the user pipes their flames through their weapon and into the earth for a 3rd second, causing a build of flames, energy, and resulting in an earth and fire eruption that can blow back the guards of most.
 
-Properties: 
+Properties: Slam your weapon into the ground in front of you dealing Physical and Fire Damage in a 10ft cone before the area where the weapon is embedded into during the 3rd second of the Mantra to erupt in a 5ft radius circle with Fire Damage, dealing a ton of Posture Damage with the eruption. During the 3rd second of the Mantra, gain Hyper-Armour to basic attacks.
 
-Optional Modifiers: 
+Deals 2 Physical Damage, 2 Fire Damage, 2 Posture Damage,  3 Fire Damage with the second explosion, 5 Posture Damage with the second explosion on block; inflicts Burn on a successful hit.
+
+Optional Modifiers: Can use Glass/Magnifying Stones to increase the size of the Explosion part of the Mantra.
 #### Fire Forge
 Mantra Type: Combat
 
-Range: 
+Range: 50ft
 
-Ether Cost:
+Ether Cost: 20 Ether
 
-Casting Type: 
+Casting Type: Summoned Cast
 
-Effect: 
+Effect: Create 3 flaming daggers that can be used in any manner within 4 seconds of summoning other than a typical weapon as they break 1 second after making contact with any surface; while they don't do much damage, their usage and utility can surprise the cocky.
 
-Properties: 
+Properties: Create 3 hand-held projectiles the player can throw, stab, or slash with before breaking 1 second after being used. Each dagger lasts 4 seconds, meaning they exist as objects for 1 round until they touch something other than the summoner of the Mantra, and fly straight when thrown before dissipating once travelling their max distance from the user.
 
-Optional Modifiers: 
+When thrown, the user can usually throw all 3 daggers at once in a thin cone-like shape, travelling 10ft close by before splitting outwards to a 5ft spread, repeating this spread until the daggers travel their full distance or hit something. The user can, however, throw them individually instead of simultaneously, separating them into 1 dagger thrown every second for 3 seconds worth of attacks.
+
+Deals 1 Fire Damage per-dagger, 1 Posture Damage per-dagger; can break objects/walls on contact; doesn't inflict Burn on a successful hit.
+
+Optional Modifiers: Can be modified with Crystal/Perfect Lenses to make the daggers fly faster and thus fly father; if the user has the Hell's Partisan Talent, it'll allow the user to inflict Burn with the Mantra; if Modified with the Tornado Spark, during the start-up the user spins around rapidly before throwing out 5 daggers in rapid succession in a straight line.
 #### Graceful Flame
 Mantra Type: Support
 
@@ -695,59 +711,83 @@ Optional Modifiers:
 #### Relentless Flames
 Mantra Type: Combat
 
-Range: 
+Range: 10ft semi-circle-radius
 
-Ether Cost:
+Ether Cost: 40 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: The user creates a hilted blade of flames around your your weapon before slashing 7 times in quick succession before the blade dissipates. 
 
-Properties: 
+If you miss the first strike, however, the entire Mantra is cancelled, and if any of the other 6 swings are parried, the Mantra is also cancelled.
 
-Optional Modifiers: 
+Properties: While a flame cloaks your weapon like a blade, regardless of its size, it'll emit a 10ft flaming slash with each swing it makes, striking all within its radius, attacking 3 times per-second with Fire Damage for a total of 7 strikes; depending upon the Range of your Weapon, enemies within the range of your weapon's max Range also take Physical Damage from your Weapon.
+
+In order to do the full Mantra, the first swing of the Mantra must hit or be blocked against to commit to the full Mantra, otherwise a missed or Parried swing cancels the entire Mantra whilst still consuming Ether.
+
+Deals 2 Fire Damage per-strike, 3 Posture Damage per-strike on Block; inflicts Burn on successful hit; any number of Strikes can be cancelled to end the Mantra early and commit to other actions, but this doesn't refund any Ether for doing so.
+
+Optional Modifiers: There aren't any particularly unique effects gained from Modifiers.
 #### Flame Sentinel
-Mantra Type: Combat
+Mantra Type: Combat, Support
 
-Range: 
+Range: 15ft over 6 seconds
 
-Ether Cost:
+Ether Cost: 30 Ether
 
-Casting Type: 
+Casting Type: Summon Cast
 
-Effect: 
+Effect: Create an orb with rotating rings of flaming energy that travels in a straight line and fires at your enemies before dissipating.
 
-Properties: 
+Properties: After performing some hand-signs, create a floating orb above your head that travels 5ft in a chosen direction and only that direction every 2 seconds for 6 seconds whilst attacking with a fireball at an enemy within 20ft, dissipating once it reaches the end of its travels.
 
-Optional Modifiers: 
+Deals 2 Fire Damage per-fireball, 1 Posture Damage on block; Parrying this Mantra doesn't cause it to cease its existence; does not inflict Burn on a successful hit.
+
+Optional Modifiers: Modifying with a Magnet Spark turns the Mantra into a Turret that follows the player from behind; using Glass/Magnifying stones can increase the distance it travels per-second, and Aeon/Eternal Logstones can increase its Duration to give it more attacks while still travelling an additional 5ft every 2 seconds added to its Duration.
 #### Rising Flame
 Mantra Type: Combat
 
-Range: 
+Range: 5ft-radius & 10ft
 
-Ether Cost:
+Ether Cost: 40 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: Create a vent of flames below yourself that forcefully propels you and those within a 5ft radius up 20ft into the air gaining Air-Time like performing an Uppercut, spinning yourself around rapidly to unleash slashes of heated flames all around you that slashes out to anyone within 10ft.
 
-Properties: 
+Properties: In a 5ft radius, launch yourself and those around you into the air with flames and hot air, dealing Fire Damage whilst spinning sharply to swing your weapon around and attack everything around you within your vicinity with Physical Damage; if the Initial propulsion hits, the user is propelled into the air, with Blocks and Parries negating the whole Mantra.
 
-Optional Modifiers: 
+Moments after launching yourself into the air, roll 1d10 with each number equating to the number of Flaming Slashes thrown out while spinning, with each Flaming Slash flying out 10ft before dissipating whilst guaranteeing anybody within 5ft to take 5 Physical Damage from spinning their weapon and striking everyone around them.
+
+After flying up 20ft into the air, the user and those around them gain Air-Time for 3 seconds, functioning like the Uppercut Action.
+
+Deals 3 Fire Damage with propulsion, 3 Posture Damage on Block, 1 Fire Damage per-slash, 5 unmodifiable & un-buffable Physical Damage if initial attack lands against those in 5ft; inflicts Burn on a successful hit.
+
+Optional Modifiers: Due to functioning like the Uppercut Action, it gains benefits from the "Meteor Impact" and "Phoenix Impact" Talents
 #### Flare Volley
 Mantra Type: Combat
 
-Range: 
+Range: 50ft -> every time it reaches Max Range, extend its flight by its base whilst reducing it by an additional -10ft and causing it to fall in height by -5ft until it hits something; measured as such:
+- 50ft Range, no Drop-off
+- 40ft Range, 5ft Drop-off
+- 30ft Range, 15ft Drop-off
+- 20ft Range, 30ft Drop-off
+- 10ft Range, 50ft Drop-off
+- 0ft Range, 75+ft Drop-off
 
-Ether Cost:
+Ether Cost: 45 Ether
 
-Casting Type: 
+Casting Type: Maintained
 
-Effect: 
+Effect: Converge your palms behind yourself with your wrists placed closely together, creating and charging 3 flaming balls of fire before blasting them simultaneously at your opponent in a straight line, each fireball exploding upon impact and damaging those around the area of impact the same amount of Damage.
 
-Properties: 
+Properties: Create 3 balls of flame that swirl around in a circle between your palms, charging it like the turtle destruction wave, before unleashing the balls as a blast towards your enemy.
 
-Optional Modifiers: 
+Each explosion on impact hits those within a 10ft radius on-impact with the same Fire Damage one would feel from getting hit.
+
+Deals 3 Fire Damage per-fireball, 4 Posture Damage per-fireball; inflicts Burn on a successful hit.
+
+Optional Modifiers: There are no known Unique effects gained from Modifiers.
 #### Flame Leap
 Mantra Type: Movement
 
@@ -793,45 +833,55 @@ Optional Modifiers:
 #### Ash Slam
 Mantra Type: Combat
 
-Range: 
+Range: 5ft range ->5ft radius
 
-Ether Cost:
+Ether Cost: 60 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: The user clenches their fist tightly, sealing a growing flame that compresses with their grip  and barely emits its flames through leaking sparks during the charge-up, with the first punch causing an explosion upon impact whilst causing a 2nd explosion of flames afterwards and causing the dust, dirt, and stone to erupt around them.
 
-Properties: 
+Properties: Acts similarly to Fire Eruption but only has a cast-time of 2 seconds with only a minor millisecond lag between the 2 explosions; the punch dealing Strength Mantra Damage whilst each explosion deals Fire Damage.
 
-Optional Modifiers: 
+Deals Strength Mantra Damage, 2 Fire Damage with the first explosion, 6 Fire Damage with the second explosion; inflicts Burn on successful hit.
+
+Optional Modifiers: There are no known Unique effects gained from Modifiers.
 #### Flame Ballista
 Mantra Type: Combat
 
-Range: 
+Range: 120ft Range
 
-Ether Cost:
+Ether Cost: 65 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: Using both hands, using your middle, index fingers, and thumb to act as your bow, and your other pinched fingers to act like the drawstring, you create a flaming arrow between the two whilst aiming at a single target and charging the flame to become more powerful.
 
-Properties: 
+Properties: You create a flaming bow and arrow with your hands and fingers, charging up an arrow of flames up to 6 times before firing out the arrow; if struck while charging, the whole Mantra is cancelled and the Ether is still consumed. On max-charge, the arrow is fired automatically, or 10 Ether is consumed per-second to keep the arrow maintained, but this does not increase the damage of the Mantra further.
 
-Optional Modifiers: 
+Each second spent charging each charge of Flame Ballista after start-up increases the base-damage of the Mantra by a +1x multiplier up to a max multiplier of x6, this also applies to Posture Damage. The arrow can be fired immediately at any point after the first charge to deal damage to an enemy. Also, arrows can track after their target, reducing their bonus to Dodges by -1.
+
+Deals 5 Fire Damage, 5 Posture Damage; inflicts Burn on a successful hit.
+
+Instead of dissipating on Block, the arrow ricochets and randomly flies off in a random direction rolled with a 1d8; rolling a 2 makes the arrow fly into the air for 4 rounds before falling back down another 4 rounds later and striking whoever's below.
+
+Optional Modifiers: If Modified with a Spring Spark, while the user is in the air, they can use this Mantra to slow their descent down by 5ft every 2 seconds before falling back to normal speed after firing the arrow.
 #### Flaming Scourge
 Mantra Type: Combat
 
-Range: 
+Range: 15ft Range -> 10ft Radius
 
-Ether Cost:
+Ether Cost: 60 Ether
 
-Casting Type: 
+Casting Type: Maintained Cast
 
-Effect: 
+Effect: Create a whip of flames before swirling the whip around twice before grabbing the closest creature and lifting them up to the air above you, then slamming them down to the ground in-front of you whilst causing a small crater and flaming explosion.
 
-Properties: 
+Properties: The whip deals Fire Damage 2 times with each 360-spinning swing before grabbing the closest target in-range, bypassing Block to grab your opponent before slamming them down with Strength Mantra Damage and causing an explosion of Fire Damage on-impact with the ground. The slam-part of the Mantra does not cause the target to become Prone.
 
-Optional Modifiers: 
+Deals 3 Fire Damage per-flame whip strike, 2 Posture Damage on block on the first whip strike, Strength Mantra Damage on floor slam, 6 Fire Damage from explosion; inflicts Burn on a successful hit.
+
+Optional Modifiers: Cannot be Modified with Modifiers
 ### Talents
 #### Amoran Seeker
 ##### Flame Within
@@ -989,7 +1039,7 @@ These are the actions you can perform during Combat in no particular order, list
 - Move - Move up to 15ft, Run up to 30ft, or Sprint up to 60ft (1/2/3 seconds; Sprint disables Quick Attack, Block, Parry, Quick-Equip, Throw, and Use Item.)
 - Quick Attack - Perform a short, quick attack with varying speed amongst weapons (1 second)
 - Critical Attack - Perform a strong but obvious attack with various offensive properties based upon weapon (2 seconds/varies)
-- Uppercut - Evading an incoming attack, you weave around/under the Physical attack before attempting to launch yourself and your opponent skywards (2 seconds)
+- Uppercut - Evading an incoming attack, you weave around/under the Physical attack before attempting to launch yourself and your opponent skywards, with successful strikes that aren't Blocked or Parried giving Air-Time for 3 seconds (2 seconds)
 - Feint/Attack-Cancel - Fake an attack/cancel an attack mid-way through swinging at the cost of Posture (1 second)
 - Block - Guarding against any and all damage geared towards them in exchange for Posture damage (1~ second)
 - Parry - Attempt to deflect an attack with high risks for a large reward (2 seconds with 1 second cooldown on failed parry, can parry 7 attacks in 1 second)
