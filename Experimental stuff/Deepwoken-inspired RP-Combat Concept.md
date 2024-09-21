@@ -635,15 +635,21 @@ Mantra Type: Support
 
 Range: Personal
 
-Ether Cost: 
+Ether Cost: 100 Ether
 
-Casting Type: 
+Casting Type: Ritual Cast
 
-Effect: 
+Effect: The user spends a massive amount of Ether to create a concentrated flame that condenses down into a small ball on their palm before forcing that flame into their heart. During the duration of this Mantra, the user can't be knocked out from damage at least once when taking lethal Damage, after which the Mantra ceases its activity.
 
-Properties: 
+Properties: Spending a large majority of your Ether, you create a flame that you insert within yourself to prevent yourself from falling unconscious due to combat and keeping yourself in the fight; this being highlighted by an ever-present flame glowing within your torso for the duration of the Mantra.
 
-Optional Modifiers: 
+During the duration of this Mantra, at the start of each Second, the user regenerates 2% of their Max HP to a minimum of 1 HP per-second; this effect being increased to 3% with the Azure Flames Talent. It also restores the Sanity of the user an equal percentile amount.
+
+While active, for 30 seconds (12.5 Rounds) or 37 seconds (14.25 Rounds) with the Azure Flames Talent, the next lethal attack taken that would normally Knock the user will leave the user's HP at 1 instead; when taking lethal damage, the effects of Flames of Denial retain its effects until 1 second in-combat passes where the user hasn't taken damage, after which the Mantra is consumed and ends itself (Think of it like Second Chance from Kingdom Hearts).
+
+After the end of this Mantra, it goes on Cooldown for 5 minutes (75 Rounds).
+
+Optional Modifiers: A great Modifier with this Mantra is using Vibrant Gems you can increase the number of times you can go down from taking Lethal Damage before getting up back to your feet.
 #### Fire Palm
 Mantra Type: Combat
 
@@ -697,15 +703,19 @@ Optional Modifiers: Can be modified with Crystal/Perfect Lenses to make the dagg
 #### Graceful Flame
 Mantra Type: Support
 
-Range: 
+Range: personal / 15ft
 
-Ether Cost:
+Ether Cost: 60 Ether
 
-Casting Type: 
+Casting Type: Ritual Cast
 
-Effect: 
+Effect: Create a special long-lasting flame that acts like a campfire for self-healing, resting, and cooking.
 
-Properties: 
+Properties: This special floating flame ball can be used for encouraging rest, cooking food, and restoring Sanity, whilst the flame itself encourages healing whilst remaining within its passive range.
+
+The Mantra lasts 1 minute (15 Rounds) without Modifiers, and heals every non-NPC within its passive range 1 HP every 4 seconds.
+
+When used in Layer 1 of The Depths, this Mantra can't be used unless the user has the Undying Flame Talent, and is completely unusable within Layer 2 of The Depths.
 
 Optional Modifiers: 
 #### Relentless Flames
@@ -1153,5 +1163,5 @@ Critical Range: # ft.
 Critical Attack: 
 Critical Effect: 
 Critical Speed: # Seconds (Start-up time: # Second)
-## Attunement
+## Attunement(s)
 - 
