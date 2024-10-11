@@ -34,7 +34,7 @@ Behaviour:
 
 ### Megalodaunt (Sharko)
 
-### Golem
+### Rock Golem
 
 ### Deep Owl
 
