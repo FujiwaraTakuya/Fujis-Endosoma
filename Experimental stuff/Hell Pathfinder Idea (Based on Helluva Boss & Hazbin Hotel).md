@@ -8,6 +8,7 @@ Undead are highly uncommon in the space of Hell as the violent rampant nature of
 
 Here is a list of races that players can choose from that were born in Hell if players want to exist as a Hellspawn:
 ## Imps
+Creature Type: Outsider (Hell)
 Size: Small/Medium
 Speed: 20ft Small/30ft Medium
 Ability Score Modifier: -1 Str, +2 Dex, +1 Con, -2 Wis, -2 Int, +1 Cha
@@ -29,6 +30,7 @@ Racial Traits:
 - Tripping Tail: Must have the Slapping Tail Trait. When a member of this race hits with its slapping tail, it can make a [trip](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip) attack as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions) that does not provoke [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity)
 
 ## Hellhounds
+Creature Type: Outsider (Hell)
 Size: Small/Medium/Large
 Speed: 30ft
 Ability Score Modifier: +2 Str, +1 Dex, +2 Con, -5 Int, -3 Wis, +3 Cha
@@ -58,6 +60,7 @@ Racial Traits:
 - Scent: Members of this race gain the [scent](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Scent-Ex-) ability.
 - Blindsense: Using nonvisual senses such as acute smell or hearing, members of this race notice things they cannot see. Members of this race usually do not need to make [Perception](https://www.d20pfsrd.com/skills/perception) checks to pinpoint the location of a creature within 30 feet, provided they have line of effect to that creature. A creature that members of this race cannot see still has total [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment) against individuals with [blindsense](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Blindsight-and-Blindsense), and members of this race still have the normal miss chance when attacking creatures that have [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment). Visibility still affects the movement of members of this race. Members of this race are still denied their [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to AC against attacks from creatures they cannot see.
 ## Baphomets
+Creature Type: Outsider (Hell)
 Size: Small/Medium
 Speed: 30ft
 Ability Score Modifier: +1 Str, +2 Dex, -1 Con, +2 Int, -2 Wis, -1 Cha
@@ -98,6 +101,7 @@ Racial Traits:
 - Elemental Vulnerability (Cold x1.5, Hellcold 2x): Pick one of the following energy types: acid, cold, electricity, or fire. Members of this race have [vulnerability](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Vulnerabilities-Ex-or-Su-) to the chosen energy type. They cannot posses any racial trait that grants them [resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) or [immunity](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Immunity-Ex-or-Su-) to this energy type. This trait can be taken multiple times. Each time it is taken, choose a different energy type. If a race has [vulnerability](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Vulnerabilities-Ex-or-Su-) to fire and [immunity](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Immunity-Ex-or-Su-) to cold, it gains the [cold](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Cold) subtype. If a race has [vulnerability](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Vulnerabilities-Ex-or-Su-) to cold and [immunity](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Immunity-Ex-or-Su-) to fire, it gains the [fire](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fire) subtype.
 - Prehensile Tail: Members of this race have a long, flexible tail that can be used to carry objects. They cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions).
 ## Demons
+Creature Type: Outsider (Hell)
 Size: Small/Medium/Large
 Speed: 30ft 
 Ability Score Modifier (Roll a d20 (Optional); Mixed Weakness (1-10), Standard (11-15), or Advanced (16-20)): 1 score type gets +2, -2, other gets +2, -4/+2 Physical And Mental score of choice, -2 of singular remaining choice/+2 to all scores of a type, +4 on 1 score of the other and -2 to another score of the other
@@ -108,17 +112,53 @@ Racial Traits:
 - Ancient Foe (Player's Choice): Choose one monster type or one subtype of the [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) type. Members of this race gain a +2 [dodge bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC against monsters of that type and a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers) checks made to [grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) creatures of that type.
 - 
 ## Eldritch
+Creature Type: Outsider (Hell)
 Size: Small/Medium/Large
 Speed: 30ft 
-Ability Score Modifier: +2 Con, -2 Int, +4 Wis, -4 Cha
+Ability Score Modifier: +2 Con, -4 Int, +4 Wis, -2 Cha
 Language: Standard or Xenophobic
 Racial Traits:
 - Elemental Immunity (Fire): Gain an immunity to Fire exclusively, not including Hellfire
 - Change Shape, Lesser: Members of this race gain the following [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) ability: A member of this race can assume the appearance of a single form of a single [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disguise](https://www.d20pfsrd.com/skills/disguise) checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions). This trait otherwise functions as [alter self](https://www.d20pfsrd.com/magic/all-spells/a/alter-self), save that the creature does not adjust its ability scores.
-- Ancient Foe (Player's Choice): Choose one monster type or one subtype of the [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) type. Members of this race gain a +2 [dodge bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC against monsters of that type and a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers) checks made to [grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) creatures of that type.
-- 
-- Low-Light Vision: Members of this race can see twice as far as a race with normal vision in conditions of dim light.
+- Deathless Spirit: Members of this race gain [resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) 5 against negative energy damage. They do not lose [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) when they gain a [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels), and they gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against death effects, [energy drain](https://www.d20pfsrd.com/magic/all-spells/e/energy-drain), negative energy, and spells or [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) of the [necromancy](https://www.d20pfsrd.com/magic#TOC-Necromancy) school.
+- Energy Resistance (Choose 2, acid, cold, electricity, hellfire, hellacid, hellice, hellectricity): Pick one of the following energy types that corresponds to the plane the race has ties to: acid ([earth](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Earth)), cold ([water](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Water)), electricity ([air](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Air)), or fire ([fire](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fire)). Members of this race have [resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) 5 to the corresponding energy type. This trait can be taken more than once. Each time it is taken, select an additional energy type that corresponds to another [elemental plane](https://www.d20pfsrd.com/gamemastering/environment/the-planes#TOC-Elemental-Planes) the race has ties to.
+- Eternal Hope: Members of this race gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against fear and despair effects. Also, once per day, after a natural roll of 1 on a d20 roll, members of this race may reroll and use the second result. 
+- Fearless: Members of this race gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on all saving throws against fear effects. This bonus stacks with the bonus granted by the lucky (greater or lesser) racial trait.
+- Illusion Resistance: Members of this race gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells or effects.
+- Plagueborn: Members of this race gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against [disease](https://www.d20pfsrd.com/gamemastering/afflictions/diseases), ingested poisons, and becoming [nauseated](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Nauseated) or [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened).
+- Resistant: Members of this race gain a +2 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on saving throws against mind-affecting effects and [poison](https://www.d20pfsrd.com/gamemastering/afflictions/poison).
+- Unnatural: Members of this race unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. Members of this race take a –4 penalty on all [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based skill checks to affect creatures of the [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) type, and receive a +4 [dodge bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus) to AC against animals. [Animals’](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) starting attitude toward members of this race is one step worse than normal.
+- Improved Resistance (Choose 1, acid, cold, electricity, hellacid, hellice, hellectricity): Members of this race increase their [resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) to one energy type to 10. This racial trait can be taken multiple times. Each additional time you take this trait, increase its cost by 1 RP, and increase one other [resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) to 10.
+- Moon-Touched Damage Resistance: Members of this race gain [DR](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Damage-Reduction-Ex-or-Su-) 5/silver.
+- Gift of Tongues: Must have Standard or Linguist Language Quality. Members of this race gain a +1 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Bluff](https://www.d20pfsrd.com/skills/bluff) and [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) checks, and they learn one additional language every time they put a rank in the [Linguistics](https://www.d20pfsrd.com/skills/linguistics) skill.
+- Silver Tongued: Members of this race gain a +2 bonus on [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) and [Bluff](https://www.d20pfsrd.com/skills/bluff) checks. In addition, when they use [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) to shift a creature’s attitude, they can do so up to three steps up rather than just two.
+- Dreamspeaker / Enclave Protector / Fell Magic / Shadow Magic : Members of this race gain a +1 bonus to the saving throw DCs of spells of the divination school and spells that produce [sleep](https://www.d20pfsrd.com/magic/all-spells/s/sleep) effects that they cast. In addition, members of this race with a [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) score of 15 or higher also gain the following spell-like ability (the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is equal to the user’s character level):
+
+**1/day**—[dream](https://www.d20pfsrd.com/magic/all-spells/d/dream)
+/
+Members of this race add +1 to the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) of any [abjuration](https://www.d20pfsrd.com/magic#TOC-Abjuration) spells they cast. Members of this race also gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) (the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is equal to the user’s character level):
+
+**Constant**—[nondetection](https://www.d20pfsrd.com/magic/all-spells/n/nondetection);  
+**1/day**—[faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire), [obscure object](https://www.d20pfsrd.com/magic/all-spells/o/obscure-object), [sanctuary](https://www.d20pfsrd.com/magic/all-spells/s/sanctuary)
+/
+   Members of this race gain +1 to the DC of any saving throws against [necromancy](https://www.d20pfsrd.com/magic#TOC-Necromancy) spells that they cast. Members of this race with a [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) score of 11 or higher also gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) (the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is equal to the user’s character level):
+
+**1/day**—bleed, [chill touch](https://www.d20pfsrd.com/magic/all-spells/c/chill-touch), [detect poison](https://www.d20pfsrd.com/magic/all-spells/d/detect-poison), [touch of fatigue](https://www.d20pfsrd.com/magic/all-spells/t/touch-of-fatigue).
+
+The DC is equal to 10 + the spell’s level + the user’s [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) modifier.
+/
+   Members of this race add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Members of this race with a [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) score of 11 or higher also gain the following [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) (the [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is equal to the user’s character level):
+
+**1/day**—[ghost sound](https://www.d20pfsrd.com/magic/all-spells/g/ghost-sound), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace), [ventriloquism](https://www.d20pfsrd.com/magic/all-spells/v/ventriloquism)
+- Fiendish Sorcery: If a member of this race is a [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer) with the [Abyssal](https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/abyssal-bloodline) or [Infernal bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/infernal-bloodline), it treats its [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) as 1 higher when casting bonus spells and [bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer#TOC-Bloodline) powers. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait.
+- Hypnotic: Members of this race add +1 to the DC for all saving throws against spells or effects they cast that inflict the [fascinated](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fascinated) condition. Once per day, when a creature rolls a saving throw against such an effect from a member of this race, the member of the race can force that creature to reroll the saving throw and use the second result, even if it is worse.
+- Terrifing Croak: Members of this race gain the following [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) ability: Once per hour as a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions), a member of this race can emit a thunderous croak. Any creature not of its subtype (if [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid)) or type (if another race type) must make a successful [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) saving throw (DC 10 + 1/2 the user’s character level + the user’s [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier) or become [shaken](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Shaken) for 1d4 rounds. A target that successfully saves cannot be affected by the user’s terrifying croak for 24 hours. Creatures that are already [shaken](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Shaken) become [frightened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Frightened) for 1d4 rounds instead. This is a sonic, mind-affecting effect.
+- Elemental Weapons (Choose 1, Hellfire, Hellacid, Hellice, Hellectricity): Pick one of the following energy types that corresponds to the plane the race has ties to: acid ([earth](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Earth)), cold ([water](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Water)), electricity ([air](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Air)), or fire ([fire](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fire)). Members of this race deal 1d6 points of energy damage of the selected type whenever they strike a foe with a [natural attack](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks), [unarmed strike](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/strike-unarmed), or melee weapon.
+- Deepsight: Members of this race are specially adapted to the lightless depths of the oceans, but not to air-filled environments. They can see in the dark up to 120 feet while underwater, but do not gain this benefit out of water.
+- Darkvision 120 Feet: Members of this race can see in the dark up to 120 feet.
+- Negative Energy Affinity: A member of this race is alive, but is healed by negative energy and harmed by positive energy, as if it were an undead creature.
 ## Fallen Angels
+Creature Type: Outsider (Hell)
 Size: Small/Medium
 Speed: 30ft 
 Ability Score Modifier: +2 Str, +2 Dex, +2 Con, -6 Int, +2 Wis, -4 Cha
@@ -127,6 +167,7 @@ Racial Traits:
 - Elemental Immunity (Fire): Gain an immunity to Fire exclusively, not including Hellfire
 - 
 ## Ghosts
+Creature Type: Outsider (Hell)
 Size: Small/Medium/Large
 Speed: 20ft Small/30ft Medium
 Ability Score Modifier:  +2 Str, -4 Dex, -4 Con, +0 Int, +4 Wis, +2 Cha
@@ -134,6 +175,7 @@ Language: Standard or Xenophobic
 Racial Traits:
 - 
 ## Monsters
+Creature Type: Outsider (Hell)
 Size: Tiny/Small/Medium/Large/Huge
 Speed: 30ft
 Ability Score Modifier: +2 to 2 Physical or Mental Core stats and +2 to a Stat of the other, the rest lose -2
@@ -142,6 +184,7 @@ Racial Traits:
 - Change Shape, Lesser: Members of this race gain the following [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) ability: A member of this race can assume the appearance of a single form of a single [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disguise](https://www.d20pfsrd.com/skills/disguise) checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions). This trait otherwise functions as [alter self](https://www.d20pfsrd.com/magic/all-spells/a/alter-self), save that the creature does not adjust its ability scores.
 - 
 ## Sharks
+Creature Type: Outsider (Hell)
 Size: Medium/Large
 Speed: 20ft Small/30ft Medium
 Ability Score Modifier:  +1 Str, +1 Dex, +2 Con, -2 Int, -1 Wis, -1 Cha
@@ -153,6 +196,7 @@ Racial Traits:
 - Water Scent: Members of this race gain the [scent](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Scent-Ex-) ability but only while in water.
 - Amphibious: Members of this race are [amphibious](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Amphibious-Ex-) and can breathe both air and water.
 ## Incubuses & Sucubuses
+Creature Type: Outsider (Hell)
 Size: Small/Medium
 Speed: 20ft Small/30ft Medium
 Ability Score Modifier:  -1 Str, +1 Dex, +2 Con, -4 Int, +2 Wis, +3 Cha
@@ -162,6 +206,7 @@ Racial Traits:
 - Change Shape, Lesser: Members of this race gain the following [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) ability: A member of this race can assume the appearance of a single form of a single [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disguise](https://www.d20pfsrd.com/skills/disguise) checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions). This trait otherwise functions as [alter self](https://www.d20pfsrd.com/magic/all-spells/a/alter-self), save that the creature does not adjust its ability scores.
 - 
 ## Skeletons
+Creature Type: Outsider (Hell)
 Size: Tiny/Small/Medium/Large/Huge
 Speed: 20ft Small/30ft Medium
 Ability Score Modifier: +1 Str, +2 Dex, -4 Con, +0 Int, +2 Wis, +0 Cha
@@ -169,14 +214,16 @@ Language: Standard or Xenophobic
 Racial Traits:
 - 
 ## Undead
+Creature Type: Outsider (Hell)
 Size: Tiny/Small/Medium/Large/Huge
 Speed: 20ft Small/30ft Medium
-Ability Score Modifier: +1 Str, -4 Dex, -2 Con, +2 Int, +4 Wis, -2 Cha
+Ability Score Modifier: +1 Str, -4 Dex, -2 Con, +2 Int, +4 Wis, 0 Cha
 Language: Standard or Xenophobic
 Racial Traits:
 - Change Shape, Lesser: Members of this race gain the following [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) ability: A member of this race can assume the appearance of a single form of a single [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) on [Disguise](https://www.d20pfsrd.com/skills/disguise) checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions). This trait otherwise functions as [alter self](https://www.d20pfsrd.com/magic/all-spells/a/alter-self), save that the creature does not adjust its ability scores.
 - 
 ## Yetis
+Creature Type: Outsider (Hell)
 Size: Medium/Large
 Speed: 30ft Medium
 Ability Score Modifier:  +2 Str, -1 Dex, +1 Con, -2 Int, +2 Wis, -1 Cha
@@ -186,6 +233,7 @@ Racial Traits:
 - 
 - Low-Light Vision: Members of this race can see twice as far as a race with normal vision in conditions of dim light. 
 ## Zombies
+Creature Type: Outsider (Hell)
 Size: Tiny/Small/Medium/Large/Huge
 Speed: 20ft
 Ability Score Modifier: +3 Str, +1 Dex, +4 Con, -4 Int, -1 Wis, -3 Cha
