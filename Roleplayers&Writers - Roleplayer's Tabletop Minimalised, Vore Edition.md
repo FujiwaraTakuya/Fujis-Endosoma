@@ -46,6 +46,13 @@ To vore someone non-consentually, you must be Grappling a creature still after G
 Creatures in a Nom can use their turn to Escape the Nom or perform any other Action they can in the Nom in hopes they don't succeed with their Ingest. When a Creature's been Ingested, they end up inside of their predator and take 1 Damage from the Impact, then 1 Damage at the end of every one of their turns. Creatures can choose to perform Actions they know of, or attempt to escape with a Test.
 Preds that have consumed a Creature and still have a Creature inside of them on the Rounds after can choose whether or not to digest whatever/whoever's inside them, but can't be selective about it unless they have the ability to. Healing insides are only possible if the Pred has the ability, had healing casted upon them, or if they drank/eating a healing potion/item.
 
+Combat Explained
+Initiative's rolled first; all creatures roll 1d20 to determine their who goes first and last in Combat; you can spend 5 XP to increase your Initiative by +1.
+Every creature can do the 2 following things during their turn in a Round (which lasts 6 seconds):
+- Move (Jogging pace, Sprinting requires a Test)
+- Actions (Attack, Guard, Prep a Counter, other specific Action(s), etc.)
+If a Creature is attacked when it's another Creature's turn, they can perform 1 Evasion per-Round to perform a Test against their attack and avoid taking a hit from them; you can pay 20 XP to gain +1 Evasions per-Round.
+
 
 
 Character Sheet
