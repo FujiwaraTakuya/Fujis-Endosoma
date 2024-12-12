@@ -41,6 +41,7 @@ Either they're weightless, they're summoned on command from a pocket dimension, 
 
 
 Vore Rules
+Devouring an ally still takes an Action but can be done without a check unless something like a Grapple from an enemy is preventing it, or something similar.
 To vore someone non-consentually, you must be Grappling a creature still after Grappling them the previous Round of Combat; voring comes in 2 phases: Nom and Ingest. Performing Vore activates each phase consecutively, Nom then Ingest, where you'll roll a Test based on DM conceived difficulty; if you fail the Ingest phase, your turn Ends and you can only attempt to continue the Ingest Action during the next Round.
 Creatures in a Nom can use their turn to Escape the Nom or perform any other Action they can in the Nom in hopes they don't succeed with their Ingest. When a Creature's been Ingested, they end up inside of their predator and take 1 Damage from the Impact, then 1 Damage at the end of every one of their turns. Creatures can choose to perform Actions they know of, or attempt to escape with a Test.
 Preds that have consumed a Creature and still have a Creature inside of them on the Rounds after can choose whether or not to digest whatever/whoever's inside them, but can't be selective about it unless they have the ability to. Healing insides are only possible if the Pred has the ability, had healing casted upon them, or if they drank/eating a healing potion/item.
