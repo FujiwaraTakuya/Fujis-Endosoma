@@ -4,7 +4,7 @@ share: true
 #Endosoma #TinyDungeons6 
 Welcome to the giant-ass Bestiary being written by Fujiwara Takuya. I’m being hella-informal about this because I’m writing things as I come up with them, and this information’s mostly for the GM’s expense. Feel free to use these species, ideas, and random-ish ideas as a reference guide for creating your own homebrew monsters, otherworldly beings, and general opponents to combat.
 
-(Feral Hare)
+# (Feral Hare)
 
 (HP Average)
 
@@ -68,7 +68,7 @@ Their white meat can become stringy and dry if improperly prepared, with proper 
 
 1
 
-(Dire Hare)
+# (Dire Hare)
 
 (HP Average)
 
@@ -190,7 +190,7 @@ After the appropriate time-period has passed, all pieces from the slime will hav
 
 2
 
-(Jiggi-jiggi Big Slime)
+# (Jiggi-jiggi Big Slime)
 
 (HP Average)
 
@@ -236,7 +236,7 @@ Small/Medium
 
 20
 
-(Jiggi-jiggi Enormous Slime)
+# (Jiggi-jiggi Enormous Slime)
 
 (HP Average)
 
@@ -282,7 +282,7 @@ Medium/Large
 
 21
 
-(Jiggi-jiggi Monstrous Slime)
+# (Jiggi-jiggi Monstrous Slime)
 
 (HP Average)
 
@@ -328,7 +328,7 @@ Large/Huge
 
 22
 
-(Jiggi-jiggi Titan Slime)
+# (Jiggi-jiggi Titan Slime)
 
 (HP Average)
 
@@ -374,7 +374,7 @@ Huge/Gargantuan
 
 23
 
-(Jiggi-jiggi King Slime)
+# (Jiggi-jiggi King Slime)
 
 (HP Average)
 
@@ -420,7 +420,7 @@ Gargantuan/Colossal
 
 24
 
-(Grau Gatto)
+# (Grau Gatto)
 
 (HP Average)
 
@@ -492,7 +492,7 @@ N/A
 
 (Creation Number) 3
 
-(Grau Rioness)
+# (Grau Rioness)
 
 (HP Average)
 
@@ -568,7 +568,7 @@ Their meat is both stringy and tough to chew through whilst maintaining a slight
 
 4
 
-(Grau Rion)
+# (Grau Rion)
 
 (HP Average)
 
@@ -656,7 +656,7 @@ Their meat is both stringy and tough to chew through whilst maintaining a slight
 
 12
 
-(Huma-Huma Apis: Drone)
+# (Huma-Huma Apis: Drone)
 
 (HP Average)
 
@@ -728,7 +728,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 5
 
-(Huma-Huma Apis: Worker)
+# (Huma-Huma Apis: Worker)
 
 (HP Average)
 
@@ -772,7 +772,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 13
 
-(Huma-Huma Apis: Warrior)
+# (Huma-Huma Apis: Warrior)
 
 (HP Average)
 
@@ -816,7 +816,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 14
 
-(Huma-Huma Apis: Soldier)
+# (Huma-Huma Apis: Soldier)
 
 (HP Average)
 
@@ -860,7 +860,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 15
 
-(Huma-Huma Apis: Guardian)
+# (Huma-Huma Apis: Guardian)
 
 (HP Average)
 
@@ -904,7 +904,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 16
 
-(Huma-Huma Apis: Princess)
+# (Huma-Huma Apis: Princess)
 
 (HP Average)
 
@@ -948,7 +948,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 17
 
-(Huma-Huma Apis: Queen)
+# (Huma-Huma Apis: Queen)
 
 (HP Average)
 
@@ -992,7 +992,7 @@ Being some of the less cared-for members, they aren’t fed as much while genera
 
 18
 
-(Rotting Lower Ent)
+# (Rotting Lower Ent)
 
 (HP Average)
 
@@ -1062,7 +1062,7 @@ It’s a rotting tree. Do not try eating unless you want a disease. Better as As
 
 6
 
-(Rotting Lower Ent Sapling)
+# (Rotting Lower Ent Sapling)
 
 (HP Average)
 
@@ -1124,7 +1124,7 @@ Same as its predecessor; turn to ash for fertilizer or risk a high possibility o
 
   
 
-(Creation Number) 7
+# (Creation Number) 7
 
 (Rotting Ent)
 
@@ -1170,7 +1170,7 @@ Same as its predecessor; turn to ash for fertilizer or risk a high possibility o
 
 25
 
-(Rotting Ent Sapling)
+# (Rotting Ent Sapling)
 
 (HP Average)
 
@@ -1214,7 +1214,7 @@ Same as its predecessor; turn to ash for fertilizer or risk a high possibility o
 
 26
 
-(Rotting Greater Ent)
+# (Rotting Greater Ent)
 
 (HP Average)
 
@@ -1258,7 +1258,7 @@ Same as its predecessor; turn to ash for fertilizer or risk a high possibility o
 
 27
 
-(Rotting Greater Ent Sapling)
+# Rotting Greater Ent Sapling)
 
 (HP Average)
 
@@ -1302,7 +1302,7 @@ Same as its predecessor; turn to ash for fertilizer or risk a high possibility o
 
 28
 
-(Green Goblin)
+# (Green Goblin)
 
 (HP Average)
 
@@ -1374,7 +1374,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 
 8
 
-(Red Goblin)
+# (Red Goblin)
 
 (HP Average)
 
@@ -1417,7 +1417,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 (Creation Number)  
 29
 
-(White Goblin)
+# (White Goblin)
 
 (HP Average)
 
@@ -1461,7 +1461,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 
 31
 
-(Yellow Goblin)
+# (Yellow Goblin)
 
 (HP Average)
 
@@ -1505,7 +1505,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 
 33
 
-(Dark-Green Goblin)
+# (Dark-Green Goblin)
 
 (HP Average)
 
@@ -1549,7 +1549,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 
 35
 
-(Black Goblin)
+# (Black Goblin)
 
 (HP Average)
 
@@ -1593,7 +1593,7 @@ Generally unethical, but based upon certain anonymous Goblins who were interview
 
 37
 
-(Green Hobgoblin)
+# (Green Hobgoblin)
 
 (HP Average)
 
@@ -1665,7 +1665,7 @@ Again, unethical by general standards, but with prior interviews, supposably the
 
 9
 
-(Red Hobgoblin)
+# (Red Hobgoblin)
 
 (HP Average)
 
@@ -1709,7 +1709,7 @@ Again, unethical by general standards, but with prior interviews, supposably the
 
 30
 
-(White Hobgoblin)
+# (White Hobgoblin)
 
 (HP Average)
 
@@ -1753,7 +1753,7 @@ Again, unethical by general standards, but with prior interviews, supposably the
 
 32
 
-(Yellow Hobgoblin)
+# (Yellow Hobgoblin)
 
 (HP Average)
 
@@ -1841,7 +1841,7 @@ Again, unethical by general standards, but with prior interviews, supposably the
 
 36
 
-(Black Hobgoblin)
+# (Black Hobgoblin)
 
 (HP Average)
 
@@ -1885,7 +1885,7 @@ Again, unethical by general standards, but with prior interviews, supposably the
 
 38
 
-(Field Ogre)
+# (Field Ogre)
 
 (HP Average)
 
@@ -1944,7 +1944,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 10
 
-(Mountain Ogre)
+# (Mountain Ogre)
 
 (HP Average)
 
@@ -2032,7 +2032,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 44
 
-(Cave Ogre)
+# (Cave Ogre)
 
 (HP Average)
 
@@ -2076,7 +2076,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 45
 
-(Swamp Ogre)
+# (Swamp Ogre)
 
 (HP Average)
 
@@ -2120,7 +2120,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 46
 
-(Fey Ogre)
+# (Fey Ogre)
 
 (HP Average)
 
@@ -2164,7 +2164,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 47
 
-(Orc: North)
+# (Orc: North)
 
 (HP Average)
 
@@ -2208,7 +2208,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 39
 
-(Orc: South)
+# (Orc: South)
 
 (HP Average)
 
@@ -2252,7 +2252,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 40
 
-(Orc: East)
+# (Orc: East)
 
 (HP Average)
 
@@ -2296,7 +2296,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 41
 
-(Orc: West)
+# (Orc: West)
 
 (HP Average)
 
@@ -2340,7 +2340,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 42
 
-(Dire Wolf)
+# (Dire Wolf)
 
 (HP Average)
 
@@ -2384,7 +2384,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 50
 
-(Lesser Dire Wolf)
+# (Lesser Dire Wolf)
 
 (HP Average)
 
@@ -2428,7 +2428,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 52
 
-(Giant Wolf)
+# (Giant Wolf)
 
 (HP Average)
 
@@ -2472,7 +2472,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 51
 
-(Dire Spider)
+# (Dire Spider)
 
 (HP Average)
 
@@ -2516,7 +2516,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 48
 
-(Lesser Dire Spider)
+# (Lesser Dire Spider)
 
 (HP Average)
 
@@ -2560,7 +2560,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 53
 
-(Giant Spider)
+# (Giant Spider)
 
 (HP Average)
 
@@ -2604,7 +2604,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 49
 
-(Lagging Bear)
+# (Lagging Bear)
 
 (HP Average)
 
@@ -2648,7 +2648,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 54
 
-(Geck-geck)
+# (Geck-geck)
 
 (HP Average)
 
@@ -2692,7 +2692,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 55
 
-(Flying Lettuce Heads)
+# (Flying Lettuce Heads)
 
 (HP Average)
 
@@ -2736,7 +2736,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 56
 
-(Flying Cabbage Heads)
+# (Flying Cabbage Heads)
 
 (HP Average)
 
@@ -2780,7 +2780,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 57
 
-(Dire Frog)
+# (Dire Frog)
 
 (HP Average)
 
@@ -2824,7 +2824,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 58
 
-(Giant Frog)
+# (Giant Frog)
 
 (HP Average)
 
@@ -2868,7 +2868,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 59
 
-(Dire Toad)
+# (Dire Toad)
 
 (HP Average)
 
@@ -2912,7 +2912,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 60
 
-(Giant Toad)
+# (Giant Toad)
 
 (HP Average)
 
@@ -2956,7 +2956,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 61
 
-(Piranha Swarm)
+# (Piranha Swarm)
 
 (HP Average)
 
@@ -3000,7 +3000,7 @@ These large or bigger beings are humanoid in shape but tremendously more thickly
 
 62
 
-(Jheltabu)
+# (Jheltabu)
 
 (HP Average)
 
@@ -3064,7 +3064,7 @@ Unknown.
 
 63
 
-(Chimera Ant Swarm)
+# (Chimera Ant Swarm)
 
 (HP Average)
 
@@ -3152,7 +3152,7 @@ Unknown.
 
 65
 
-(Deathcrawler)
+# (Deathcrawler)
 
 (HP Average)
 
@@ -3210,7 +3210,7 @@ Unknown.
 
 66
 
-(Dire Capybara)
+# (Dire Capybara)
 
 (HP Average)
 
@@ -3254,7 +3254,7 @@ Unknown.
 
 67
 
-(Giant Capybara)
+# (Giant Capybara)
 
 (HP Average)
 
@@ -3343,7 +3343,7 @@ Unknown.
 
 69
 
-(Blud Raven Swarm)
+# (Blud Raven Swarm)
 
 (HP Average)
 
@@ -3387,7 +3387,7 @@ Unknown.
 
 70
 
-(Corvidae of Blud)
+# (Corvidae of Blud)
 
 (HP Average)
 
@@ -3431,7 +3431,7 @@ Unknown.
 
 71
 
-(Blud’s Carrion)
+# (Blud’s Carrion)
 
 (HP Average)
 
@@ -3475,7 +3475,7 @@ Unknown.
 
 72
 
-(Venomous Snake Swarm)
+# (Venomous Snake Swarm)
 
 (HP Average)
 
@@ -3519,7 +3519,7 @@ Unknown.
 
 73
 
-(Elemental-Shifting Guardian)
+# (Elemental-Shifting Guardian)
 
 (HP Average)
 
@@ -3563,7 +3563,7 @@ Unknown.
 
 74
 
-(Naturalis Chimera)
+# (Naturalis Chimera)
 
 (HP Average)
 
@@ -3607,7 +3607,7 @@ Unknown.
 
 75
 
-(Chemis Chimera)
+# (Chemis Chimera)
 
 (HP Average)
 
@@ -3651,7 +3651,7 @@ Unknown.
 
 76
 
-(Bios Chimera)
+# (Bios Chimera)
 
 (HP Average)
 
@@ -3695,7 +3695,7 @@ Unknown.
 
 77
 
-(Mecha Chimera)
+# (Mecha Chimera)
 
 (HP Average)
 
@@ -3739,7 +3739,7 @@ Unknown.
 
 78
 
-(Rhyeena)
+# (Rhyeena)
 
 (HP Average)
 
@@ -3783,7 +3783,7 @@ Unknown.
 
 79
 
-(Sea Cat)
+# (Sea Cat)
 
 (HP Average)
 
@@ -3827,7 +3827,7 @@ Unknown.
 
 80
 
-(5-Star Burrowing Hawk)
+# (5-Star Burrowing Hawk)
 
 (HP Average)
 
@@ -3871,7 +3871,7 @@ Unknown.
 
 81
 
-(Daigar Wyrm)
+# (Daigar Wyrm)
 
 (HP Average)
 
@@ -3915,7 +3915,7 @@ Unknown.
 
 82
 
-(Mini Centaur (Minitaur))
+# (Mini Centaur (Minitaur))
 
 (HP Average)
 
@@ -3959,7 +3959,7 @@ Unknown.
 
 83
 
-(Myrrh Maid)
+# (Myrrh Maid)
 
 (HP Average)
 
@@ -4003,7 +4003,7 @@ Unknown.
 
 84
 
-(Ban-She)
+# (Ban-She)
 
 (HP Average)
 
@@ -4047,7 +4047,7 @@ Unknown.
 
 85
 
-(Minotaur)
+# (Minotaur)
 
 (HP Average)
 
@@ -4091,7 +4091,7 @@ Unknown.
 
 86
 
-(Mermaid)
+# (Mermaid)
 
 (HP Average)
 
@@ -4135,7 +4135,7 @@ Unknown.
 
 87
 
-(Banshee)
+# Banshee)
 
 (HP Average)
 
@@ -4179,7 +4179,7 @@ Unknown.
 
 88
 
-(Ougun Deer)
+# (Ougun Deer)
 
 (HP Average)
 
@@ -4223,7 +4223,7 @@ Unknown.
 
 89
 
-(Ginni Fowl)
+# (Ginni Fowl)
 
 (HP Average)
 
@@ -4267,7 +4267,7 @@ Unknown.
 
 90
 
-(Seidou Chestnut)
+# (Seidou Chestnut)
 
 (HP Average)
 
@@ -4311,7 +4311,7 @@ Unknown.
 
 91
 
-(Potatofish)
+# (Potatofish)
 
 (HP Average)
 
@@ -4355,7 +4355,7 @@ Unknown.
 
 92
 
-(Pecking Duck)
+# (Pecking Duck)
 
 (HP Average)
 
@@ -4399,7 +4399,7 @@ Unknown.
 
 93
 
-(Char Siu Hawk)
+# (Char Siu Hawk)
 
 (HP Average)
 
@@ -4443,7 +4443,7 @@ Unknown.
 
 94
 
-(Giraffle)
+# (Giraffle)
 
 (HP Average)
 
@@ -4487,7 +4487,7 @@ Unknown.
 
 95
 
-(Hipposaucetamus)
+# (Hipposaucetamus)
 
 (HP Average)
 
@@ -4531,7 +4531,7 @@ Unknown.
 
 96
 
-(BBMew)
+# (BBMew)
 
 (HP Average)
 
@@ -4575,7 +4575,7 @@ Unknown.
 
 97
 
-(Kangaroulette)
+# (Kangaroulette)
 
 (HP Average)
 
@@ -4619,7 +4619,7 @@ Unknown.
 
 98
 
-(Muuna)
+# (Muuna)
 
 (HP Average)
 
@@ -4663,7 +4663,7 @@ Unknown.
 
 99
 
-(Straw Bearry)
+# (Straw Bearry)
 
 (HP Average)
 
@@ -4707,7 +4707,7 @@ Unknown.
 
 100
 
-(Blueberry Bearry)
+# (Blueberry Bearry)
 
 (HP Average)
 
@@ -4751,7 +4751,7 @@ Unknown.
 
 101
 
-(Rasp Bearry)
+# (Rasp Bearry)
 
 (HP Average)
 
@@ -4795,7 +4795,7 @@ Unknown.
 
 102
 
-(Black Bearry)
+# (Black Bearry)
 
 (HP Average)
 
@@ -4839,7 +4839,7 @@ Unknown.
 
 103
 
-(Cherry Bearry)
+# (Cherry Bearry)
 
 (HP Average)
 
@@ -4883,7 +4883,7 @@ Unknown.
 
 104
 
-(Banana Bearry)
+# (Banana Bearry)
 
 (HP Average)
 
@@ -4927,7 +4927,7 @@ Unknown.
 
 105
 
-(Tomato Bearry)
+# (Tomato Bearry)
 
 (HP Average)
 
