@@ -36,4 +36,30 @@ Estimating one's Ranking is important as it determines the Power-Value at which 
 # Combat
 ## Combat
 Combat follows the following phases for determining combat phases and actions:
-- Initiative (d4/d6/d8/d10/d12/d20 + )
+- Roll Initiative (d4/d6/d8/d10/d12/d20 + Half of Dexterity & Perception)
+- Round Start - Start-of-Round Conditions
+- Phase 1 - Readying Actions & Setting Actions
+- Phase 2 - Engaging Actions
+- Phase 2.1 - Reacting Actions
+- Phase 2.2 - Reacting Conditions
+- Phase 3 - End-of-Round Conditions
+- Round End, then Next Round.
+### Performable Actions
+Here's a list of Actions a player can choose during Phase 1 and 3:
+#### Phase 1 Actions
+- Attack - Attempt to deal Physical Damage
+- Counter - Attempting to predict, nullify, and deal extra damage with a Physical Damage attack by attacking back while risking taking extra damage
+- Guard - Having the full intention to protect one's self from harm, and in some case become a wall that protects allies from damage
+	- Guard & Riposte - An attempt to guarantee one's safety in dealing harm to an enemy by blocking an attack first before quickly rebutting with a strike of their own, although only really effective in melee 
+- Deflect - Either by grabbing or attacking, the user attempts to nullify any damage taken from non-contact-explosive projectiles by hitting through or stopping the incoming attack(s) 
+- Grab - With a free hand or a Weapon with the Grapple Property, the user holds onto the limb or feature of a creature and attempts to maintain a fixed position upon the creature, stopping another creature's movements away from the user if equal-sized or smaller, or placing a user dangling upon the creature like they're climbing if at least 1 size larger
+	- Disarm
+	- Grapple
+	- Rend
+	- Trip
+- Aim
+	- Aim and Train Shot
+- Channel Spell
+- Maintain Spell
+### Initiative
+When any combat starts, all creatures must roll Initiative to determine who can act first, and 
