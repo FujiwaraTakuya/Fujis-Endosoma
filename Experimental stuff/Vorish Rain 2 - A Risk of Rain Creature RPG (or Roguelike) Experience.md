@@ -16,7 +16,7 @@ Starting out, Players have already eaten or are in the process of lucking themse
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
 Invader Digestion Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
 ## How to calculate "Base Damage"
-Base Damage for all creatures is 1 + 1 per level + 1/2/3/5
+Base Damage for all creatures is (1 + 1 per level + 1/2/3/5 per weapon item) x Damage Bonuses x Crit
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
 
@@ -52,7 +52,7 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 		- Backup Magazine: (1 + 1 per stack) Projectile to Secondary Skill.
 		- Bison Steak: Increases Max HP by (25 + 25 per stack).
 		- Bolstering Lantern:
-		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal 
+		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal damage to the closest target.
 	- Uncommon
 		- 
 	- Legendary
