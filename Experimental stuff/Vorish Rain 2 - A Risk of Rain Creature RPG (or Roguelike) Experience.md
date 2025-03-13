@@ -6,13 +6,13 @@ share: true
 *In these encounters, lucky creatures from the planet have lucked their way into devouring an unsuspecting/unlucky Invader to their planet of Petrichor V; depending where and when they are able to devour them is up to a GM's design, but these creatures now gifted with an experience they'd never want to let go of, must now balance sustaining their own lives and the new ones they carry to continue growing in power to satisfy their growing greed. Let's hope that the power has gone to their stomachs and hasn't gone just to their heads.*
 
 # Stats to keep track of
-Monster Health - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
-Invader(s) HP - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
-Monster Level & Experience - Basic System to show Player-Monster growth
-Invader Level & Experience - Necessary metric to determine your Invader(s) later ability for survival within your guts- not that'll help them escape you in any way once inside
-Size Category - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
-Evolution - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
-Stomach Capacity - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
+**Monster Health** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
+**Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
+**Monster Level & Experience** - Basic System to show Player-Monster growth
+**Invader Level & Experience** - Necessary metric to determine your Invader(s) later ability for survival within your guts- not that'll help them escape you in any way once inside
+**Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
+**Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
+**Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
 
 
 # Difficulty "Setting"
