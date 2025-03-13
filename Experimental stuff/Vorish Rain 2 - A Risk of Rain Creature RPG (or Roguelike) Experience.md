@@ -1,10 +1,11 @@
 ---
 share: true
 ---
-**
+*Something's changed. The powers that be that reside upon Petrichor V have changed itself once more; its beasts grow more intelligent, their tactics becoming less static, and some...well...their intentions are...less than pure. They seem to have grown ravenous- hungering- desiring more than just the urge to defeat the intruders that fall and teleport across their homes. Some are luck, most not so, but those that do survive these encounters gradually awaken to power unlike anything they've ever experienced before.*
 
 *In these encounters, lucky creatures from the planet have lucked their way into devouring an unsuspecting/unlucky Invader to their planet of Petrichor V; depending where and when they are able to devour them is up to a GM's design, but these creatures now gifted with an experience they'd never want to let go of, must now balance sustaining their own lives and the new ones they carry to continue growing in power to satisfy their growing greed. Let's hope that the power has gone to their stomachs and hasn't gone just to their heads.*
 
+Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their deaths.
 # Stats to keep track of
 **Monster Health** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
 **Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
@@ -13,8 +14,6 @@ share: true
 **Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
 **Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
-
-
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
 - General Difficulty Dice System (Consistent; might be too simple; An either remain a single difficulty, or up to DM's discretion for creativeness)
@@ -38,3 +37,8 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 	- Large/Rainstorm (d10, fail on 1-4, success on 5-10)
 	- Medium/Monsoon (d10, fail on 1-2, success on 3-10)
 	- Small-/Eclipse (d10, fail on 1, success on 2-10)
+# Playable (generally applicable) Monster Races
+
+# Vore Mechanic
+
+# Item Effects
