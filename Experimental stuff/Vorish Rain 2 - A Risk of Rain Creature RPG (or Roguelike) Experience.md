@@ -7,21 +7,25 @@ share: true
 
 Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their deaths.
 # Stats to keep track of
-**Monster Health** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
+**Monster HP** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
 **Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
 **Monster Level & Experience** - Basic System to show Player-Monster growth
 **Invader Level & Experience** - Necessary metric to determine your Invader(s) later ability for survival within your guts- not that'll help them escape you in any way once inside
 **Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
 **Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
+Invader Digestion Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
+## How to calculate "Base Damage"
+Base Damage for all creatures is 1 + 1 per level + 1/2/3/5
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
+
 - General Difficulty Dice System (Consistent; might be too simple; An either remain a single difficulty, or up to DM's discretion for creativeness)
-	- Very Easy/Drizzle (d2, fail on 1, success on 2)
-	- Easy/Rainstorm (d3, fail on 1, success on 3, off-shot on 2)
-	- Normal/Monsoon (d4, fail on 1, success on 4, off-shot on 2-3)
-	- Hard/Eclipse (d6, fail on 1, success on 5-6, off-shot on 2-4)
-- Size Difficulty Dice System (Larger creatures are easier to hit than smaller creatures; generally more consistent hit-numbers with greater )
+		- Very Easy/Drizzle (d2, fail on 1, success on 2)
+		- Easy/Rainstorm (d3, fail on 1, success on 3, off-shot on 2)
+		- Normal/Monsoon (d4, fail on 1, success on 4, off-shot on 2-3)
+		- Hard/Eclipse (d6, fail on 1, success on 5-6, off-shot on 2-4)
+- Size Difficulty Dice System (Larger creatures are easier to hit than smaller creatures; generally more consistent hit-numbers with greater risks for failure or off-targeting)
 	- Huge+/Drizzle (d10, fail on 1, success on 6-10, off-shot on 2-5)
 	- Large/Rainstorm (d10, fail on 1-2, success on 7-10, off-shot on 3-6)
 	- Medium/Monsoon (d10, fail on 1-3, success on 7-10, off-shot on 4-6)
@@ -41,4 +45,32 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 
 # Vore Mechanic
 
-# Item Effects
+# Items & Effects
+- Normal Items (Passive)
+	- Common
+		- Armour Piercing Rounds: Deal additional (20% + 20% per stack) damage to bosses
+		- Backup Magazine: (1 + 1 per stack) Projectile to Secondary Skill.
+		- Bison Steak: Increases Max HP by (25 + 25 per stack).
+		- Bolstering Lantern:
+		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal 
+	- Uncommon
+		- 
+	- Legendary
+		- 
+	- Boss
+		- 
+- Special Items (Passive)
+	- Lunar
+		- 
+	- Void
+		- 
+	- Untiered
+		- Delicate Watch (Broken)
+		- Dio's Best Friend (Consumed)
+		- Empty Bottle
+		- Pluripotent Larva (Consumed)
+		- Regenerating Scrap (Consumed)
+		- Sale Star (Consumed)
+		- Tonic Affliction
+		- Unstable Transmitter (Consumed)
+- Actives (Equipment)
