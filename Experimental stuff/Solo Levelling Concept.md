@@ -8,8 +8,8 @@ share: true
 - 141-700 - D Ranker (Level 6-15)
 - 701-2,100 - C Ranker (level 16-35)
 - 2,101-8,400 - B Ranker (Level 36-75)
-- 8,401-42,000 - A Ranker (level 76-155)
-- 42,001-252,000+ - S Ranker (Level 156-310+)
+- 8,401-100,000 - A Ranker (level 76-155)
+- 100,001-252,000+ - S Ranker (Level 156-310+)
 ## Stats
 For the Average Human E-Rank Hunter, their Stats all start at 11- however depending upon the build and the Character of the Hunter, these stats can move about to depict their differences to their normal Human counterpart who have a base-Stat of 1-3. Each Stat follows its own independent ranking system to the Mana Power-Ranking, but follow the similar system of the Alphabetical E-S Rankings. If your Stats can reach a Level higher than E, you can perform greater feats of ability in front of those of equal or lower rank- all dependant on your personal Rank and Targets of choice (I.e. write about how higher ranks can attack lower ranks more often due to speed and power).
 ### Strength
@@ -33,6 +33,16 @@ Your Visual and Instinctual Prowess; usually combined with Intelligence, Strengt
 As a Player, due to your growing strength, instead of constantly Re-Evaluating Rankings, Players can estimate their Rank by counting the numbers of all of their Stats and finding the Mean of the total result, i.e. the Total Number Divided by the Value/Number of Stats **(E.g., A Hunter with a STR of 90 and everything else with a Stat of 10, the total becomes 130 (90+10+10+10+10), then you divide the result by 5 (STR, DEX, VIT, INT, PER; each counts as 1 Value), giving you a result of (130/5=) 26, meaning that the user despite having a high Strength is at a D-Ranking for their lack of ability in other aspects.)**
 
 Estimating one's Ranking is important as it determines the Power-Value at which some Skills and Abilities are rolled with if they use a different Dice or Value when measuring the effectiveness of a Skill/Ability, such as Initiative rolling a different Dice for your Estimated Ranking. 
+# Gates and Gate Rankings
+## Gates
+
+### Red Gates
+Red Gates are special Dungeons that form randomly and rapidly once someone enters them; during the transfer process, it drags everyone inside with waves of magic before sealing them in another world with a massive dilation in time between worlds; 1 day in the Red Gate is equal to 1 hour in the world you came from, and nobody can get in or out. Nobody can leave during the period of Red Gates, nor communicate with anyone outside of the Gate, only survive until they can be saved with the Dungeon Break, or kill the Dungeon Boss. Red Gates still take the normal 7 days before the 8th day causes a Dungeon Break and opens up the gate for anything inside the Dungeon to spill out. At minimum, any Red Gate is recorded at a Rank of B or higher. So far, only 3 types of Red Gates have been recorded by Government Officials:
+- Blazing Hot Deserts
+- Giant fields and dunes of poisonous insects
+- An eternal Winterland filled to the brim with snow and blizzards
+### Instanced Dungeons
+
 # Combat
 ## Combat
 Combat follows the following phases for determining combat phases and actions:
