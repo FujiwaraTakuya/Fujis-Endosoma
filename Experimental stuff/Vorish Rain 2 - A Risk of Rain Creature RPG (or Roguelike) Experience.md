@@ -43,6 +43,22 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 	- Small-/Eclipse (d10, fail on 1, success on 2-10)
 # Playable (generally applicable) Monster Races
 
+# Combat Explained
+Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
+Players start all encounters with non-Boss Monsters first; Boss Fights however must be rolled with (d20 + Player Level) vs (d20 + (World Number x 5)) to determine an Initiative Order against a Boss; all non-Boss Monsters go after Players.
+When a player chooses their Offensive and Defensive Action, Players can discuss who can act first with their Attacks, cycling through every player before passing on the Turn to the Monsters who collectively perform simple attacks if within range.
+When preparing an attack, Players can choose one of the following Offensive Actions:
+- Primary Skill - Use the Monster's Primary attacking Skill
+- Secondary Skill - Use the Monster's Secondary Skill
+- Invader Evasive Skill - Manipulate the Invader within you to use their Evasive Skill to your benefit
+- Invader Utility Skill - Manipulate the Invader within you to use their Utility Skill to your benefit
+- Activate Equipment - Activate your attached Equipment for its effect(s)
+When preparing your defence, Players can choose one of the following Defensive Actions:
+- Standard Defence - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
+- Aggressive Defence - A heads-on approach to combat, the player lowers the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for raising the difficulty of evading attacks with their Dodge by 1 Category.
+- Evasive Defence - A more elusive style of combat, the player raises the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for lowering the difficulty of evading attacks with their Dodge by 1 category.
+- Total Defence - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
+
 # Vore Mechanic
 
 # Items & Effects
@@ -53,6 +69,7 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 		- Bison Steak: Increases Max HP by (25 + 25 per stack).
 		- Bolstering Lantern:
 		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal damage to the closest target.
+		- Bustling Fungus: Every Round Spent
 	- Uncommon
 		- 
 	- Legendary
