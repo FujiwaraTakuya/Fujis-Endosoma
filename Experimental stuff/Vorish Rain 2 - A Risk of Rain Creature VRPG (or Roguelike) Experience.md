@@ -5,7 +5,7 @@ share: true
 
 *In these encounters, lucky creatures from the planet have lucked their way into devouring an unsuspecting/unlucky Invader to their planet of Petrichor V; depending where and when they are able to devour them is up to a GM's design, but these creatures now gifted with an experience they'd never want to let go of, must now balance sustaining their own lives and the new ones they carry to continue growing in power to satisfy their growing greed. Let's hope that the power has gone to their stomachs and hasn't gone just to their heads.*
 
-*Death no longer permanent to either side; the Invaders transfer their consciousness to new clones after each death and return from the sky; the Monsters return to non-existence to revive before being brought back to this reality to attack those who invade upon the realm; just what'll both sides do to exploit this fact?*
+*Death's no longer permanent to either side; the Invaders transfer their consciousness to new clones after each death and return from the sky; the Monsters return to non-existence to revive before being brought back to this reality to attack those who invade upon the realm; just what'll both sides do to exploit this fact?*
 
 Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their deaths.
 
