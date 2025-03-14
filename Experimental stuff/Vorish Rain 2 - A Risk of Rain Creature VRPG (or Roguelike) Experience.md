@@ -8,6 +8,8 @@ share: true
 *Death no longer permanent to either side; the Invaders transfer their consciousness to new clones after each death and return from the sky; the Monsters return to non-existence to revive before being brought back to this reality to attack those who invade upon the realm; just what'll both sides do to exploit this fact?*
 
 Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their deaths.
+
+Note: For those who don't do Digestion, alternate rulings can be made where instead of Digestion, it's Energy Drain with the occupant becoming Knocked Out instead, teleporting them back to their ship upon defeat.
 # Stats to keep track of
 **Monster HP** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
 **Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
@@ -16,7 +18,7 @@ Starting out, Players have already eaten or are in the process of lucking themse
 **Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
 **Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
-Invader Digestion Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
+Invader Digestion/Energy Drain Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
 ## How to calculate "Base Damage"
 Base Damage for all creatures is (1 + 1 per level + 1/2/3/5 per weapon item) x Damage Bonuses x Crit
 # Difficulty "Setting"
