@@ -59,6 +59,7 @@ When preparing your defence, Players can choose one of the following Defensive A
 - Evasive Defence - A more elusive style of combat, the player raises the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for lowering the difficulty of evading attacks with their Dodge by 1 category.
 - Total Defence - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
 
+
 # Vore Mechanic
 
 # Items & Effects
@@ -68,8 +69,21 @@ When preparing your defence, Players can choose one of the following Defensive A
 		- Backup Magazine: (1 + 1 per stack) Projectile to Secondary Skill.
 		- Bison Steak: Increases Max HP by (25 + 25 per stack).
 		- Bolstering Lantern:
-		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal damage to the closest target.
-		- Bustling Fungus: Every Round Spent
+		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal 300% Damage per-hit to the closest target.
+		- Bustling Fungus: Every Round Spent in Total Defence, at the start of your Turn heal all allies (including yourself) within (3m +1.5m per stack) by (4.5% + 2.25% per stack) of your Max HP 6 times.
+		- Cautious Slug: Increase HP Regen by (18 + 18 per stack ) HP every Round
+		- Chronic Expansion: Killing an enemy increases your damage by (3% + 1% per stack), up to (10 + 5 per stack) for 2 Rounds. Dealing Damage refreshes the timer.
+		- Crowbar: Deal (75% + 75% per stack) damage to enemies above 90% health.
+		- Delicate Watch: Increase damage by (20% + 20% per stack). Taking damage that brings your HP below 25% your Max HP breaks this item.
+		- Elusive Antlers: Spawns orbs of energy 
+		- Energy Drink:
+		- Focus Crystal: Increase damage to enemies within 13m by (20% + 20% per stack)
+		- Gasoline: Killing an enemy ignites all enemies within (12m + 4m per stack) for 150% Base Damage. Additionally, enemies Burn for (150% + 75% per stack) Base Damage. 
+		- Item Scrap, White: Does nothing. Prioritized when used with 3D Printers.
+		- Lens-Maker's Glasses: Your attacks have a (10% + 10% per stack) chance to Critically Strike, dealing double damage.
+		- Medkit: 2 seconds after getting hurt and not taking damage, heal for 20 plus an additional (5% + 5% per stack) of Max HP.
+		- Mocha: 
+		- Monster Tooth: Killing an enemy spawns a healing orb that heals for 8 plus an additional (2% + 2% per stack) of Player's own Max HP.
 	- Uncommon
 		- 
 	- Legendary
