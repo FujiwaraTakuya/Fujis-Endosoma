@@ -31,6 +31,7 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 	- Medium/Monsoon (d10, fail on 1-3, success on 7-10, off-shot on 4-6)
 	- Small-/Eclipse (d10, fail on 1-3, success on 8-10, off-shot on 4-7)
 ## Dodging with Size
+Dodging is unique with its double-dice system; the first roll is to determine the overall success or failure of the Dodger's capabilities, with a second d100 roll is made to determine how many attacks they are capable of evading. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make it a d1000, but the first dice roll can be chosen with one of the following below systems:
 - General Difficulty Dice System (Consistent; might be too simple; Player/Invader-only ability, stays constant)
 	- Very Easy/Drizzle (d6, fail on 1, success on 2-6)
 	- Easy/Rainstorm (d6, fail on 1-2, success on 3-6)
@@ -45,21 +46,25 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 
 # Combat Explained
 Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
+
 Players start all encounters with non-Boss Monsters first; Boss Fights however must be rolled with (d20 + Player Level) vs (d20 + (World Number x 5)) to determine an Initiative Order against a Boss; all non-Boss Monsters go after Players.
+
 When a player chooses their Offensive and Defensive Action, Players can discuss who can act first with their Attacks, cycling through every player before passing on the Turn to the Monsters who collectively perform simple attacks if within range.
+
 When preparing an attack, Players can choose one of the following Offensive Actions:
 - Primary Skill - Use the Monster's Primary attacking Skill
 - Secondary Skill - Use the Monster's Secondary Skill
 - Invader Evasive Skill - Manipulate the Invader within you to use their Evasive Skill to your benefit
 - Invader Utility Skill - Manipulate the Invader within you to use their Utility Skill to your benefit
 - Activate Equipment - Activate your attached Equipment for its effect(s)
+
 When preparing your defence, Players can choose one of the following Defensive Actions:
-- Standard Defence - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
-- Aggressive Defence - A heads-on approach to combat, the player lowers the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for raising the difficulty of evading attacks with their Dodge by 1 Category.
-- Evasive Defence - A more elusive style of combat, the player raises the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for lowering the difficulty of evading attacks with their Dodge by 1 category.
-- Total Defence - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
+- Balanced Stance - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
+- Aggressive Stance - A heads-on approach to combat, the player lowers the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for raising the difficulty of evading attacks with their Dodge by 1 Category.
+- Evasive Stance - A more elusive style of combat, the player raises the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for lowering the difficulty of evading attacks with their Dodge by 1 category.
+- Total Defence Stance - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
 
-
+When all Players have finished performing their Attack Actions, all Monsters engage upon their own Attack Actions without performing a Defensive Action; during this, depending upon the Player's Stance, they can perform a Dodge Action to see how many attacks they can evade
 # Vore Mechanic
 
 # Items & Effects
