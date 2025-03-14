@@ -3,7 +3,7 @@ share: true
 ---
 Use [](.md#) to make linkes between posts
 
-Use # to make headings; more #'s make smaller headers
+Use # at the start of each line to make headings; more #'s make smaller headers
 
 Use <[span style="color: "]> without the square brackets to colour text; end with </span> to finish when the colour should stop
 
