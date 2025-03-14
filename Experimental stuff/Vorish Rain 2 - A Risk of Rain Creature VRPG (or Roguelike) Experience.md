@@ -7,7 +7,7 @@ share: true
 
 *Death's no longer permanent to either side; the Invaders transfer their consciousness to new clones after each death and return from the sky; the Monsters return to non-existence to revive before being brought back to this reality to attack those who invade upon the realm; just what'll both sides do to exploit this fact?*
 
-Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their deaths.
+Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their up and coming deaths.
 
 Note: For those who don't do Digestion, alternate rulings can be made where instead of Digestion, it's Energy Drain with the occupant becoming Knocked Out instead, teleporting them back to their ship upon defeat.
 # Campaign Style
@@ -55,11 +55,12 @@ Dodging is unique with its double-dice system; the first roll is to determine th
 # Playable (generally applicable) Monster Races
 
 # Out-of-Combat Exploration
-When not in combat, Players must pay close attention to their surroundings to find boxes, monuments, or Shrines to benefit their assault into each area that they want to steal items from; with the way Campaigns have different settings, the following rulesets can be chosen to more-fit the style of exploration and item-curation the DM wants:
-- Traditional Tabletop: 
-- Roleplay-centric: 
-- Roguelike: The DM rolls ((1 x Number of Teleport Loops Performed)d12 + (1 per Stage Teleported to, not including Hidden Realms)) to determine the number of available Boxes available in the Map; ((1 x Number of Teleport Loops Performed)d8 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Shrines in the Map; ((1 x Number of Teleport Loops Performed)d4 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Monuments available in the Map.
-- Story-Writing Base: Can choose to follow Roguelike's ruleset Roleplay-centric, or Tabletop- as the effects can differ minutely or greatly to the original content, it's up to the writer to decide on the facts presented to them to help with the story.
+When not in combat, Players must pay close attention to their surroundings to find Boxes, Interactables, or Shrines to benefit their assault into each area that they want to steal items from; with the way Campaigns have different settings, the following rulesets can be chosen to more-fit the style of exploration and item-curation the DM wants:
+- 
+	- Traditional Tabletop: To limit Player Progression to a more steady state, and convert the system to a more RPG-like tone, Hordes of enemies or smaller groups of powerful enemies need to be pre-designed for the Campaign ahead of time it's recommended that a minimum of 3-5 items per player be available for collection and addition to a Player's growing arsenal- obviously, randomly rolled with its rarity, but shareable amongst the players in case players have stuff others want and vice versa.
+	- Roleplay-centric: Assuming that these groups are 2+ (Between a DM and a player, or more depending on roleplay group-size), short stories are recommended when setting up these encounters; items may or may not matter in the grand scheme of things in a Roleplay-centric setting, but using metrics with the system helps give interactions depth, but being a Roleplay-type setting some rooms for creativity can be made to make items perform a little outside of their intended usages. Either following the Traditional Ruleset, Roguelike Ruleset, or your own Custom Ruleset, I had a bit of a hard time trying to come up with a way to give Roleplay Rulesets their own item/event-rolling.
+	- Roguelike: The DM rolls ((1 x Number of Teleport Loops Performed)d12 + (1 per Stage Teleported to, not including Hidden Realms)) to determine the number of available Boxes available in the Map; ((1 x Number of Teleport Loops Performed)d8 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Shrines in the Map; ((1 x Number of Teleport Loops Performed)d4 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Interactables available in the Map.
+	- Story-Writing Base: Can choose to follow Roguelike's ruleset Roleplay-centric, or Tabletop- as the effects can differ minutely or greatly to the original content, it's up to the writer to decide on the facts presented to them to help with the story.
 
 # Combat Explained
 Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
@@ -150,3 +151,7 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Tonic Affliction
 		- Unstable Transmitter (Consumed)
 - Actives (Equipment)
+# Monster Mobs
+- Scavenger: 
+  Killing one for the first time in each Stage makes them drop a Scavenger's Sack that drops (9 + 3 per additional Player) Common Items (Divided over 3 types), (4 + 2 per additional Player) Uncommon Items (Divided over 2 types), (1 + 1 per additional Player) Legendary Items, and (1+1 per additional Player) Equipment- or Elite Equipment if the Scavenger was an Elite. When a Scavenger is rolled, roll another d20; if the result is another 20, the Scavenger is considered to be an Elite.
+- 
