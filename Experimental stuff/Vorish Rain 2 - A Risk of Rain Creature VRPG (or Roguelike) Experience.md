@@ -27,6 +27,10 @@ When making this system, I had 4 styles of play in mind:
 Invader Digestion/Energy Drain Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
 ## How to calculate "Base Damage"
 Base Damage for all creatures is (1 + 1 per level + 1/2/3/5 per weapon item) x Damage Bonuses x Crit
+## Dissection of certain functions (Mostly for GM's sake)
+- Attack Speed - Starts out converting percentages into a Dodge Bonus for Dodge Rolls, helping the user attack better without putting themselves in as much danger. Upon reaching the stack-limit, during their turn, they can choose to at the start of their turn to gain either an additional Offensive Action or convert the extra Action into an enlarged Dodge Bonus for their Dodge Roll.
+  Each time the stack-limit is reached, usually referenced as reaching multiples of an item-number, the user would gain the benefits of gaining an additional Offensive Action or converting that Action into an additional Dodge Bonus. Those who use the additional Offensive Action don't benefit from the Dodge Bonus, and vice versa with those who use the Dodge Bonus instead of the Offensive Action; you can use any number of Offensive Actions that you can as you see fit.
+- Movement Speed - Functions similarly to Attack Speed; converting percentages into a Dodge Bonus for Dodge Rolls, with each stack-limit increasing the movement of the user by its base for its species, give them a Search Bonus,
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
 
@@ -56,11 +60,23 @@ Dodging is unique with its double-dice system; the first roll is to determine th
 
 # Out-of-Combat Exploration
 When not in combat, Players must pay close attention to their surroundings to find Boxes, Interactables, or Shrines to benefit their assault into each area that they want to steal items from; with the way Campaigns have different settings, the following rulesets can be chosen to more-fit the style of exploration and item-curation the DM wants:
-- 
+- Item Spawns
 	- Traditional Tabletop: To limit Player Progression to a more steady state, and convert the system to a more RPG-like tone, Hordes of enemies or smaller groups of powerful enemies need to be pre-designed for the Campaign ahead of time it's recommended that a minimum of 3-5 items per player be available for collection and addition to a Player's growing arsenal- obviously, randomly rolled with its rarity, but shareable amongst the players in case players have stuff others want and vice versa.
 	- Roleplay-centric: Assuming that these groups are 2+ (Between a DM and a player, or more depending on roleplay group-size), short stories are recommended when setting up these encounters; items may or may not matter in the grand scheme of things in a Roleplay-centric setting, but using metrics with the system helps give interactions depth, but being a Roleplay-type setting some rooms for creativity can be made to make items perform a little outside of their intended usages. Either following the Traditional Ruleset, Roguelike Ruleset, or your own Custom Ruleset, I had a bit of a hard time trying to come up with a way to give Roleplay Rulesets their own item/event-rolling.
 	- Roguelike: The DM rolls ((1 x Number of Teleport Loops Performed)d12 + (1 per Stage Teleported to, not including Hidden Realms)) to determine the number of available Boxes available in the Map; ((1 x Number of Teleport Loops Performed)d8 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Shrines in the Map; ((1 x Number of Teleport Loops Performed)d4 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Interactables available in the Map.
 	- Story-Writing Base: Can choose to follow Roguelike's ruleset Roleplay-centric, or Tabletop- as the effects can differ minutely or greatly to the original content, it's up to the writer to decide on the facts presented to them to help with the story.
+- Map Exploration
+	- Traditional Tabletop
+	- Roleplay-Centric
+	- Roguelike: Roll 2 d20s; the first is the type of encounter, and the second is the interactable itself; if there's been no Monster encounter for at least 1-minute of exploration, force a Mob Encounter:
+		- Encounter Dice: 1-4 (Mob Encounter); 5-8 (Drones); 9, 12-14 (Chests & Loot); 10-11(Charging Zone & Environment Specific); 15-18 (Shrines); 19-20 (Chests & Loot w/ boosted odds)
+			- Mob Encounter:
+			- Drones: 1-2 (Equipment Drone); 3-4 (Gunner Turret); 5-6 (Healing Drone); 7-8 (Gunner Drone); 9-10 (Missile Drone); 11-12 (Incinerator Drone); 13-14 (Healing Drone); 15-16 (Emergency Drone); 17-18 (Lemurian Egg); 19-20 (TC-280 Prototype)
+			- Chests & Loot:
+			- Charging Zone & Environment Specifics:
+			- Shrines: 1-2 (Shrine of Order); 3-4 (Shrine of Chance); 5-6 (Shrine of blood); 7-8 (Shrine of Combat); 9 & 12 (Shrine of the Woods); 10-11 (Altar of Gold); 13-14 (Shrine of the Mountain); 15-16 (Shrine of Chance); 17-18 (Shrine of Shaping); 19-20 (Shrine of Rebirth)
+			- Chests & Loot w/ boosted odds:
+	- Story-Writing Base: Do it however the author wishes to lean into it.
 
 # Combat Explained
 Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
