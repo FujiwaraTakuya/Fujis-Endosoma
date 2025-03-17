@@ -66,16 +66,36 @@ When not in combat, Players must pay close attention to their surroundings to fi
 	- Roguelike: The DM rolls ((1 x Number of Teleport Loops Performed)d12 + (1 per Stage Teleported to, not including Hidden Realms)) to determine the number of available Boxes available in the Map; ((1 x Number of Teleport Loops Performed)d8 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Shrines in the Map; ((1 x Number of Teleport Loops Performed)d4 + (1 + 1 per Teleport Loops Performed)) to determine the number of available Interactables available in the Map.
 	- Story-Writing Base: Can choose to follow Roguelike's ruleset Roleplay-centric, or Tabletop- as the effects can differ minutely or greatly to the original content, it's up to the writer to decide on the facts presented to them to help with the story.
 - Map Exploration
-	- Traditional Tabletop
-	- Roleplay-Centric
-	- Roguelike: Roll 2 d20s; the first is the type of encounter, and the second is the interactable itself; if there's been no Monster encounter for at least 1-minute of exploration, force a Mob Encounter:
+	- Traditional Tabletop: For random encounters, roll 2 d20s; the first is the type of encounter, and the second is the interactable itself:
 		- Encounter Dice: 1-4 (Mob Encounter); 5-8 (Drones); 9, 12-14 (Chests & Loot); 10-11(Charging Zone & Environment Specific); 15-18 (Shrines); 19-20 (Chests & Loot w/ boosted odds)
-			- Mob Encounter:
+			- Mob Encounter: Check Stage Spawns
 			- Drones: 1-2 (Equipment Drone); 3-4 (Gunner Turret); 5-6 (Healing Drone); 7-8 (Gunner Drone); 9-10 (Missile Drone); 11-12 (Incinerator Drone); 13-14 (Healing Drone); 15-16 (Emergency Drone); 17-18 (Lemurian Egg); 19-20 (TC-280 Prototype)
-			- Chests & Loot:
-			- Charging Zone & Environment Specifics:
+			- Chests & Loot: 1-2 (Scrapper); 3-9 (Barrel); 10-15 (Chests & Equipment); 16-17 (Special Interactables); 18-19 (Lunar Pods); 20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
+			- Charging Zone & Environment Specifics: Normally a Teleporter on Stages 1-4, or a Primordial Teleporter on Stage 5
 			- Shrines: 1-2 (Shrine of Order); 3-4 (Shrine of Chance); 5-6 (Shrine of blood); 7-8 (Shrine of Combat); 9 & 12 (Shrine of the Woods); 10-11 (Altar of Gold); 13-14 (Shrine of the Mountain); 15-16 (Shrine of Chance); 17-18 (Shrine of Shaping); 19-20 (Shrine of Rebirth)
-			- Chests & Loot w/ boosted odds:
+			- Chests & Loot w/ boosted odds: 1 (Scrapper); 2-6 (Barrel); 7-13 (Chests & Equipment); 14-16 (Special Interactables); 17-18 (Lunar Pods); 19-20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Rusty Lockbox/Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
+	- Roleplay-Centric: To aid in creating encounters, feel free to use the following dice rolls:
+		- Encounter Dice: 1-4 (Mob Encounter); 5-8 (Drones); 9, 12-14 (Chests & Loot); 10-11(Charging Zone & Environment Specific); 15-18 (Shrines); 19-20 (Chests & Loot w/ boosted odds)
+			- Mob Encounter: Check Stage Spawns
+			- Drones: 1-2 (Equipment Drone); 3-4 (Gunner Turret); 5-6 (Healing Drone); 7-8 (Gunner Drone); 9-10 (Missile Drone); 11-12 (Incinerator Drone); 13-14 (Healing Drone); 15-16 (Emergency Drone); 17-18 (Lemurian Egg); 19-20 (TC-280 Prototype)
+			- Chests & Loot: 1-2 (Scrapper); 3-9 (Barrel); 10-15 (Chests & Equipment); 16-17 (Special Interactables); 18-19 (Lunar Pods); 20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
+			- Charging Zone & Environment Specifics: Normally a Teleporter on Stages 1-4, or a Primordial Teleporter on Stage 5
+			- Shrines: 1-2 (Shrine of Order); 3-4 (Shrine of Chance); 5-6 (Shrine of blood); 7-8 (Shrine of Combat); 9 & 12 (Shrine of the Woods); 10-11 (Altar of Gold); 13-14 (Shrine of the Mountain); 15-16 (Shrine of Chance); 17-18 (Shrine of Shaping); 19-20 (Shrine of Rebirth)
+			- Chests & Loot w/ boosted odds: 1 (Scrapper); 2-6 (Barrel); 7-13 (Chests & Equipment); 14-16 (Special Interactables); 17-18 (Lunar Pods); 19-20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Rusty Lockbox/Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
+	- Roguelike: If there are no encounters for 1 minute of gameplay, force a sudden Monster Encounter. As the DM, use the Item Spawns Rules to determine how many of the below interactables can be found. No more, no less.
+		- Encounter Dice: 1-4 (Mob Encounter); 5-8 (Drones); 9, 12-14 (Chests & Loot); 10-11(Charging Zone & Environment Specific); 15-18 (Shrines); 19-20 (Chests & Loot w/ boosted odds)
+			- Mob Encounter: Check Stage Spawns
+			- Drones: 1-2 (Equipment Drone); 3-4 (Gunner Turret); 5-6 (Healing Drone); 7-8 (Gunner Drone); 9-10 (Missile Drone); 11-12 (Incinerator Drone); 13-14 (Healing Drone); 15-16 (Emergency Drone); 17-18 (Lemurian Egg); 19-20 (TC-280 Prototype)
+			- Chests & Loot: 1-2 (Scrapper); 3-9 (Barrel); 10-15 (Chests & Equipment); 16-17 (Special Interactables); 18-19 (Lunar Pods); 20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
+			- Charging Zone & Environment Specifics: Normally a Teleporter on Stages 1-4, or a Primordial Teleporter on Stage 5
+			- Shrines: 1-2 (Shrine of Order); 3-4 (Shrine of Chance); 5-6 (Shrine of blood); 7-8 (Shrine of Combat); 9 & 12 (Shrine of the Woods); 10-11 (Altar of Gold); 13-14 (Shrine of the Mountain); 15-16 (Shrine of Chance); 17-18 (Shrine of Shaping); 19-20 (Shrine of Rebirth)
+			- Chests & Loot w/ boosted odds: 1 (Scrapper); 2-6 (Barrel); 7-13 (Chests & Equipment); 14-16 (Special Interactables); 17-18 (Lunar Pods); 19-20 (Summon Scavenger)
+				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Rusty Lockbox/Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
 	- Story-Writing Base: Do it however the author wishes to lean into it.
 
 # Combat Explained
@@ -102,13 +122,14 @@ When preparing your defence, Players can choose one of the following Defensive A
 When all Players have finished performing their Attack Actions, all Monsters engage upon their own Attack Actions without performing a Defensive Action; during this, depending upon the Player's Stance, they can perform a Dodge Action to see how many attacks they can evade
 # Vore Mechanic
 As an alternative Offensive Action, Players can choose one of the following Vore Actions to perform (It should be clear that these are pred-centric options, but Players can):
-- Devour - 
-- Forceful Feeding - 
-- Yeeting Feeding - 
-- Healing Devour -  
-- Forceful Release - 
-- Yeeting Release - 
-- Quick Release - 
+- Devour - Depending upon your size, grab a number of creatures up to the designated limit and try to swallow them.
+- Forceful Feeding - Depending upon your size, grab a number of creatures up to the designated limit and forcefully feed them to another nearby creature; unwilling preds take damage.
+- Yeeting Feeding - Depending upon your size, grab a number of creatures up to the designated limit and throw them at a distant creature to forcefully feed them; unwilling preds take damage.
+- Healing Devour - Attempt to devour a target to heal them instead of dealing damage to them, with the option to keep mouth open for reduced Dodge Bonus to keep allies benefitting from allied healing effects.
+- Forceful Release - Akin to a Melee attack, the user strongly ejects 1 or multiple creatures out from inside them into an area around them, dealing damage at the same time.
+- Yeeting Release - Akin to a Ranged Projectile attack, the user strongly ejects 1 or multiple creatures out from inside of them in a direction, dealing damage at the same time.
+- Quick Release - Quickly release an ally, unit, or creature somewhere around you.
+- Risky Devouring Guard (Friendly Fire) - Taking a risk attempting to devour a projectile attack and redirect it to everyone inside you; failing guarantees you taking the damage.
 # Items & Effects
 - Normal Items (Passive)
 	- Common
