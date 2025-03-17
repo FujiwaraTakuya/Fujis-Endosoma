@@ -25,12 +25,21 @@ When making this system, I had 4 styles of play in mind:
 **Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
 Invader Digestion/Energy Drain Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
-## How to calculate "Base Damage"
-Base Damage for all creatures is (1 + 1 per level + 1/2/3/5 per weapon item) x Damage Bonuses x Crit
-## Dissection of certain functions (Mostly for GM's sake)
-- Attack Speed - Starts out converting percentages into a Dodge Bonus for Dodge Rolls, helping the user attack better without putting themselves in as much danger. Upon reaching the stack-limit, during their turn, they can choose to at the start of their turn to gain either an additional Offensive Action or convert the extra Action into an enlarged Dodge Bonus for their Dodge Roll.
-  Each time the stack-limit is reached, usually referenced as reaching multiples of an item-number, the user would gain the benefits of gaining an additional Offensive Action or converting that Action into an additional Dodge Bonus. Those who use the additional Offensive Action don't benefit from the Dodge Bonus, and vice versa with those who use the Dodge Bonus instead of the Offensive Action; you can use any number of Offensive Actions that you can as you see fit.
-- Movement Speed - Functions similarly to Attack Speed; converting percentages into a Dodge Bonus for Dodge Rolls, with each stack-limit increasing the movement of the user by its base for its species, give them a Search Bonus,
+## How to calculate "Base Damage" & "Total Damage"
+When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per weapon item) x Buffs
+Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per weapon item) x Buffs x Damage Bonuses x Crit
+## Dissection of certain stats and mechanic functions (Mostly for GM's sake)
+- Stats
+	- Attack Speed - Starts out converting percentages into a Dodge Bonus for Dodge Rolls, helping the user attack better without putting themselves in as much danger. Upon reaching the stack-limit, during their turn, they can choose to at the start of their turn to gain either an additional Offensive Action or convert the extra Action into an enlarged Dodge Bonus for their Dodge Roll.
+	  Each time the stack-limit is reached, usually referenced as reaching multiples of an item-number, the user would gain the benefits of gaining an additional Offensive Action or converting that Action into an additional Dodge Bonus. Those who use the additional Offensive Action don't benefit from the Dodge Bonus, and vice versa with those who use the Dodge Bonus instead of the Offensive Action; you can use any number of Offensive Actions that you can as you see fit.
+	- Movement Speed - Functions similarly to Attack Speed; converting percentages into a Dodge Bonus for Dodge Rolls, with each stack-limit increasing the Movement of the user by its base for its species, and can choose to lose the Dodge Bonus to give themselves a Search Bonus that they can opt to sub to maintain the Dodge Bonus.
+	- Sprint Speed - Sprinting Doubles your Movement Speed, also improving your Dodge Bonus by the same amount, but in exchange disables the user's ability to use all Skills and Offensive Actions unless the ability states the ability to do so; in exchange for 1 Offensive Action, the user can use the Tactical Retreat Manoeuvre to instantly start Sprinting to run away from combat.
+	- Health Regeneration - At the start of each creature's Turn in a Round, they gain HP equal to the Base HP Regen; negated by Malachite (anti-heal debuff), outside of combat the HP Regen is applied each second instead of every Turn (6 seconds) of combat, while in-combat they can only heal at the start of their Turn.
+	- Critical Strikes - A chance to increase your total damage by double the output. Effects like Healing, Buffs, and Debuffs do not benefit from Crits.
+- Conditions
+	- Burn - Creatures suffering the Burn Condition are set on fire for 2 Turns, causing creatures to take a Unique DOT that does not stack upon itself.
+- Status Buffs/Debuffs
+	- 
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
 
@@ -112,6 +121,7 @@ When preparing an attack, Players can choose one of the following Offensive Acti
 - Invader Utility Skill - Manipulate the Invader within you to use their Utility Skill to your benefit
 - Activate Equipment - Activate your attached Equipment for its effect(s)
 - Vore Action - Alternative to other Offensive Actions, used to consume 1 or more creatures for voracious benefits
+- Tactical Retreat Manoeuvre - Pick your feet up and start making a break-neck dash away from all trouble coming your way, increasing your Dodge Bonus by the amount given from Sprinting, in exchange for ending your Turn early, forgoing Offensive Actions, and trying to escape combat.
 
 When preparing your defence, Players can choose one of the following Defensive Actions:
 - Balanced Stance - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
@@ -137,15 +147,15 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Backup Magazine: (1 + 1 per stack) Projectile to Secondary Skill.
 		- Bison Steak: Increases Max HP by (25 + 25 per stack).
 		- Bolstering Lantern: For each Creature within (20m + 5m per stack), up to a max of (4 + 2 per stack) Creatures (Creatures inside you don't count), decrease the difficulty of your Dodge Roll by -1 to a minimum of 1 until 14 stacks are gained; every 14 stacks of this item, reset the Dodge Bonus and gain +1 Offensive Action.
-		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal 37.5% Damage per-hit to the closest target.
+		- Bundle of Fireworks: Activating an interactable launches (8 + 4 per stack) fireworks that deal 37.5% Base Damage per-hit to the closest target.
 		- Bustling Fungus: Every Round Spent in Total Defence, at the start of your Turn heal all allies (including yourself) within (3m +1.5m per stack) by (4.5% + 2.25% per stack) of your Max HP 6 times.
 		- Cautious Slug: Increase HP Regen by (18 + 18 per stack ) HP every Round.
 		- Chronic Expansion: Killing an enemy increases your damage by (3% + 1% per stack), up to (10 + 5 per stack) for 2 Rounds. Dealing Damage refreshes the timer.
 		- Crowbar: Deal (75% + 75% per stack) damage to enemies above 90% health.
 		- Delicate Watch: Increase damage by (20% + 20% per stack). Taking damage that brings your HP below 25% your Max HP breaks this item.
-		- Elusive Antlers: Spawns 3 orbs of energy every (10 - 1 per stack) seconds, each reducing the Difficulty to Dodge by -1 up to (3 +1 per stack) times for 12 seconds/2 Rounds, while every 3 orbs consumed reduces the difficulty
-		- Energy Drink:
-		- Focus Crystal: Increase damage to enemies within 13m by (20% + 20% per stack)
+		- Elusive Antlers: Spawns 3 orbs of energy every (10 - 1 per stack) seconds, each giving +1 to the consumer's Dodge Bonus up to (3 + 1 per stack) times for 12 seconds/2 Rounds, while every 3 orbs consumed improves the user's Sprint Speed by 25%.
+		- Energy Drink: Increases Sprint Speed by (25% + 25% per stack).
+		- Focus Crystal: Increase damage to enemies within 13m by (20% + 20% per stack).
 		- Gasoline: Killing an enemy ignites all enemies within (12m + 4m per stack) for 150% Base Damage and applies the Burn Condition upon them. Additionally, enemies Burn for (150% + 75% per stack) Base Damage. 
 		- Item Scrap, White: Does nothing. Prioritized when used with 3D Printers.
 		- Lens-Maker's Glasses: Your attacks have a (10% + 10% per stack) chance to Critically Strike, dealing double damage.
@@ -160,14 +170,15 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Roll of Pennies: Gain (3 + 3 per stack) Gold on taking damage from an enemy; add +1 to the Gold gained for every 10 Minutes survived throughout a Roguelike Campaign or every Day that passes in other Campaign Settings.
 		- Rusted Key: Used to be made aware of and open Hidden Caches with a d100 chance (80% Uncommon Item/20% Legendary (11-90=Uncommon Tier, 1-10 & 91-100=Legendary Tier)). Opening the cache consumes this item.
 		- Soldier Syringe: Decreases the Difficulty of Dodging attacks by -1 to a minimum of 1 until 7 Soldier Syringes are collected; for each multiple of 7 of syringes collected, reset the Dodge Bonus and give the User a Permanent +1 Offensive Action to their Turns.
-		- Sticky Bomb: Upon hitting an enemy or multiple enemies with an attack, roll a d20; for each (5% + 5% per stack) chance of this item(s), attach a bomb to the enemy that detonates at the end of the Round for 180% Total Base Damage; percentages above 100 add another bomb on-hit if the Chance is rolled; if multiple enemies are hit with an attack, to determine however many are hit, roll a d100+ to count how many would be hit, with excess hitting nothing else.
+		- Sticky Bomb: Upon hitting an enemy or multiple enemies with an attack, roll a d20; or each (5% + 5% per stack) chance of this item(s), attach a bomb to the enemy that detonates at the end of the Round for 180% Total Damage; percentages above 100 add another bomb on-hit if the Chance is rolled; if multiple enemies are hit with an attack, to determine however many are hit, roll a d100+ to count how many would be hit, with excess hitting nothing else.
 		- Stun Grenade: Upon hitting an enemy or multiple enemies with an attack, roll a d20; for each (5% + 5% per stack) chance of this item(s), Stun the enemy for 1 Offensive Action; gaining above 100% chance to Stun does not affect the duration or chance of the Stun, nor improve its effects any further; if multiple enemies are hit with an attack, to determine however many are hit, roll a d100+ to count how many would be hit, with excess hitting nothing else..
 		- Topaz Brooch: Upon Kill, gain a temporary HP Barrier worth (15 + 15 per stack) HP that degenerates per-Round by 5HP.
 		- Tougher Times: Gives the user a (15% + 15% per stack) chance to Block incoming damage, rolled with a d20, negating any damage taken to 0; this item is unaffected by Luck-increasing items.
 		- Tri-Tip Dagger: Upon hitting an enemy or multiple enemies with an attack, roll a d20; for each (10% + 10% per stack) chance of this item(s), the target is inflicted with Bleeding, dealing 240% Base Damage over 3 seconds of a Round, resetting its timer on new damage taken.
-		- Warbanner: Upon Levelling Up, or starting a Teleporter Event, drop a Banner upon the floor that strengthens all allies within (16m + 8m per stack); those within the banner's range increases their Total Damage by 30% before crits and decreases the Difficulty of Dodge Rolls by -3.
+		- Warbanner: Upon Levelling Up, or starting a Teleporter Event, drop a Banner upon the floor that strengthens all allies within (16m + 8m per stack); those within the banner's range increases their Total Damage by 30% before crits and increases the user's Dodge Rolls by +3.
 		- Warped Echo: The next hit/group of hits that deal damage to the user in a Round are reduced by 20% of the total damage taken and spreading the remaining damage into (3 + 1 per stack) hits per-second; all echoed damage is non-lethal except for the final hit; after this effect ends, this item requires 2.5 Rounds to Recharge itself before its effect can be used again.
 	- Uncommon
+		- AtG Missile Mk. 1: With each hit upon an enemy, roll a d20; rolling a 19 or 20, you fire a missile from the AtG at the target, dealing (300% + 300% per stack) Total Damage.
 		- 
 	- Legendary
 		- 
