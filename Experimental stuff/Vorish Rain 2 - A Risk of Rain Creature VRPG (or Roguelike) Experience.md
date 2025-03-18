@@ -38,33 +38,32 @@ Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1
 	- Critical Strikes - A chance to increase your total damage by double the output. Effects like Healing, Buffs, and Debuffs do not benefit from Crits.
 - Conditions
 	- Burn - Creatures suffering the Burn Condition are set on fire for 2 Turns, causing creatures to take a Unique DOT that does not stack upon itself.
+	- Launched - Creatures affected by this Condition are lifted into the air 3m (10ft).
+	- Stunned - For the duration of the Condition, the creature is unable to act at all unless they are immune to the Condition, stopping all movement from the creature while also making them unable to Attack or Dodge.
 - Status Buffs/Debuffs
-	- 
+	- Frenzy: Increases the affected creature's Dodge Bonus by +5 and +2 or a Dodge Bonus of +5 and +1 Offensive Action.
 # Difficulty "Setting"
-For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls being rolled are made with one of the following Dice Systems with the following rules:
-
-- General Difficulty Dice System (Consistent; might be too simple; An either remain a single difficulty, or up to DM's discretion for creativeness)
-		- Very Easy/Drizzle (d2, fail on 1, success on 2)
-		- Easy/Rainstorm (d3, fail on 1, success on 3, off-shot on 2)
-		- Normal/Monsoon (d4, fail on 1, success on 4, off-shot on 2-3)
-		- Hard/Eclipse (d6, fail on 1, success on 5-6, off-shot on 2-4)
+For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls and Dodge Rolls being rolled are made with one of the following Dice Systems with the following rules (Note: DC = Difficulty Class i.e. how difficult it is to meet or surpass; you can choose to combine multiple Dice Systems to improve Difficulty if you so wish to add more complexity):
+- General Difficulty Dice System for Attack Rolls (Consistent; might be too simple; either remain a single difficulty, or up to DM's discretion for creativeness)
+		- Very Easy/Drizzle (d20, DC 1 only way to fail)
+		- Easy/Rainstorm (d20, DC 3)
+		- Normal/Monsoon (d20, DC 6)
+		- Hard/Eclipse (d20, DC 9)
 - Size Difficulty Dice System (Larger creatures are easier to hit than smaller creatures; generally more consistent hit-numbers with greater risks for failure or off-targeting)
-	- Huge+/Drizzle (d10, fail on 1, success on 6-10, off-shot on 2-5)
-	- Large/Rainstorm (d10, fail on 1-2, success on 7-10, off-shot on 3-6)
-	- Medium/Monsoon (d10, fail on 1-3, success on 7-10, off-shot on 4-6)
-	- Small-/Eclipse (d10, fail on 1-3, success on 8-10, off-shot on 4-7)
-## Dodging with Size
-Dodging is unique with its double-dice system; the first roll is to determine the overall success or failure of the Dodger's capabilities, with a second d100 roll is made to determine how many attacks they are capable of evading. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make it a d1000, but the first dice roll can be chosen with one of the following below systems:
-- General Difficulty Dice System (Consistent; might be too simple; Player/Invader-only ability, stays constant)
-	- Very Easy/Drizzle (d6, fail on 1, success on 2-6)
-	- Easy/Rainstorm (d6, fail on 1-2, success on 3-6)
-	- Normal/Monsoon (d4, fail on 1-3, success on 4-6)
-	- Hard/Eclipse (d6, fail on 1-3, success on 5-6, re-roll on 4)
-- Size Difficulty Dice System (Larger creatures are easier to hit than smaller creatures; Player/Invader-only ability, DM discerns difficulty)
-	- Huge+/Drizzle (d10, fail on 1-6, success on 7-10)
-	- Large/Rainstorm (d10, fail on 1-4, success on 5-10)
-	- Medium/Monsoon (d10, fail on 1-2, success on 3-10)
-	- Small-/Eclipse (d10, fail on 1, success on 2-10)
+	- Huge+/Drizzle (d20, DC 1)
+	- Large/Rainstorm (d20, DC 2)
+	- Medium/Monsoon (d20, DC 4)
+	- Small-/Eclipse (d20, DC 6)
+- Speed Difficulty Dice System (Faster creatures are harder to hit than smaller creatures, but due to sizes being a thing, being 'Fast' has a smaller range of DC to compensate)
+	- Sluggish (d20, No DC/No Improvement)
+	- Very Slow (d20, DC 1)
+	- Slow (d20, DC 3)
+	- Normal (d20, DC 5)
+	- Fast (d20, DC 6)
+	- Very Fast (d20,  DC 8)
+	- Subsonic (d20, DC 10)
+## Dodging
+Dodging is unique in this game with its double-dice system; the first roll is to determine the overall success or failure of the Dodger's capabilities, with a second d100 roll is made to determine how many attacks they are capable of evading. Players and Invaders both have the ability to Dodge Offensive Actions, while none of the Mobs can. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make it a d1000.
 # Playable (generally applicable) Monster Races
 
 # Out-of-Combat Exploration
@@ -125,8 +124,8 @@ When preparing an attack, Players can choose one of the following Offensive Acti
 
 When preparing your defence, Players can choose one of the following Defensive Actions:
 - Balanced Stance - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
-- Aggressive Stance - A heads-on approach to combat, the player lowers the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for raising the difficulty of evading attacks with their Dodge by 1 Category.
-- Evasive Stance - A more elusive style of combat, the player raises the difficulty of landing an attack with their Offensive Action by 1 Category in exchange for lowering the difficulty of evading attacks with their Dodge by 1 category.
+- Aggressive Stance - A heads-on approach to combat, the player improves their Attack Roll by 50% while lowering their Dodge Roll by 25%.
+- Evasive Stance - A more elusive style of combat, the player raises their Dodge Roll by 50% while lowering their Attack Roll by 25%/
 - Total Defence Stance - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
 
 When all Players have finished performing their Attack Actions, all Monsters engage upon their own Attack Actions without performing a Defensive Action; during this, depending upon the Player's Stance, they can perform a Dodge Action to see how many attacks they can evade
@@ -160,10 +159,10 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Item Scrap, White: Does nothing. Prioritized when used with 3D Printers.
 		- Lens-Maker's Glasses: Your attacks have a (10% + 10% per stack) chance to Critically Strike, dealing double damage.
 		- Medkit: 2 seconds after getting hurt and not taking damage, heal for 20 plus an additional (5% + 5% per stack) of Max HP.
-		- Mocha: 
+		- Mocha: Each stack of this item 
 		- Monster Tooth: Killing an enemy spawns a healing orb that heals for 8 plus an additional (2% + 2% per stack) of Player's own Max HP.
 		- Oddly-Shaped Opal: If an attack will hit the user, until the start of their Next Turn, increase the user's Armour by (100 + 100 per stack), after which they then take damage normally; after this effect ends, if the user remains unharmed for 3 consecutive Rounds, the effect of this item is restored, while taking damage resets the timer for recovery.
-		- Paul's Goat Hoof:
+		- Paul's Goat Hoof: Increases the user's Dodge Bonus by (1 + 1 per stack) up to a Stack-Limit of 8; additional stacks can either provide additional Dodge Bonus to the user, or for every stack of 8 this item has gives the user a +1 Search Bonus while searching for items.
 		- Personal Shield Generator: Gain a Shield of HP equal to (8% + 8% per stack) of your Max HP. It begins recharging at a rate of 15% per Round after 3 consecutive Rounds of taking no damage; taking damage resets the timer for recovery
 		- Power Elixir: Upon taking damage that reduces the user's HP below 25%, before killing the user unless against an insta-kill effect, consumes 1 of this item instantaneously, healing the user for 75% of their Max HP; if the damage exceeds the amount healed, additional Power Elixirs are consumed until no more can be consumed; this item doesn't need to be held to be activated, but simultaneously can't be used to heal before the user's HP has reached the threshold.
 		- Repulsion Armour Plate: Reduces all incoming damage by (-5 + -5 per stack); cannot reduce damage taken below 1.
@@ -178,7 +177,13 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Warbanner: Upon Levelling Up, or starting a Teleporter Event, drop a Banner upon the floor that strengthens all allies within (16m + 8m per stack); those within the banner's range increases their Total Damage by 30% before crits and increases the user's Dodge Rolls by +3.
 		- Warped Echo: The next hit/group of hits that deal damage to the user in a Round are reduced by 20% of the total damage taken and spreading the remaining damage into (3 + 1 per stack) hits per-second; all echoed damage is non-lethal except for the final hit; after this effect ends, this item requires 2.5 Rounds to Recharge itself before its effect can be used again.
 	- Uncommon
-		- AtG Missile Mk. 1: With each hit upon an enemy, roll a d20; rolling a 19 or 20, you fire a missile from the AtG at the target, dealing (300% + 300% per stack) Total Damage.
+		- AtG Missile Mk. 1: With each hit upon an enemy, roll a d20; rolling a 19 or 20, you fire a missile from the AtG at the target, dealing (300% + 300% per stack) Total Damage. For attacks that hit an AOE, roll a d100+ to determine how many enemies are attacked on a successful hit.
+		- Bandolier: (18% + 10% per stack) chance that on kill an enemy drops an ammo pack that resets the cooldown of all skills (Equipment not included).
+		- Berzerker's Pauldron: Killing 4 enemies within 1 Round sends you into a Frenzy for (6 + 4 per stack) seconds; Frenzy, while active, gives the user +5 to their Dodge Bonus, and either an additional +2 to their Dodge Bonus or a +1 Offensive Action they can use immediately during the Turn this Condition is activated.
+		- Breaching Fin: Enemies on the ground when hit with a Skill are Launched up into the air and Stunned simultaneously; this effect can be applied to any airborne enemy an additional (2 + 1 per stack) times before the enemy can no longer be launched. Launched enemies take increased Total damage from all sources by 10% per launch. After the Target lands, this effect goes on a 18 second cooldown; this effect can apply to more than 1 creature if an AOE/multi-hit Skill is used.
+		- Chance Doll: While interacting with a Shrine of Chance, on a successful payment, Roll a d20; with a (40% + 10% per stack) chance, you can guarantee the item given will be of 1 Higher Rarity than what was rolled (Dm Rolls initial item, then rolls higher; limit of Legendary).
+		- Chronobauble: Slow enemies on-hit for -60% Movement Speed and -6 Dodge Bonus for (2 + 2 per stack) seconds.
+		- Death Mark: Enemies with 4 or more Debuffs/Conditions are Marked for Death, increasing damage taken by 50% from all sources by (7 + 7 per stack) seconds.
 		- 
 	- Legendary
 		- 
