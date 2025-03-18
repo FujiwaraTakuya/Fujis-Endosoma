@@ -30,7 +30,7 @@ When determining a creature's Base Damage for attacks and items, use the followi
 Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per weapon item) x Buffs x Damage Bonuses x Crit
 ## Dissection of certain stats and mechanic functions (Mostly for GM's sake)
 - Stats
-	- Attack Speed - Increases the user's Attack Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either an additional Offensive Action or converting that Offensive Action into a bigger Bonus for Attack Rolls. You can use any number of Offensive Actions during your Turn, with the rest of the Actions becoming an additional Attack Bonus.
+	- Attack Speed - Increases the user's Attack Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either an additional Offensive Action or converting that Offensive Action into a bigger Bonus for Attack Rolls. You can use any number of Offensive Actions during  your Turn, with the rest of the Actions becoming an additional Attack Bonus.
 	- Movement Speed - Increases the user's Dodge Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either a forgo other benefits for their Dodge bonus, a Sprint Speed Buff (+25% per stack), or a Search Bonus. You can't benefit from a Sprint Speed Buff and Search Bonus simultaneously.
 		- Stack Bonus - When you have enough stacks of an item, you can get a Stack Bonus; depending on the Stat that gives the Bonus, it can give different benefits such as: Additional Offensive Actions, Sprint Speed Buff, or Search Bonus. Attack Speed gives an Offensive Stack Bonus while Movement Speed gives a Defensive Stack Bonus.
 	- Sprint Speed - Sprinting Doubles your Movement Speed, also improving your Dodge Bonus by the same amount, but in exchange disables the user's ability to use all Skills and Offensive Actions unless the ability states the ability to do so; in exchange for 1 Offensive Action, the user can use the Tactical Retreat Manoeuvre to instantly start Sprinting to run away from combat.
@@ -185,7 +185,36 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Chance Doll: While interacting with a Shrine of Chance, on a successful payment, Roll a d20; with a (40% + 10% per stack) chance, you can guarantee the item given will be of 1 Higher Rarity than what was rolled (Dm Rolls initial item, then rolls higher; limit of Legendary).
 		- Chronobauble: Slow enemies on-hit for -60% Movement Speed and -6 Dodge Bonus for (2 + 2 per stack) seconds.
 		- Death Mark: Enemies with 4 or more Debuffs/Conditions are Marked for Death, increasing damage taken by 50% from all sources by (7 + 7 per stack) seconds.
-		- 
+		- Fuel Cell: Hold (1 + 1 per stack) additional Equipment charge; reduces Equipment cooldown by (15% + 15% per stack), capped out at 1 second.
+		- Ghor's Tome: Roll a d100; on a (4% + 4% per stack) chance, kills will drop a Treasure worth ($25 + $1 per Stage passed); if multiple enemies are hit, roll a d100+ to see how many killed Mobs drop a Treasure.
+		- Harvester's Scythe: Gain 5% Critical Chance; Critical Strikes Heal the user for (8 + 4 per stack) HP.
+		- Hopoo Feather: Gain (1 + 1 per stack) Maximum Jump Count.
+		- Hunter's Harpoon: Killing an enemy increases Dodge Bonus by +12, fading over (1 + 0.5 per stack) seconds.
+		- Ignition Tank: Burn effects deal (300% + 300% per stack) more damage over time.
+		- Infusion: Killing an enemy increases your HP permanently by (1 + 1 per stack), up to a maximum of (100 + 100 per stack) HP.
+		- Item Scrap, Green: Does nothing. Prioritized when used with 3D Printers.
+		- Kjaro's Band: 
+		- Lepton Daisy: 
+		- Luminous Shot: 
+		- Noxious Thorn: 
+		- Old Guillotine: 
+		- Old War Stealthkit: 
+		- Prayer Beads: 
+		- Predatory Instincts: 
+		- Razorwire: 
+		- Red Whip: 
+		- Regenerating Scrap: 
+		- Rose Buckler: 
+		- Runald's Band: 
+		- Sale Star: 
+		- Shipping Request Form: 
+		- Shuriken: 
+		- Squid Polyp: 
+		- Ukelele: 
+		- Unstable Transmitter: 
+		- War Horn: 
+		- Wax Quail: 
+		- Will-o'-the-Wisp: : 
 	- Legendary
 		- 
 	- Boss
