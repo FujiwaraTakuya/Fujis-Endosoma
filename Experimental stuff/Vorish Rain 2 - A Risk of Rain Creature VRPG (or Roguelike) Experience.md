@@ -10,24 +10,41 @@ share: true
 Starting out, Players have already eaten or are in the process of lucking themselves into eating an Invader; what happens afterwards is a constant spiral of threat and survival where they must protect themselves and their occupant and try to survive as long as possible, become part of an on-going story that they must journey themselves through to its end or their up and coming deaths.
 
 Note: For those who don't do Digestion, alternate rulings can be made where instead of Digestion, it's Energy Drain with the occupant becoming Knocked Out instead, teleporting them back to their ship upon defeat.
-# Campaign Style
-When making this system, I had 4 styles of play in mind:
-- Traditional Tabletop: In the style of a traditional Tabletop RPG with a story, there's plenty of avenue for encounters- simple or even creative, with a unique flare considering the ever-present threat of spawning monsters (Encounters are determined by the DM, with 'random encounters' being the equivalent to sudden spawns)
-- Roleplay-centric: In a more free-form encounter, movement and performance is dictated more by roleplay-style descriptions with damage being depicted with the system (Combat is usually searched for, rather than being chased after by Monsters, giving greater freedom for player-interactions and character building)
-- Roguelike: Played like the game, Encounters continue throughout the game gradually with waves of enemies that'll continuously, with 1-minute grace periods to find Monuments, Item Boxes, or Shrines of interest, with the main aim being trying to survive for as long as possible and becoming a powerhouse, or reach one of the many endings normally available in the game (ROR2 but if Tabletop, harder to keep track of, but plays more like a game than an experience)
-- Story-Writing Base: Essentially a collection of numbers and details to give both people and players a greater idea of how Monsters, items, and special encounters work in this version of the universe, or closely to the original source material (Not really used as a 1-to-1 comparison for combat or world-interactions, but can be a helpful base for creating ideas for the universe)
+# How does the game work?
+These rules can be played normally as though one were playing Risk of Rain 2 as one of the many playable characters normally in the game viewed as Classes within this system, but with the intention behind the rules, Players are given the Opportunity to play as Monsters instead who've devoured one of these Characters/Classes labelled as Invaders, and forcefully living in Symbiosis with them until something extraordinary happens, or one of the two parties ends up perishing or being teleported away before death becomes permanent- if that's even possible anymore within the radius of this planet and its many Environments.
+
+It's intended that Players either:
+- Play Solo, with 1 DM, or as a full party
+- Play as a full party of Monsters, Invaders, or a mixture of the two under certain circumstances
+- Run this game either as a Campaign, a Roleplay System Addition, a Roguelike Tabletop game for quick or on-going sessions, or be used as a basis for Risk of Rain Writing
+If you're looking for:
+- An alternate playstyle such as a Prey benefitting a Pred
+- More open creativity with home brew Items, Invaders, and Monsters
+- Even more alternate playstyles such as Mounted, Driving, Summoning, etc.
+Then check the Outline for the Additional Rules, Homebrew Content, and 
+## General Basics
+### Invaders
+They have the following Stats normally:
+Invader HP
+Invader Level
+Invader Experience
+Size
+
 # Stats to keep track of
 **Monster HP** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
 **Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
 **Monster Level & Experience** - Basic System to show Player-Monster growth; your basic
 **Invader Level & Experience** - Necessary metric to determine your Invader(s) later ability for survival within your guts- not that'll help them escape you in any way once inside; their experience gain correlates from the gold-count you have left before each teleport
 **Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
+**Hit DC** - How difficult it is to hit your Character; usually determined with one or a combination of Game Difficulty, Size, and Creature Speed, with the given number needing to be met or overcome by a creature's Attack Roll for a Hit to landed.
 **Evolution** - The evolutionary-state of your Monster should it have the ability to Evolve into a more powerful form
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
-Invader Digestion/Energy Drain Rate - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
+**Invader Digestion/Energy Drain Rate** - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
+##  Levelling up
+All Creatures start at Level 1, and gradually gain Experience (EXP) by performing some form of action
 ## How to calculate "Base Damage" & "Total Damage"
-When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per weapon item) x Buffs
-Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per weapon item) x Buffs x Damage Bonuses x Crit
+When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs
+Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs x Damage Bonuses x Crit
 ## Dissection of certain stats and mechanic functions (Mostly for GM's sake)
 - Stats
 	- Attack Speed - Increases the user's Attack Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either an additional Offensive Action or converting that Offensive Action into a bigger Bonus for Attack Rolls. You can use any number of Offensive Actions during  your Turn, with the rest of the Actions becoming an additional Attack Bonus.
@@ -36,13 +53,23 @@ Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1
 	- Sprint Speed - Sprinting Doubles your Movement Speed, also improving your Dodge Bonus by the same amount, but in exchange disables the user's ability to use all Skills and Offensive Actions unless the ability states the ability to do so; in exchange for 1 Offensive Action, the user can use the Tactical Retreat Manoeuvre to instantly start Sprinting to run away from combat.
 	- Health Regeneration - At the start of each creature's Turn in a Round, they gain HP equal to the Base HP Regen; negated by Malachite (anti-heal Debuff), outside of combat the HP Regen is applied each second instead of every Turn (6 seconds) of combat, while in-combat they can only heal at the start of their Turn.
 	- Critical Strikes - A chance to increase your total damage by double the output. Effects like Healing, Buffs, and Debuffs do not benefit from Crits.
+	- Weapon Item Bonus - For each Item the Player has collected that's considered a Weapon, increase the Base Damage the user deals by 1/2/3/5 per item and stack based on the rarity of the Item itself.
+	- Hit DC - The number that determines
 - Conditions
 	- Burn - Creatures suffering the Burn Condition are set on fire for 2 Turns, causing creatures to take a Unique DOT that does not stack upon itself.
 	- Launched - Creatures affected by this Condition are lifted into the air 3m (10ft).
 	- Stunned - For the duration of the Condition, the creature is unable to act at all unless they are immune to the Condition, stopping all movement from the creature while also making them unable to Attack or Dodge.
 	- Malachite - The creature affected by this Debuff gains no benefits from Health Regen or HP Restoration effects.
+	- Invisible - This creature is not visible by sight, but can be physically felt if the creature were to move in contact with another, but does not reveal them upon contact. Creatures other than Monsters are able to try and aim an attack in a direction or spot on the battlefield where they believe an Invisible Creature might be to attack them, but Monsters do not try to attack something they cannot see, even if they can feel it. Invisible Creatures can still be hit by AOE/Hit-Scan projectiles if they're either in the way or within the AOE when it deals damage, and can give visual or audible indicators when injured with Skills, but aren't revealed when they take DOT.
 - Status Buffs/Debuffs
 	- Frenzy: Increases the affected creature's Dodge Bonus by +5 and +2 or a Dodge Bonus of +5 and +1 Offensive Action.
+# Campaign Style
+When making this system, I had 4 styles of play in mind:
+- Traditional Tabletop: In the style of a traditional Tabletop RPG with a story, there's plenty of avenue for encounters- simple or even creative, with a unique flare considering the ever-present threat of spawning monsters (Encounters are determined by the DM, with 'random encounters' being the equivalent to sudden spawns)
+- Roleplay-centric: In a more free-form encounter, movement and performance is dictated more by roleplay-style descriptions with damage being depicted with the system (Combat is usually searched for, rather than being chased after by Monsters, giving greater freedom for player-interactions and character building)
+- Roguelike: Played like the game, Encounters continue throughout the game gradually with waves of enemies that'll continuously, with 1-minute grace periods to find Monuments, Item Boxes, or Shrines of interest, with the main aim being trying to survive for as long as possible and becoming a powerhouse, or reach one of the many endings normally available in the game (ROR2 but if Tabletop, harder to keep track of, but plays more like a game than an experience)
+- Story-Writing Base: Essentially a collection of numbers and details to give both people and players a greater idea of how Monsters, items, and special encounters work in this version of the universe, or closely to the original source material (Not really used as a 1-to-1 comparison for combat or world-interactions, but can be a helpful base for creating ideas for the universe)
+
 # Difficulty "Setting"
 For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls and Dodge Rolls being rolled are made with one of the following Dice Systems with the following rules (Note: DC = Difficulty Class i.e. how difficult it is to meet or surpass; you can choose to combine multiple Dice Systems to improve Difficulty if you so wish to add more complexity):
 - General Difficulty Dice System for Attack Rolls (Consistent; might be too simple; either remain a single difficulty, or up to DM's discretion for creativeness)
@@ -193,13 +220,14 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Ignition Tank: Burn effects deal (300% + 300% per stack) more damage over time.
 		- Infusion: Killing an enemy increases your HP permanently by (1 + 1 per stack), up to a maximum of (100 + 100 per stack) HP.
 		- Item Scrap, Green: Does nothing. Prioritized when used with 3D Printers.
-		- Kjaro's Band: 
-		- Lepton Daisy: 
-		- Luminous Shot: 
-		- Noxious Thorn: 
-		- Old Guillotine: 
-		- Old War Stealthkit: 
-		- Prayer Beads: 
+		- Kjaro's Band: When the user lands an attack that deals 400% Base Damage above Base Damage without the Weapon Item Bonus, the user creates a 4.5m wide runic flame tornado; lasting 2 Rounds, dealing (300% + 300% per stack) Total Damage each Round before dissipating, it goes on a 10 Round Cooldown after it activates. It does not pull creatures into it outside of its range, but attempts to draw creatures into its centre, reducing Enemy Hit DC by -2.
+		- Leeching Seed: Dealing damage heals you for (1 + 1 per stack) HP.
+		- Lepton Daisy: During the Teleporter event, it releases a healing nova that affects a 15m diameter range around the Teleporter, healing all nearby allies for 50% of their Max HP; this occurs (1 + 1 per stack) times over the period of the event, happening once every 10 rounds after Teleporter Start.
+		- Luminous Shot: Activating your Secondary Skill stores up to (5 + 1 per stack) charges of this Item; every 3 charges you can consume with your Primary Skill to fire out Lightning that deals (175% + 50% per stack) Total Damage each. Having this item reduces your Secondary Skill's Cooldown by 20%.
+		- Noxious Thorn: Gain +10% chance to bleed an enemy. Upon killing an enemy, transfer 33% of every Debuff and Condition Stack to (1 + 1 per stack) enemy(ies) within (20m + 5m per stack.)
+		- Old Guillotine: Instantly kill Elite Monsters below (13% + 13% per stack) of their Max HP; limited to 7 stacks.
+		- Old War Stealthkit: Falling below 25% Max HP causes the user to gain +4 to their Dodge Bonus and Invisibility until the start of the user's next Turn, while putting this Item on Cooldown; the Dodge Bonus is immediately applied after the attack that deals damage first, with each attack afterwards requiring a harder DC to land a hit on the Player. This Item recharges every (30 seconds divided by 2 repeatedly per-stack (E.g. 30/2/2/etc.)).
+		- Prayer Beads: This item grows by gaining experience; each time the Player Levels Up
 		- Predatory Instincts: 
 		- Razorwire: 
 		- Red Whip: 
