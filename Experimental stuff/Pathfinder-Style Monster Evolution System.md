@@ -33,7 +33,7 @@ Phase 6, or a final evolution recorded by most documents of the species; a threa
 - Phase 6 (1-2 Levels)
 
 
-# Reference
+# Example References
 Spiders
 - Small Lesser Taratect (Initial Species, Tiny; +Dex, +Wis, -Str, -Cha)
 		- Lesser Taratect (Larger evolution, Small-sized; ++Str, +Dex, +Con)
