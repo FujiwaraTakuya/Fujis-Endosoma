@@ -17,6 +17,8 @@ In Phase 4, creatures/monsters will gain the ability to evolve either to a large
 In Phase 5, you'll usually find most of the late-evolution species to either be unable to evolve later due to an active deterrent preventing them from becoming any larger, or a lack of ability to evolve any further. Those within this stage are usually pretty large beasts for their species, and for the rare few, can evolve to something even more terrifying than before- a titan amongst their kin, and a terrifying beast to behold. 
 
 Phase 6, or a final evolution recorded by most documents of the species; a threat to towns or even entire cities, the power of a Phase 6 creature/monster should not be underestimated even for their small or huge size. For most, this is the pinnacle of power their species can achieve, but only few if any are able to learn of what lies beyond the 6th evolution of any species, if one were able to evolve beyond this fact.
+
+Phase 9, the creature has a reached an evolutionary point that may have been partly an intervention from an Admin of the System, or something achieved through their own efforts to allow them to visit the omnipresent being(s) and be gifted with the Blessing of being removed from the System. Those who're no longer within the System are reformed with a new vessel akin to the body from their old life, with slight changes to their features that would take on aspects of their reincarnation; while they can no longer use the System's abilities to perform Magic or benefit from the special abilities, they instead 
 ## Simplified Evolutionary Chart
 - Phase 1 - Small Lesser Creature/Monster (Birth of a creature)
 - Phase 2 - Small/Lesser Creature/Monster Split (Physical or Mechanical dominance)
@@ -25,6 +27,35 @@ Phase 6, or a final evolution recorded by most documents of the species; a threa
 - Phase 5 - Secondary Evolutionary Split (Evolution into the final stages of one's possible capabilities or something greater)
 - Phase 6+ - Unknown Territory (Evolving even further that what's known or recorded unbeknownst to those beyond within the mortal coil or those incapable to live long enough to speak or record such knowledge).
 - Phase 9 - Becoming a Demigod/Disconnect from the System (The peak of this System's Power, but a change in perspective; only those capable of reaching this Phase earn the right to attain an entirely knew power unlike anything they've used before, but at the cost of level-locking all of their old abilities and stat-increases, refund all TP Spent, and and returning their body to a humanoid state before their reincarnation but with additional features added to their old look. Essentially starting at Level 1 once more, a Phase 9 creature must re-earn their old abilities which have now become enhanced even further without the aid of the System empowering and limiting their abilities.)
+### Detailed Evolution chart
+- Small Lesser Creature/Monster (Initial Species, Tiny; +Dex, +Wis, -Str, -Cha)
+		- Lesser Creature/Monster (Larger evolution, Small-sized; ++Str, +Dex, +Con)
+			- Creature/Monster (Adult, Medium-Sized; ++Str, ++Con, +Dex)
+				- Greater Creature/Monster (Large-Sized; ++Str, ++Con, +Dex)
+					- Arch Creature/Monster (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+						- Queen/King Creature/Monster (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+				- Elemental/Magical Creature/Monster (Elemental/Magical, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+					- Magic Specialist name (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha)
+		- Small Creature/Monster (Remains Tiny; ++Dex, +Str, +Con)
+			- Creature/Monster (Adult, Medium-Sized; ++Str, ++Con, +Dex)
+				- Greater Creature/Monster (Large-Sized; ++Str, ++Con, +Dex)
+					- Arch Creature/Monster (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+						- Queen/King Creature/Monster (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+				- Elemental/Magical Creature/Monster (Elemental/Magical, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+					- Magic Specialist name (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
+			- Small Elemental/Magical Creature/Monster (Small-Sized, Elemental/Magical; ++Dex, ++Wis, +Str, +Con)
+				- Elemental/Magical Creature/Monster (Elemental/Magical, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+					- Magic Specialist name (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
+				- Special Variant 1 Creature/Monster (Gains higher mobility and Rot attacks, Small-Sized; ++++Dex, ++Int, +Str, +Con, +Wis)
+					- Special Variant 2 Creature/Monster (Bonus to Stealth, Medium-sized; ++++Dex, ++Int, +Str)
+						- Special Variant 3 Creature/Monster (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Int, ++Str, ++Con, ++Wis)
+							- Special Variant 4 Creature/Monster (Large-Sized, Spider with a human torso above head of spider- technically has 2 heads and extra set of organs; ++++Cha, ++Str, ++Dex, ++Con, ++Int, ++Wis)
+							- Special Variant 4 Creature/Monster's Offspring (Spawn of Arachne, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+						- Queen/King Creature/Monster (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+					- Greater Creature/Monster (Large-Sized; ++Str, ++Con, +Dex)
+						- Arch Creature/Monster (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+							- Queen/King Creature/Monster (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+					- Magic Specialist name (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
 ## Evolution Levels
 - Phase 1 (1-2 Levels)
 - Phase 2 (1-4 Levels)
