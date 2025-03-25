@@ -67,7 +67,55 @@ Phase 8, the creature has a reached an evolutionary point that may have been par
 - Phase 8 (Infinite Levels)
 
 # Example References
-Spiders
+Apes
+Bats
+Canine
+Catfish
+Catmera
+Centipedes
+Crocodiles
+Dragon, Lesser
+Dragon, Ancient
+Elephants
+Frogs
+Goats
+Hedgehog
+Hippos
+## Otters
+- Small Lesser Lutrinae (Initial Species, Tiny; +Dex, +Int, -Str, -Wis)
+	- Lesser Lutrinae (Larger evolution, Small-sized; ++Dex, +Con, +Int)
+		- Lutrinae (Adult, Medium-Sized; ++Dex, ++Con, +Wis)
+			- Greater Lutrinae (Large-Sized; ++Str, ++Con, +Dex)
+				- Arch Lutrinae (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen/King Lutrinae (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+				- Crushing Lutrinae (Gain Earth powers, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+					- Lutpersxwell  (Earth Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha)
+	- Small Taratect (Remains Tiny; ++Dex, +Str, +Con)
+		- Taratect (Adult, Medium-Sized; ++Str, ++Con, +Dex)
+			- Greater Taratect (Large-Sized; ++Str, ++Con, +Dex)					- 
+				- Arch Taratect (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen Taratect (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+				- Poison Taratect (Poisonous, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+					- Orthocadinaht (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
+		- Small Poison Taratect (Small-Sized, especially poisonous; ++Dex, ++Wis, +Str, +Con)
+			- Poison Taratect (Poisonous, Medium-Sized; ++Dex, ++Con, +Str, +Int, +Wis)
+				- Orthocadinaht (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
+			- Zoa Ele (Gains higher mobility and Rot attacks, Small-Sized; ++++Dex, ++Int, +Str, +Con, +Wis)
+				- Ede Saine (Bonus to Stealth, Medium-sized; ++++Dex, ++Int, +Str)
+					- Zana Harrowa (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Int, ++Str, ++Con, ++Wis)
+						- Arachne (Large-Sized, Spider with a human torso above head of spider- technically has 2 heads and extra set of organs; ++++Cha, ++Str, ++Dex, ++Con, ++Int, ++Wis)
+						- Horo Neia (Spawn of Arachne, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen Taratect (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+			- Greater Taratect (Large-Sized; ++Str, ++Con, +Dex)
+				- Arch Taratect (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen Taratect (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
+				- Orthocadinaht (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
+
+Salamanders
+Serpents
+Slimes
+Snakes
+## Spiders
 - Small Lesser Taratect (Initial Species, Tiny; +Dex, +Wis, -Str, -Cha)
 	- Lesser Taratect (Larger evolution, Small-sized; ++Str, +Dex, +Con)
 		- Taratect (Adult, Medium-Sized; ++Str, ++Con, +Dex)
@@ -96,16 +144,7 @@ Spiders
 				- Arch Taratect (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
 					- Queen Taratect (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
 				- Orthocadinaht (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
-Frogs
-Centipedes
-Bats
-Wasps
-Snakes
-Salamanders
-Lesser Dragons
-Apes
-Ancient Dragons
-Catfish
+
 Tapir
 - Small Lesser Tapir (Initial Species, Small; +Dex, +Con, -Str, -Int)
 	- Lesser Tapir (Larger evolution, Medium-sized; ++Con, +Dex, +Str)
@@ -136,5 +175,8 @@ Tapir
 					- Queen/King Tapir (Gargantuan+-Sized; +++++Cha, +++Str, +++Con, ++Int, ++Wis)
 				- Tapiriturge (Psychic & Dream Specialist, Large-Sized; ++++Int, ++++Wis, ++++Cha +Dex, +Str)
 
+Vespoids
+Wasps
+Whales
 # New Terminology
-Gargantuan+: Gargantuan-Sized + an additional 5ft
+Gargantuan+: Gargantuan-Sized + an additional 5ft horizontally, vertically, and reach
