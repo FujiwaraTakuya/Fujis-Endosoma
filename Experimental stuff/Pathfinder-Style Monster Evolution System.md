@@ -71,8 +71,37 @@ Apes
 Bats
 Canine
 Catfish
-Catmera
 Centipedes
+## Chimeras
+### Catmera (Mischievous Trickster of Size and Shape)
+- Small Lesser Catmera (Initial Species, Tiny; +Dex, +Cha, -Con, -Wis)
+	- Lesser Catmera (Larger evolution, Small-sized; ++Dex, +Str, +Cha)
+		- Catmera (Adult, Medium-Sized; ++Str, ++Dex, +Con, +Cha)
+			- Greater Catmera (Large-Sized; ++Dex, ++Int, +Con, +Cha)
+				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
+					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
+				- Entrancing Catmera (Gain Illusion-aura powers, Medium-Sized; ++Str, ++Cha, +Dex, +Con, +Int)
+					- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
+	- Small Taratect (Remains Tiny; ++Dex, +Str, +Con)
+		- Catmera (Adult, Medium-Sized; ++Str, ++Dex, +Con, +Cha)
+			- Greater Catmera (Large-Sized; ++Dex, ++Int, +Con, +Cha)
+				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
+					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
+				- Entrancing Catmera (Gain Illusion-aura powers, Medium-Sized; ++Str, ++Cha, +Dex, +Con, +Int)
+					- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
+		- Small Trancing Catmera (Gain Earth powers, Small-Sized; ++Dex, ++Wis, +Str, +Con)
+			- Entrancing Catmera (Gain Illusion-aura powers, Medium-Sized; ++Str, ++Cha, +Dex, +Con, +Int)
+				- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
+			- Mao Kit (Gains higher mobility and quasi-real illusions, Small-Sized; ++++Dex, ++Str, ++Con, ++Cha)
+				- Aou Mewsu (Bonus to Bluff, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
+					- Limu Tagible (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Cha, ++Str, ++Dex, ++Int
+						- Paronya (A mostly normal-looking feline, can manipulate their body between 3 sizes at will, but make up for it with their powerful illusions that now take place in reality, Small-Large-sized; ++++++Cha, +++Str, +++Dex, ++Int, +Con,  +Wis)
+						- Cini Saie (Spawn of Floatie, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen/King Lutrinae (Gargantuan-Sized; +++Dex, +++Con,  ++Str, ++Int, ++Wis, +Dex,)
+			- Greater Catmera (Large-Sized; ++Dex, ++Int, +Con, +Cha)
+				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
+					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
+				- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
 Crocodiles
 Dragon, Lesser
 Dragon, Ancient
@@ -82,6 +111,7 @@ Goats
 Hedgehog
 Hippos
 ## Otters
+### Lutrinae (Earth-Connected Otters)
 - Small Lesser Lutrinae (Initial Species, Tiny; +Dex, +Int, -Str, -Wis)
 	- Lesser Lutrinae (Larger evolution, Small-sized; ++Dex, +Con, +Int)
 		- Lutrinae (Adult, Medium-Sized; ++Dex, ++Con, +Wis)
@@ -116,6 +146,7 @@ Serpents
 Slimes
 Snakes
 ## Spiders
+### Taratects (Poisonous Spiders with magical connections)
 - Small Lesser Taratect (Initial Species, Tiny; +Dex, +Wis, -Str, -Cha)
 	- Lesser Taratect (Larger evolution, Small-sized; ++Str, +Dex, +Con)
 		- Taratect (Adult, Medium-Sized; ++Str, ++Con, +Dex)
@@ -145,7 +176,8 @@ Snakes
 					- Queen Taratect (Gargantuan-Sized; +++Str, +++Con, +++Int, ++Wis, +Dex,)
 				- Orthocadinaht (Magic Specialist, Large-Sized; +++++Int, ++Dex, +Str, +Wis, +Cha
 
-Tapir
+## Tapir
+### Tapir (Delvers of Minds and Dreams)
 - Small Lesser Tapir (Initial Species, Small; +Dex, +Con, -Str, -Int)
 	- Lesser Tapir (Larger evolution, Medium-sized; ++Con, +Dex, +Str)
 		- Tapir (Adult, Large-Sized; ++Str, ++Con, +Wis)
