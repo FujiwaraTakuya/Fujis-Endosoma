@@ -102,7 +102,35 @@ Centipedes
 				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
 					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
 				- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
-Crocodiles
+### Crocodiles
+- Small Lesser Crodylusis (Initial Species, Tiny; +Str, +Con, -Wis, -Cha)
+	- Lesser Crodylusis (Larger evolution, Small-sized; ++Str, +Con, +Int)
+		- Crodylusis (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Int)
+			- Greater Crodylusis (Large-Sized; ++Str, ++Int, +Dex, +Con)
+				- Arch Crodylusis (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen/King Crodylusis (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Wis, +Cha)
+				- Gale Crodylusis (Gain Wind Abilities, Huge-Sized; ++++Int, +++Str)
+					- Tornadile (Wind Specialist, Gargantuan-Sized; +++++Int, +++Dex, ++Con, +Str, +Wis)
+	- Small Crodylusis (Small-Sized; ++Dex, +Str, +Cha)
+		- Crodylusis (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Int)
+			- Greater Crodylusis (Large-Sized; ++Str, ++Int, +Dex, +Con)
+				- Arch Crodylusis (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen/King Crodylusis (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Wis, +Cha)
+				- Gale Crodylusis (Gain Wind Abilities, Huge-Sized; ++++Int, +++Str)
+					- Tornadile (Wind Specialist, Gargantuan-Sized; +++++Int, +++Dex, ++Con, +Str, +Wis)
+		- Small Gale Cordylusis (Gain Gale Abilities, Small-Sized; ++Dex, ++Int, +Str, +Con)
+			- Gale Crodylusis (Enhance Wind Abilities, Huge-Sized; ++++Int, +++Str)
+					- Tornadile (Wind Specialist, Gargantuan-Sized; +++++Int, +++Dex, ++Con, +Str, +Wis)
+			- Los Pew (Gains higher mobility and Enduring Beast Abilities, Small/Medium-Sized; ++++Dex, ++Str, ++Con, ++Int)
+				- Grn Rowls (Bonus to Intimidate, Medium/Large-sized; ++++Str, ++Dex, ++Int, +Con)
+					- Flos Stilstmate (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Large/Huge-sized; ++++Int, ++Str, ++Dex, ++Wis
+						- Belloslord (A Titan of a nearly un-aging form and resistance to harm, Belloslords live only to the rule of their own lives, and any threat or injury thrown their way gradually gives them growing resistance to that form of harm- although they can't stave of Conditions, they can become highly resistant to the near-point of becoming immune to danger pushed into their face, Medium/Large/Huge/Gargantuan-sized; ++++++Con, +++Str, +++Dex, ++Int, +Wis,  +Cha)
+						- Scal Mins (Spawn of Thornlanx, Tiny/Small-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen/King Crodylusis (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Wis, +Cha)
+			- Greater Crodylusis (Large-Sized; ++Str, ++Int, +Dex, +Con)
+				- Arch Crodylusis (Huge-Sized; ++Str, ++Con, ++Wis, +Dex, +Int)
+					- Queen/King Crodylusis (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Wis, +Cha)
+				- Tornadile (Wind Specialist, Gargantuan-Sized; +++++Int, +++Dex, ++Con, +Str, +Wis)
 Dragon, Lesser
 Dragon, Ancient
 Elephants
