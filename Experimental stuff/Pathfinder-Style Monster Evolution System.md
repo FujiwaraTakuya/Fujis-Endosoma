@@ -103,6 +103,7 @@ Centipedes
 					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
 				- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
 ### Crocodiles
+### 
 - Small Lesser Crodylusis (Initial Species, Tiny; +Str, +Con, -Wis, -Cha)
 	- Lesser Crodylusis (Larger evolution, Small-sized; ++Str, +Con, +Int)
 		- Crodylusis (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Int)
@@ -124,7 +125,7 @@ Centipedes
 			- Los Pew (Gains higher mobility and Enduring Beast Abilities, Small/Medium-Sized; ++++Dex, ++Str, ++Con, ++Int)
 				- Grn Rowls (Bonus to Intimidate, Medium/Large-sized; ++++Str, ++Dex, ++Int, +Con)
 					- Flos Stilstmate (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Large/Huge-sized; ++++Int, ++Str, ++Dex, ++Wis
-						- Belloslord (A Titan of a nearly un-aging form and resistance to harm, Belloslords live only to the rule of their own lives, and any threat or injury thrown their way gradually gives them growing resistance to that form of harm- although they can't stave of Conditions, they can become highly resistant to the near-point of becoming immune to danger pushed into their face, Medium/Large/Huge/Gargantuan-sized; ++++++Con, +++Str, +++Dex, ++Int, +Wis,  +Cha)
+						- Belloslord (A Titan of a nearly un-aging form and resistance to harm, Belloslords live only to the rule of their own lives, and any threat or injury thrown their way gradually gives them growing resistance to that form of harm- although they can't stave of Conditions, they can become highly resistant to the near-point of becoming immune to danger pushed into their face and future danger, Medium/Large/Huge/Gargantuan-sized; ++++++Con, +++Str, +++Dex, ++Int, +Wis,  +Cha)
 						- Scal Mins (Spawn of Thornlanx, Tiny/Small-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
 					- Queen/King Crodylusis (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Wis, +Cha)
 			- Greater Crodylusis (Large-Sized; ++Str, ++Int, +Dex, +Con)
@@ -136,7 +137,8 @@ Dragon, Ancient
 Elephants
 Frogs
 Goats
-### Hedgehog
+## Hedgehog
+###
 - Small Lesser Euliceinae (Initial Species, Tiny; +Dex, +Wis, -Str, -Con)
 	- Lesser Euliceinae (Larger evolution, Small-sized; ++Dex, +Str, +Con)
 		- Euliceinae (Adult, Medium-Sized; ++Dex, ++Wis, +Str, +Con)
@@ -199,7 +201,36 @@ Hippos
 
 Salamanders
 Serpents
-Slimes
+## Slimes
+###
+- Small Lesser Gooey (Initial Species, Tiny; +Dex, +Con, -Int, -Wis)
+	- Lesser Gooey (Larger evolution, Small-sized; ++Dex, +Con, +Cha)
+		- Gooey (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Cha)
+			- Greater Gooey (Large-Sized; ++Str, ++Con, +Dex, +Cha)
+				- Arch Gooey (Huge-Sized; ++Dex, ++Con, ++Cha, +Str, +Int)
+					- Queen/King Gooey (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Cha, +Wis)
+				- Acidic Gooey (Gain Acidic Abilities, Large-Sized; ++++Cha, +++Dex)
+					- Oozeychloric (Acidic Specialist, Huge-Sized; +++++Cha, +++Str, ++Dex, +Int, +Wis)
+	- Small Euliceinae (Remains Tiny; ++Dex, +Str, +Cha)
+		- Gooey (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Cha)
+			- Greater Gooey (Large-Sized; ++Str, ++Con, +Dex, +Cha)
+				- Arch Gooey (Huge-Sized; ++Dex, ++Con, ++Cha, +Str, +Int)
+					- Queen/King Gooey (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Cha, +Wis)
+				- Acidic Gooey (Gain Acidic Abilities, Large-Sized; ++++Cha, +++Dex)
+					- Oozeychloric (Acidic Specialist, Huge-Sized; +++++Cha, +++Str, ++Dex, +Int, +Wis)
+		- Small Acidic Gooey (Gain Acidic Abilities, Small-Sized; ++Dex, ++Wis, +Str, +Con)
+			- Acidic Gooey (Enhance Acidic Abilities, Large-Sized; ++++Cha, +++Dex)
+					- Oozeychloric (Acidic Specialist, Huge-Sized; +++++Cha, +++Str, ++Dex, +Int, +Wis)
+			- Nip Sqk (Gains higher mobility and Survivalist Abilities, Small-Sized; ++++Dex, ++Str, ++Con, ++Wis)
+				- Stg Loaks (Bonus to Survival, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
+					- Rols Priquli (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Wis, ++Str, ++Dex, ++Int
+						- Thornlanx (In situations of tension and stress, the Thornlanx becomes extremely adaptive to dangers and situations within the last 18 Seconds, reducing injuries and enhancing self-needs for short bursts of fortitude and ability to overcome danger in its way, Small-Large-sized; ++++++Wis, +++Str, +++Dex, ++Int, +Con,  +Cha)
+						- Qusu Fela (Spawn of Thornlanx, Tiny/Small-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen/King Gooey (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Cha, +Wis)
+			- Greater Gooey (Large-Sized; ++Str, ++Con, +Dex, +Cha)
+				- Arch Gooey (Huge-Sized; ++Dex, ++Con, ++Cha, +Str, +Int)
+					- Queen/King Gooey (Gargantuan-Sized; ++++Str, ++++Con,  ++Dex, ++Int, ++Cha, +Wis)
+				- Oozeychloric (Acidic Specialist, Huge-Sized; +++++Cha, +++Str, ++Dex, +Int, +Wis)
 Snakes
 ## Spiders
 ### Taratects (Poisonous Spiders with magical connections)
