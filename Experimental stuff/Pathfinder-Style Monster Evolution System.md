@@ -82,7 +82,7 @@ Centipedes
 					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
 				- Entrancing Catmera (Gain Illusion-aura powers, Medium-Sized; ++Str, ++Cha, +Dex, +Con, +Int)
 					- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
-	- Small Taratect (Remains Tiny; ++Dex, +Str, +Con)
+	- Small Catmera (Remains Tiny; ++Dex, +Str, +Cha)
 		- Catmera (Adult, Medium-Sized; ++Str, ++Dex, +Con, +Cha)
 			- Greater Catmera (Large-Sized; ++Dex, ++Int, +Con, +Cha)
 				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
@@ -96,7 +96,7 @@ Centipedes
 				- Aou Mewsu (Bonus to Bluff, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
 					- Limu Tagible (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Cha, ++Str, ++Dex, ++Int
 						- Paronya (A mostly normal-looking feline, can manipulate their body between 3 sizes at will, but make up for it with their powerful illusions that now take place in reality, Small-Large-sized; ++++++Cha, +++Str, +++Dex, ++Int, +Con,  +Wis)
-						- Cini Saie (Spawn of Floatie, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+						- Nyan Pews (Spawn of Catmera, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
 					- Queen/King Lutrinae (Gargantuan-Sized; +++Dex, +++Con,  ++Str, ++Int, ++Wis, +Dex,)
 			- Greater Catmera (Large-Sized; ++Dex, ++Int, +Con, +Cha)
 				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
@@ -108,7 +108,35 @@ Dragon, Ancient
 Elephants
 Frogs
 Goats
-Hedgehog
+### Hedgehog
+- Small Lesser Euliceinae (Initial Species, Tiny; +Dex, +Wis, -Str, -Con)
+	- Lesser Euliceinae (Larger evolution, Small-sized; ++Dex, +Str, +Con)
+		- Euliceinae (Adult, Medium-Sized; ++Dex, ++Wis, +Str, +Con)
+			- Greater Euliceinae (Large-Sized; ++Dex, ++Int, +Con, +Wis)
+				- Arch Euliceinae (Huge-Sized; ++Str, ++Dex, ++Wis, +Con, +Int)
+					- Queen/King Euliceinae (Gargantuan-Sized; ++++Dex, ++++Con,  ++Int, ++Wis, ++Cha, +Str)
+				- Attun Euliceinae (Gain Attunement Abilities, Medium-Sized; ++++Cha, +++Dex)
+					- Conduitae (Attunement Specialist, Large-Sized; +++++Cha, +++Dex, ++Str, +Int, +Wis)
+	- Small Euliceinae (Remains Tiny; ++Dex, +Str, +Cha)
+		- Euliceinae (Adult, Medium-Sized; ++Dex, ++Wis, +Str, +Con)
+			- Greater Euliceinae (Large-Sized; ++Dex, ++Int, +Con, +Wis)
+				- Arch Euliceinae (Huge-Sized; ++Str, ++Dex, ++Wis, +Con, +Int)
+					- Queen/King Euliceinae (Gargantuan-Sized; ++++Dex, ++++Con,  ++Int, ++Wis, ++Cha, +Str)
+				- Attun Euliceinae (Gain Attunement Abilities, Medium-Sized; ++++Cha, +++Dex)
+					- Conduitae (Attunement Specialist, Large-Sized; +++++Cha, +++Dex, ++Str, +Int, +Wis)
+		- Small Attun Euliceinae (Gain Attunement Abilities, Small-Sized; ++Dex, ++Wis, +Str, +Con)
+			- Attun Euliceinae (Enhance Attunement Abilities, Medium-Sized; ++++Cha, +++Dex)
+					- Conduitae (Attunement Specialist, Large-Sized; +++++Cha, +++Dex, ++Str, +Int, +Wis)
+			- Nip Sqk (Gains higher mobility and Survivalist Abilities, Small-Sized; ++++Dex, ++Str, ++Con, ++Cha)
+				- Stg Loaks (Bonus to Survival, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
+					- Rols Priquli (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Cha, ++Str, ++Dex, ++Int
+						- Thornlanx (In situations of tension and stress, the Thornlanx becomes extremely adaptive to dangers and situations within the last 18 Seconds, reducing injuries and enhancing self-needs for short bursts of fortitude and ability to overcome danger in its way, Small-Large-sized; ++++++Cha, +++Str, +++Dex, ++Int, +Con,  +Wis)
+						- Qusu Fela (Spawn of Thornlanx, Tiny/Small-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen/King Euliceinae (Gargantuan-Sized; ++++Dex, ++++Con,  ++Int, ++Wis, ++Cha, +Str)
+			- Greater Euliceinae (Large-Sized; ++Dex, ++Int, +Con, +Wis)
+				- Arch Euliceinae (Huge-Sized; ++Str, ++Dex, ++Wis, +Con, +Int)
+					- Queen/King Euliceinae (Gargantuan-Sized; ++++Dex, ++++Con,  ++Int, ++Wis, ++Cha, +Str)
+				- Conduitae (Attunement Specialist, Large-Sized; +++++Cha, +++Dex, ++Str, +Int, +Wis)
 Hippos
 ## Otters
 ### Lutrinae (Earth-Connected Otters)
@@ -130,7 +158,7 @@ Hippos
 		- Small Burrowing Lutrinae (Gain Earth powers, Small-Sized; ++Dex, ++Wis, +Str, +Con)
 			- Crushing Lutrinae (Enhance Earth powers, Medium-Sized; ++Str, ++Int, +Dex, +Con, +Wis)
 				- Lutpersxwell  (Earth Specialist, Large-Sized; +++++Int, +++Str, ++Dex, +Con, +Wis)
-			- Mol Fen (Gains higher mobility and , Small-Sized; ++++Dex, ++Int, ++Wis, ++Cha)
+			- Mol Fen (Gains higher mobility and material manipulation, Small-Sized; ++++Dex, ++Int, ++Wis, ++Cha)
 				- Idi Zumus (Bonus to Swim, Medium-sized; ++++Dex, ++Wis, ++Cha, +Str)
 					- Flud Sdrifts (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Int, ++Str, ++Dex, ++Wis)
 						- Floatie (A size-changing otter that can change size at will or conjure Earth, Mud, or Water Armour at will, Small-Gargantuan-sized; +++Dex, +++Int, +++Wis, +++Cha, ++Str,  ++Con)
