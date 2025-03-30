@@ -127,10 +127,10 @@ Goats
 		- Small Attun Euliceinae (Gain Attunement Abilities, Small-Sized; ++Dex, ++Wis, +Str, +Con)
 			- Attun Euliceinae (Enhance Attunement Abilities, Medium-Sized; ++++Cha, +++Dex)
 					- Conduitae (Attunement Specialist, Large-Sized; +++++Cha, +++Dex, ++Str, +Int, +Wis)
-			- Nip Sqk (Gains higher mobility and Survivalist Abilities, Small-Sized; ++++Dex, ++Str, ++Con, ++Cha)
+			- Nip Sqk (Gains higher mobility and Survivalist Abilities, Small-Sized; ++++Dex, ++Str, ++Con, ++Wis)
 				- Stg Loaks (Bonus to Survival, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
-					- Rols Priquli (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Cha, ++Str, ++Dex, ++Int
-						- Thornlanx (In situations of tension and stress, the Thornlanx becomes extremely adaptive to dangers and situations within the last 18 Seconds, reducing injuries and enhancing self-needs for short bursts of fortitude and ability to overcome danger in its way, Small-Large-sized; ++++++Cha, +++Str, +++Dex, ++Int, +Con,  +Wis)
+					- Rols Priquli (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Wis, ++Str, ++Dex, ++Int
+						- Thornlanx (In situations of tension and stress, the Thornlanx becomes extremely adaptive to dangers and situations within the last 18 Seconds, reducing injuries and enhancing self-needs for short bursts of fortitude and ability to overcome danger in its way, Small-Large-sized; ++++++Wis, +++Str, +++Dex, ++Int, +Con,  +Cha)
 						- Qusu Fela (Spawn of Thornlanx, Tiny/Small-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
 					- Queen/King Euliceinae (Gargantuan-Sized; ++++Dex, ++++Con,  ++Int, ++Wis, ++Cha, +Str)
 			- Greater Euliceinae (Large-Sized; ++Dex, ++Int, +Con, +Wis)
