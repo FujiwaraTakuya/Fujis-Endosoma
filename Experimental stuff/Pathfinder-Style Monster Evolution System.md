@@ -102,8 +102,8 @@ Centipedes
 				- Arch Catmera (Huge-Sized; ++Str, ++Int, ++Cha, +Dex, +Con)
 					- Queen/King Catmera (Gargantuan-Sized; ++++Str, ++++Dex,  ++Int, ++Wis, ++Cha, +Con)
 				- Shiftalist  (Illusion Specialist, Large-Sized; +++++Cha, +++Str, ++Dex, +Con, +Int)
-### Crocodiles
-### 
+## Crocodiles
+### Crodylusis
 - Small Lesser Crodylusis (Initial Species, Tiny; +Str, +Con, -Wis, -Cha)
 	- Lesser Crodylusis (Larger evolution, Small-sized; ++Str, +Con, +Int)
 		- Crodylusis (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Int)
@@ -138,7 +138,7 @@ Elephants
 Frogs
 Goats
 ## Hedgehog
-###
+###Euliceinae
 - Small Lesser Euliceinae (Initial Species, Tiny; +Dex, +Wis, -Str, -Con)
 	- Lesser Euliceinae (Larger evolution, Small-sized; ++Dex, +Str, +Con)
 		- Euliceinae (Adult, Medium-Sized; ++Dex, ++Wis, +Str, +Con)
@@ -200,9 +200,42 @@ Hippos
 				- Lutpersxwell  (Earth Specialist, Large-Sized; +++++Int, +++Str, ++Dex, +Con, +Wis)
 
 Salamanders
-Serpents
+## Snakes
+### Serpentes
+- Small Lesser Serpentes (Initial Species, Tiny; +Str, +Dex, -Con, -Cha)
+	- Lesser Serpentes (Larger evolution, Small-sized; ++Dex, +Str, +Con)
+		- Serpentes (Adult, Medium-Sized; ++Str, ++Dex, +Con, +Int)
+			- Greater Serpentes (Large-Sized; ++Str, ++Dex, +Con, +Int)
+				- Arch Serpentes (Huge-Sized; ++Str, ++Dex, ++Con, +Int, +Wis)
+					- Queen/King Serpentes (Gargantuan-Sized; ++++Str, ++++Dex,  ++Con, ++Int, ++Wis, +Cha)
+				- Hypnotic Serpentes (Gain Hypnosis powers, Medium-Sized; +++++Cha, ++Dex, +Con, +Int)
+					- Snektempris  (Mind Control Specialist, Large-Sized; +++++++Cha, +++Str, ++Dex, ++Int)
+	- Small Catmera (Remains Tiny; ++Dex, +Str, +Cha)
+		- Serpentes (Adult, Medium-Sized; ++Str, ++Dex, +Con, +Int)
+			- Greater Serpentes (Large-Sized; ++Str, ++Dex, +Con, +Int)
+				- Arch Serpentes (Huge-Sized; ++Str, ++Dex, ++Con, +Int, +Wis)
+					- Queen/King Serpentes (Gargantuan-Sized; ++++Str, ++++Dex,  ++Con, ++Int, ++Wis, +Cha)
+				- Hypnotic Serpentes (Gain Hypnosis powers, Medium-Sized; +++++Cha, ++Dex, +Con, +Int)
+					- Snektempris  (Mind Control Specialist, Large-Sized; +++++++Cha, +++Str, ++Dex, ++Int)
+		- Small Hypnotic Serpentes (Gain Hypnosis powers, Small-Sized; ++Dex, ++Int, +Str, +Con)
+			- Hypnotic Serpentes (Gain Hypnosis powers, Medium-Sized; +++++Cha, ++Dex, +Con, +Int)
+				- Snektempris  (Mind Control Specialist, Large-Sized; +++++++Cha, +++Str, ++Dex, ++Int)
+			- Liw Num (Gains higher mobility and Diplomacy-real illusions, Small-Sized; ++++Dex, ++Str, ++Con, ++Cha)
+				- Dan Nodle (Bonus to Bluff, Medium-sized; ++++Dex, ++Int, ++Cha, +Str)
+					- Mindo Meltas (Gains 'Immortality Skill (Can't be killed unless Soul is destroyed), Medium-sized; ++++Cha, ++Str, ++Dex, ++Int)
+						- Paronya (A mostly normal-looking feline, can manipulate their body between 3 sizes at will, but make up for it with their powerful illusions that now take place in reality, Small-Large-sized; ++++++Cha, +++Str, +++Dex, ++Int, +Con,  +Wis)
+						- Nyan Pews (Spawn of Catmera, Small/Medium-Sized; ++Str, ++Dex, ++Con, ++Int, ++Wis, ++Cha)
+					- Queen/King Serpentes (Gargantuan-Sized; ++++Str, ++++Dex,  ++Con, ++Int, ++Wis, +Cha)
+			- Greater Serpentes (Large-Sized; ++Str, ++Dex, +Con, +Int)
+				- Arch Serpentes (Huge-Sized; ++Str, ++Dex, ++Con, +Int, +Wis)
+					- Queen/King Serpentes (Gargantuan-Sized; ++++Str, ++++Dex,  ++Con, ++Int, ++Wis, +Cha)
+				- Snektempris  (Mind Control Specialist, Large-Sized; +++++++Cha, +++Str, ++Dex, ++Int)
+### Naja
+
+### Python
+
 ## Slimes
-###
+### Gooey
 - Small Lesser Gooey (Initial Species, Tiny; +Dex, +Con, -Int, -Wis)
 	- Lesser Gooey (Larger evolution, Small-sized; ++Dex, +Con, +Cha)
 		- Gooey (Adult, Medium-Sized; ++Str, ++Con, +Dex, +Cha)
