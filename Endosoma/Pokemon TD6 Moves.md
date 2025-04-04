@@ -15,9 +15,9 @@ Most moves are performed as a Standard Test unless specified otherwise.
 
 - Quiver Dance - Boosts the user’s Magic Damage and Defence by +1, and increases Initiative by +1.
 
-- Silk Trap - The user spins a silken trap around itself, protecting itself from damage while lowering the Movement Speed of all attackers that touch the trap by -5ft.
-
 - Rage Powder - Cover a 15x15ft area in an irritating powder. All targets affected by this Move can only attack the user for 5 turns.
+
+- Silk Trap - The user spins a silken trap around itself, protecting itself from damage while lowering the Movement Speed of all attackers that touch the trap by -5ft.
 
 - Spider Web - Cover a 10x10 area within 20ft in a thin, gooey silk. Anybody who enters loses -5ft of Movement every time they move through or are hit by the Move, and lose -1 Initiative with every hit but not movement through the Move. 
 
