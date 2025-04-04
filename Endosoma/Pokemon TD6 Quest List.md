@@ -256,16 +256,6 @@ With that, Namona will help the kid with their battle-technique in the future, a
 
 #### Paldea:
 
-## Main Story Beats (Optional Quests)
-
-### :
-### :
-### :
-### :
-### :
-### :
-### :
-### :
 ## Main Story Options
 ### Kanto: Project Mew Tryouts
 A group of publicly licensed Pokemon researchers and explorers are hoping to expand their current organisation (of 6 (3 adult, 3 teens)) to other regions, but need highly skilled researchers and Pokemon Trainers to man the station and find new hire-ees to make a new base and conduct research for between 1-3 years in one of the new locations, eventually performing the same recruitment with new recruits to either take over the research and allow the 2nd team to move to another continent to continue a wider range of research, or vice versa where the 3rd team establishes a new base elsewhere and the 2nd team continues their research where they are.
@@ -319,7 +309,11 @@ The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers
 ### Galar: Gigantimax Research Studies
 The Players have been hired to roam around using a specially-crafted device to detect readings of Dynamax energy and predict the oncoming enlargement of wild Pokemon in the Galarian wilds; they want the Players to try and record as many of these readings as possible before returning to them to possibly use that research to create a reader that can determine the differences between Dynamax and Gigantimax and thus be able to discover other Pokemon with the potential to Gigantimax unlike others before and make a brand new discovery.
 ### Galar: Legendz in the Making
-Strange Pokemon eggs have appeared out of nowhere, and no-one appears to be able to hatch them. Despite detecting life in a Pokemon Centre, they show no sign of hatching despite the eggs.
+Strange Pokemon eggs have appeared out of nowhere, and no-one appears to be able to hatch them. Despite detecting life in a Pokemon Centre, they show no sign of hatching despite the eggs. Some have already hatched, while others remain unhatched to this day, at least until Galar's Medievalist Events all across Galar, where each region of Galar spends a week teaching the young and old of Galar's old medieval practices during the ancient ages of knights and Pokemon. 
+
+Their combat would've been similar to that of the ancient Ransei region, but documents of where and what the region was doing until then is a mystery to both Galar and the rest of the world as they no longer remember what their connections and history with each other were like, along with the location of the unique landmark. Even when Pokemon did aid in most of the combat, the knights themselves would put their honour on the lines and fight side by side their partners whom they formed a kinship with, and do battle until the other side would be stricken down, leading to a faithful re-enactment of the old events using a special polymer material that would be blunt to the edge, but still weighty enough to be used as a combative prop.
+
+Unbeknownst to the Players, they'll be in contact with a strange unknown encounter with each egg and their chosen weapon.
 ### Galar: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Galar. Amongst the known and unknown, who knows where their journey will lead them?
 
@@ -330,11 +324,31 @@ As Students of Paldea's Orange and Indigo Academy, Players are given a Year-long
 ### Paldea: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Paldea. Amongst the known and unknown, who knows where their journey will lead them?
 
+## Main Story Beats (Optional Quests)
 
-# Pokemon Mystery Dungeons
+### Kanto: 
+### Johto: 
+### Hoenn: 
+### Sinnoh: 
+### Unova: 
+### Kalos: Zygarde 
+### Alola: 
+### Galar: 
+### Paldea: 
 
 
-# Pokemon Rangers
+## Side-Quests
 
 
-# Side-Quests
+## Pokemon Mystery Dungeons
+
+
+## Pokemon Mystery Dungeons Side Quests
+
+
+## Pokemon Rangers
+
+
+## Pokemon Rangers Side Quests
+
+
