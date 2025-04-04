@@ -326,16 +326,28 @@ The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers
 
 ## Main Story Beats (Optional Quests)
 
-### Kanto: 
-### Johto: 
-### Hoenn: 
-### Sinnoh: 
+### Kanto: Myth Hunters, Safari Zone, Game Corner, and Pokeathlon 
+There have been numerous myths that have spawned all across Kanto ever since its inception as a region. Players, if they speak to locals of each town and city, can learn of unique Myths and Legends to look into, and either choose to confirm or deny the existence of these ancient, still-shared rumours to either shed-light on them, or keep the mystery as yet another Myth.
+Safari Zones appear to have also been made in greater numbers, leading to the conservation and care for rare or injured Pokemon, while also making even more grand safe-havens for Pokemon to remain safe from Poachers and the like.
+It seems that the Game Corner Veilstone has grown radically more into its encouragement of gambling, leading to a larger building with 4 floors filled with arcade and gambling material; the ground floor being available to children, teens, and adults alike, while the 1st floor is more traditional casual gambling like slots and roulette, and the 2nd floor residing for actual gamblers of Poke-Dollars. The 4th floor appears to be for staff and storage of materials used to run the building, but it's hinted by rumours and the like that the 4th floor is a secret gambling space for immensely rare bids and the like, including overly wealthy amounts of money should one dare to take the risk.
+While having no rewards other than Medals to dignify a Pokemon's ability, it also brings fame to the Player and their Pokemon as Athletes to compete in the Pokeathlon; with the new addition of the Para-Pokeathlon, even more participants have been able to take part and enjoy the theatrics and competitiveness of Pokemon Athletes.
+### Johto: Farming in the Pokemon World
+The wide expanses of Johto with its fertile land has lead to a growth of its people developing plants in their homes and businesses using their own grown produce for people and Pokemon. With the growing demand of berry seeds, saplings, equipment, and tools, scientists have managed to develop a nutrient powder that greatly aids in plant development and nutritional supplements, but in exchange can lead to shorter shelf lives of the produce despite it being nutritionally similar. Nothing happens to humans and Pokemon who consume it, but Plant Pokemon- not Grass Types- who can absorb nutrients with their roots also appear to be affected by this nutrient powder by enhancing Grass-Type Moves and improving experience gain, in exchange for suffering exhaustion after each battle. The effects of Exhaustion leave the Pokemon after ample rest, especially the nutrient powder after a day of processing.
+### Hoenn: Stage of True Beauty and Dual Battles
+The origin Region of Pokemon Contests, as well as the Stadium Format from Orre for battles, Hoenn has a much stricter ruleset and judging cast for its Pageants whilst having a larger payout and reward, while Stadium Battles devolve down to 2v2 Pokemon Battles with either a selection of 3 Pokemon from their Roster per-battle or a full 6 roster that go in rotation.
+### Sinnoh: Mining or Pageantry
+A hobby openly encouraged by the hard workers and entertainers of Sinnoh, people can be given the tools to explore around designated areas and spots legal under Government Law, or perform live on stage for hundreds of people to see with a spectacular performance to stun and wow crowds of men, women, children, and all of the above with beautiful flourishes. Both can be used to earn monetary value, but there can be more to gain if one were to perform past the basics.
 ### Unova: 
-### Kalos: Zygarde 
-### Alola: 
-### Galar: 
-### Paldea: 
-
+### Kalos: Zygarde's rediscovery
+Players discover a Zygarde's Core hidden away within a tree, alongside a sleeping Zygarde Cell; given the opportunity, they may keep it around as their partner or as an ally whom they carry around and protect. 
+### Alola: Assisting the Island Kahunas
+The people of each island will face some kind of roadblock in their way that requires the aid of an Island Kahuna to protect or solve issues they face, and while each Island Kahuna are (usually) dauntless in facing these issues, the amount in recent years have become a bit taxing to handle upon their own, requiring them to ask for aid of others that have passed the Grand Trials of each island for their assistance with some of these problems. 
+### Galar: The Backpacker problem
+Recently, a ton of new Trainers have been irresponsible with their exploration and camping, and it's being asked that those in the area of Galar to help clean up Galar of trash, leftover materials, and any broken items that don't mix with nature to help conserve the environments while preserving recyclable materials. Those who perform well can get rewarded justly for their efforts.
+### Paldea: The Team Star and Mystic Herb Challenges
+Aside from the Gym Battles that Students of Orange and Violet Academy can take part in, there are also Star Battles and the Mystic Herb Challenge.
+Team Star battles help train each Trainer for their Gym Battles by covering types not used by the current Gym Leaders and introducing Crew Battles; after being tested with an opening battle between one of the grunts of Team Star, Players on their own must choose 3 Pokemon in their party to participate in Crew battles where they wander around trying to beat a set-amount of Pokemon before the time-limit is reached, all while taking damage all the while as they work through waves of Pokemon and Grunts- to offset the damage, Players can heal their Pokemon up at Vending Machines that dispense free drinks to heal their Pokemon but only during the Crew Battles. If Players are in a Party, they can only work in groups of 3 with 1 Mon selected amongst all 3 Trainers. After the Crew Battles, the battle will end with a confrontation with each Team Star Leader at each area, leading to effectively a psuedo-Gym Battle.
+The hunt for the Herba Mystica can lead Trainers on a chase all across Paldea for a unique and special herb that has different flavours, qualities, and properties to each that can provide health-benefits to those who eat them, along side being also very delicious to consume. However, they're protected by powerful Titan Pokemon who've consumed an overwhelming amount of these Herbs, and have become larger than normal, leading to an overwhelming increase in their power- even more so after consuming a herb as a power-up.
 
 ## Side-Quests
 
