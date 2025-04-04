@@ -337,7 +337,8 @@ The wide expanses of Johto with its fertile land has lead to a growth of its peo
 The origin Region of Pokemon Contests, as well as the Stadium Format from Orre for battles, Hoenn has a much stricter ruleset and judging cast for its Pageants whilst having a larger payout and reward, while Stadium Battles devolve down to 2v2 Pokemon Battles with either a selection of 3 Pokemon from their Roster per-battle or a full 6 roster that go in rotation.
 ### Sinnoh: Mining or Pageantry
 A hobby openly encouraged by the hard workers and entertainers of Sinnoh, people can be given the tools to explore around designated areas and spots legal under Government Law, or perform live on stage for hundreds of people to see with a spectacular performance to stun and wow crowds of men, women, children, and all of the above with beautiful flourishes. Both can be used to earn monetary value, but there can be more to gain if one were to perform past the basics.
-### Unova: 
+### Unova: Movies and Showbiz
+With the growing entertainment districts in Unova, and the encouragement and flourishes of flashy artistry amongst businesses, public performers like Musicians, Actors, Artists, and everywhere in-between have begun to congregate and show their unique skills off and hope they can seal a contract within the entertainment industry. As a paid service, or a free introduction service, Trainers can attempt to make their own or participate in currently producing movies as temp. hires that allow them to add it to their portfolio when they make it into the industry.
 ### Kalos: Zygarde's rediscovery
 Players discover a Zygarde's Core hidden away within a tree, alongside a sleeping Zygarde Cell; given the opportunity, they may keep it around as their partner or as an ally whom they carry around and protect. 
 ### Alola: Assisting the Island Kahunas
