@@ -82,6 +82,7 @@ At the booming Castelia City, several events are being affected from theft of ke
 - A tree sapling from a Flower Show and promotion for taking care of the environment.
 Player investigations should lead them to discovering 3 suspects at each crime- a mixture of Pokemon and Human suspects, but the answers to all 3 are Mienfoo, Zorua, and a Petilil. It seems like this happens quite a bit amongst the related groups, and usually they're bribed to giving their stuff back after finding and offering them a bunch of berries, which the Party's now tasked with handling. The groups don't know where they live and perform their operations, so they leave it up to the Players to figure it out.
 Players eventually find the thieves in an abandoned alleyway secluded in a corner with a single withering tree surrounded by a bunch of boxes and thrown away items; the Pokemon appear to be living there, playing together, and also taking care of the tree to the best of their abilities until the Petilil arrives dragging the sapling over and they try to plant the new sapling into a space by the tree. Apparently, the Zorua was cosplaying as a Hero like the cosplayer, whilst the Mienshao was trying to dress up like a warrior with the scarf that was too big to fit them.
+
 Players can do some of the following:
 - Try to take the items back by force, causing a fight and a painful encounter between groups.
 - Try to convince the trio to hand the objects over with the bribe, which won't go entirely well due to wanting to keep the sapling, but they will hand over a third of the berries back as a result.
@@ -94,6 +95,30 @@ Any of the following situations will lead to the trio of Pokemon either going to
 	Encounter 3:
 	Reward: 5 EXP
 	Encounter 4: (Optional; if players violently challenge the Pokemon for items back: 7 EXP) / (If players deal with encounter peacefully: 15 EXP)
+#### Tutorial: Kalos: A Historic Celebratory Reminder
+Players have made their way over to Lumiose City- the heart of the Kalos region, amidst a yearly tradition: A Historic-filled event explaining the past of Kalos and it's great war, how it was, and how it left the country before its eventual recovery into the beautiful scenic sites it is now. They also host a student performance, food stands, tasting tents, and examples of old Kalos toys and machinery as a way of preserving the old with the new, and hopefully preventing another future war if possible. Their belongings have already been moved by Machops from their buss, and taken to their rooms at a Hotel they'll be staying at, so they have a bunch of free time to explore around before they need to head back and get acquainted with their rooms.
+
+During the event, they'll take notice of performers on stilts walking around with a historic garb attempting to mimic the visage of The Old King of Kalos, with one of them, while tall, seem strangely standing-out amongst all of them all; wearing old and battered clothes from several decades ago- specifically a brown trench coat, grey beanie, brown tailcoat, black shirt, green bowtie, brown streaked trousers, and black and brown oxford shoes, walking through the crowds with a much different stride in their step. It seemed much more natural than the performers upon their lanky stilts, with each step sounding much fuller than every other as they make their way over to an archway, bending down underneath it to walk down to a much less unpopulated street followed by a Floette with a strange tri-pointed flower.
+
+Ignoring the man, there'll be obstacle courses, Pokemon Battles, mini-games, Questionaires, and plenty of food vendors, but players who've noticed the man will periodically be given another glimpse of the same man roaming around the city with the Floette, seeming to be watching over everyone as he roamed about, giving players more than enough opportunities to interact with them should they choose to.
+
+Upon speaking with the man, he'll at first appear with an intimidating stature, before speaking with a calm demeanour despite their looks; he'll claim he's just a simple old man from an older generation, with any conversations mostly leading to dead ends, answering any questions thrown his way before he asks if he can leave. He'll then walk away quietly amongst the crowds, eventually disappearing from sight as he walks away from the players.
+
+As the events die down, and less people populate the area, the events taking place seem to take a turn for anew as an orchestra begins to perform upon the big stage, accompanied by dressed performers re-enacting the old war and the climax of it with fireworks and a lightshow. If Players are able to notice, the old man is there, with a saddened expression upon his face and being comforted by his Floette. Suddenly, a fight breaks out amidst some drunken patrons arguing over the state of the war, who could've won the battles single-handedly, and what the best flavour of pokepuff flavour that goes with Lumiose Galettes and Berry Wine; the fight causing some serious damage in the area as the local police are having a bit of trouble reaching en-route. Any trainers are being asked to help quell the fight, to which the players are encouraged to help out with things.
+
+If Players beat the battle without trouble, Players who notice will see the old man reaching out to grab one of his Pokeballs in uncertainty before the battle ends, before feeling satisfied that he isn't needed. If Players struggle with the fight, the old man will call upon his Torkoal to use Stone Edge upon all of the enemy pokemon, dealing damage to them whilst lowering their initiative below the Players before retreating discretely from the battle.
+
+When Players return back to the Hotel for the night, they'll discover the one running the entire building is the old man themself as he hands over the keys to their rooms and their lockers which he stuffed their belongings into. He'll wish everyone a much calmer day tomorrow and hope that they enjoy everything that Lumiose City has to offer, while hoping that everyone learnt a thing or two about Lumiose City's history.
+	Encounter 1 (Optional): 1 Clauncher, 1 Ferroseed, 1 Snubbull
+	Reward: 3 EXP
+	Encounter 2 (Less Optional): 1 Stunky, 1 Shuckle, 1 Gothorita
+	Reward: 4 EXP
+	Encounter 3 (Less Optional): 1 Espeon, 1 Leafeon, 1 Umbreon
+	Reward: 6 EXP
+	Encounter 4 (Less Optional): 1 Liepard, 1 Lickilicky, 1 Florges
+	Reward: 7 EXP
+	Encounter 5: 1 Talon Flame, 1 Roserade, 1 Shedinja, 1 Smeargle, 1 Swanna, 1 Grumpig
+	Reward: 10 EXP
 #### Tutorial: Alola: A very Alolan Afternoon
 Players are going on a lucky trip to Alola's Hau'oli City and Iki Town on Melemele Island; experiencing the open and accepting environment whilst wild Pokemon live around and coexist with humanity.
 
@@ -103,11 +128,11 @@ Following the Trainer's steps, they'll see a trio of Team Skull grunts intimidat
 
 Players are encouraged to duel the Trio 1v1, and after beating each one, they'll get frustrated immaturely, heal up their Pokemon, and start free-battling the group without giving them a normal opportunity to heal. If Players struggle greatly with the battle, Tapu Koko will speed past the group to hand all the Players a Revive before disappearing back into the trees, watching intently for the outcome. If Players beat the grunts without a feint, the Grunts run off, Tapu Koko reveals themselves, hands everyone an Oran Berry, before flying off like nothing happened.
 	Encounter 1: 1 Zubat
-	Reward: 5
+	Reward: 5 EXP
 	Encounter 2: 1 Garbodor
-	Reward: 5
+	Reward: 5 EXP
 	Encounter 3: 1 Salazzle
-	Reward: 5
+	Reward: 5 EXP
 	Encounter 4: 
 	Reward: (No Downs: 15 EXP) / (+1 Downs: 10 EXP) 
 #### Tutorial: Galar: Phantasmal Pursuit
@@ -241,49 +266,70 @@ With that, Namona will help the kid with their battle-technique in the future, a
 ### :
 ### :
 ### :
-## Long Story Options
+## Main Story Options
 ### Kanto: Project Mew Tryouts
 A group of publicly licensed Pokemon researchers and explorers are hoping to expand their current organisation (of 6 (3 adult, 3 teens)) to other regions, but need highly skilled researchers and Pokemon Trainers to man the station and find new hire-ees to make a new base and conduct research for between 1-3 years in one of the new locations, eventually performing the same recruitment with new recruits to either take over the research and allow the 2nd team to move to another continent to continue a wider range of research, or vice versa where the 3rd team establishes a new base elsewhere and the 2nd team continues their research where they are.
 ### Kanto: The Counter-Rocket Task Force
 Despite the lack of rampant thievery and muggings as of recent years the Evil Organisation, Team Rocket, have still made appearances around the world and have caused more and more commotions that lead to the attempted or successful attempts made to steal others' Pokemon. With most Gym Leaders and high-ranking Trainers lacking the availability and time to battle them at a moment's notice, Government Officials have deemed it necessary by this point to engage this once public menace more seriously as they appear to become bolder and bolder by the day, going as far as to even illegally attempt the capture of Legendary Pokemon with advanced poaching equipment. As such, the C.R.T.F was formed by individuals hand-picked from a line of Officers, Trainers, and elected Individuals to participate as a form of Poke-FBI that'll need to be trained out on the field before they can take on the organisation and any larger crimes, but sometimes they won't be given the liberty of time.
 ### Kanto: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Kanto. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Johto: Through the skies and seas
 A strange occurrence of multiple rainbows and resonant howls from the seas have been seen and heard all across Johto, leading some to the believe that something is wrong with Ho-Oh and Lugia, and that they require aid, or some other life-threatening event may be occurring and these voices and sightings are a warning to human and Pokemon futures, or that they had occurred the anger and wrath of these legendary Pokemon somehow and someone needs to pay the price- or somehow all three.
-
+### Johto: The JSS V.S. the Invasion of Evil Organizations
+Johto's been facing strange occurrences with new businesses or gangs attempting to move into the country, setting up bases of operation and leading to the Johto Workforce becoming overtaxed dealing with underlings causing problems everywhere. As such, a new Secret Service branch was being developed by the Government to tackle the Major Attacks being inflicted by each of the Organizations and put a stop to any developments and progressions to their influence.
 ### Johto: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Johto. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Hoenn: Total Life Enslavement
 A new evil Organisation, Team Geigas, is attempting to purely take over control of all life across the world purely for the selfish intentions of one- going above and beyond to force their territory on others and attempt total enslavement of people and Pokemon alike, attempting a world-wide dictatorship that the Players must stop.
-
+### Hoenn: The Invasion of Mystery Dungeons
+Whatever work Team Geigas has put into fruition, their power has caused a strange distortions in the world that have lead to the development of realm-warping openings in the land, air, and sea which Scientists have labelled them as Mystery Dungeons. Their warped sense of room-building, and strange environments and traps which litter the entire room, leave most who enter disorientated, injured, starved, or some combination of the 3, while also losing certain personal items in the process upon their defeat. Is there any way to deal with these dungeons permanently? Research is still being conducted at this time.
 ### Hoenn: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Hoenn. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Sinnoh: Reality Distortion
 It seems that the powers of Dialga, Palkia, and Giratina are beginning to affect the multiverses around the areas of Sinnoh as they cause unstoppable rifts to open up at specific yet random-looking locations and altering the world as we all know it; certain Pokemon have their typings changed, some gain new and lose old typings, some outright just change their colour for their normal or shiny forms to unknown degrees. What their quarrels are, are uncertain, but one thing is clear: Nobody knows if reality is safe or not with what's happening to all of reality.
-
+### Sinnoh: Sinnoh Vs. Hisui: A clash of the ages
+The recent struggles between Dialga, Palkia, and Giratina have lead to the rediscoveries of ancient pokemon that should've long-since been fossilized and left to myths of the past; ancient pokemon and their evolutions either being revived by the distortions of space, time, and antimatter, being brought forward through time, or from another dimension. With how distorted reality has already been left, these ancient Pokemon appearing to be staying regardless of the trio's interventions.
 ### Sinnoh: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Sinnoh. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Unova: Hybrids and Fusions
 A recent exploration in both legal and illegal research has lead to the man-made creations of new hybrid Pokemon (Pokemon with mixed traits between 2 Pokemon of different genes), and the publicised presentation of Poke-Fusion devices (An item that can allow 2 or more Pokemon to fuse together to become one being permanently or until a reversal device is used to split up their bodies apart once more). With this new exploration in technology, and bio-engineering that's now been set loose in the region, the wilds are possibly even more dangerous than before as experimented fusion and hybrid Pokemon are out on the loose, capable of causing more havoc than others before them.
-
+### Unova: Ghetis' Revival
+Hearing of the story of Bill from Kanto using his devices and turning himself into a Pokemon, but later un-fusing to turn himself back, the Shadow Triad steal his equipment blueprints and try to kidnap N in order to fuse him and the mind-broken Ghetis in hopes it'll revive the mentally-crushed man to continue his work- but it's then revealed after the process that rather than fusing the two captured entities together, they ended up swapping bodies- and it turns out that the N they'd captured was actually N's Zoroark. Because of Ghetis' intelligence, he's capable of speaking as a human in a Zoroark's body, whilst his Zoroark in Ghetis' body starts off unable to speak other in normal cries, but later develops the ability to speak in broken English. Things now develop into a wildly unstable, and vastly more power-hungry Ghetis trying to gather power and learn their new body and abilities in order to attack and destroy N's Team Plasma before attempting to take over the entirety of Unova for the 3rd time.
 ### Unova: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Unova. Amongst the known and unknown, who knows where their journey will lead them?
+
+### Kalos: Revival of a Destructive Weapon
+A bunch of ancient blueprints made during the great war in Kalos had quietly resurfaced amongst the populous. While it's unknown where these blueprints originally resurfaced, individuals have appeared to make some use out of using them, either for personal gain, or something much more nefarious, and the Players are given the opportunity to try and handle parts of the conflict.
+### Kalos: Jet Rush Kalosfunk
+It seems that a bunch of delinquents have a produced a propulsion machine the size of a backpack powered through intense kinetic movements, and are combining it with roller skates, bikes, skateboards, heelies, scooters, spark sliders, and more to parkour, slide, ride, grind, wall-glide, air-dash, and even double-jump. The ability of most Police and Pokemon on the force are unable to detain these fast-moving, physics-defying individuals, up until the players manage to find their own special jetpacks.
+### Kalos: The Legendary Dex
+The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Kalos. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Alola: Alola Trials and Tribulations
 While the traditions of Alola have stayed the same, some newcomers who're visiting or even coming to live on the Alolan islands are being quite negative to the existing culture, and either to improve the safety of said Trials for all participants (which in term reduce the difficulty of said-trials), make them more up-to-date with current day society and update the culture for the future, or stop the Trials altogether due to the danger the Trials can bring whilst keeping all Kahunas as peace keepers.
-
+### Alola: Company Follies
+Businesses are becoming over-confident and money-grubbing; large-scale corporations from across seas are attempting to legally but dubiously obtain land, build new buildings to industrialise parts of Alola for no other reason than profit and theft of resources from the land; a perversion of the landscapes and destruction of untouched lands simply for the sake of more green in their pockets. But not all hope is lost, for the people resist these efforts and attempts upon their homes and the world they love, leading to mistakes traceable back to the originator- maybe there's a chance yet.
 ### Alola: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Alola. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Galar: Gigantimax Research Studies
 The Players have been hired to roam around using a specially-crafted device to detect readings of Dynamax energy and predict the oncoming enlargement of wild Pokemon in the Galarian wilds; they want the Players to try and record as many of these readings as possible before returning to them to possibly use that research to create a reader that can determine the differences between Dynamax and Gigantimax and thus be able to discover other Pokemon with the potential to Gigantimax unlike others before and make a brand new discovery.
-
+### Galar: Legendz in the Making
+Strange Pokemon eggs have appeared out of nowhere, and no-one appears to be able to hatch them. Despite detecting life in a Pokemon Centre, they show no sign of hatching despite the eggs.
 ### Galar: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Galar. Amongst the known and unknown, who knows where their journey will lead them?
+
 ### Paldea: Terastal-Temporal Instability
 Even with the current research performed within Paldea, a sudden surge of power had blown through the land and a strange occurrence has befallen the people of Paldea; momentary rifts popping up in the wilds of Paldea and introducing strange Paradox Pokemon unknown even to the researchers of past, future, and present- beings that have no capability of existing within this reality, yet appear to be from a differing timeline akin to the science of multiverse theory. Something is causing these strange phenomena, and what's currently to say the safety of the region, is uncertain to say.
 ### Paldea: The Great History of Paldea
 As Students of Paldea's Orange and Indigo Academy, Players are given a Year-long study-course to achieve 3 Criteria: Independent Research, Historic Paldea Research, and General Studies (Maths, Languages, Poke-Basics), each worth 30% of their total grade; the other 10% of the total grade is a Student's Journal used to recount the year they had over the course of the campaign, and all the things going on in their life during it, taking the form of videos, books, or imagery. After the year is over, the Course ends, and all Students are expected to score at least 40% on their overall work, and those who reach that grade pass the Year and move on to Graduate from Orange and Indigo Academy, allowing them to return home and/or venture around Paldea more freely than before. 
 ### Paldea: The Legendary Dex
 The party consists of a group of friends/Legendary-obsessed nerds/Thrill seekers who wish to meet together and have the ultimate aim of finding, learning more about, and maybe even attempting to catch Legendary Pokemon all around the world, with their journey starting in Paldea. Amongst the known and unknown, who knows where their journey will lead them?
+
 
 # Pokemon Mystery Dungeons
 
