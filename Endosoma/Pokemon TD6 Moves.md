@@ -5,173 +5,125 @@ share: true
 This is a giant list of Pokemon Moves converted into the TTRPG Tiny Dungeons 2 Format. To see how to properly use this list, go to the page: [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#), and go to this page for all Endosoma-related links: [Endosoma TD6 Links](Endosoma%20TD6%20Links.md#)
 
 Most moves are performed as a Standard Test unless specified otherwise.
-# Bug
-
+# Z-Move Power Explanations
+Due to the unexpected complexity of Z-Moves and their power, the following bulletin was made to simplify things (Move Base Power + S.T.A.B. = Z-Move Base Power):
+- 1-3 Damage = 10 Damage
+- 4-5 Damage = 12 Damage
+- 6-7 Damage = 13 Damage
+- 8 Damage = 14 Damage
+- 9 Damage = 15 Damage
+- 10 Damage = 16 Damage
+- 11 Damage = 17 Damage
+- 12 Damage = 18 Damage
+- 13 Damage = 19 Damage
+- 14 Damage = 20 Damage
+# Fling Power Description
+Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
+- 1 Physical Damage - All [Berries](https://bulbapedia.bulbagarden.net/wiki/Berry "Berry"), all [Incenses](https://bulbapedia.bulbagarden.net/wiki/Incense "Incense"), all [Mints](https://bulbapedia.bulbagarden.net/wiki/Mint "Mint"), all [Nectars](https://bulbapedia.bulbagarden.net/wiki/Nectar "Nectar"), all [Scarves](https://bulbapedia.bulbagarden.net/wiki/Scarf "Scarf"), all [Sweets](https://bulbapedia.bulbagarden.net/wiki/Sweet "Sweet"), all [Feathers](https://bulbapedia.bulbagarden.net/wiki/Feather "Feather"), [Air Balloon](https://bulbapedia.bulbagarden.net/wiki/Air_Balloon "Air Balloon"), [Big Root](https://bulbapedia.bulbagarden.net/wiki/Big_Root "Big Root"), [Bright Powder](https://bulbapedia.bulbagarden.net/wiki/Bright_Powder "Bright Powder"), [Choice Band](https://bulbapedia.bulbagarden.net/wiki/Choice_Band "Choice Band"), [Choice Scarf](https://bulbapedia.bulbagarden.net/wiki/Choice_Scarf "Choice Scarf"), [Choice Specs](https://bulbapedia.bulbagarden.net/wiki/Choice_Specs "Choice Specs"), [Destiny Knot](https://bulbapedia.bulbagarden.net/wiki/Destiny_Knot "Destiny Knot"), [Discount Coupon](https://bulbapedia.bulbagarden.net/wiki/Discount_Coupon "Discount Coupon"), [Electric Seed](https://bulbapedia.bulbagarden.net/wiki/Electric_Seed "Electric Seed"), [Expert Belt](https://bulbapedia.bulbagarden.net/wiki/Expert_Belt "Expert Belt"), [Fairy Feather](https://bulbapedia.bulbagarden.net/wiki/Fairy_Feather "Fairy Feather"), [Focus Band](https://bulbapedia.bulbagarden.net/wiki/Focus_Band "Focus Band"), [Focus Sash](https://bulbapedia.bulbagarden.net/wiki/Focus_Sash "Focus Sash"), [Grassy Seed](https://bulbapedia.bulbagarden.net/wiki/Grassy_Seed "Grassy Seed"), [Lagging Tail](https://bulbapedia.bulbagarden.net/wiki/Lagging_Tail "Lagging Tail"), [Leftovers](https://bulbapedia.bulbagarden.net/wiki/Leftovers "Leftovers"), [Mental Herb](https://bulbapedia.bulbagarden.net/wiki/Mental_Herb "Mental Herb"), [Metal Powder](https://bulbapedia.bulbagarden.net/wiki/Metal_Powder "Metal Powder"), [Misty Seed](https://bulbapedia.bulbagarden.net/wiki/Misty_Seed "Misty Seed"), [Muscle Band](https://bulbapedia.bulbagarden.net/wiki/Muscle_Band "Muscle Band"), [Power Herb](https://bulbapedia.bulbagarden.net/wiki/Power_Herb "Power Herb"), [Psychic Seed](https://bulbapedia.bulbagarden.net/wiki/Psychic_Seed "Psychic Seed"), [Quick Powder](https://bulbapedia.bulbagarden.net/wiki/Quick_Powder "Quick Powder"), [Reaper Cloth](https://bulbapedia.bulbagarden.net/wiki/Reaper_Cloth "Reaper Cloth"), [Red Card](https://bulbapedia.bulbagarden.net/wiki/Red_Card "Red Card"), [Ring Target](https://bulbapedia.bulbagarden.net/wiki/Ring_Target "Ring Target"), [Shed Shell](https://bulbapedia.bulbagarden.net/wiki/Shed_Shell "Shed Shell"), [Silk Scarf](https://bulbapedia.bulbagarden.net/wiki/Silk_Scarf "Silk Scarf"), [Silver Powder](https://bulbapedia.bulbagarden.net/wiki/Silver_Powder "Silver Powder"), [Smooth Rock](https://bulbapedia.bulbagarden.net/wiki/Smooth_Rock "Smooth Rock"), [Soft Sand](https://bulbapedia.bulbagarden.net/wiki/Soft_Sand "Soft Sand"), [Soothe Bell](https://bulbapedia.bulbagarden.net/wiki/Soothe_Bell "Soothe Bell"), [White Herb](https://bulbapedia.bulbagarden.net/wiki/White_Herb "White Herb"), [Wide Lens](https://bulbapedia.bulbagarden.net/wiki/Wide_Lens "Wide Lens"), [Wise Glasses](https://bulbapedia.bulbagarden.net/wiki/Wise_Glasses "Wise Glasses"), [Zoom Lens](https://bulbapedia.bulbagarden.net/wiki/Zoom_Lens "Zoom Lens"), [Bread](https://bulbapedia.bulbagarden.net/wiki/Bread "Bread"), [Coconut Milk](https://bulbapedia.bulbagarden.net/wiki/Coconut_Milk "Coconut Milk"), [Fresh Cream](https://bulbapedia.bulbagarden.net/wiki/Fresh_Cream "Fresh Cream"), [Fried Food](https://bulbapedia.bulbagarden.net/wiki/Fried_Food "Fried Food"), [Fruit Bunch](https://bulbapedia.bulbagarden.net/wiki/Fruit_Bunch "Fruit Bunch"), [Instant Noodles](https://bulbapedia.bulbagarden.net/wiki/Instant_Noodles "Instant Noodles"), [Mixed Mushrooms](https://bulbapedia.bulbagarden.net/wiki/Mixed_Mushrooms "Mixed Mushrooms"), [Pack of Potatoes](https://bulbapedia.bulbagarden.net/wiki/Pack_of_Potatoes "Pack of Potatoes"), [Packaged Curry](https://bulbapedia.bulbagarden.net/wiki/Packaged_Curry "Packaged Curry"), [Pasta](https://bulbapedia.bulbagarden.net/wiki/Pasta "Pasta"), [Precooked Burger](https://bulbapedia.bulbagarden.net/wiki/Precooked_Burger "Precooked Burger"), [Pungent Root](https://bulbapedia.bulbagarden.net/wiki/Pungent_Root "Pungent Root"), [Salad Mix](https://bulbapedia.bulbagarden.net/wiki/Salad_Mix "Salad Mix"), [Sausages](https://bulbapedia.bulbagarden.net/wiki/Sausages "Sausages"), [Smoke-Poke Tail](https://bulbapedia.bulbagarden.net/wiki/Smoke-Poke_Tail "Smoke-Poke Tail"), [Boiled Egg](https://bulbapedia.bulbagarden.net/wiki/Boiled_Egg "Boiled Egg"), [Fancy Apple](https://bulbapedia.bulbagarden.net/wiki/Fancy_Apple "Fancy Apple"), [Large Leek](https://bulbapedia.bulbagarden.net/wiki/Large_Leek "Large Leek"), [Moomoo Cheese](https://bulbapedia.bulbagarden.net/wiki/Moomoo_Cheese "Moomoo Cheese")
+- 2 Physical Damage - All [status condition healing items](https://bulbapedia.bulbagarden.net/wiki/Status_condition_healing_item "Status condition healing item") (besides Berries), all [Potions](https://bulbapedia.bulbagarden.net/wiki/Potion "Potion"), all [herbal medicine](https://bulbapedia.bulbagarden.net/wiki/Herbal_medicine "Herbal medicine"), all [drinks](https://bulbapedia.bulbagarden.net/wiki/Drink "Drink"), all [Vitamins](https://bulbapedia.bulbagarden.net/wiki/Vitamin "Vitamin"), all [Shards](https://bulbapedia.bulbagarden.net/wiki/Shard "Shard"), all [Mulches](https://bulbapedia.bulbagarden.net/wiki/Mulch "Mulch"), all [battle items](https://bulbapedia.bulbagarden.net/wiki/Battle_item "Battle item"), all [Flutes](https://bulbapedia.bulbagarden.net/wiki/Flute "Flute"), all [Exp. Candy](https://bulbapedia.bulbagarden.net/wiki/Exp._Candy "Exp. Candy"), all [Tera Shards](https://bulbapedia.bulbagarden.net/wiki/Tera_Shard "Tera Shard"), [Ether](https://bulbapedia.bulbagarden.net/wiki/Ether "Ether"), [Elixir](https://bulbapedia.bulbagarden.net/wiki/Elixir "Elixir"), [Max Ether](https://bulbapedia.bulbagarden.net/wiki/Max_Ether "Max Ether"), [Max Elixir](https://bulbapedia.bulbagarden.net/wiki/Max_Elixir "Max Elixir"), [Repel](https://bulbapedia.bulbagarden.net/wiki/Repel "Repel"), [Super Repel](https://bulbapedia.bulbagarden.net/wiki/Super_Repel "Super Repel"), [Max Repel](https://bulbapedia.bulbagarden.net/wiki/Max_Repel "Max Repel"), [Ability Shield](https://bulbapedia.bulbagarden.net/wiki/Ability_Shield "Ability Shield"), [Absorb Bulb](https://bulbapedia.bulbagarden.net/wiki/Absorb_Bulb "Absorb Bulb"), [Adrenaline Orb](https://bulbapedia.bulbagarden.net/wiki/Adrenaline_Orb "Adrenaline Orb"), [Amulet Coin](https://bulbapedia.bulbagarden.net/wiki/Amulet_Coin "Amulet Coin"), [Armorite Ore](https://bulbapedia.bulbagarden.net/wiki/Armorite_Ore "Armorite Ore"), [Auspicious Armor](https://bulbapedia.bulbagarden.net/wiki/Auspicious_Armor "Auspicious Armor"), [Balm Mushroom](https://bulbapedia.bulbagarden.net/wiki/Balm_Mushroom "Balm Mushroom"), [Berry Juice](https://bulbapedia.bulbagarden.net/wiki/Berry_Juice "Berry Juice"), [Big Bamboo Shoot](https://bulbapedia.bulbagarden.net/wiki/Big_Bamboo_Shoot "Big Bamboo Shoot"), [Big Malasada](https://bulbapedia.bulbagarden.net/wiki/Big_Malasada "Big Malasada"), [Big Mushroom](https://bulbapedia.bulbagarden.net/wiki/Big_Mushroom "Big Mushroom"), [Big Nugget](https://bulbapedia.bulbagarden.net/wiki/Big_Nugget "Big Nugget")Gen V-VII, [Big Pearl](https://bulbapedia.bulbagarden.net/wiki/Big_Pearl "Big Pearl"), [Binding Band](https://bulbapedia.bulbagarden.net/wiki/Binding_Band "Binding Band"), [Black Belt](https://bulbapedia.bulbagarden.net/wiki/Black_Belt_\(item\) "Black Belt (item)"), [Black Glasses](https://bulbapedia.bulbagarden.net/wiki/Black_Glasses "Black Glasses"), [Black Sludge](https://bulbapedia.bulbagarden.net/wiki/Black_Sludge "Black Sludge"), [Booster Energy](https://bulbapedia.bulbagarden.net/wiki/Booster_Energy "Booster Energy"), [Bottle Cap](https://bulbapedia.bulbagarden.net/wiki/Bottle_Cap "Bottle Cap"), [Casteliacone](https://bulbapedia.bulbagarden.net/wiki/Casteliacone "Casteliacone"), [Cell Battery](https://bulbapedia.bulbagarden.net/wiki/Cell_Battery "Cell Battery"), [Charcoal](https://bulbapedia.bulbagarden.net/wiki/Charcoal "Charcoal"), [Cleanse Tag](https://bulbapedia.bulbagarden.net/wiki/Cleanse_Tag "Cleanse Tag"), [Clear Amulet](https://bulbapedia.bulbagarden.net/wiki/Clear_Amulet "Clear Amulet"), [Comet Shard](https://bulbapedia.bulbagarden.net/wiki/Comet_Shard "Comet Shard"), [Covert Cloak](https://bulbapedia.bulbagarden.net/wiki/Covert_Cloak "Covert Cloak"), [Deep Sea Scale](https://bulbapedia.bulbagarden.net/wiki/Deep_Sea_Scale "Deep Sea Scale"), [Dragon Scale](https://bulbapedia.bulbagarden.net/wiki/Dragon_Scale "Dragon Scale"), [Dynamax Candy](https://bulbapedia.bulbagarden.net/wiki/Dynamax_Candy "Dynamax Candy"), [Eject Button](https://bulbapedia.bulbagarden.net/wiki/Eject_Button "Eject Button"), [Escape Rope](https://bulbapedia.bulbagarden.net/wiki/Escape_Rope "Escape Rope"), [Everstone](https://bulbapedia.bulbagarden.net/wiki/Everstone "Everstone"), [Fire Stone](https://bulbapedia.bulbagarden.net/wiki/Fire_Stone "Fire Stone"), [Flame Orb](https://bulbapedia.bulbagarden.net/wiki/Flame_Orb "Flame Orb"), [Float Stone](https://bulbapedia.bulbagarden.net/wiki/Float_Stone "Float Stone"), [Fluffy Tail](https://bulbapedia.bulbagarden.net/wiki/Fluffy_Tail "Fluffy Tail"), [Galarica Cuff](https://bulbapedia.bulbagarden.net/wiki/Galarica_Cuff "Galarica Cuff"), [Galarica Twig](https://bulbapedia.bulbagarden.net/wiki/Galarica_Twig "Galarica Twig"), [Galarica Wreath](https://bulbapedia.bulbagarden.net/wiki/Galarica_Wreath "Galarica Wreath"), [Gold Bottle Cap](https://bulbapedia.bulbagarden.net/wiki/Gold_Bottle_Cap "Gold Bottle Cap"), [Heart Scale](https://bulbapedia.bulbagarden.net/wiki/Heart_Scale "Heart Scale"), [Honey](https://bulbapedia.bulbagarden.net/wiki/Honey "Honey"), [Ice Stone](https://bulbapedia.bulbagarden.net/wiki/Ice_Stone "Ice Stone"), [King's Rock](https://bulbapedia.bulbagarden.net/wiki/King%27s_Rock "King's Rock"), [Lava Cookie](https://bulbapedia.bulbagarden.net/wiki/Lava_Cookie "Lava Cookie"), [Leader's Crest](https://bulbapedia.bulbagarden.net/wiki/Leader%27s_Crest "Leader's Crest"), [Leaf Stone](https://bulbapedia.bulbagarden.net/wiki/Leaf_Stone "Leaf Stone"), [Life Orb](https://bulbapedia.bulbagarden.net/wiki/Life_Orb "Life Orb"), [Light Ball](https://bulbapedia.bulbagarden.net/wiki/Light_Ball "Light Ball"), [Light Clay](https://bulbapedia.bulbagarden.net/wiki/Light_Clay "Light Clay"), [Loaded Dice](https://bulbapedia.bulbagarden.net/wiki/Loaded_Dice "Loaded Dice"), [Lucky Egg](https://bulbapedia.bulbagarden.net/wiki/Lucky_Egg "Lucky Egg"), [Luminous Moss](https://bulbapedia.bulbagarden.net/wiki/Luminous_Moss "Luminous Moss"), [Lumiose Galette](https://bulbapedia.bulbagarden.net/wiki/Lumiose_Galette "Lumiose Galette"), [Magnet](https://bulbapedia.bulbagarden.net/wiki/Magnet "Magnet"), [Malicious Armor](https://bulbapedia.bulbagarden.net/wiki/Malicious_Armor "Malicious Armor"), [Max Mushrooms](https://bulbapedia.bulbagarden.net/wiki/Max_Mushrooms "Max Mushrooms"), [Max Revive](https://bulbapedia.bulbagarden.net/wiki/Max_Revive "Max Revive"), [Metal Coat](https://bulbapedia.bulbagarden.net/wiki/Metal_Coat "Metal Coat"), [Metronome](https://bulbapedia.bulbagarden.net/wiki/Metronome_\(item\) "Metronome (item)"), [Miracle Seed](https://bulbapedia.bulbagarden.net/wiki/Miracle_Seed "Miracle Seed"), [Mirror Herb](https://bulbapedia.bulbagarden.net/wiki/Mirror_Herb "Mirror Herb"), [Moon Stone](https://bulbapedia.bulbagarden.net/wiki/Moon_Stone "Moon Stone"), [Mystic Water](https://bulbapedia.bulbagarden.net/wiki/Mystic_Water "Mystic Water"), [Never-Melt Ice](https://bulbapedia.bulbagarden.net/wiki/Never-Melt_Ice "Never-Melt Ice"), [Nugget](https://bulbapedia.bulbagarden.net/wiki/Nugget "Nugget"), [Old Gateau](https://bulbapedia.bulbagarden.net/wiki/Old_Gateau "Old Gateau"), [Pass Orb](https://bulbapedia.bulbagarden.net/wiki/Pass_Orb "Pass Orb"), [Pearl String](https://bulbapedia.bulbagarden.net/wiki/Pearl_String "Pearl String"), [Pearl](https://bulbapedia.bulbagarden.net/wiki/Pearl_\(item\) "Pearl (item)"), [Poké Doll](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Doll "Poké Doll"), [Poké Toy](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Toy "Poké Toy"), [Prism Scale](https://bulbapedia.bulbagarden.net/wiki/Prism_Scale "Prism Scale"), [Protective Pads](https://bulbapedia.bulbagarden.net/wiki/Protective_Pads "Protective Pads"), [Punching Glove](https://bulbapedia.bulbagarden.net/wiki/Punching_Glove "Punching Glove"), [Rare Candy](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy "Rare Candy"), [Razor Fang](https://bulbapedia.bulbagarden.net/wiki/Razor_Fang "Razor Fang"), [Relic Band](https://bulbapedia.bulbagarden.net/wiki/Relic_Band "Relic Band"), [Relic Copper](https://bulbapedia.bulbagarden.net/wiki/Relic_Copper "Relic Copper"), [Relic Crown](https://bulbapedia.bulbagarden.net/wiki/Relic_Crown "Relic Crown"), [Relic Gold](https://bulbapedia.bulbagarden.net/wiki/Relic_Gold "Relic Gold"), [Relic Silver](https://bulbapedia.bulbagarden.net/wiki/Relic_Silver "Relic Silver"), [Relic Statue](https://bulbapedia.bulbagarden.net/wiki/Relic_Statue "Relic Statue"), [Relic Vase](https://bulbapedia.bulbagarden.net/wiki/Relic_Vase "Relic Vase"), [Revive](https://bulbapedia.bulbagarden.net/wiki/Revive "Revive"), [Sacred Ash](https://bulbapedia.bulbagarden.net/wiki/Sacred_Ash "Sacred Ash"), [Scope Lens](https://bulbapedia.bulbagarden.net/wiki/Scope_Lens "Scope Lens"), [Shalour Sable](https://bulbapedia.bulbagarden.net/wiki/Shalour_Sable "Shalour Sable"), [Shell Bell](https://bulbapedia.bulbagarden.net/wiki/Shell_Bell "Shell Bell"), [Shoal Salt](https://bulbapedia.bulbagarden.net/wiki/Shoal_Salt "Shoal Salt"), [Shoal Shell](https://bulbapedia.bulbagarden.net/wiki/Shoal_Shell "Shoal Shell"), [Smoke Ball](https://bulbapedia.bulbagarden.net/wiki/Smoke_Ball "Smoke Ball"), [Snowball](https://bulbapedia.bulbagarden.net/wiki/Snowball "Snowball"), [Soul Dew](https://bulbapedia.bulbagarden.net/wiki/Soul_Dew "Soul Dew"), [Spell Tag](https://bulbapedia.bulbagarden.net/wiki/Spell_Tag "Spell Tag"), [Star Piece](https://bulbapedia.bulbagarden.net/wiki/Star_Piece "Star Piece"), [Strange Souvenir](https://bulbapedia.bulbagarden.net/wiki/Strange_Souvenir "Strange Souvenir"), [Stardust](https://bulbapedia.bulbagarden.net/wiki/Stardust "Stardust"), [Sun Stone](https://bulbapedia.bulbagarden.net/wiki/Sun_Stone "Sun Stone"), [Sweet Apple](https://bulbapedia.bulbagarden.net/wiki/Sweet_Apple "Sweet Apple"), [Sweet Heart](https://bulbapedia.bulbagarden.net/wiki/Sweet_Heart "Sweet Heart"), [Syrupy Apple](https://bulbapedia.bulbagarden.net/wiki/Syrupy_Apple "Syrupy Apple"), [Tart Apple](https://bulbapedia.bulbagarden.net/wiki/Tart_Apple "Tart Apple"), [Thunder Stone](https://bulbapedia.bulbagarden.net/wiki/Thunder_Stone "Thunder Stone"), [Tiny Bamboo Shoot](https://bulbapedia.bulbagarden.net/wiki/Tiny_Bamboo_Shoot "Tiny Bamboo Shoot"), [Tiny Mushroom](https://bulbapedia.bulbagarden.net/wiki/Tiny_Mushroom "Tiny Mushroom"), [Toxic Orb](https://bulbapedia.bulbagarden.net/wiki/Toxic_Orb "Toxic Orb"), [Throat Spray](https://bulbapedia.bulbagarden.net/wiki/Throat_Spray "Throat Spray"), [Twisted Spoon](https://bulbapedia.bulbagarden.net/wiki/Twisted_Spoon "Twisted Spoon"), [Upgrade](https://bulbapedia.bulbagarden.net/wiki/Upgrade "Upgrade"), [Water Stone](https://bulbapedia.bulbagarden.net/wiki/Water_Stone "Water Stone")   [Brittle Bones](https://bulbapedia.bulbagarden.net/wiki/Brittle_Bones "Brittle Bones"), [Eviolite](https://bulbapedia.bulbagarden.net/wiki/Eviolite "Eviolite"), [Icy Rock](https://bulbapedia.bulbagarden.net/wiki/Icy_Rock "Icy Rock"), [Lucky Punch](https://bulbapedia.bulbagarden.net/wiki/Lucky_Punch "Lucky Punch")
+- 3 Physical Damage, All [Memories](https://bulbapedia.bulbagarden.net/wiki/Memory "Memory"), [Dubious Disc](https://bulbapedia.bulbagarden.net/wiki/Dubious_Disc "Dubious Disc"), [Eject Pack](https://bulbapedia.bulbagarden.net/wiki/Eject_Pack "Eject Pack"), [Sharp Beak](https://bulbapedia.bulbagarden.net/wiki/Sharp_Beak "Sharp Beak"), [Wishing Piece](https://bulbapedia.bulbagarden.net/wiki/Wishing_Piece "Wishing Piece")   [Gigantamix](https://bulbapedia.bulbagarden.net/wiki/Gigantamix "Gigantamix"), [Spice Mix](https://bulbapedia.bulbagarden.net/wiki/Spice_Mix "Spice Mix"), [Adamant Orb](https://bulbapedia.bulbagarden.net/wiki/Adamant_Orb "Adamant Orb"), [Cornerstone Mask](https://bulbapedia.bulbagarden.net/wiki/Cornerstone_Mask "Cornerstone Mask"), [Damp Rock](https://bulbapedia.bulbagarden.net/wiki/Damp_Rock "Damp Rock"), [Griseous Orb](https://bulbapedia.bulbagarden.net/wiki/Griseous_Orb "Griseous Orb"), [Hearthflame Mask](https://bulbapedia.bulbagarden.net/wiki/Hearthflame_Mask "Hearthflame Mask"), [Heat Rock](https://bulbapedia.bulbagarden.net/wiki/Heat_Rock "Heat Rock"), [Leek](https://bulbapedia.bulbagarden.net/wiki/Leek "Leek"), [Lustrous Orb](https://bulbapedia.bulbagarden.net/wiki/Lustrous_Orb "Lustrous Orb"), [Macho Brace](https://bulbapedia.bulbagarden.net/wiki/Macho_Brace "Macho Brace"), [Rocky Helmet](https://bulbapedia.bulbagarden.net/wiki/Rocky_Helmet "Rocky Helmet"), [Terrain Extender](https://bulbapedia.bulbagarden.net/wiki/Terrain_Extender "Terrain Extender"), [Utility Umbrella](https://bulbapedia.bulbagarden.net/wiki/Utility_Umbrella "Utility Umbrella"), [Wellspring Mask](https://bulbapedia.bulbagarden.net/wiki/Wellspring_Mask "Wellspring Mask")
+- 4 Physical Damage - All [Drives](https://bulbapedia.bulbagarden.net/wiki/Drive "Drive"), all [Power items](https://bulbapedia.bulbagarden.net/wiki/Power_item "Power item"), All [Mega Stones](https://bulbapedia.bulbagarden.net/wiki/Mega_Stone "Mega Stone"), [Dragon Fang](https://bulbapedia.bulbagarden.net/wiki/Dragon_Fang "Dragon Fang"), [Poison Barb](https://bulbapedia.bulbagarden.net/wiki/Poison_Barb "Poison Barb"), [Assault Vest](https://bulbapedia.bulbagarden.net/wiki/Assault_Vest "Assault Vest"), [Blunder Policy](https://bulbapedia.bulbagarden.net/wiki/Blunder_Policy "Blunder Policy"), [Chipped Pot](https://bulbapedia.bulbagarden.net/wiki/Chipped_Pot "Chipped Pot"), [Cracked Pot](https://bulbapedia.bulbagarden.net/wiki/Cracked_Pot "Cracked Pot"), [Dawn Stone](https://bulbapedia.bulbagarden.net/wiki/Dawn_Stone "Dawn Stone"), [Dusk Stone](https://bulbapedia.bulbagarden.net/wiki/Dusk_Stone "Dusk Stone"), [Electirizer](https://bulbapedia.bulbagarden.net/wiki/Electirizer "Electirizer"), [Heavy-Duty Boots](https://bulbapedia.bulbagarden.net/wiki/Heavy-Duty_Boots "Heavy-Duty Boots"), [Magmarizer](https://bulbapedia.bulbagarden.net/wiki/Magmarizer "Magmarizer"), [Masterpiece Teacup](https://bulbapedia.bulbagarden.net/wiki/Masterpiece_Teacup "Masterpiece Teacup"), [Odd Keystone](https://bulbapedia.bulbagarden.net/wiki/Odd_Keystone "Odd Keystone"), [Oval Stone](https://bulbapedia.bulbagarden.net/wiki/Oval_Stone "Oval Stone"), [Protector](https://bulbapedia.bulbagarden.net/wiki/Protector "Protector"), [Quick Claw](https://bulbapedia.bulbagarden.net/wiki/Quick_Claw "Quick Claw"), [Razor Claw](https://bulbapedia.bulbagarden.net/wiki/Razor_Claw "Razor Claw"), [Sachet](https://bulbapedia.bulbagarden.net/wiki/Sachet "Sachet"), [Safety Goggles](https://bulbapedia.bulbagarden.net/wiki/Safety_Goggles "Safety Goggles"), [Shiny Stone](https://bulbapedia.bulbagarden.net/wiki/Shiny_Stone "Shiny Stone"), [Sticky Barb](https://bulbapedia.bulbagarden.net/wiki/Sticky_Barb "Sticky Barb"), [Tin of Beans](https://bulbapedia.bulbagarden.net/wiki/Tin_of_Beans "Tin of Beans"), [Unremarkable Teacup](https://bulbapedia.bulbagarden.net/wiki/Unremarkable_Teacup "Unremarkable Teacup"), [Weakness Policy](https://bulbapedia.bulbagarden.net/wiki/Weakness_Policy "Weakness Policy"), [Whipped Dream](https://bulbapedia.bulbagarden.net/wiki/Whipped_Dream "Whipped Dream"), [Bach's Food Tin](https://bulbapedia.bulbagarden.net/wiki/Bach%27s_Food_Tin "Bach's Food Tin"), [Bob's Food Tin](https://bulbapedia.bulbagarden.net/wiki/Bob%27s_Food_Tin "Bob's Food Tin")
+- 5 Physical Damage - All [Plates](https://bulbapedia.bulbagarden.net/wiki/Plate "Plate"), All [Fossils](https://bulbapedia.bulbagarden.net/wiki/Fossil "Fossil"), [Deep Sea Tooth](https://bulbapedia.bulbagarden.net/wiki/Deep_Sea_Tooth "Deep Sea Tooth"), [Grip Claw](https://bulbapedia.bulbagarden.net/wiki/Grip_Claw "Grip Claw"), [Thick Club](https://bulbapedia.bulbagarden.net/wiki/Thick_Club "Thick Club"), [Hard Stone](https://bulbapedia.bulbagarden.net/wiki/Hard_Stone "Hard Stone"), [Rare Bone](https://bulbapedia.bulbagarden.net/wiki/Rare_Bone "Rare Bone"), [Room Service](https://bulbapedia.bulbagarden.net/wiki/Room_Service "Room Service")
+- 7 Physical Damage - [Iron Ball](https://bulbapedia.bulbagarden.net/wiki/Iron_Ball "Iron Ball"), [Big Nugget](https://bulbapedia.bulbagarden.net/wiki/Big_Nugget "Big Nugget")Gen VIII-IX
+# Move List
+## Bug
+### Normal Moves
 - Defend Order - The user increases their Physical and Magic Defence by +1 by using their underlings to shield their body.
-
 - Heal Order - The user rolls half of their Max HP as a dice; the amount rolled equates to the amount healed.
-
 - Powder - Covers a 15x15ft area of the user’s choice within 25ft in a combustible powder. When a Fire-type move enters the area, it ignites and combusts the powder, dealing 4 Bug Magic Damage to all caught within the combustion.
-
 - Quiver Dance - Boosts the user’s Magic Damage and Defence by +1, and increases Initiative by +1.
-
 - Rage Powder - Cover a 15x15ft area in an irritating powder. All targets affected by this Move can only attack the user for 5 turns.
-
 - Silk Trap - The user spins a silken trap around itself, protecting itself from damage while lowering the Movement Speed of all attackers that touch the trap by -5ft.
-
 - Spider Web - Cover a 10x10 area within 20ft in a thin, gooey silk. Anybody who enters loses -5ft of Movement every time they move through or are hit by the Move, and lose -1 Initiative with every hit but not movement through the Move. 
-
 - Sticky Web - Choose a target within line of sight, then perform a Standard Test; Advantage if the target is half your own Initiative. You catch them in a sticky net which reduces their Initiative by -1 with every usage, and can only move towards the user unless a Normal-type, Fire-type, or Steel-type move is used to burn/cut the web. This can be used on multiple targets, but this Move can only be used once per turn. Attacking with the Sticky Web and Pulling targets closer are separate Actions.
-
 - String Shot - Choose a target within line-of-sight and roll a Standard Test. You reduce the target’s movement by -10ft of Movement and reduce their Initiative by -3. Those who lose their Movement fully are stuck in a cocoon leaving them Prone and unable to attack without injuring themselves, and must now attempt a Disadvantage test to escape. Those who escape the cocoon gain all their Movement back but their Initiative remains the same. 
-
 - Tail Glow - Raises the user’s damage with magical attacks by +3 with every use.
-
 - Infestation - Choose 2 targets within a 10ft radius of the user and make a Standard Test for each; the targets are assaulted by a bunch of tiny non-pokemon bugs for 10 turns and taking 1 Magic Damage per-turn before needing to make a Disadvantage Test. The targets also can’t move more than 10ft per-turn with the Move Action.
-
 - Pin Missile - The user makes 1 Standard Test and 3 Disadvantage Tests against a Target within line-of-sight, dealing 2 Physical Bug Damage per-hit; a Standard Test means 2 successful hits against the Target while successful Disadvantage Tests mean a single additional hit.
-
 - Twin Needle - Jabs a Target within Melee Range twice in succession with two Disadvantage Tests, dealing 2 Physical Bug Damage for hit each; for each attack that hits, the Target must roll a Disadvantage Test or suffer Poisoned for 8 turns; this unique poison can stack but it does not reset the original poison duration.
-
 - Fury Cutter - Hit a target with a Standard Test and deal 2 Physical Bug Damage. With each continuous, successive use of this move on a target, the damage is increased by another +2 up to a total of 64 Physical Bug Damage.
-
 - Fell Stinger - The user jabs at a Target within Melee Range with a Standard Test, dealing 3 Physical Bug Damage; when the user knocks out a Target with this move, increase the user’s Physical Damage by +2.
-
 - Pounce - The user pounces at a Target within 15ft with a Standard test, dealing 3 Physical Bug Damage; if the Move hits, the Target’s Movement is also decreased by -5ft.
-
 - Struggle Bug - The user flails their body about at a Target with a Standard Test, dealing 3 Magic Bug Damage to all targets within 5ft of them while reducing their Magic Damage by -1.
-
 - Bug Bite - Bite a target with a Standard Test dealing 3 Physical Bug Damage, and if the target was preparing to use an item, the user disarms and consumes the item they were going to use, gaining its effect.
-
 - Silver Wind - You blow a scaly wind at a group of targets in a 15ft cone dealing 3 Magic Bug Damage to all in the AOE with a Standard Test. After performing the attack, roll a Disadvantage test, and on a success increase your Initiative, Physical and Magic Damage and Defence by +1.  
 - Steamroller - The user rolls in a straight line until they hit a wall or fail a Standard Test; each target in the AOE that’s hit gets takes 4 Physical Bug Damage and gets knocked aside by 10ft, while failed hits only knock them aside by 5ft; when deciding which direction they’re knocked, roll a d6. Those who’re hit by the attack are flinched and lose their upcoming turn.
-
 - Skitter Smack - You run towards a target, then skitter around the target with an Advantage Test, dealing 4 Physical Bug Damage, then lower the Target’s Magic Damage by -1.
-
 - U-turn - Charge at a Target within 10ft of you with a Standard Test, dealing 4 Physical Bug Damage before forcefully swapping spaces with an Ally within a 25ft Radius of the space you land within to hop out of danger; if a Trainer is commanding a Pokemon to use this Move, the Pokemon swaps places with a Pokemon still on the Trainer’s person.
-
 - Signal Beam - The user attacks a Target within line-of-sight with a beam of light with a Standard Test, dealing 4 Magic Bug Damage; if the attack hits, the Target must perform a Disadvantage Test or suffer Confusion.
-
 - Leech Life - The user attacks a Target with a Standard Test, dealing 4 Physical Bug Damage and healing for half the damage dealt rounded down.
-
 - Lunge - Lunge at a target at a minimum of 10ft away and a maximum of 20ft away with a Standard Test, dealing 4 Physical Bug Damage while lowering the Target’s Physical Damage by -1.
-
 - X-Scissor - The user slashes in an x-shape at a Target within Melee Range with a Standard Test, dealing 4 Physical Bug Damage.
-
 - Attack Order - The user uses their minions to attack a Target within 30ft with a Standard Test, dealing 5 Physical Bug Damage; for each 6 rolled on the Test, this Move deals extra 5 Physical Bug Damage..
-
 - Bug Buzz - The user attacks with a Standard Test in a 20ft-long cone in front of you with a sound wave, dealing 5 Magic damage before rolling a Disadvantage Test against all targets to reduce their Magic damage Defence by -1.
-
 - First Impression - Choose an enemy Target within line-of-sight and attack with a Disadvantage Test. If the attack lands, you can charge towards a Targetbefore dealing damage equal to 40% of their Max HP as Damage, then choose another target to assault with another Standard Test until you fail, run out of New targets to attack, or run out of Charges to attack; for every 10 Max HP and 4 Traits the user has, then Charge at another Target when performing this Move. If the attack fails, deal only 15% of the target’s Max HP and cease all any further attacks. If the Target is considered a Boss, this attack only deals damage equal to 20% of their Max HP, with failed hits only dealing 5% Max HP. You can’t attack another Target after hitting a Boss. This attack can only be used in the First Round of combat; Surprise Rounds count. All hits by this Move bypass Defences and Damage Reduction. In Pokemon Battle between Trainers, every time the user enters the field, the user can use this Move with a Standard Test to deal 5 Physical Bug Damage but only during the turn the user enters the field.
-
 - Pollen Puff - Throw a concentrated ball of pollen at a Target within 30ft with a Standard Test; if it’s an enemy, deal 5 Magic Bug Damage, but if it’s an ally, heal them for 5 HP; Damage and Healing scales with Magic Damage Buffs.
-
 - Megahorn - The user attacks a Target within 10ft with a Standard Test, dealing 6 Physical Bug Damage while overcoming all Physical Defences.
+### Special Moves
+- G-Max Befuddle - A bug-type Attack used by Gigantamax Butterfree with a Range of 300ft and a diameter of 25ft. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs. Inflicts Poisoned, Paralyzed, or Asleep Status Condition on all within range of the Move.
+- Max Flutterby - A bug-type Attack used by Dynamax Pokemon with a Range of 300ft and a diameter of 25ft. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs. Reduce the Magic Damage of every creature hit by this Move by -1.
+- Savage Spin-Out - The user binds a Target with full force with threads of silk that the user spits using its Z-Power. Damage explained in Z-Move Power Explanations. Deals Physical or Magical Damage, whichever's higher after Buffs.
 
-
-# Dark
-
+## Dark
+### Normal Moves
 - Beat Up - The user commands all party members to perform either a basic attack or a Move upon a Target using Disadvantage Tests instead of their normal Tests.
-
 - Comeuppance - The user retaliates against their attacker by moving up to them and attacking with greater force with a Standard Test, dealing the damage they took + an additional 50% of the damage they took as Physical Dark Damage.
-
 - Dark Void - The user creates a 15ft-radius dome in an area within 30ft, and all targets caught in the area and encompassed completely by it must make a Disadvantage Test, otherwise they’re forced into a deep sleep that persists until they succeed on a Disadvantage Test to wake up at the start of their turn, are hit with an attack equal or higher than 1/4th of their Max HP, or until 4 hours after combat ends. Nearby Allies can awaken sleeping targets with a Standard Test, but can opt to deal 1 damage to the ally to make it an Advantage Test.
-
 - Embargo - The user performs a Disadvantage Test on a Target within line-of-sight to wrap them in metaphysical chains; if successful, the target can’t use any items, nor have any allies use items on them.
-
 - Fake Tears - The user uses a Standard Test to feign crying in an attempt to confuse or cause their opponent emotional distress, lowering their Magic Defence by -2.
-
 - Flatter - The user attempts to flatter the target and confuse them with a Standard Test, raising their Magic damage by +2 but confusing them in the process.
-
-- Fling - The user flings an item at a Target within 30ft with a Standard Test; depending the weight and damage of the item, and the strength of the user, the Test needed to fling the item can vary.
-
+- Fling - The user flings an item at a Target within 30ft with a Standard Test; depending the weight and damage of the item, and the strength of the user, the Test needed to fling the item can vary; read the Fling Power Description.
 - Hone Claws - The user sharpens their claws to raise their Physical damage by +1 and increase their Tests when landing a Hit on a single target by 1 Category.
-
 - Memento - When the user faints in combat, those who’ve attacked the user over the course of the combat have their Physical and Magic Damage reduced by -3 for each opponent who hit them.
-
 - Nasty Plot - The user stimulates their brain to come up with a devious plan, raising their Magic Damage by +2.
-
 - Obstruct - The user uses their skills to protect themselves from all attacks until the start of their next turn. If used consecutively, the 2nd time the move is used the user must make an Advantage Test to perform the Move again; the 3rd time requiring a Standard Test; 4th time requiring a Disadvantage Test; 5th time and onwards requiring a Disadvantage Test that only succeeds on a 6. This effect resets upon failure.
-
 - Parting Shot - The user threatens a Target within line-of-sight with a warning shot, lowering their Physical and Magic damage by -1, then the user attempts to switch places with a party member within 15ft of their position using a Disadvantage Test, with failures causing the user to fail the switch. If used in a Trainer battle, the user swaps places with an inactive Pokemon.
-
 - Punishment - The user uses a strange power to inflict pain upon those with immense strength within Melee-Range; for each point buffing the target’s Damage, Defences, evasion, accuracy, Initiative, and speed, this attack deals +1 additional damage; to land the attack, the user must perform a Disadvantage Test. This attack can be buffed by both of the user’s Physical and Magic damage buffs.
-
 - Quash - The target is suppressed by the user with a Disadvantage Test, causing their Initiative to become 1. If a second target is hit by this move, raise the previous target’s Initiative by +1.
-
 - Ruination - The user summons a ruinous disaster upon a Target within line-of-sight with a Standard Test, cutting their HP in half.
-
 - Snatch - Until the end of combat, the user steals any Moves the Target within line-of-sight uses to heal or stat-change themselves. This move can only affect 1 Target at a time.
-
 - Switcheroo - The user and Target within Melee-Range trade items in-hand with a Disadvantage Test whether they are or aren’t holding anything in-hand. If the item is activatable, the user must perform a 2nd Disadvantage Test to activate the item before handing the item over.
-
 - Taunt - The user taunts a Target with a Disadvantage Test within line-of-sight. If successful, the target can only perform attacking Moves for 9 Rounds. After 3 rounds, the target can begin attempting Disadvantage Tests to break out of their rage.
-
 - Topsy-Turvy - Using a Disadvantage test, all Stat-Changes that were affecting the Target are reversed, turning positive Buffs negative and vice-versa.
-
 - Torment - The user torments a Target within line-of-sight, enraging them using a Disadvantage Test, making the Target incapable of using the same move twice in a row.
-
 - Power Trip - The user boasts their strength and attacks a Target within Melee Range with a Standard Test, dealing 1 Physical Dark Damage; for each point increasing their Physical damage by +1 through buffs, take half of the total number rounded downwards and add that to the Damage of the Move.
-
 - Pursuit - The user performs a Standard Test to chase after an enemy within their movement and attack them, dealing 2 Physical Dark Damage; if the target’s recently run away from their ally or yourself within Melee Range or has used a Move/maneuver to switch spaces with another enemy, the attack deals double damage.
-
 - Payback - The user attacks a Target slowly within Melee Range with a Standard Test, dealing 3 Physical Dark Damage; if the user is attacked with a successful attack by an enemy before the start of their turn/attack, the user deals double damage to any assaulter they choose as the Target of this Move.
 
 - Snarl - The user yells as if ranting about something with a Standard Test, lowering all enemies Magic Damage by -1 and dealing 3 Magic Dark Damage to all enemies in combat.
-
 - Assurance - The user performs a Standard Test to deal 3 Physical Dark Damage; if the target’s recently been damaged by an ally’s attack or effect, the damage is doubled.
-
 - Bite - The user performs a vicious bite that deals 3 Physical Dark Damage on a successful Standard Test; if the Move hits, the target must roll a Disadvantage Test or suffer Flinching..
-
 - Brutal Swing - The user swings their body/weapon around violently to deal damage up to their melee/melee weapon’s reach with a Standard Test, dealing 3 Physical Dark Damage to all within the Radius.
-
 - Feint Attack - The user acts weirdly before throwing a sucker punch at a Target within Melee Range, dealing 3 Physical Dark Damage. This attack never misses.
-
 - Thief - The user attacks a Target in Melee Range while stealing a held item simultaneously, dealing 3 Physical Dark Damage. The user must have a free hand(s) to steal anything the target is holding.
-
 - Ceaseless Edge - The user uses their shell blade to slash at the Target in Melee Range with a Standard Test, dealing 3 Physical Dark Damage on a normal roll but with each 6 rolled on the Test, increase the damage by +3 Physical Dark Damage. After landing the attack, splinters of the shell are left in the target, dealing 1d4 damage per-turn for 3 turns.
-
 - Knock Off - The user knocks the Target’s held item to the floor within Melee Range with a Disadvantage Test, dealing 3 Physical Dark Damage and knocking whatever’s in their hand to the floor and destroying it; if they actually have an item in-hand when this move is used, this attack deals double damage. Items include weapons.
-
 - Night Slash - The user attacks the target in Melee Range in the instant they can see an opening with a Standard Test, dealing 4 Physical Dark Damage on a regular roll, but for each 6 that’s rolled on the Test increases the damage by +4 Physical damage.
-
 - Sucker Punch - This attack enables the user to knock an enemy Target within Melee Range out of charging an attack or Move with no test, dealing 4 Physical Dark Damage to the target. If the target’s not charging an attack, the attack automatically fails.
-
 - Lash Out - The user lashes out to vent their frustrations on a Target within Melee Range with a Disadvantage Test, dealing 4 Physical Dark Dark Damage; if the user was recently debuffed during the round, the damage of this move is doubled, and the Test becomes Standard instead.
-
 - Wicked Blow - Having masted Dark style strikes, the user lands a fierce blow on a Target in Melee Range with a Standard Test, dealing 4 Physical Damage; the user then rolls 2 Disadvantage Tests and for each successful Test, this Move deals an extra 4 Physical Dark Damage
-
 - Baddy Bad - The user acts bad before blasting a Target within 30ft with a Standard Test, dealing 4 Magic Dark Damage. Afterwards, a wall of light is put up to weaken the power of enemy Physical damage by 25%.
-
 - Crunch - The user crunches their teeth around their Target within Melee Range with a Standard Test, dealing 4 Physical Dark Damage and lowering their Physical Defence by -1.
-
 - Dark Pulse - The user releases an aura filled with dark thoughts at a Target within line-of-sight with a Standard Test, dealing 4 Magic Dark Damage; after the attack hits, the enemy performs a Disadvantage Test or suffer Flinching.
-
 - False Surrender - The user pretends to bow their head, but instead stabs the target with their hair within Melee Range, dealing 4 Physical Dark Damage. This attack never misses.
-
 - Jaw Lock - The user grabs a Target within Melee Range with a Standard Test and prevents both themselves and their target from swapping places with an ally or moving away, both locked in combat until one of them faints; the Target then takes 4 Physical Dark Damage. The only way to escape this grab is teleportation, the Pokemon being swapped out with another Pokemon, or the user being knocked away.
-
 - Throat Chop - The user chops the Target’s throat within Melee Range with a Standard Test, dealing 4 Physical damage and preventing them from using any sound-based attacks for 2 turns.
-
 - Wicked Torque - The user revs their engines before driving and slamming their entire body into an area up to the speed of their movement that their body can fit into, hitting everyone along the way and smacking away everyone in the space they land in 10ft away, dealing 4 Physical Dark Damage to all hit; if this Move hits, the Targets must perform a Disadvantage Test or suffer Sleep; this move can only be used by a Starmobile and can only move up to the user’s unused Movement. If this move hits, the Target must make a Disadvantage Test or suffer Sleep.
-
 - Darkest Lariat - The user swings both arms and hits all creatures in a 5ft radius with a Standard Test, dealing 5 Physical Dark Damage; this Move ignores the stat changes that buff or debuff the Target.
-
 - Kowtow Cleave - The user kowtows before slashing at a Target within Melee Range, dealing 5 Physical Dark Damage; this Move never misses.
-
 - Night Daze - The user lets loose a pitch-black shock wave towards a target within line of sight, dealing 5 Magic Dark Damage; after the attack hits, the target must roll a Disadvantage or suffer having their accuracy lowered by 1 Category.
-
 - Fiery Wrath - The user transforms their warth into a fire-like aura and attacks all enemies in a 10ft radius of them with a Standard Test, dealing 5 Magic Dark Damage to all within the circle; all targets hit must make a Disadvantage Test or suffer Flinching.
-
 - Foul Play - The user attacks a Target within Melee Range with a Standard Test and deals 5 Physical Dark Damage to them; the more points the Target has to their Physical Damage Buff, this attack adds that number to its damage-output.
-
 - Hyperspace Fury - The user unleashes a barrage of attacks within Melee Range that ignore moves like Protect and Detect with an Advantage Test, dealing 5 Physical Dark Damage to the Target and also causing the user’s Physical Defences to lower by -2
-
 - Aura Wheel - Moropeko attacks and raises their Initiative by +1 and their Movement by +10ft before charging at a Target within line-of-sight with a Standard test, dealing 6 Physical Dark Damage. This move’s typing changes with the user’s form.
-
-
-# Dragon
-
+### Special Moves
+- Black Hole Eclipse - The user gathers dark energy using its Z-Power and sucks the target into it. Damage explained in Z-Move Power Explanations. Deals Physical or Magical Damage, whichever's higher after Buffs.
+- G-Max One Blow - A dark-type attack that Gigantamax Urshifu uses with a Range of 100ft and hits 1 Pokemon and 1 adjacent to it. This Move can ignore Max Guard. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs.
+- G-Max Snooze - A dark-type attack that Gigantiamax Grimmsnarl uses with a 50ft radius around the user. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs.
+- Max Darkness - A dark-type atack Dynamax POkemon use with a range of 300ft and diameter of 25ft. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs. This Move lowers the Magic Resistance of every Target hit within the radius.
+- 
+## Dragon
+### Normal Moves
 - Clangorous Soul - The user exchanges 30% of their Max HP in order to raise their Magic and Physical Damage by +1, Magic and Physical Defence by +1, Initiative by +1, and Movement by +5ft.
 
 - Dragon Dance - The user performs a mystic, powerful dance, raising their Physical Damage by +2 while improving their Movement by +10.
@@ -221,10 +173,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Roar of Time - The user blasts a Target within line of sight with power that distorts time with an Advantage Test, dealing 8 Magic Dragon Damage. After using the Move, the user can’t move on their next turn.
 
 - Eternabeam - Eternatus uses a massive beam to attack all in a straight line with a Standard Test, dealing 8 Magic Dragon Damage to all caught up in the line of fire. After using the Move, the user can’t move on their next turn.
+### Special Moves
 
 
-# Electric
-
+## Electric
+### Normal Moves
 - Charge - The user boosts the power of Electric Moves on its next turn by 1.5x rounded down. This move also raises the user’s Magic Defence by +1.
 
 - Eerie Impulse - The user generates an eerie impulse and exposes it to the Target within 15ft with a Disadvantage Test, with success reducing their Magic Damage by -3.
@@ -306,8 +259,8 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Bolt Strike - The user surrounds themselves with a great amount of electricity before charging at a target within 30ft with a Standard Test; all enemies along the path of the user’s attack are also considered hit if the attack were to land, dealing 7 Physical damage to all hit. All targets who’re hit must roll a Standard test, lest they be Paralyzed by the attack.
 
 
-# Fairy
-
+## Fairy
+### Normal Moves
 - Aromatic Mist - The user raises the Magic Defence of an ally within 15ft by +1 using a mysterious aroma. 
 
 - Baby-Doll Eyes - The user stares at a target with baby-doll eyes within 15ft, causing the target to suffer a -1 Physical damage debuff. This move always goes first during Counters or Clashes.
@@ -363,10 +316,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Fleur Cannon - The user attacks with a strong beam with a Standard Test, hitting a 5ft-Radius circle AOE of the user’s choice before dealing 7 Magic Fairy Damage to all within the AOE. The user’s Magic Damage is then debuffed by -3.
 
 - Light of Ruin - With a Standard Test, the user fires a powerful beam of light that damages in a straight line before exploding with a 5ft radius around the line of attack, each AOE counting as a separate hit that deals 7 Magic Fairy Damage to anyone within the AOE. Creatures hit by the attack must make a Disadvantage Test or be blown 25ft away from their current position- backwards by the center of the beam, and sideways by the latter-explosion; if the target were to hit a wall before moving the full distance from the knockback, the target takes 7 Physical Fairy Damage for each 5ft left needed to traverse. Those 10ft away from the after-explosion must make a Standard Test or be blasted back 10ft. After the user unleashes the attack, the user takes 10% Max Health damage and temporarily has 20% of their Max Health cut off from their Original Total Health; every increment of this effect can only be healed by absorbing another creature of intense power into their being (normally a Legendary Pokemon or powerful non-Legendary), or absorbing over 200 points worth of damage from non-Normal-Type attacks.
+### Special Moves
 
 
-# Fighting
-
+## Fighting
+### Normal Moves
 - Bulk Up - The user tenses their muscles and increases their Physical Damage and Defence by +1 for the rest of battle.
 
 - Coaching - The user coaches their ally within line of sight, boosting their Physical Damage and Defence by +1.
@@ -472,10 +426,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Focus Punch - The user waits to focus their next attack upon a Target within 5ft before unleashing their attack with a Standard Test, dealing 8 Physical Fighting Damage; if the user decides to wait 1 or multiple turns to charge up their attack, when they unleash the attack upon the Target the damage is multiplied by the number of turns that went by the initial turn this attack was set to charge up; during any point at which the user were to be hit by an attack while charging, the user must make an Advantage Test to remain focused from the hit as to keep up their stance and charge, and with each subsequent hit until the user’s hit, the Test Requirement becomes harder and harder until it becomes only Disadvantage Tests with only successes on 6s; with each failure, the user may opt to give up the charge and regain only a Single Action for their current turn, or they may suffer scaling True damage that scales with the number of failed Tests and not gain a damage bonus in order to keep the charge for another roll next turn.
 
 - Meteor Assault - The user focuses their attack into a single strike with their Leek before charging and thrusting forwards with a powerful, unwavering attack with a Standard Test, hitting every target who the User charges through once dealing 8 Physical Fighting Damage and leaving the user in any unoccupied space in that line; after using this move, the user is unable to Move.
+### Special Moves
 
 
-# Fire
-
+## Fire
+### Normal Moves
 - Heat Crash- The user slams its target with its flame-covered body within 15ft dealing the minimum of 1 Physical Fire Damage +1 extra for each size level the user has over the target; for every 30kg(66.1lbs) the user weighs more than the Target of this attack, this Move deals +1 additional Physical damage.
 
 - Sunny Day -  Makes the weather sunny for five turns. When sunny, Fire-type moves are more powerful. All Fire-Type Moves while Sunny Day is active have their damage increased by 50%.
@@ -561,10 +516,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Shell Trap - The user sets a shell trap for 1 turn with a Standard Test and can’t move while using the Move. If the user is hit by a Physical Move during that time, the user will take no damage from the attack and the trap will explode and inflict 8 Magic Fire Damage on the attacker and others within a 5ft cone. 
 
 - V-create - The user does a Standard Test to emit a hot flame from its forehead and hurls itself at the target within 25ft to inflict 9 Magic Fire Damage while also hitting all diagonal spaces 5ft from the Target; this also lowers the user's Physical and Magic Defence, and Initiative.
+### Special Moves
 
 
-# Flying
-
+## Flying
+### Normal Moves
 - Defog - The user creates a strong wind that blows away Reflect and Light Screen in an area around the Target of this Move while lowering their Dodge with a Rank-Down.
 
 - Feather Dance - The user covers the Target’s body with a ton of feathers, causing the Target’s Physical damage to go down by -3.
@@ -620,10 +576,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Dragon Ascent - The user flies up high into the sky before dropping down at high speeds to impact against a Target within the user’s Movement with a Standard Test, dealing 6 Physical damage; after using this move, regardless of hitting or missing, this lowers the user’s Physical and Magic Defences by -1.
 
 - Sky Attack - The user spends a turn flying high up into the air before coming back down to strike a Target that was originally within Melee Range with a Standard Test, landing in a spot around the target and dealing 7 Physical damage; for every 6 rolled by the Test, the damage of the Move is increased by an additional 7 Physical damage, and when the attack manages to hit its Target, the Target must perform a Disadvantage Test or suffer Flinching.
+### Special Moves
 
 
-# Ghost
-
+## Ghost
+### Normal Moves
 - Confuse Ray - A Target within line-of-sight is exposed to a sinister ray that causes Confusion.
 
 - Curse - The user inflicts a curse upon a Target within line-of-sight by concentrating with a Standard Test and dealing 10% Max HP damage to the Target while taking 5% Max HP damage and also applying a Unique Curse condition to them; while the Target is inflicted with the Curse condition, the user may opt to concentrate and perform the Curse upon their Target again with a Standard Test regardless of where or whenever the Target currently is in space and time, dealing the same amount of damage; if the user is not a ghost-type or if they suddenly become a ghost-type during combat, when Targeting a creature with this Move, the user randomly targets all units on the field with the Move.
@@ -679,10 +636,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Astral Barrage - The user summons a bunch of small ghosts to descend from above them with a Standard Test before they swerve outwards in a 10ft radius, dealing 6 Magic damage to all enemies hit.
 
 - Shadow Force - The user envelops themselves in a shadowy aura before disappearing from sight for 1 turn, then on the next turn, after moving up to their Movement, if there’s a Target within Melee Range, perform a Standard Test to deal 6 Physical damage in a 5ft cone; this move hits its mark even if the Target protects themselves/is protected.
+### Special Moves
 
 
-# Grass
-
+## Grass
+### Normal Moves
 - Aromatherapy - The user releases a familiar soothing scent that heals all party members of their status conditions.
 
 - Cotton Guard - The user wraps itself in soft cotton, increasing their Physical Defence by +3 
@@ -788,10 +746,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Chloroblast - The user launches its amassed chlorophyll at a Target within line-of-sight with a Standard Test, dealing 8 Magic Damage; this Move then deals 10% of the user’s Max HP as damage to themselves.
 
 - Frenzy Plant - The user slams the roots of an enormous tree down upon a Target in line-of-sight with an Advantage Test, dealing 8 Magic Damage; the user can’t move after using this Move.
+### Special Moves
 
 
-# Ground
-
+## Ground
+### Normal Moves
 - Fissure - The user attacks the ground before creating a fissure underneath a random Target on the battlefield with a Disadvantage Test with successes only on 6s; if the attack lands, the Target is instantly KO’d from combat, this move’s accuracy can’t be improved by improving the user’s accuracy, and any creature that’s flying or levitating can avoid this Move entirely.
 
 - Magnitude - The user attacks everything on the battlefield with a ground-shaking quake with 10 Disadvantage Tests; for each success, all units take 2 damage per-success; this attack can’t be modified by Damage buffs; this move can be avoided by flying or levitating.
@@ -847,10 +806,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Headlong Rush - The user charges in a straight line towards a Target within line-of-sight with a Standard Test, dealing 6 Physical damage to the Target before taking their space and pushing the target back 10ft; if the Target is hit by the Move, they must perform a Disadvantage Test or lower their Physical and Magic Defences by -1, with a miss causing the user speed 10ft past.
 
 - Precipice Blades - The user performs a Standard Test to create a 25ft-radius AOE around themselves that spawns forth blades of stone, dealing 6 Physical damage to all within the range.
+### Special Moves
 
 
-# Ice
-
+## Ice
+### Normal Moves
 - Aurora Veil - The user creates an aurora in the air above the battlefield, reducing Physical and Magic damage by 25%, but this Move can only be used while it’s snowing.
 
 - Chilly Reception - The user tells a chillingly bad joke before switching places with a party member or a Pokemon in waiting, creating a snowstorm like the Move Hail.
@@ -910,10 +870,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Freeze Shock - The user spends a turn charging their energy before unleashing electrically charged ice upon a single Target within line–of-sight with a Standard Test, dealing 7 Physical damage; the Target must then perform a Disadvantage Test or suffer Paralysis.
 
 - Ice Burn - The user spends a turn charging their energy before unleashing an ultracold freezing wind upon a single Target within line–of-sight with a Standard Test, dealing 7 Magic damage; the Target must then perform a Disadvantage Test or suffer Burn.
+### Special Moves
 
 
-# Normal
-
+## Normal
+### Normal Moves
 - Acupressure - The user applies pressure to their or an ally's stress points within Melee Range, boosting their Physical and Magic Damage and Defence, and Initiative by +2.
 
 - After You - The user offers any Target on the field to use their Move right after them on their Turn, essentially giving the Target an extra Action or to use their Move earlier than intended.
@@ -1295,10 +1256,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Self-Destruct - The user attacks everything within a 25ft radius with an explosion, dealing 10 Physical Normal Damage and causing the user to faint after using this Move.
 
 - Explosion - The user attacks everything around it within a 30ft radius with a tremendous explosion, dealing 13 Physical Normal Damage and causing the user to faint after using this Move.
+### Special Moves
 
 
-# Poison
-
+## Poison
+### Normal Moves
 - Acid Armor - The user alters their molecular structure, increasing their Physical Defence by +2.
 
 - Baneful Bunker - The user protects themselves from all Moves made towards them, and any Physical attacker that attacks the user with their Melee Range inflicts the Poisoned status upon them.
@@ -1362,10 +1324,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Belch - The user unleashes a hellish belch at a Target within 15ft with a Standard Test, dealing 6 Magic damage; the user must consume food they have in-hand to use this Move.
 
 - Gunk Shot - The user shoots filthy garbage at a Target within line-of-sight with a Standard Test, dealing 6 Physical damage, the Target must then perform a Disadvantage Test or suffer Poison.
+### Special Moves
 
 
-# Psychic
-
+## Psychic
+### Normal Moves
 - Agility - The user increases their Movement by +5ft.
 
 - Ally Switch - The user switches places with an ally within line-of-sight. Every usage after the first starts requiring a Test, starting with Advantage; every successful usage reduces the next Test by 1 category down to a Disadvantage Test succeeding only on 6s. After failing a Test, the next test performed starts at Standard before going down to successive tests.
@@ -1513,10 +1476,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Prismatic Laser - The user shoots powerful lasers from a prism at a Target within line-of-sight with a Standard Test, dealing 8 Magic damage; the user can’t Move on the next Round after this Move.
 
 - Light That Burns the Sky - The user attacks a Target within line-of-sight with a Standard Test, dealing 10 Magic damage; this Move can deal either Physical or Magic Damage depending on which Damage is higher after Buffs; this move als ignores the Target’s Abilities.
+### Special Moves
 
 
-# Rock
-
+## Rock
+### Normal Moves
 - Rock Polish - The user polishes itself to reduce drag, increasing their Initiative by +2 while increasing their Movement by 5ft.
 
 - Sandstorm - The user conjures a 5-turn sandstorm over a 20-square radius with them at the circle of the phenomenon, dealing 4% Max HP damage each Round to every Pokemon (not including non-pokemon unless they’re not wearing armor) unless they’re Rock, Ground, and/or Steel Type. Also, during the duration of the effect, all Rock-type Pokemon gain a 25% boost to Magic Defence.
@@ -1558,9 +1522,11 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Head Smash - The user attacks a Target within Melee Range before launching a full-power headbutt with a Standard Test, dealing 8 Physical damage; the user then takes 25% of the damage they dealt as recoil damage.
 
 - Rock Wrecker - The user launches a massive boulder at a Target within 30ft with a Standard Test, dealing 8 Physical damage; if successful, this move buries its Target underneath the boulder and pins them to the floor, leaving them unable to move, fly, or teleport, leaving them only able to attack, push off, or escape the boulder while it’s still on top of them. After using the Move, the user is unable to do anything for 1 Round.
+### Special Moves
 
-# Steel
 
+## Steel
+### Normal Moves
 - Autotomize - The user sheds part of its body to make itself lighter and faster, increasing its Initiative by 2 and Movement by +10ft.
 
 - Gear Up - The user engages their gears to raise the Physical and Magical damage of an ally Pokemon with the Plus or Minus Ability by +1.
@@ -1622,10 +1588,10 @@ Most moves are performed as a Standard Test unless specified otherwise.
 - Steel Beam - The user fires a beam of steel collected from its entire body and converting it into energy, launching an attack with a Standard Test that continues to fire in a straight line until it hits a large creature (2x2), object, or wall, dealing 7 Magic damage; after firing the attack, the user takes 5% Max HP damage.
 
 - Gigaton Hammer - The user performs a wild wind-up before attacking a Target within 10ft with their hammer with a Standard Test, dealing 8 Physical damage; this move can’t be used twice in a row.
+### Special Moves
 
-
-# Water
-
+## Water
+### Normal Moves
 - Aqua Ring - The user envelopes itself in a veil made of water. It regains 1/16 of max HP on every turn. If they are holding a Big Root the amount is increased by 30%. 
 
 - Life Dew - The user scatters mysterious water around a 10x10ft square and restores 25% of maximum HP to itself and its ally Pokémon in the battle.  
@@ -1712,4 +1678,5 @@ Most moves are performed as a Standard Test unless specified otherwise.
 
 - Hydro Cannon - The user blasts a powerful torrent of water in a straight line with a Standard Test and pushing all Targets within the line backwards until they either hit a wall or until the last target is 50ft away from the User, dealing 8 Magic damage to all hit by this attack and dealing an additional 2 Physical damage to all Targets who collide against each other, plus an additional 2 Physical damage to all Targets if the last Target hits a wall; after the user finishes using this move, they must skip their next turn due to the sheer power of this move.
 
-- Water Spout - The user shoots out a large spout of water into the air which attacks anything on top of the user and in a 15x15ft area of the user’s choice, dealing 8 Magic damage; for every 20% of Max HP missing, reduce the damage of this move by 20%. 
+- Water Spout - The user shoots out a large spout of water into the air which attacks anything on top of the user and in a 15x15ft area of the user’s choice, dealing 8 Magic damage; for every 20% of Max HP missing, reduce the damage of this move by 20%.
+### Special Moves
