@@ -78,7 +78,19 @@ Your Character Sheet(s) are done! Get ready for one of the simplest TTRPG games 
 
 
 # Combat Actions
+## Move Cooldowns
+During Combat, certain Moves will be limited with how often you can use them in-Combat by putting them on Cooldown. The more Powerful a Move is, the longer it takes for it to come off Cooldown. This is represented with the following chart (Base Power, without S.T.A.B.):
+- 1-2 Damage - No Cooldown
+- 3-4 Damage - 1 Round Cooldown
+- 5-6 Damage - 2 Round Cooldown
+- 7-8 Damage - 3 Round Cooldown
+- 9-10 Damage - 4 Round Cooldown
+- 11-12 Damage - 5 Round Cooldown
+- 13-14 Damage - 6 Round Cooldown
+## Critical hits
+Moves that perform a Critical Hit deal extra Damage if a Move rolls a 6 during its Test to hit, with each 6 rolled increasing the Damage the Move deals by the Base Power + S.T.A.B. (E.g. If a Grass Pokemon hits a Rock Pokemon with a Grass Move for 4 Damage, the attack deals 12 Damage (+4 for Weakness, +4 for half of 8 for S.T.A.B.) normally, but as a Crit it deals 24 Damage).
 
+Normally, it's impossible for a Move to randomly perform a Critical Hit, but certain Moves have the ability to Crit unlike the majority of Moves, and certain Move Effects or Item Effects can help increase the user's Crit Rate by increasing the number of sides on the Die. are needed to succeed the roll (E.g. Focus Energy normally makes all Moves able to Crit, but Moves that already Crit go from being able to Crit on only 6s to being able to crit from 5-6.)
 ## Trainer Actions
 - Move (1 Action) - Move up to 25ft; can be used 2 times.
 - Sprint (2 Actions) -  Quickly dash up to 100ft.

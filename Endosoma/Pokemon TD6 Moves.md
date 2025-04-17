@@ -120,7 +120,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 - Black Hole Eclipse - The user gathers dark energy using its Z-Power and sucks the target into it. Damage explained in Z-Move Power Explanations. Deals Physical or Magical Damage, whichever's higher after Buffs.
 - G-Max One Blow - A dark-type attack that Gigantamax Urshifu uses with a Range of 100ft and hits 1 Pokemon and 1 adjacent to it. This Move can ignore Max Guard. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs.
 - G-Max Snooze - A dark-type attack that Gigantiamax Grimmsnarl uses with a 50ft radius around the user. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs.
-- Max Darkness - A dark-type atack Dynamax POkemon use with a range of 300ft and diameter of 25ft. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs. This Move lowers the Magic Resistance of every Target hit within the radius.
+- Max Darkness - A dark-type attack Dynamax POkemon use with a range of 300ft and diameter of 25ft. Deals damage to 100% of Physical or Magical Damage, whichever's higher after Buffs. This Move lowers the Magic Resistance of every Target hit within the radius.
 - 
 ## Dragon
 ### Normal Moves
@@ -397,7 +397,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Thunderous Kick -  The user overwhelms a target within 20ft with lightning-like movement before delivering a powerful kick that deals 5 Physical Fighting Damage and lowers their Physical Defence by -1.
 
-- Triple Arrows - The user performs an axe kick before firing 3 arrows at a Target within 15ft with a Standard Test, dealing a total of 5 Physical Fighting Damage; for every 6 rolled during the Test, the damage of this move is increased by 5 Physical Fighting Damage, and if the Move hits, rolling a d4, one of 4 thing can happen: 1 does nothing, 2 lowers the Target's Physical Defence by -1, 3 causes the Target to Flinch, and 4 rerolls the dice until a different result is given.
+- Triple Arrows - The user performs an axe kick before firing 3 arrows at a Target within 15ft with a Standard Test, dealing a total of 5 Physical Fighting Damage; this Move can Crit, each hit Crits individually, and if the Move hits, rolling a d4, one of 4 thing can happen: 1 does nothing, 2 lowers the Target's Physical Defence by -1, 3 causes the Target to Flinch, and 4 rerolls the dice until a different result is given.
 
 - Collision Course - The user transforms and crashes into the ground in an area within line of sight with a Standard Test, causing a massive prehistoric explosion within a 20ft radius around them that deals 5 Physical Fighting Damage; if the move is super effective, the total damage after multiplying by super effectiveness against a target normally is then multiplied by 2x again; if the move fails, the damage prior to Type-effectiveness is halved and must now roll 2 d12s to see where their new destination lands on the map with 6 and 7 placing them in a spot around their target.
 
@@ -563,7 +563,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Fly - The user spends a turn flying high up into the sky, becoming untouchable to most attacks before striking a Target within the user’s Movement on the next turn with a Standard Test, dealing 5 Physical damage.
 
-- Aeroblast - The user launches a Vortex of air at a target within line-of-sight with a Standard Test, dealing 5 Magic damage; for every 6 rolled during the Test, increase the damage of this Move by an additional 5 Magic damage.
+- Aeroblast - The user launches a Vortex of air at a target within line-of-sight with a Standard Test, dealing 5 Magic damage; this Move can Crit.
 
 - Beak Blast -The user spends a turn charging up heat inside its beak before later assaulting a Target within Melee Range with its beak with a Standard Test, dealing 5 Physical damage; if a Target hits the user with a Physical Move or gets hit by the user while they’re charging or attacking with the Move, the Target ends up suffering a Burn.
 
@@ -575,7 +575,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Dragon Ascent - The user flies up high into the sky before dropping down at high speeds to impact against a Target within the user’s Movement with a Standard Test, dealing 6 Physical damage; after using this move, regardless of hitting or missing, this lowers the user’s Physical and Magic Defences by -1.
 
-- Sky Attack - The user spends a turn flying high up into the air before coming back down to strike a Target that was originally within Melee Range with a Standard Test, landing in a spot around the target and dealing 7 Physical damage; for every 6 rolled by the Test, the damage of the Move is increased by an additional 7 Physical damage, and when the attack manages to hit its Target, the Target must perform a Disadvantage Test or suffer Flinching.
+- Sky Attack - The user spends a turn flying high up into the air before coming back down to strike a Target that was originally within Melee Range with a Standard Test, landing in a spot around the target and dealing 7 Physical damage; this Move can Crit, and when the attack manages to hit its Target, the Target must perform a Disadvantage Test or suffer Flinching.
 ### Special Moves
 
 
@@ -723,7 +723,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Energy Ball - The user gathers a ball of energy from nature before firing it at a Target within line-of-sight, dealing 5 Magic Damage; if the move Hits, the Target must make a Disadvantage Test or suffer a -1 to their Magic Defence.
 
-- Leaf Blade - The user handles a sharp leaf like a sword and cuts a Target within Melee Range with a Standard Test, dealing 5 Physical Damage; for every 6 rolled during the Test, this Move deals 5 more Physical Damage.
+- Leaf Blade - The user handles a sharp leaf like a sword and cuts a Target within Melee Range with a Standard Test, dealing 5 Physical Damage; this Move can Crit.
 
 - Petal Blizzard - The user stirs up a violent petal blizzard around themselves and damages everything within a 10ft radius, dealing 5 Physical Damage to everything caught in the zone.
 
@@ -933,7 +933,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Flash - The user flashes a bright light that reduces the accuracy of Moves to Hit by -1 Category against all enemies within line-of-sight, all Targets making a Disadvantage Test to negate the effect; this effect is ignored by creatures without eyes, are blind, or are unable to see anything.
 
-- Focus Energy - The user focuses itself intensely, making all of their Tests that land on 6s on Moves that deal damage deal extra base damage based off the Move and the user's boosted stats; if a Move already has this effect in its description, the Test is instead increased by +1 Category.
+- Focus Energy - The user focuses itself intensely, making all damaging Moves be able to Crit; if a Move can already Crit, the difficulty to land a Crit decreases by +1.
 
 - Follow Me - The user draws attention to themselves, making all enemy Targets within line-of-sight of the user during the usage of this Move will Target their next Move(s) during their Turn at the user.
 
@@ -971,7 +971,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Lovely Kiss - With a scary face, the user tries to kiss a Target within Melee Range with a Standard Test; if successful, the Target falls unconscious with the Sleep condition.
 
-- Lucky Chant - The user chants an incantation to the sky, preventing opposing Pokemon from dealing extra damage on Moves that deal every damage for every 6 you roll on a Test for 5 turns.
+- Lucky Chant - The user chants an incantation to the sky, preventing opposing Pokemon from dealing Crit Damage for 5 turns.
 
 - Me First - The user cuts ahead of a Target to use the Target's intended Move with 50% greater power whilst choosing another Target for the Move if they wish; if the Target is an enemy Pokemon, the user must succeed a Disadvantage Test or fail to use the Move; if the Target is an ally, as long as the ally consents to the mimicry, the Move can be used without needing to perform a Test; this Move fails to work if the Target has a higher Initiative, or if during a Clash
 
@@ -1515,7 +1515,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Diamond Storm - The user whips up a storm of diamonds around themselves, damaging all who stand 5ft above, below, or around of them with a Standard Test, dealing 5 Physical damage to all hit; the user must then make a Disadvantage Test, and if successful, their Physical Defence is boosted by +2.
 
-- Stone Edge - The user chooses a space on the field within or under a Target enemy in a straight line before punching the ground and sending wave after wave of sharpened stones that rise out of the ground with a Standard Test, dealing 5 Physical damage to every unit occupying the space but can only hit once per-target; for every 6 rolled during the Test, the damage is increased by an additional 5 Physical damage. This move can’t be used on steel surroundings, can hit aerial targets, and leave pillars of rock that say on the field until the end of combat. 
+- Stone Edge - The user chooses a space on the field within or under a Target enemy in a straight line before punching the ground and sending wave after wave of sharpened stones that rise out of the ground with a Standard Test, dealing 5 Physical damage to every unit occupying the space but can only hit once per-target; this move can Crit. This move can’t be used on steel surroundings, can hit aerial targets, and leave pillars of rock that say on the field until the end of combat. 
 
 - Meteor Beam - The user gathers energy from space on its first turn of this move, boosting their Magic damage by +1, before unleashing a beam attack in a straight line on their next turn with a Standard Test, continuing until the attack hits a Target or hits an object/surrounding environment, dealing 6 Magic damage.
 
@@ -1666,7 +1666,7 @@ Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 
 - Surf - The user creates a 15ft wide wave that they ride upon to attack everything in a straight line with a Standard Test, dealing 5 Magic damage to all hit before letting the user land upon an unoccupied space within that line.
 
-- Crabhammer - The user hammers a Target within Melee Range with their large pincer with a Standard Test, dealing 5 Physical damage; for every 6 rolled on the Test, the damage is increased by 5 Physical damage.
+- Crabhammer - The user hammers a Target within Melee Range with their large pincer with a Standard Test, dealing 5 Physical damage; this Move can Crit.
 
 - Hydro Pump - The user blasts a Target and optionally 1 nearby Target within line-of-sight with a Standard Test, dealing 6 Magic damage to all hit.
 
