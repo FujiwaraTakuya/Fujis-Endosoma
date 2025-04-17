@@ -154,71 +154,127 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 - Fluffy Tail - Wiggle-waggles, bounces, and jumps up!; roll a Standard Test to distract a group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against small Pokemon, whilst Testing at Disadvantage against larger Pokemon.
 - Poke Toy - Poofy and flows curiously; roll a Standard Test to distract a Group of Pokemon from combat and allow the party to escape an Encounter. Tests at Advantage against Feline Pokemon. Can also be used in Combat to distract all Pokemon in line-of-sight with a Disadvantage Test, whilst they make a Standard Test to resist, or focus their attacks at the user for 1 Turn.
 ### Evolution Items
-#### Direct use
+#### Direct use (Making contact and willingly absorbing into body)
 ##### Non-Stones
-- Black Augurite (Unpurchasable) - 
-- Chipped Pot (Unpurchasable) - 
-- Cracked Po (Unpurchasable)t - 
-- Galarica Cuff - 
-- Peat Block - 
-- Sweet Apple - 
-- Tart Apple - 
-- Auspicious Armor - 
-- Malicious Armor - 
-- Masterpiece Teacup (Unpurchasable) - 
-- Metal Alloy - 
-- Scroll of Darkness (Unpurchasable) - 
-- Scroll of Waters (Unpurchasable) - 
-- Syrupy Apple - 
-- Unremarkable Teacup - 
+- Auspicious Armor - Evolutionary item for Charcadet; evolves them into Armarouge
+- Black Augurite (Unpurchasable) - Evolutionary item for Scyther; evolves them into Kleavor
+- Chipped Pot (Unpurchasable) - Evolutionary item for Sinistea, Antique; evolves them into Polteageist, Antique Form
+- Cracked Pot (Unpurchasable)t - Evolutionary item for Sinistea, Phony Form; evolves them into Polteageist, Phony Form
+- Galarica Cuff - Evolutionary item for Slowpoke, Galarian Form; evolves them into Slowbro, Galarian Form
+- Galarica Wreath - Evolutionary item for Slowpoke, Galarian Form; evolves them into Slowking, Galarian Form
+- Malicious Armor - Evolutionary item for Charcadet; evolves them into Ceruledge
+- Masterpiece Teacup (Unpurchasable) - Evolutionary item for Poltchageist, Artisan Form; evolves them into Sinistcha, Masterpiece Form
+- Metal Alloy - Evolutionary item for Duraludon; evolves them into Archaludon
+- Peat Block - Evolutionary item for Ursaring; evolves them into Ursaluna
+- Scroll of Darkness (Unpurchasable) - Evolutionary item for Kubfu; evolves them into Urshifu, Single Strike Style
+- Scroll of Waters (Unpurchasable) - Evolutionary item for Kubfu; evolves them into Urshifu, Rapid Strike Style
+- Sweet Apple - Evolutionary item for Applin; evolves them into Appletun
+- Syrupy Apple - Evolutionary item for Applin; evolves them into Dipplin
+- Tart Apple - Evolutionary item for Applin; evolves them into Flapple
+- Unremarkable Teacup - Evolutionary item for Poltchageist, Counterfeit Form; evolves them into Sinistcha, Unremarkable Form
 ##### Stones
-- Fire Stone - 
-- Water Stone - 
-- Thunder Stone - 
-- Leaf Stone - 
-- Moon Stone - 
-- Sun Stone - 
-- Shiny Stone - 
-- Dusk Stone - 
-- Dawn Stone - 
-- Ice Stone - 
-#### Held
-- Deep Sea Scale - 
-- Deep Sea Tooth - 
-- Dragon Scale - 
-- Dubious Disc - 
-- Electirizer - 
-- King's Rock - 
-- Magmarizer - 
-- Metal Coat - 
-- Oval Stonev
-- Prism Scale - 
-- Protector - 
-- Razor Claw - 
-- Razor Fang - 
-- Reaper Cloth - 
-- Sachet - 
-- Upgrade - 
-- Whipped Dream - 
-- Strawberry Sweet - 
-- Love Sweet - 
-- Berry Sweet - 
-- Clover Sweet - 
-- Flower Sweet - 
-- Star Sweet - 
-- Ribbon Sweet - 
+- Fire Stone - Evolutionary item for the following Fire-Types:
+	- Vulpix - Ninetails
+	- Growlithe - Arcanine
+	- Hisuian Growlithe - Hisuian Arcanine
+	- Eevee - Flareon
+	- Pansear - Simisear
+	- Capsakid - Scovillain
+- Water Stone - Evolutionary item for the following Water-Types:
+	- Poliwhirl - Poliwrath
+	- Shellder - Cloyster
+	- Staryu - Starmie
+	- Eevee - Vaporeon
+	- Lombre - Ludicolo
+	- Panpour - Simipour
+- Thunder Stone - Evolutionary item for the following Electric-Types:
+	- Pikachu - Raichu (Outside Alola) / Alolan Raichu (In Alola)
+	- Magneton - Magnezone
+	- Eevee - Jolteon
+	- Nosepass - Probopass
+	- Eelektrik - Eelektross
+	- Chargabug - Vikavolt
+	- Tadbulb - Bellibolt
+- Leaf Stone - Evolutionary item for the following Grass-Types:
+	- Gloom - Vileplume
+	- Weepinbell - Victreebel
+	- Exeggcute - Exeggutor (Outside Alola) / Alolan Exeggutor (In Alola)
+	- Hisuian Voltorb - Hisuian Electrode
+	- Eevee - Leafeon
+	- Nuzleaf - Shiftry 
+	- Pansage - Simisage
+- Moon Stone - Evolutionary item for the following Pokemon:
+	- Nidorina - Nidoqueen
+	- Nidorino - Nidoking
+	- Clefairy - Clefable
+	- Jigglypuff - Wigglytuff 
+	- Skitty - Delcatty
+	- Munna - Musharna
+- Sun Stone - Evolutionary item for the following Pokemon:
+	- Gloom - Bellossom
+	- Sunkern - Sunflora
+	- Cottonee - Whimsicott
+	- Petilil - Lilligant (Outside Hisui) / Hisuian Lilligant (In Hisui)
+	- Helioptile - Heliolisk
+- Shiny Stone - Evolutionary item for the following Pokemon:
+	- Togetic - Togekiss
+	- Roselia - Roserade
+	- Minccino - Cinccino
+	- Floette - Florges
+- Dusk Stone - Evolutionary item for the following Pokemon:
+	- Murkrow - Honchkrow
+	- Misdreavus - Mismagius
+	- Lampent - Chandelure
+	- Doublade - Aegislash
+- Dawn Stone - Evolutionary item for the following Fire-Types:
+	- Kirlia - Gallade
+	- Snorunt - Froslass
+- Ice Stone - Evolutionary item for the following Fire-Types:
+	- Alolan Sandshrew - Alolan Sandslash
+	- Alolan Vulpix - Alolan Ninetales
+	- Eevee - Glaceon
+	- Galarian Darumaka - Galarian Darmanitan
+	- Crabrawler - Crabominable 
+	- Cetoddle - Cetitan
+#### Held (Conditional Evolution Items)
+- Berry Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Berry Sweet Flavour  by Spinning.
+- Clover Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Clover Sweet Flavour by Spinning.
+- Deep Sea Scale - Evolutionary item for Clamperl; evolves them into Gorebyss by Trading. During Combat, if held by a Clamperl, doubles its Magic Defence.
+- Deep Sea Tooth - Evolutionary item for Clamperl; evolves them into Huntail by Trading. During Combat, if held by a Clamperl, doubles its Magic Attack.
+- Dragon Scale - Evolutionary item for Seadra; evolves them into Kingdra by Trading. During Combat, Boosts the the Damage of Dragon-Type Moves by 10% when held.
+- Dubious Disc - Evolutionary item for Porygon2; evolves them into Porygon-Z by Trading.
+- Electirizer - Evolutionary item for Electabuzz; evolves them into Electivire by Trading.
+- Flower Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Flower Sweet Flavour by Spinning.
+- King's Rock - Evolutionary item for Poliwhirl; evolves them into Politoed by Trading. During Combat, grants all Attacking Moves a chance with a Disadvantage Test with success on only 6s to cause an enemy to Flinch, only flinching enemies on the final hit of an attack if it hits multiple times. With Moves that already have a chance to Flinch, increase the Test by +1 Category.
+- King's Rock - Evolutionary item for Slowpoke; evolves them into Slowking by Trading. During Combat, grants all Attacking Moves a chance with a Disadvantage Test with success on only 6s to cause an enemy to Flinch, only flinching enemies on the final hit of an attack if it hits multiple times. With Moves that already have a chance to Flinch, increase the Test by +1 Category.
+- Love Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Love Sweet Flavour by Spinning.
+- Magmarizer - Evolutionary item for Magmar; evolves them into Magmortar by Trading.
+- Metal Coat - Evolutionary item for Scyther; evolves them into Scizor by Trading. During Combat, Boosts the the Damage of Steel-Type Moves by 20% when held.
+- Oval Stone - Evolutionary item for Happiny; evolves them into Chansey by Spending EXP during the Day. During Combat, Boosts the the Damage of Steel-Type Moves by 20% when held.
+- Prism Scale - Evolutionary item for Feebas; evolves them into Milotic by Trading.
+- Protector - Evolutionary item for Rhydon; evolves them into Rhyperior by Trading.
+- Razor Claw - Evolutionary item for Sneasel; evolves them into Weavile by Spending EXP during the Night. During Combat, enables all attacks rolled to deal additional damage for each 6 rolled on the Test. For Moves that already gives this effect, the needed result is raised to 5 or 6.
+- Razor Claw - Evolutionary item for Sneasel, Hisuian Form; evolves them into Sneasler by Spending EXP during the Day.
+- Razor Fang - Evolutionary item for Gligar; evolves them into Gliscor by Spending EXP during the Night. During Combat, grants all Attacking Moves a chance with a Disadvantage Test with success on only 6s to cause an enemy to Flinch, having a chance to Flinch enemies on each hit of an attack if it hits multiple times. With Moves that already have a chance to Flinch, increase the Test by +1 Category.
+- Reaper Cloth - Evolutionary item for Dusclops; evolves them into Dusknoir by Trading.
+- Ribbon Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Ribbon Sweet Flavour by Spinning.
+- Sachet - Evolutionary item for Spritzee; evolves them into Aromatisse by Trading.
+- Star Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Star Sweet Flavour by Spinning.
+- Strawberry Sweet - Evolutionary item for Milcery; evolves them into Alcremie, Strawberry Sweet Flavour by Spinning.
+- Upgrade - Evolutionary item for Porygon; evolves them into Porygon 2 by Trading.
+- Whipped Dream - Evolutionary item for Swirlix; evolves them into Slurpuff by Trading.
 #### Battle Items
-- X Attack - 
-- X Defense - 
-- X Sp. Atk - 
-- X Sp. Def - 
-- X Speed - 
-- X Accuracy - 
-- X Dire Hit - 
-- Guard Spec. - 
+- X Attack - Raises the Physical Damage of a Pokemon by +2.
+- X Defense - Raises the Physical Defense of a Pokemon by +2.
+- X Sp. Atk - Raises the Magical Damage of a Pokemon by +2.
+- X Sp. Def - Raises the Magical Defense of a Pokemon by +2.
+- X Speed - Raises the Initiative of a Pokemon by +2.
+- X Accuracy - Decreases the difficulty of Tests by +2 Categories.
+- X Dire Hit - Makes all Attacking Moves deal more damage on a 5 or 6. does not stack with itself or Focus Energy.
+- Guard Spec. - Prevents Stat Reductions by Opponents' Moves for the User's Party for 5 Rounds.
 ##### Medicine
 ###### Healing
-- Potion (P$200/2sp 5c) - The common healing potion for Pokemon; heals them 2hp
+- Potion (P$200/2sp 5cp) - The common healing potion for Pokemon; heals them 2hp
 - Super Potion (P$700/8sp 8cp) - A stronger healing potion for Pokemon ; heals them 5hp
 - Hyper Potion (P$1,500/1gp 8s 8cp) - A very strong healing potion for Pokemon; heals them 20hp
 - Max Potion (P$2,500/3gp 1sp 3cp) - A potent healing potion for Pokemon; heals them to full HP.
@@ -232,24 +288,24 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 - Max Honey (P$4,000/5gp) - A special type of food only produced by a Dynamax Vespiqueen; revives a fainted Pokemon, then heals them back to full hp.
 
 ###### Status Healing
-- Antidote (P$200/2sp 5cp) - 
-- Awakening (P$200/2sp 5cp) - 
-- Burn Heal (P$200/2sp 5cp) - 
-- Full Heal (P$400/5sp) - 
-- Ice Heal (P$200/2sp 5cp) - 
-- Paralyze Heal (P$200/2sp 5cp) - 
-- Poke Flute (P$8,000/1plt) - 
-- Lava Cookie (P$350/4sp 5cp) - 
-- Old Gateau (P$1000/1gp 2sp 5cp) - 
-- Casteliacone (P$100/1sp 3cp) - 
-- Lumiose Galette (P$100/1sp 3cp) - 
-- Shalour Sable (P$100/1sp 3cp) - 
-- Big Malasada (P$350/4sp 5cp) - 
-- Pewter Crunchies (P$500/6sp 3cp) - 
+- Antidote (P$200/2sp 5cp) - Curse Poison.
+- Awakening (P$200/2sp 5cp) - Cures Sleep.
+- Big Malasada (P$350/4sp 5cp) - Heals all Conditions.
+- Burn Heal (P$200/2sp 5cp) - Cures Burn.
+- Casteliacone (P$100/1sp 3cp) - Heals all Conditions.
+- Full Heal (P$400/5sp) - Heals all Conditions.
+- Ice Heal (P$200/2sp 5cp) -  Cures Freeze.
+- Lava Cookie (P$350/4sp 5cp) - Heals all Conditions.
+- Lumiose Galette (P$100/1sp 3cp) - Heals all Conditions.
+- Old Gateau (P$1000/1gp 2sp 5cp) - Heals all Conditions.
+- Paralyze Heal (P$200/2sp 5cp) - Cures Paralysis.
+- Pewter Crunchies (P$500/6sp 3cp) - Heals all Conditions.
+- Poke Flute (P$8,000/1plt) - Cures Sleep. Specifically used to awaken naturally sleeping Creatures.
+- Shalour Sable (P$100/1sp 3cp) - Heals all Conditions.
 ###### Revival Items
-- Revive (P$2000/2gp 5sp) - 
-- Max Revive (P$5,000/6gp 2sp 5cp) - 
-- Sacred Ash (Unpurchasable) - 
+- Revive (P$2000/2gp 5sp) - Revives a Fainted Pokemon up to half of their Max HP.
+- Max Revive (P$5,000/6gp 2sp 5cp) -  Revives a Fainted Pokemon up to their Max HP.
+- Sacred Ash (Unpurchasable) - Revives all Fainted Pokemon in the Player's Party, including other allied Trainers' Pokemon, up to their Max HP.
 ###### Vitamins and Feathers
 - HP Up - 
 - Protein - 
@@ -275,74 +331,86 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 ###### Ability Capsules
 - Ability Capsule - 
 ##### Berries (Un-purchase unless in bulk)
-- Cheri Berry - 
-- Chesto Berry - 
-- Pecha Berry - 
-- Rawst Berry - 
-- Aspear Berry - 
-- Leppa Berry - 
-- Oran Berry - 
-- Persim Berry - 
-- Lum Berry - 
-- Sitrus Berry - 
-- Figy Berry - 
-- Wiki Berry - 
-- Mago Berry - 
-- Aguav Berry - 
-- Iapapa Berry - 
-- Razz Berry - 
-- Bluk Berry - 
-- Nanab Berry - 
-- Wepear Berry - 
-- Pinap  Berry - 
-- Pomeg Berry - 
-- Kelpsy Berry - 
-- Qualot Berry - 
-- Hondew Berry - 
-- Grepa Berry - 
-- Tamato Berry - 
-- Cornn Berry - 
-- Magost Berry - 
-- Rabuta Berry - 
-- Nomel Berry - 
-- Spelon Berry - 
-- Pamtre Berry - 
-- Watmel Berry - 
-- Durin Berry - 
-- Belue Berry - 
-- Occa Berry - 
-- Passho Berry - 
-- Wacan Berry - 
-- Rindo Berry - 
-- Yache Berry - 
-- Chople Berry - 
-- Kebia Berry - 
-- Shuca Berry - 
-- Coba Berry - 
-- Payapa Berry - 
-- Tanga Berry - 
-- Charti Berry - 
-- Kasib Berry - 
-- Haban Berry - 
-- Colbur Berry - 
-- Babiri Berry - 
-- Chilan Berry - 
-- Liechi Berry - 
-- Ganlon Berry - 
-- Salac Berry - 
-- Petaya Berry - 
-- Apicot Berry - 
-- Lansat Berry - 
-- Starf Berry - 
-- Enigma Berry - 
-- Micle Berry - 
-- Custap Berry - 
-- Jaboca Berry - 
-- Rowap Berry - 
-- Roseli Berry - 
-- Kee Berry - 
-- Maranga Berry - 
-- Hopo Berry - 
+- Aspear Berry - Cures Freeze.
+- Cheri Berry - Cures Paralysis.
+- Chesto Berry - Cures Sleep.
+- Drash Berry - Cures Poison.
+- Eggant Berry - Cures Infatuation.
+- Lum Berry - Cures all Conditions.
+- Pecha Berry - Cures Poison.
+- Persim Berry - Cures Confusion.
+- Pumkin Berry - Cures Freeze.
+- Rawst Berry - Cures Burn.
+- Touga Berry - Cures Infatuation.
+- Yago Berry - Cures Burn.
+- Leppa Berry - Reduces Cooldown of Moves on Cooldown by -1.
+- Oran Berry - Heals the consumer 10HP.
+- Sitrus Berry - Heals 25% of Max HP when HP falls below 50%.
+- Figy Berry - Heals 33% of Max HP when HP falls below 25%, but Confuses Pokemon that hate spicy food. Outside of Combat heals 50% HP. When fed to a Wild Pokemon, and it hates spicy flavours, makes them unable to Dodge Pokeballs for 1 Round.
+- Wiki Berry - Heals 33% of Max HP when HP falls below 25%, but Confuses Pokemon that hate dry food. Outside of Combat heals 50% HP. When fed to a Wild Pokemon, and it hates dry flavours, makes them unable to Dodge Pokeballs for 1 Round.
+- Mago Berry - Heals 33% of Max HP when HP falls below 25%, but Confuses Pokemon that hate sweet food. Outside of Combat heals 50% HP. When fed to a Wild Pokemon, and it hates sweet flavours, makes them unable to Dodge Pokeballs for 1 Round.
+- Aguav Berry - Heals 33% of Max HP when HP falls below 25%, but Confuses Pokemon that hate bitter food. Outside of Combat heals 50% HP. When fed to a Wild Pokemon, and it hates bitter flavours, makes them unable to Dodge Pokeballs for 1 Round.
+- Iapapa Berry - Heals 33% of Max HP when HP falls below 25%, but Confuses Pokemon that hate sour food. Outside of Combat heals 50% HP. When fed to a Wild Pokemon, and it hates sour flavours, makes them unable to Dodge Pokeballs for 1 Round.
+- Razz Berry - Makes not-in-combat Pokemon easier to catch for the next hour by lowering the number of Tests needed to Capture a Pokemon by -2/6/10 based upon the Rank of the Berry used; the effects of the berries can't stack upon each other, or themselves. Outside of Combat heals 33% HP.
+- Bluk Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Nanab Berry - Makes not-in-combat Pokemon easier to catch for the next hour by lowering the difficulty of Tests needed to Capture a Pokemon by +1/2/3 Categories based upon the Rank of the Berry used; the effects of the berries can't stack upon each other, or themselves. Outside of Combat heals 33% HP.
+- Wepear Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Pinap Berry - Makes not-in-combat Pokemon more likely to drop secret Held Items for the next hour by +1/2/3 Categories based upon the Rank of the Berry used; the effects of the berries can't stack upon each other, or themselves. Outside of Combat heals 33% HP.
+- Pomeg Berry - Lowers Consumer's Max HP by -1 to raise their Friendship.
+- Kelpsy Berry - Lowers Consumer's Physical Damage by -1 to raise their Friendship.
+- Qualot Berry - Lowers Consumer's Physical Defence to raise their Friendship.
+- Hondew Berry - Lowers Consumer's Magic Damage by -1 to raise their Friendship.
+- Grepa Berry - Lowers Consumer's Magic Defence by -1 to raise their Friendship.
+- Tamato Berry - Lowers Consumer's Initiative Rolls by -1 to raise their Friendship.
+- Cornn Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Magost Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Rabuta Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Nomel Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Spelon Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Pamtre Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Watmel Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Durin Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Belue Berry - Cannot be consumed; used to make Pokeblocks or Poffins, or can be sold to a Gourmet Maniac for P$500.
+- Occa Berry - Halves Damage taken from a Supereffective Fire-Type Move.
+- Passho Berry - Halves Damage taken from a Supereffective Water-Type Move.
+- Wacan Berry - Halves Damage taken from a Supereffective Electric-Type Move.
+- Rindo Berry - Halves Damage taken from a Supereffective Grass-Type Move.
+- Yache Berry - Halves Damage taken from a Supereffective Ice-Type Move.
+- Chople Berry - Halves Damage taken from a Supereffective Fighting-Type Move.
+- Kebia Berry - Halves Damage taken from a Supereffective Poison-Type Move.
+- Shuca Berry - Halves Damage taken from a Supereffective Ground-Type Move.
+- Coba Berry - Halves Damage taken from a Supereffective Flying-Type Move.
+- Payapa Berry - Halves Damage taken from a Supereffective Psychic-Type Move.
+- Tanga Berry - Halves Damage taken from a Supereffective Bug-Type Move.
+- Charti Berry - Halves Damage taken from a Supereffective Rock-Type Move.
+- Kasib Berry - Halves Damage taken from a Supereffective Ghost-Type Move.
+- Haban Berry - Halves Damage taken from a Supereffective Dragon-Type Move.
+- Colbur Berry - Halves Damage taken from a Supereffective Dark-Type Move.
+- Babiri Berry - Halves Damage taken from a Supereffective Steel-Type Move.
+- Chilan Berry - Halves Damage taken from a Supereffective Normal-Type Move.
+- Liechi Berry - Raises Physical Damage by +4 when HP falls below 25%.
+- Ganlon Berry - Raises Physical Defence by +4 when HP falls below 25%.
+- Salac Berry - Raises Initiative by +12 when HP falls below 25%.
+- Petaya Berry - Raises Magic Damage by +4 when HP falls below 25%.
+- Apicot Berry - Raises Magic Defence by +4 when HP falls below 25%.
+- Lansat Berry - Makes all Moves be able to Crit on a 5 or a 6 when its HP falls below 25%; can work with other Crit effects.
+- Starf Berry - Raises a random Stat sharply when HP falls below 25% with the following random-chart:
+	- +8 Physical Damage
+	- +8 Physical Defence
+	- +8 Magic Damage
+	- +8 Magic Defence
+	- +24 Initiative
+	- +2 Hit Test Category
+	- +2 Dodge Test Category
+- Enigma Berry - Restores 25% HP when damaged by a Super Effective Move.
+- Micle Berry - Raises hit Test Category by +1 when HP falls below 25%.
+- Custap Berry - Causes the holder's next Move to happen at the start of the Round before every other Pokemon or before the next Pokemon in the Initiative Timeline when its HP falls below 25%.
+- Jaboca Berry - Damages attacker by 12.5% of their Max HP when the holder is damaged by a Physical Move.
+- Rowap Berry - Damages attacker by 12.5% of their Max HP when the holder is damaged by a Magic Move.
+- Roseli Berry - Halves Damage taken from a Supereffective Fairy-Type Move.
+- Kee Berry - Raises Physical Defence by +2 when damaged by a Physical Move.
+- Maranga Berry - Raises Magic Defence by +2 when damaged by a Magic Move.
+- Hopo Berry - Reduces the Cooldown of Moves on Cooldown by 1 Round. Also reduces the next Dodge Roll of the Wild Pokemon this berry is fed to.
 
 
 ##### Valuables & Exchange Items
@@ -391,11 +459,11 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 - Armorite Ore (Unpurchasable) - 
 - Dynite Ore (Unpurchasable) - 
 ##### Flutes
-- Blue Flute - 
-- Yellow Flute - 
-- Red Flute - 
-- Black Flute - 
-- White Flute - 
+- Blue Flute - Cures Sleep. Reusable.
+- Yellow Flute - Cures Confusion. Reusable.
+- Red Flute - Cures Infatuation. Reusable.
+- Black Flute - Decreases the number of Pokemon encountered in the Wild by -1 to a minimum of 1 every time it's played; also Increases the amount of EXP the Pokemon starts with by +1-4 and Max HP by +1-2 every time it's played. 
+- White Flute - Increases the number of Pokemon encountered in the Wild by +1 every time it's played; also Decreases the amount of EXP the Pokemon starts with by -1-4 and Max HP by -1-2 every time it's played.
 ##### Fossils
 - Helix Fossil - 
 - Dome Fossil - 
