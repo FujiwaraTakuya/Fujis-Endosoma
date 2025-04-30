@@ -414,38 +414,40 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 
 
 ##### Valuables & Exchange Items
-- Nugget - 
-- Big Mushroom - 
-- Big Pearl - 
-- Brick Piece (Unpurchasable) - 
-- Gold Leaf (Unpurchasable) - 
-- Pearl - 
-- Silver Leaf (Unpurchasable) - 
-- Slowpoke Tail (Unpurchasable) - 
-- Star Piece - 
-- Stardust - 
-- Tiny Mushroom - 
-- Blue Shard - 
-- Green Shard - 
-- Red Shard - 
-- Shoal Salt - 
-- Shoal Shell - 
-- Yellow Shard - 
-- Rare Bone - 
-- Balm Mushroom - 
-- Big Nugget - 
-- Comet Shard - 
-- Relic Gold (Unpurchasable) - 
-- Strange Souvenir - 
-- Beach Glass - 
-- Chalky Stone - 
-- Lone Earring - 
-- Marble - 
-- Polished Mud Ball (Unpurchasable) - 
-- Stretchy Spring - 
-- Tropical Shell - 
-- Tiny Bamboo Shoot - 
-- Big Bamboo Shoot - 
+- Nugget (P$5,000) - A small nugget of gold. If combined with 2 other nuggets
+- Big Mushroom (P$2,500) - 
+- Big Pearl (P$4,000) - 
+- Brick Piece (P$25) (Unpurchasable) - 
+- Gold Leaf (P$500) (Unpurchasable) - 
+- Pearl (P$1,000) - 
+- Silver Leaf (P$500) (Unpurchasable) - 
+- Slowpoke Tail (P$4,900) (Unpurchasable) - 
+- Star Piece (P$6,000) - 
+- Stardust (P$1,500) - 
+- Tiny Mushroom (P$250) - 
+- Blue Shard (P$500) - 
+- Green Shard (P$500) - 
+- Red Shard (P$500) - 
+- Shoal Salt (P$10) - 
+- Shoal Shell (P$10) - 
+- Yellow Shard (P$500) - 
+- Rare Bone (P$2,500) - 
+- Balm Mushroom (P$7,500) - 
+- Big Nugget (P$20,000) - 
+- Comet Shard (P$12,500) - 
+- Pearl String (P$10,000) (Unpurchasable) - 
+- Pretty Feather (P$500) - 
+- Relic Gold (P$30,000) (Unpurchasable) - 
+- Strange Souvenir (P$1,500) - 
+- Beach Glass (P$400) - 
+- Chalky Stone (P$30) - 
+- Lone Earring (P$300) - 
+- Marble (P$150) - 
+- Polished Mud Ball (P$600) (Unpurchasable) - 
+- Stretchy Spring (P$10) - 
+- Tropical Shell (P$1,000) - 
+- Tiny Bamboo Shoot (P$375) - 
+- Big Bamboo Shoot (P$1,500) - 
 - Red Apricot (Unpurchasable) - 
 - Blue Apricot (Unpurchasable) - 
 - Yellow Apricot (Unpurchasable) - 
@@ -465,21 +467,21 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 - Black Flute - Decreases the number of Pokemon encountered in the Wild by -1 to a minimum of 1 every time it's played; also Increases the amount of EXP the Pokemon starts with by +1-4 and Max HP by +1-2 every time it's played. 
 - White Flute - Increases the number of Pokemon encountered in the Wild by +1 every time it's played; also Decreases the amount of EXP the Pokemon starts with by -1-4 and Max HP by -1-2 every time it's played.
 ##### Fossils
-- Helix Fossil - 
-- Dome Fossil - 
-- Old Amber - 
-- Root Fossil - 
-- Claw Fossil - 
-- Skull Fossil - 
-- Armor Fossil - 
-- Cover Fossil - 
-- Plume Fossil - 
-- Jaw Fossil - 
-- Sail Fossil - 
-- Bird Fossil - 
-- Fish Fossil - 
-- Drake Fossil - 
-- Dino Fossil - 
+- Helix Fossil - A fossil of a shell belonging to a Omanyte.
+- Dome Fossil - A fossil of a carapace belonging to a Kabuto.
+- Old Amber - A fossil of an old amber containing the DNA of a Aerodactyl.
+- Root Fossil - A fossil of a dried up root belonging to a Lileep.
+- Claw Fossil - A fossil of a claw belonging to a Anorith.
+- Skull Fossil - A fossil of a hardened skull belonging to a Cranidos.
+- Armor Fossil - A fossil of a hardened skull belonging to a Shieldon
+- Cover Fossil - A fossil of the undershell belonging to a Tirtouga.
+- Plume Fossil - A fossil of a feather belonging to an Archen.
+- Jaw Fossil - A fossil of a jaw piece belonging to a Tyrunt 
+- Sail Fossil - A fossil of a mane belonging to an Amaura
+- Fossilized Bird - One potential half of 4 possible fossil combinations; the upper body of a bird-like Pokemon
+- Fossilized Fish - One potential half of 4 possible fossil combinations; the upper body of a fish-like Pokemon
+- Fossilized Drake - One potential half of 4 possible fossil combinations; the lower body of a dragon-like Pokemon
+- Fossilized Dino - One potential half of 4 possible fossil combinations; the lower body of a dino-like Pokemon
 ##### Repels
 - Repel - 
 - Super Repel - 
@@ -488,14 +490,16 @@ Have a giant list of Items from the games with listings, along with P$ pricings 
 - Joy Scent - 
 - Excite Scent - 
 - Vivid Scent - 
+##### Key items
+
 
 ## Held Items
 ### Human Items
 #### Bikes
-- Bicycle - 
-- Acro Bike - 
-- Mach Bike - 
-- Rotom Bike - 
+- Bicycle - A regular bicycle; moves 3x the speed of the rider at a natural pace, 6x at full sprint.
+- Acro Bike - A bicycle designed for performing tricks and special manoeuvres; moves at the same pace as a Bicycle, but can be used to jump across gaps, ride across tightropes, and grind against railings.
+- Mach Bike - A high-speed bike that out-performs others with its sleek design; moves at 6x the speed of the rider at a natural pace, 12x at full sprint; when speeding at full sprint, the ride can ride over fragile or loose terrain before it breaks or pushes the user down. Turning with the bike is difficult without losing speed, with any sharp 90 degree turns reducing the maximum travel distance in a Round by 10ft unless they ride across a curved pipe or leave 5ft of space between each turn. 
+- Rotom Bike - A special self-functioning bike enhanced with a Rotom to aid in mechanical functions, also being fitted with a kinetic generator to power the bike's turbo boost capabilities. Starts out only being able to ride on land, but can be upgraded to ride on water, then later be upgraded to function with a turbo boost function that boosts the user for x5 at natural pace, and x10 at sprint speed.
 #### Fishing Rods
 - Old Rod - 
 - Fishing Rod - 
