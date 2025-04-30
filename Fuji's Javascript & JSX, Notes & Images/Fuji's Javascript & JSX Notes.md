@@ -26,7 +26,7 @@ Using one of the following brackets, you can use your script to define, search, 
 - ( ) - Circle Brackets
 - <> - Triangle Brackets
 - { } -  Curly Brackets
-- \[ ] - Square Brackets
+- \[] - Square Brackets
 ## Exporting and Importing Components
 To make certain functions more modular and reusable in other files, the following should be done:
 - Make a JS file (JavaScript) to put the components in
@@ -42,3 +42,6 @@ Breakdown of what's accomplished
 - App.js
 	- Imports 'Gallery' as a Default Import from 'Gallery.js' (Either './Gallery' or 'Gallery.js' works on on more current day models, but older code may require specification)
 	- Exports the Root 'App' component as a Default Export
+Default Imports can have any name for your 'Import' after you make your 'Import' like 'import Banana from './Button.js' instead and still get the same Default Export. Named Imports, however, have to match on both sides.
+
+Regardless of the coding style, always give meaningful names to your Component Functions and Files that contain them. Trying to debug stuff like 'export default () => {}' just makes debugging unnecessarily harder.
