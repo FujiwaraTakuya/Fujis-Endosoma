@@ -33,7 +33,7 @@ Size
 # Stats to keep track of
 **Monster HP** - Starts at Monster HP; each Level Up increases Monster Base HP by static amount
 **Invader(s) HP** - Always starts at chosen Invader's HP; each Level Up increases HP by +10, is the source of HP Regeneration for the Player-Monster, and must be up-kept with either items or healing effects in order for the Monster to benefit from Health Regeneration from them.
-**Monster Level & Experience** - Basic System to show Player-Monster growth; your basic
+**Monster Level & Experience** - Basic System to show Player-Monster growth; your basic level and stat blocks
 **Invader Level & Experience** - Necessary metric to determine your Invader(s) later ability for survival within your guts- not that'll help them escape you in any way once inside; their experience gain correlates from the gold-count you have left before each teleport
 **Size Category** - Your size determines your effectiveness at hitting single or multiple targets with your attacks (Depending on the attack used), how hard or easy it is to hit you, and the dice you roll to determine your ability to evade damage from other Monsters/Invaders
 **Hit DC** - How difficult it is to hit your Character; usually determined with one or a combination of Game Difficulty, Size, and Creature Speed, with the given number needing to be met or overcome by a creature's Attack Roll for a Hit to landed.
@@ -41,7 +41,18 @@ Size
 **Stomach Capacity** - Determined by your size, evolutionary state, and Level, determines how many occupants you can keep within yourself to benefit from health regeneration
 **Invader Digestion/Energy Drain Rate** - Starts at 1 Damage per-round, increasing by +1 per level multiple of 10
 ##  Levelling up
-All Creatures start at Level 1, and gradually gain Experience (EXP) by performing some form of action
+All Creatures start at Level 1, and gradually gain Experience (EXP) by performing some form of action:
+- Killing Mobs and defeating Bosses
+- Successfully opening containers
+- Succeeding Skill Checks
+- Using the Teleporter while still holding onto Money
+Once a Creature reaches an Experience Cap, they gain the following:
+- +1 Level
+- +10 Max HP
+- Heals Player up to full HP
+- +1 to BD (Base Damage)
+- +1 Stomach Capacity
+Each Experience Cap per-level starts at 100, then it's multiplied by exponents of 1.55 rounded to the nearest whole number for each Level after it (I.e. 100 x 1.55¹/²/³/etc. = 155 (Level 2)/240 (Level 3)/372 (Level 4)/etc.). You can look for the explained examples of each Experience Cap in the Extras and Stuff section.
 ## How to calculate "Base Damage" & "Total Damage"
 When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs
 Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs x Damage Bonuses x Crit
@@ -71,7 +82,7 @@ When making this system, I had 4 styles of play in mind:
 - Story-Writing Base: Essentially a collection of numbers and details to give both people and players a greater idea of how Monsters, items, and special encounters work in this version of the universe, or closely to the original source material (Not really used as a 1-to-1 comparison for combat or world-interactions, but can be a helpful base for creating ideas for the universe)
 
 # Difficulty "Setting"
-For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls and Dodge Rolls being rolled are made with one of the following Dice Systems with the following rules (Note: DC = Difficulty Class i.e. how difficult it is to meet or surpass; you can choose to combine multiple Dice Systems to improve Difficulty if you so wish to add more complexity):
+For the sake of simplicity and speed, Damage rolls are mostly static, with Attack Rolls and Dodge Rolls being rolled are made with one of the following Dice Systems with the following rules (Note: DC = Difficulty Class i.e. how difficult it is to meet or surpass; you can choose to combine multiple Dice Systems to improve Difficulty if you so wish to add more complexity). The following system is used to dictate how hard it is to hit an enemy:
 - General Difficulty Dice System for Attack Rolls (Consistent; might be too simple; either remain a single difficulty, or up to DM's discretion for creativeness)
 		- Very Easy/Drizzle (d20, DC 1 only way to fail)
 		- Easy/Rainstorm (d20, DC 2)
@@ -92,6 +103,20 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 	- Subsonic (d20, DC 7)
 ## Dodging
 Dodging is unique in this game with its double-dice system; the first roll is to determine the overall success or failure of the Dodger's capabilities, with a second d100 roll is made to determine how many attacks they are capable of evading. Players and Invaders both have the ability to Dodge Offensive Actions, while none of the Mobs can. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make it a d1000.
+## Skill Checks
+Periodically, depending upon a scenario, a DM can ask a Player to perform a Skill Check; if your Monster can be found on one of these Maps, or if you have a Monster Manual for the Monster you're trying to identify, you gain a +1 to your roll to identify key-features in the area or know about monsters within the current field. The Skill Checks range from the following:
+- Lore (First Stage): Knowledge of the places and Monsters found within the first set of stages. 
+- Lore (Second Stage): Knowledge of the places and Monsters found within the second set of stages. 
+- Lore (Third Stage): Knowledge of the places and Monsters found within the third set of stages. 
+- Lore (Fourth Stage): Knowledge of the places and Monsters found within the fourth set of stages. 
+- Lore (Fifth Stage):  Knowledge of the places and Monsters found within the fifth set of stages. 
+- Lore (Final Stage): Knowledge of the place and Monsters found within the final stage. 
+- Lore (Hidden Realms): Knowledge of the places and Monsters found within the hidden set of stages. 
+- Traversal (Vertical): The Player's ability to scale Vertical distances effectively.
+- Traversal (Horizontal): The Player's ability to scale Horizontal distances effectively.
+- Fly (Untrained/Trained/Skilled/Professional/Mastered): The Player's ability to fly in the air. Most Monsters or Invaders don't have the ability to fly or manoeuvre themselves around in the air, but those that do use this skill to different levels of control. If you meet the DC, you fly up to your movement fine with or without penalties or boosts; if you exceed the DC by pre-determined increments, you move faster and better; if you roll below the DC, you move slower and less fluidly.
+- Prediction: You ask the DM to help you predict where enemies pop up, where a creature is attacking from, planned tactics with allies to act in a particular manner, and more; can be used in tandem to perform distant attacks based upon projectile travel-time.
+- Hints & Tips: The Player rolls to receive either vague, clear, or non-harmful knowledge that the DM is willing to provide in relation to a puzzle, how close to death a creature is upon appearances, environmental knowledge that isn't described by the Lore skills.
 # Playable (generally applicable) Monster Races
 
 # Out-of-Combat Exploration
@@ -227,7 +252,10 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Noxious Thorn: Gain +10% chance to bleed an enemy. Upon killing an enemy, transfer 33% of every Debuff and Condition Stack to (1 + 1 per stack) enemy(ies) within (20m + 5m per stack.)
 		- Old Guillotine: Instantly kill Elite Monsters below (13% + 13% per stack) of their Max HP; limited to 7 stacks.
 		- Old War Stealthkit: Falling below 25% Max HP causes the user to gain +4 to their Dodge Bonus and Invisibility until the start of the user's next Turn, while putting this Item on Cooldown; the Dodge Bonus is immediately applied after the attack that deals damage first, with each attack afterwards requiring a harder DC to land a hit on the Player. This Item recharges every (30 seconds divided by 2 repeatedly per-stack (E.g. 30/2/2/etc.)).
-		- Prayer Beads: This item grows by gaining experience; each time the Player Levels Up
+		- Prayer Beads: This item grows by gaining experience; each time the Player Levels Up, collect the following stats into the Beads, but only adding the stats to the Player's Stats once the item has been removed/destroyed, with all stacks being consumed instantly with it (Numbers in decimals are added to the sheet, but are not counted as a whole number until made whole):
+			- +2 + 0.5 per-Stack Max HP 
+			- +0.2 + 0.05 per-Stack BD
+			- +0.2 + 0.05 per-Stack Stomach Capacity
 		- Predatory Instincts: 
 		- Razorwire: 
 		- Red Whip: 
@@ -265,4 +293,27 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 # Monster Mobs
 - Scavenger: 
   Killing one for the first time in each Stage makes them drop a Scavenger's Sack that drops (9 + 3 per additional Player) Common Items (Divided over 3 types), (4 + 2 per additional Player) Uncommon Items (Divided over 2 types), (1 + 1 per additional Player) Legendary Items, and (1+1 per additional Player) Equipment- or Elite Equipment if the Scavenger was an Elite. When a Scavenger is rolled, roll another d20; if the result is another 20, the Scavenger is considered to be an Elite.
+- 
+# Extras and Stuff
+## Experience Caps per-Level
+- Level 1 = 100
+- Level 2 = 155
+- Level 3 = 240
+- Level 4 = 372
+- Level 5 = 577
+- Level 6 = 895
+- Level 7 = 1,387
+- Level 8 = 2,149
+- Level 9 = 3,332
+- Level 10 = 5,164
+- Level 11 = 8,004
+- Level 12 = 12,406
+- Level 13 = 19,230
+- Level 14 = 29,807
+- Level 15 = 46,200
+- Level 16 = 71,610
+- Level 17 = 110,996
+- Level 18 = 172,044
+- Level 19 = 266,668
+- Level 20 = 413,335
 - 
