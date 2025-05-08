@@ -203,7 +203,8 @@ Here's the list of Movement options available to players:
 	- Professional - +6 Hit DC, 150% of Average Move-Speed, no Movement needed to turn 45 Degrees during Movement or come to a stop.
 	- Mastered - +7 Hit DC, 200% of Average Move-Speed, Movement is fluid-like and can perform an 'Air Sprint' to move at Double Speed at the requirement of needing 5ft of Movement needed to turn 45 Degrees during Movement or come to a stop.
 ## Attacking
-During Combat, Players will be asked to choose an Offensive Action during their turn. An Offensive Action asks of the Player to perform one of the listed Skills or Actions to attack during their Turn in Combat. Primary
+During Combat, Players will be asked to choose an Offensive Action during their turn. An Offensive Action asks of the Player to perform one of the listed Skills or Actions to attack during their Turn in Combat.
+- Primary Skills attack without cooldowns unless specified, and attack at a rate unlike other Skills are capable. Attacks that can attack more than once per-Round gain a -6 penalty to each successive attack attempt after the first (0, -6, -12, -18, etc.).
 Commonly, a Skill asks of the Player to roll a d20 dice, with the resulting number being checked against a Target's Hit DC to see if the attack lands, meeting or surpassing the roll to succeed. Some other Skills might require a different dice, or forgo a dice entirely to perform an Attack Roll.
 Later, as you continue progressing through your game, enemies seem to grow exponentially more and more difficult to hit as they grow more powerful and nimble. As such, you use your items that you collect over the course of the game to help compensate for dealing more damage and reliably hitting your Target(s).
 Some of the ways you can increase your Attack Rolls are:
@@ -435,7 +436,7 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	- Beetle:
 	  HP - 80 + 24 per Level
 	  HP Regen - 0
-	  Base Damage - 12 +2.4 per Level
+	  Base Damage - 12 + 2.4 per Level
 	  Size - Small
 	  Hit DC - 6
 	  Base Speed  - 20ft
@@ -444,7 +445,7 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Armour - 0
 		- Primary Skill: Headbutt - The Beetle winds up for a headbutt against a Target within 5ft, dealing 200% Total Damage while moving the Beetle 5ft forwards if possible. Can attack up to 4 times in 6 seconds.
 		- Secondary Skill: Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage.
-	 Evolves into: Beetle Guard (Lvl 12), Beetle Queen (Lvl 24)
+	 Evolves into: Beetle Guard (Lvl 12) or Beetle Queen (Lvl 24)
 	- Beetle Guard
 	- Bighorn Bison
 	- Blind Pest
@@ -456,17 +457,18 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	- Elder Lemurian
 	- Geep
 	- Gip:
-	   HP - 80 + 24 per Level
-	  HP Regen - 0
-	  Base Damage - 12 +2.4 per Level
+	   HP - 250 + 75 per Level
+	  HP Regen - 0.6 + 0.12 per Level
+	  Base Damage - 3 + 0.6 per Level
 	  Size - Small
-	  Hit DC - 6
-	  Base Speed  - 20ft
-	  Stomach Capacity - 1 +1 per 10 Levels
-	  Digestion/Energy Drain Rate - 1 + 1 per Level
+	  Hit DC - 4
+	  Base Speed  - 15ft
+	  Stomach Capacity - 1 +1 per 8 Levels
+	  Digestion/Energy Drain Rate - 2 + 2 per Level
 	  Armour - 0
-		- Primary Skill: Headbutt - The Beetle winds up for a headbutt against a Target within 5ft, dealing 200% Total Damage while moving the Beetle 5ft forwards if possible. Can attack up to 4 times in 6 seconds.
-		- Secondary Skill: Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage.
+		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 5ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
+		- Secondary Skill: Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, hitting anything under itself for 50% of its Current HP as Damage while damaging anything around it for 10% of its Current HP as Damage.
+	 Evolves into: Geep (Lvl16), Gup (Lvl32)
 	- Greater Wisp
 	- Gup
 	- Halcyonite
