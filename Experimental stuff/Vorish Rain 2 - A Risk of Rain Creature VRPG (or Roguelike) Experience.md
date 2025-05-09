@@ -3,7 +3,7 @@ share: true
 ---
 *Something's changed. The powers that be that reside upon Petrichor V have changed itself once more; its beasts grow more intelligent, their tactics becoming less static, and some...well...their intentions are...less than pure. They seem to have grown ravenous- hungering- desiring more than just the urge to defeat the intruders that fall and teleport across their homes. Some are luck, most not so, but those that do survive these encounters gradually awaken to power unlike anything they've ever experienced before.*
 
-*In these encounters, lucky creatures from the planet have lucked their way into devouring an unsuspecting/unlucky Invader to their planet of Petrichor V; depending where and when they are able to devour them is up to a GM's design, but these creatures now gifted with an experience they'd never want to let go of, must now balance sustaining their own lives and the new ones they carry to continue growing in power to satisfy their growing greed. Let's hope that the power has gone to their stomachs and hasn't gone just to their heads.*
+*In these encounters, lucky Monsters from the planet have lucked their way into devouring an unsuspecting/unlucky Invader to their planet of Petrichor V; depending where and when they are able to devour them is up to a GM's design, but these creatures now gifted with an experience they'd never want to let go of, must now balance sustaining their own lives and the new ones they carry to continue growing in power to satisfy their growing greed. Let's hope that the power has gone to their stomachs and hasn't gone just to their heads.*
 
 *Death's no longer permanent to either side; the Invaders transfer their consciousness to new clones after each death and return from the sky; the Monsters return to non-existence to revive before being brought back to this reality to attack those who invade upon the realm; just what'll both sides do to exploit this fact?*
 
@@ -107,6 +107,7 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 # Playable (generally applicable) Monster Races
 Here's a list of Monsters Players can choose to play as during the start of each Run/Game (To find Stat Blocks of Monsters, scroll down to Monster Mobs):
 - Beetle
+- Clay Templar
 - Gip
 - Imp
 - Jellyfish
@@ -454,8 +455,33 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	- Child
 	- Clay Apothecary
 	- Clay Templar
+	  HP - 700 + 210 per Level
+	  HP Regen - 0
+	  Base Damage - 16 + 3.2 per Level
+	  Size - Large
+	  Hit DC - 4
+	  Base Speed  - 20ft
+	  Stomach Capacity - 1 +1 per 10 Levels
+	  Digestion/Energy Drain Rate - 1 + 2 per Level
+	  Armour - 0
+		- Primary Skill: Rapid Fire - The Clay Templar spends 1 second winding up their cannon before firing 20 tar bullets per-second with a -10% damage fall-off every increment range of 15ft from the shooter; while firing, the shooter can only move 5ft per-Round. Each time this Attack hits, roll a d20; this roll determines how many bullets shot out hit its Target while the rest miss. Each bullet deals 32% Total Damage. Can attack up to 6 times in 6 seconds, with 1 second of wind-up and 2 seconds of wind-down.
+		- Secondary Skill: Tar Blast - The Clay Templar unleashes a short-ranged 20ft-wide, 10ft-long cone Tar Blast, pushing away Targets without a Test 30ft away on the ground, 90ft in the air while inflicting the Tar Condition. 1 Round Cooldown.
+	 Evolves into: Clay Apothecary (Lvl 20), Clay Dunestrider (Lvl 35)
 	- Elder Lemurian
 	- Geep
+	  HP - 500 + 150 per Level
+	  HP Regen - 0.6 + 0.12 per Level
+	  Base Damage - 6 + 1.2 per Level
+	  Size - Large
+	  Hit DC - 3
+	  Base Speed  - 30ft
+	  Stomach Capacity - 1 +1 per 4 Levels
+	  Digestion/Energy Drain Rate - 2 + 2 per Level
+	  Armour - 0
+		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 10ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
+		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second  hitting anything under itself for 75% of its Current HP as Damage while damaging anything around it for 15% of its Current HP as Damage. 1 Round Cooldown.
+		- Passive Skill: Mitosis - When Geep dies, it splits into 2 Gip which have half of Geep's stats, but each Gip have the same amount of items 1 Geep has. After each Transporter Event, all Gips gather back together to restore themselves back into a Geep with no loss in Stats.
+	 Evolves into: Gup (Lvl32)
 	- Gip:
 	   HP - 250 + 75 per Level
 	  HP Regen - 0.6 + 0.12 per Level
@@ -467,13 +493,37 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Digestion/Energy Drain Rate - 2 + 2 per Level
 	  Armour - 0
 		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 5ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
-		- Secondary Skill: Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, hitting anything under itself for 50% of its Current HP as Damage while damaging anything around it for 10% of its Current HP as Damage.
+		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second hitting anything under itself for 50% of its Current HP as Damage while damaging anything around it for 10% of its Current HP as Damage. No Cooldown.
 	 Evolves into: Geep (Lvl16), Gup (Lvl32)
 	- Greater Wisp
 	- Gup
+	  HP - 1000 + 300 per Level
+	  HP Regen - 0.6 + 0.12 per Level
+	  Base Damage - 12 + 2.4 per Level
+	  Size - Huge
+	  Hit DC - 2
+	  Base Speed  - 40ft
+	  Stomach Capacity - 1 +1 per 3 Levels
+	  Digestion/Energy Drain Rate - 3 + 3 per Level
+	  Armour - 0
+		- Primary Skill: Spikes - The Gup projects spikes all across its body, hitting all enemies within 15ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
+		- Secondary Skill: Glorpy Pounce - The Gup prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second  hitting anything under itself for 100% of its Current HP as Damage while damaging anything around it for 25% of its Current HP as Damage.
+		- Passive Skill: Mitosis - When Gup dies, it splits into 2 Geep which have half of Gup's stats, but each Geep have the same amount of items 1 Gup has. Same thing happens when each Geep dies. After each Transporter Event, all Geeps and Gips gather back together to restore themselves back into a Gup with no loss in Stats.
 	- Halcyonite
 	- Hermit Crab
-	- Imp
+	- Imp: 
+	  HP - 140 + 42 per Level
+	  HP Regen - 0.6 + 0.12 per Level
+	  Base Damage - 10 + 2 per Level
+	  Size - Small
+	  Hit DC - 6
+	  Base Speed  - 30ft
+	  Stomach Capacity - 1 +1 per 8 Levels
+	  Digestion/Energy Drain Rate - 1 + 1.5 per Level
+	  Armour - 0
+		- Primary Skill: Abyssal Slash - The Imp slashes twice in front of itself, dealing 150% Total Damage per-hit and inflicting Bleed every 0.5 seconds for 2.5 seconds, each tick dealing 20% Base Damage. Can attack up to 5 times in 6 seconds, each attack hitting 2 times.
+		- Secondary Skill: Abyssal Blink - The Imp "Blinks" (Teleports) up to half of their remaining Movement in any direction of their choosing (usually towards Invaders). The Teleportation lasts 2 Seconds, makes the Imp untouchable during the duration of the Blink, and the Imp has 3 Charges of this Skill. Each Charge Recharges once every Round/6 Seconds, and can only Recharge 1 charge per-Round.
+	 Evolves into: Imp Overlord (Lvl24)
 	- Jellyfish: 
 	- Larva
 	- Lemurian: 
