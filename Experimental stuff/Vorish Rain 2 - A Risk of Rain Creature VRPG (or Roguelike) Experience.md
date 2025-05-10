@@ -525,6 +525,18 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Secondary Skill: Abyssal Blink - The Imp "Blinks" (Teleports) up to half of their remaining Movement in any direction of their choosing (usually towards Invaders). The Teleportation lasts 2 Seconds, makes the Imp untouchable during the duration of the Blink, and the Imp has 3 Charges of this Skill. Each Charge Recharges once every Round/6 Seconds, and can only Recharge 1 charge per-Round.
 	 Evolves into: Imp Overlord (Lvl24)
 	- Jellyfish: 
+	  HP - 60 + 18 per Level
+	  HP Regen - 0 + 0 per Level
+	  Base Damage - 5 + 1 per Level
+	  Size - Small
+	  Hit DC - 5
+	  Base Speed  - 30ft
+	  Stomach Capacity - 1 +1 per 9 Levels
+	  Digestion/Energy Drain Rate - 1 + 2.5 per Level
+	  Armour - 0
+		- Primary Skill: Spatial Propulsion - The Jellyfish passively has the ability to float, hover, and fly around in the air without a notable Medium to propel itself around or through. The Jellyfish charges up for 1.5 second before dashing forwards 10ft in any direction of its choosing for 1.5 seconds, dealing 150% Total Damage to the first thing it comes contact with and 50% Total Damage to anything around it within 5ft it's nearby when it stops moving or anything that it passes by. Can attack up to 2 times in 6 seconds.
+		- Secondary Skill: Mini Nova - The Jellyfish spends 4 seconds charging up energy within itself before unleashing it in a 20ft radius, dealing 200% Total Damage to all enemies in its radius and bushing them back 5ft against the ground or 50ft in the air. It can fly around while it's charging up the attack. This Skill recharges every 5 Rounds.
+	 Evolves into: Wandering Vagrant (Lvl15)
 	- Larva
 	- Lemurian: 
 	- Lesser Wisp: 
