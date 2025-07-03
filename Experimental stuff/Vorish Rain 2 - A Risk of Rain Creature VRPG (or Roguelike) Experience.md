@@ -53,6 +53,12 @@ Once a Creature reaches an Experience Cap, they gain the following:
 - +BD per-Level on Stat Block (Base Damage)
 - +1 Stomach Capacity on Stat Block
 Each Experience Cap per-level starts at 100, then it's multiplied by exponents of 1.55 rounded to the nearest whole number for each Level after it (I.e. 100 x 1.55¹/²/³/etc. = 155 (Level 2)/240 (Level 3)/372 (Level 4)/etc.). You can look for the explained examples of each Experience Cap in the Extras and Stuff section.
+### Evolution
+Some Monsters have the ability to Evolve from a prior form; usually taking years of natural progression and being born for the task given, this process can be expedited for certain individuals during the heat of combat.
+
+Evolutions are a faster form Metamorphosis limited to special individuals (Players) where they rapidly change forms to something more powerful than what they were before. However, Evolutions appear to be entirely optional to the individual, meaning they can choose to maintain their current form, or evolve into something much grander. When these individuals choose to perform their Evolution, they become stationary and unable to act for 3 Rounds/18 Seconds per-Size Category they gain between evolutions while gaining a 100% Max HP Shield per-Size Category during the evolution process. Once the Evolution ends, they lose the HP Shield and become active once again.
+
+When a Player Monster Evolves from their previous form, their Level resets to 1, but they maintain the Base Stats they gained up until their evolution, plus the level-up stats of their new Evolution.
 ## How to calculate "Base Damage" & "Total Damage"
 When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs
 Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs x Damage Bonuses x Crit
@@ -91,10 +97,11 @@ For the sake of simplicity and speed, Damage rolls are mostly static, with Attac
 	- Normal/Monsoon (d20, DC 3)
 	- Hard/Eclipse (d20, DC 4)
 - Size Difficulty Dice System (Larger creatures are easier to hit than smaller creatures; generally more consistent hit-numbers with greater risks for failure or off-targeting)
-	- Huge+/Drizzle (d20, DC 1)
-	- Large/Rainstorm (d20, DC 2)
-	- Medium/Monsoon (d20, DC 4)
-	- Small-/Eclipse (d20, DC 5)
+	- Huge+ (d20, DC 1)
+	- Large (d20, DC 2)
+	- Medium (d20, DC 4)
+	- Small (d20, DC 5)
+	- Tiny (d20, DC 6)
 - Speed Difficulty Dice System (Faster creatures are harder to hit than smaller creatures, but due to sizes being a thing, being 'Fast' has a smaller range of DC to compensate)
 	- Sluggish (d20, No DC/No Improvement)
 	- Very Slow (d20, DC 1)
@@ -386,35 +393,35 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Unstable Transmitter (Consumed)
 - Actives (Equipment)
 	- Regular
-		- Blast Shower - 
-		- Disposable Missile Launcher - 
-		- Eccentric Vase - 
-		- Executive Card - 
-		- Foreign Fruit - 
-		- Forgive Me Please - 
-		- Fuel Array - 
-		- Gnarled Woodsprite - 
-		- Goobo Jr. - 
-		- Gorag's Opus - 
-		- Jade Elephant - 
-		- Milky Chrysalis - 
-		- Molotov (6-Pack) - 
-		- Ocular HUD - 
-		- Preon Accumulator - 
-		- Primordial Cube - 
-		- Radar Scanner - 
-		- Recycler - 
-		- Remote Caffeinator - 
-		- Royal Capacitor - 
-		- Sawmerang - 
-		- Seed of Life - 
-		- Seed of Life (Consumed) - 
-		- Super Massive Leech - 
-		- The Back-up - 
-		- The Crowdfunder - 
-		- Trophy Hunter's Tricorn - 
-		- Trophy Hunter's Tricorn (Consumed)  - 
-		- Volcanic Egg - 
+		- Blast Shower - Instantly cleanse all negative effects around yourself, including debuffs, damage-over-time, and nearby projectiles within a 20ft radius. 3.5 Round/20 Second Cooldown.
+		- Disposable Missile Launcher - Fires a swarm of 12 missiles that deal 300% Base Damage each that fly towards the nearest enemy. 7.5 Round/45 Second Cooldown.
+		- Eccentric Vase - The user creates a quantum tunnel between 1-3281ft that instantly transports any players between the two points in an instant, the tunnel lasting 5 Rounds/30 Seconds. 7.5 Round/45 Second Cooldown.
+		- Executive Card - Whenever you spend Gold, gain 10% of the Gold spent back. If the purchase was from a multishop terminal, the other terminals will remain open. 
+		- Foreign Fruit - Upon usage, it instantly heals the user for 50% of their Max HP. 7.5 Round/45 Second Cooldown.
+		- Forgive Me Please - Throw out a cursed doll that triggers any on-kill effects from Items upon itself, doing its effects every second for 1.5 Rounds/8 Seconds. 7.5 Round/45 Second Cooldown.
+		- Fuel Array - Looks like it could power something. EXTREMELY unstable.... If your Max HP is reduced below 50% Max HP, the Fuel automatically detonates after 3 seconds and causing a 100ft-wide explosion dealing up to 300% of the holder's Max HP as damage. No Crit is applied to the damage. If and when the dead Player is revived, the Equipment is no longer equipped to the Player, and isn't fixable or recoverable.
+		- Gnarled Woodsprite - Gain a Woodsprite follower that passively heals the Player 9% of their Max HP per Round at the start of their Turn. Upon activation on themselves or an ally, it can instantly heal the Target 10% of their Max HP before hovering around them to apply its passive until given a new Target. 2.5 Round/15 Second Cooldown.
+		- Goobo Jr. - Spawn a gummy clone of yourself that has 300% of your Base Damage and 300% of your Max Health; its life ends in 5 Rounds/30 Seconds. 16.5 Round/100 Second Cooldown.
+		- Gorag's Opus - Upon activation, regardless of distance to other allies, you cause everyone in your party to frenzy for 1.1 Rounds/7 Seconds, increasing their Movement Speed by 50% and Attack Speed by 100%. 7.5 Round/45 Second Cooldown. 
+		- Jade Elephant - For 1 Round, gain 500 Armour. 7.5 Round/45 Second Cooldown.
+		- Milky Chrysalis - Upon activation, the player sprouts wings and can fly for 2.5 Rounds/15 Seconds with Untrained Skill. While you have these wings, you boost your Total Movement Speed by 20%. 10 Round/60 Second Cooldown.
+		- Molotov (6-Pack) - Instantly target and throw 6 molotov cocktails at enemies within your Movement, igniting them for 500% Base Damage on impact. Each molotov then leaves a 10ft radius burning area for 1.1 Rounds/7 Seconds, dealing 200% Base Damage every second to every creature standing in it. 7.5 Round/45 Second Cooldown.
+		- Ocular HUD - Upon activation, make all Base And Total Damage gain 100% Crit Chance for 1.5 Rounds/9 seconds. 10 Round/60 Second Cooldown.
+		- Preon Accumulator - After 2 seconds of charging, fires out a slow-moving ball of energy; it travels 10ft per second, attacks 3 of the closest enemies within 115ft per second with lightning tendrils for 400% Base Damage, and once the ball makes contact with an enemy or terrain, it explodes in a 65ft diameter while dealing 8000% Base Damage. The Tendrils can't overlap on the same target and deal multiple hits. 23.5 Round/140 Second Cooldown.
+		- Primordial Cube - Upon activation, it unleashes a slow-moving blackhole that only effects your enemies; moving at a rate of 5ft per second, and pulling in all enemy monsters within a 50ft radius, it travels in a straight line dealing no damage but being completely inescapable until the duration of the blackhole ends; lasting 1.5 Rounds/10 seconds and flying in the fired direction until it collides with an immovable surface or ends. 10 Round/60 Second Cooldown.
+		- Radar Scanner - Reveal all interactables within 1640ft for 10 seconds. 7.5 Round/45 Second Cooldown.
+		- Recycler - Any Item or Equipment that's fed to the Recycler is transformed into another Item or Equipment of equal rarity aside from the original item. Items rolled can't be Equipment, and vice versa. 7.5 Round/45 Second Cooldown.
+		- Remote Caffeinator - Request an Eclipse Zero Vending Machine from the UES Safe Travels, taking 1 Round to be called to a pin-pointed location and dealing 2000% Base Damage to any and all hit within 15ft of its landing spot. The Vending Machine can be interacted with up to 12 times, costing (5 + 5 per additional purchase) Gold with each payment, dispensing 3 cans of soda at a time and healing the consumer 25% of their Max HP. 10 Round/60 Second Cooldown.
+		- Royal Capacitor - Pick a target within line-of-sight before calling a lightning strike down upon them, dealing 3000% Base Damage and stunning nearby monsters within 10ft. 3.5 Round/20 Second Cooldown.
+		- Sawmerang - Throw 3 large saw blades in a line like a boomerang that slice enemies for 400% Base Damage each upon contact, and also causing them to take 100% Base Damage Bleed every second for 1 Round. Can strike enemies again on the way back. 15 Round/45 Second Cooldown.
+		- Seed of Life - Upon death, it revives the user; upon activation, it revives all dead allies. It's consumed upon use. 10 Round/60 Second Cooldown.
+		- Seed of Life (Consumed) - On activation, the Equipment is consumed while placing a permanent sprout on the ground that drops 10 healing orbs in a 5ft radius, each orb healing the person for 2% of their Max HP/
+		- Super Massive Leech - Heal for 20% of the Damage you deal for 1 Round. 10 Round/60 Second Cooldown.
+		- The Back-up - Call 4 Strike Drones to fight for you that last for 4 Rounds, after which they then destroy themselves; the Drones stick close to the Player, have (225+67.5 per level) HP, (7+1.4 per level) Base Damage, and do not benefit from damage-effects from the Player's Items. 16.5 Round/100 Second Cooldown.
+		- The Crowdfunder - A toggleable minigun that runs on Gold; starts out firing 3 bullets per second (18 bullets per Round), but gradually ramps up in amount of bullets fired every Round by +3 with a Maximum bps of 18 (i.e. Round 2 = 6 bps/36 bpr, Round 3 = 9 bps/54 bpr, Round 4 = 12 bps/72, and Round 5 = 15 bps/90 bpr). Each bullet shot consumes 1 Gold from the user, increasing by +1 every 4 levels the Player gains. 0 Round/0 Second Cooldown.
+		- Trophy Hunter's Tricorn - Execute any enemy capable of spawning a Unique Reward, and it will drop that Item. Can only be used against certain enemies, otherwise will not be triggered on other enemies or accidentally. Equipment is consumed on use. 0 Round/0 Second Cooldown.
+		- Trophy Hunter's Tricorn (Consumed)  - Looks kinda cool, but that's about it. 10 Round/60 Second Cooldown.
+		- Volcanic Egg - Turn into a Dragonic Fireball for 1 Round, dealing 500% Base Damage on impact while phasing through all enemies except attacks. At the end of the duration, you detonate in a radius of a 15ft sphere dealing 800% Base Damage before turning back to normal. 5 Round/30 Second Cooldown.
 	- Void
 		- Effigy of Grief - Place a Pillar-like effigy somewhere within 30ft that releases a 50ft aura that inflicts Cripple on all creatures within their radius, while being able to stack 5 effigies at once within close or distant proximity. 2.5 Round/15 Second Cooldown.
 		- Glowing Meteorite - Rain Meteors with a radius of 10ft from the sky, damaging all creatures in random areas for 600% Base Damage per blast, lasting 3 Rounds. 23 Round/138 Second Cooldown.
@@ -441,13 +448,25 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Size - Small
 	  Hit DC - 6
 	  Base Speed  - 20ft
-	  Stomach Capacity - 1 +1 per 10 Levels
+	  Stomach Capacity - 1 + 1 per 10 Levels
 	  Digestion/Energy Drain Rate - 1 + 1 per Level
 	  Armour - 0
 		- Primary Skill: Headbutt - The Beetle winds up for a headbutt against a Target within 5ft, dealing 200% Total Damage while moving the Beetle 5ft forwards if possible. Can attack up to 4 times in 6 seconds.
-		- Secondary Skill: Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage.
+		- Secondary Skill (Player-Only): Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage.
 	 Evolves into: Beetle Guard (Lvl 12) or Beetle Queen (Lvl 24)
 	- Beetle Guard
+	  HP - 480 + 144 per Level
+	  HP Regen - 0
+	  Base Damage - 12 + 2.4 per Level
+	  Size - Small
+	  Hit DC - 6
+	  Base Speed  - 60ft
+	  Stomach Capacity - 2 + 1 per 4 Levels
+	  Digestion/Energy Drain Rate - 1 + 1 per Level
+	  Armour - 0
+		- Primary Skill: Ground Slam - The Beetle Guard raises both of its arms into the air before slamming them into the ground, causing a 10ft AOE shockwave of spikes to appear from the ground and launch all enemies within the radius 10ft vertically and 5ft horizontally away from the Beetle Guard; those within 5ft of the Beetle Guard are instead launched (20ft + 5ft per Level) vertically. The attack deals 440% Total Damage, and happens over a 3 Second Period with a once-per-Round Cooldown.
+		- Secondary Skill: Sunder - The Beetle Guard slams their arm down into the ground, causing a line of tall spikes to travel across the ground for 130ft and cause any enemy hit by these spikes to be launched towards the Beetle Guard, landing them anywhere within a 90 degree cone of them; the spikes continue travelling until they hit a wall, terrain, can no longer travel in a straight line, or breakable object. The spikes stay up as a 10ft wall that can block projectiles and most forms of movement through it for (1 + 1 per 20 points of Base Damage) Round(s). Those hit by the spikes during its travel take 300% Total Damage for each spike that hits an enemy, happens over a 3 Second Period, and can be used once every 2 rounds. 
+	 Evolves into: Beetle Queen (Lvl 12)
 	- Bighorn Bison
 	- Blind Pest
 	- Blind Vermin
@@ -479,7 +498,7 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Digestion/Energy Drain Rate - 2 + 2 per Level
 	  Armour - 0
 		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 10ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
-		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second  hitting anything under itself for 75% of its Current HP as Damage while damaging anything around it for 15% of its Current HP as Damage. 1 Round Cooldown.
+		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second hitting anything under itself for 75% of its Current HP as Damage while damaging anything around it for 15% of its Current HP as Damage. 1 Round Cooldown.
 		- Passive Skill: Mitosis - When Geep dies, it splits into 2 Gip which have half of Geep's stats, but each Gip have the same amount of items 1 Geep has. After each Transporter Event, all Gips gather back together to restore themselves back into a Geep with no loss in Stats.
 	 Evolves into: Gup (Lvl32)
 	- Gip:
@@ -537,9 +556,20 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Primary Skill: Spatial Propulsion - The Jellyfish passively has the ability to float, hover, and fly around in the air without a notable Medium to propel itself around or through. The Jellyfish charges up for 1.5 second before dashing forwards 10ft in any direction of its choosing for 1.5 seconds, dealing 150% Total Damage to the first thing it comes contact with and 50% Total Damage to anything around it within 5ft it's nearby when it stops moving or anything that it passes by. Can attack up to 2 times in 6 seconds.
 		- Secondary Skill: Mini Nova - The Jellyfish spends 4 seconds charging up energy within itself before unleashing it in a 20ft radius, dealing 200% Total Damage to all enemies in its radius and bushing them back 5ft against the ground or 50ft in the air. It can fly around while it's charging up the attack. This Skill recharges every 5 Rounds.
 	 Evolves into: Wandering Vagrant (Lvl15)
-	- Larva
+	- Larva:
+	  HP - 45 + 14 per Level
+	  HP Regen - 0 + 0 per Level
+	  Base Damage - 11 + 2.2 per Level
+	  Size - Small
+	  Hit DC - 5
+	  Base Speed  - 30ft
+	  Stomach Capacity - 1 + 1 per 9 Levels
+	  Digestion/Energy Drain Rate - 1 + 2.5 per Level
+	  Armour - 0
+		- Primary Skill: Larval Leap - The Larva sprints and leaps up to their Movement Speed x8 before landing down with a heavy impact and a 10ft radius splash of acid; the distance travelled can be divided between vertical and horizontal travel, with horizontal movement taking double the movement needed. Those within the impact-radius, regardless of being at the edge or centre, take 320% Total Damage. This Skill can only be performed once per-Round.
+		- Secondary Skill (Player-Only): Commanding Swarm - To ensure their survival as a prominent Larva amongst their kin, they call upon (2 + 1 per Level) Larva Minions to help their leader swarm an enemy easier while taking any life-threatening hits for them; they gain a HP shield equal to 25% their Max HP for each Larva Minion they have with them, and for each attack that damages the Larva Swarm that exceeds their shield-value negates all further damage taken in exchange for that Larva Minion's life, meaning even if the Larva were to take more than all of their total combined health's worth in damage, only a single Larva Minion would die in their place. This includes DOT effects. The Minions don't attack, nor do they gain their own sets of Items like the Player, but they do benefit from healing effects provided to them. 5 Round/30 Second Cooldown.
 	- Lemurian: 
-	- Lesser Wisp: 
+	- Lesser Wisp:  
 	- Lunar Chimera (Exploder)
 	- Lunar Chimera (Golem)
 	- Lunar Chimera (Wisp)
