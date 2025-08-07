@@ -207,3 +207,12 @@ Supernatural Abilities - Usually a Standard Action (unless said otherwise), can'
 Direct/Redirect Spells - Some spells can be directed or redirected to new targets/areas after casting, requiring a Move Action from the user whilst not provoking AoO or requiring Concentration.
 
 Formula for creating a Spell Scroll - 25 * Spell Level * Caster Level (E.g. Magus Lvl 6 creating Lv2 Spell, that becomes 25 * 2 * 6 to reach the Gold Cost); you can change Spell Level and Caster Level during duration of the Spell Scribing to influence saves and damage-output
+
+### Caster Level
+The purposes of getting spell effects that increase the player's Caster Level is that they allow you to:
+- Enhance damage earlier based on Caster Level
+- Increase range based on Caster Level
+- Increase duration based on Caster Level
+- Increase number of targets based on Caster Level
+This overall helps out the Caster reach those higher numbers with their spells, especially ones that don't have a capped limit, while still being of a lower level. However, this does not affect:
+- A spell's Spell DC

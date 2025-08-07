@@ -62,16 +62,23 @@ When a Player Monster Evolves from their previous form, their Level resets to 1,
 ## How to calculate "Base Damage" & "Total Damage"
 When determining a creature's Base Damage for attacks and items, use the following: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs
 Total Damage gains additional benefits like this: (Creature BD + 1 per level + 1/2/3/5 per Weapon Item Bonus) x Buffs x Damage Bonuses x Crit
+### Keeping Track of Items and their Damage/Effects
+Because of the sheer amount of the list, it's advised to keep track of your items, damage, and effects as a small chart and list; please use the following examples:
+
+**Item Name**
+**Effect Desc.:** General description of the item's effects
+**Primary Effect/Damage Numbers:** (Creature's BD) + (1 per level above 1) + ((1/2/3/5 based on Weapon Item Rarity) per Weapon Item Bonus) x Buffs = Base Damage Dealt per-hit / (Creature's BD) + (1 per level above 1) + ((1/2/3/5 based on Weapon Item Rarity) per Weapon Item Bonus) x Buffs x Damage Bonuses x Crit Damage = Total Damage Dealt per-hit
+**Secondary Effect/Damage Numbers:** 
 ## Dissection of certain stats and mechanic functions (Mostly for GM's sake)
 - Stats
-	- Attack Speed - Increases the user's Attack Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either an additional Offensive Action or converting that Offensive Action into a bigger Bonus for Attack Rolls. You can use any number of Offensive Actions during your Turn, with the rest of the Actions becoming an additional Attack Bonus.
-	- Movement Speed - Increases the user's Dodge Roll per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user gains either a forgo other benefits for their Dodge bonus, a Sprint Speed Buff (+25% per stack), or a Search Bonus. You can't benefit from a Sprint Speed Buff and Search Bonus simultaneously.
+	- Attack Speed - Increases the user's Attack Roll by +1 per-stack; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user can either opt to gain an additional Offensive Action at the cost of a lower Attack Roll for all attacks, or converting that Offensive Action into a bigger Bonus for existing Attack Rolls.
+	- Movement Speed - Increases the user's Dodge Roll by +1 per-stack and Speed by 5ft per 4 stacks; each time a Stack-Bonus is reached, usually referenced as reaching multiples of an item-number, the user can either opt to gain an additional Defensive Action if the Cooldown of their Skill or Equipment allows them, a Sprint Speed Buff (+25% Movement Speed before Sprint per stack), a Search Bonus (+1 per stack), or can forgo any other benefits for an improved Dodge Bonus and larger Speed Economy. You can't benefit from a Sprint Speed Buff and Search Bonus simultaneously.
 	- Sprint Speed - Sprinting Doubles your Movement Speed, also improving your Dodge Bonus by the same amount, but in exchange disables the user's ability to use all Skills and Offensive Actions unless the ability states the ability to do so; in exchange for 1 Offensive Action, the user can use the Tactical Retreat Manoeuvre to instantly start Sprinting to run away from combat.
 		- Dodge Bonus - A constantly active bonus for an actively-engaged fighter; a must for anyone attempting to avoid taking damage from threats. Many things grant it, but some things can reduce it or take it away; if you're left stuck in the air with no ability to fly, jump out of the way, or an inability to Move, your Dodge Bonus is completely negated, and in some cases, turn attacks into guaranteed hits.
-	- Stack Bonus - When you have enough stacks of an item, you can get a Stack Bonus; depending on the Stat that gives the Bonus, it can give different benefits such as: Additional Offensive Actions, Sprint Speed Buff, or Search Bonus. Attack Speed gives an Offensive Stack Bonus while Movement Speed gives a Defensive Stack Bonus.
+	- Stack Bonus - When you have enough stacks of an item, you can get a Stack Bonus; depending on the Stat that gives the Bonus, it can give different benefits such as: additional Offensive Actions, higher Attack Rolls on Offensive Actions, additional Defensive Actions, Sprint Speed Buff, a Search Bonus, or a Dodge Bonus.
 	- Armour - Reduces Contact Damage taken if an Attack doesn't exceed the Player's Base Hit DC; for each point of Armour, it increases the Base Hit DC of the Player before Dodge Bonuses are applied. When an attack would hit and deal damage to the Player, and the attack would only be Targeting the Base Hit DC, if it meets but doesn't exceed the DC, roll a d50; the result reduces the amount of damage taken by 50-99%, down to a minimum of 1; if the attack would exceed the Hit DC, roll a d50 for a reduction result of 0-49%, down to a minimum of 1.
 	- Health Regeneration - At the start of each creature's Turn in a Round, they gain HP equal to the Base HP Regen; negated by Malachite (anti-heal Debuff), outside of combat the HP Regen is applied each second instead of every Turn (6 seconds) of combat, while in-combat they can only heal at the start of their Turn.
-	- Critical Strikes - A chance to increase your total damage by double the output. Effects like Healing, Buffs, and Debuffs do not benefit from Crits.
+	- Critical Strikes - A chance to increase your total damage by double the output, . Effects like Healing, Buffs, and Debuffs do not benefit from Crits.
 	- Weapon Item Bonus - For each Item the Player has collected that's considered a Weapon, increase the Base Damage the user deals by 1/2/3/5 per item and stack based on the rarity of the Item itself.
 	- Hit DC - The number that determines what number needs to be rolled to meet and land a Hit on a Target to deal damage.
 - Conditions
@@ -168,11 +175,31 @@ When not in combat, Players must pay close attention to their surroundings to fi
 			- Chests & Loot w/ boosted odds: 1 (Scrapper); 2-6 (Barrel); 7-13 (Chests & Equipment); 14-16 (Special Interactables); 17-18 (Lunar Pods); 19-20 (Summon Scavenger)
 				- Special Interactables: 1, 20 (Cleansing Pool); 2-3, 18-19 (Lunar Pod); 4-5, 16-17 (Rusty Lockbox/Encrusted Cache); 6-7, 14-15 (Void Cradle); 8-9, 12-13 (Stalk); 10-11 (Void Potential)
 	- Story-Writing Base: Do it however the author wishes to lean into it.
-
+# Item Organization
 # Combat Explained
+## What Combat Turn looks like
+As an example, I'll be using the Lemurian Mob Template with 25ft of Movement, 1 Offensive and Defensive Action as how a Player/Mob would take their Turn.
+### TTRPG Normal Turn Simplified
+1) Plan turn or Roll Initiative if in Boss Fight
+2) Choose then Explain Movement Action/Offensive Action/Defensive Action to DM and allies
+3) Decide who acts first amongst all Players in player-chosen turn order, then players will proceed with their actions in that order 
+4) Act upon Action if allowed by DM and/or rulings
+5) Repeat Steps 2 and 4 until no more Offensive/Defensive Actions due to Movement or lack of Actions can be taken or until the creature ends their Turn.
+6) Pass Turn to next player until no more Players are capable of performing Actions, then pass the Turn to the opponent.
+### TTRPG Advanced Turn example
+1) Move 5ft with Movement Action to be within melee-range of Enemy A
+2) Use a Defensive Action to gain the Evasive Stance, increasing their Total Dodge Rolls by 50% while lowering their Attack Rolls by 25%, consuming 5ft of Movement
+3) Use an Offensive Action to use Skill 2 - Swipe Attack to deal 200% Total Damage to Enemy A, leaving only 5 Seconds of Action Economy left and consuming 5ft of Movement, leaving only 10ft of Movement left
+4) Move 5ft with Movement Action to escape melee-range of Enemy A
+5) Either End Turn to probably flex on the enemies, or perform a Dodge Action to increase your Hit DC and evade attacks easier
+6) Pass the Turn to the next Player 
+## Combat Detailed
+Movement Speed has a very important function in this system as it dictates your ability 
 Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
 
-Movement can be done before the Offensive Action, between Offensive & Defensive Actions, or after the Defensive Action. As long as the Player has Movement not taken, they can continue multiple times during their Turn. Each unconsumed Movement grants the user +1 Dodge Bonus per 5ft of Movement exchanged, but only if the User has moved at least 5ft this Round.
+Movement can be taken at any point during the Player's turn, and even if an Action is chosen, Movement is still left available to the Player at a slight caveat; each time an Action is taken, for that Round, the Player's total Movement is reduced by 5ft. *E.g., a creature with 30ft of Movement moving 5ft then using an Action reduces their total Movement that Round to 20ft from Moving and performing an Action.*
+
+Starting out, Players only have access to 1 Offensive and Defensive Action they can take. Upon completion of the Skill or Action they choose, they sacrifice 5ft of Movement in order to perform said-Action successfully unless said otherwise. Players over the course of the game can gain additional Offensive and Defensive Actions via increasing their Attack Speed or Movement Speed
 
 Players start all encounters with non-Boss Monsters first; Boss Fights however must be rolled with (d20 + Player Level) vs (d20 + (World Number x 5)) to determine an Initiative Order against a Boss; all non-Boss Monsters go after Players.
 
@@ -190,7 +217,7 @@ When preparing an attack, Players can choose one of the following Offensive Acti
 When preparing your defence, Players can choose one of the following Defensive Actions:
 - Balanced Stance - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
 - Aggressive Stance - A heads-on approach to combat, the player improves their Attack Roll by 50% while lowering their Dodge Roll by 25%.
-- Evasive Stance - A more elusive style of combat, the player raises their Dodge Roll by 50% while lowering their Attack Roll by 25%/
+- Evasive Stance - A more elusive style of combat, the player raises their Dodge Roll by 50% while lowering their Attack Roll by 25%
 - Total Defence Stance - Unlike Evasive Defence, under the believed perception that they'll be taking damage from an attack no matter what, the user stands completely stationary and refuses to budge a single step, reducing any damage taken down by 50% while negating any knockback taken.
 - Tactical Retreat Manoeuvre - Pick your feet up and start making a break-neck dash away from all trouble coming your way, increasing your Dodge Bonus by the amount given from Sprinting, in exchange for ending your Turn early, forgoing the use of your Primary and Secondary Skills for the rest of the Round, and entering Out of Combat Status.
 - Creative Defence - In exchange for lowering your Attack Roll by 75% and decreasing any incoming damage by 25%, the Player performs a set of actions within the Round's time limit that are not Skills to perform unique outcomes to grant mobility, defences, and/or protection with unique additions permissible by the DM; a Skill Check may or may not be involved when this Action's performed. If your enemies take damage from your actions, the enemy takes damage from their own attack your efforts converting 50% of the damage they dealt/would've dealt into damage they take boosted by your items. You can't take a Creative Offence at the same time with this Skill.
@@ -202,7 +229,7 @@ General Movement refers to the Creature's ability to cross across battlefields a
 The Average Speed of a Medium-Sized Creature is 30ft unless specified otherwise.
 
 Here's the list of Movement options available to players:
-- Normal Movement - Move at your Race's average Move-Speed.
+- Movement - Move at your Race's average Move-Speed.
 - Sprinting - Move at double your Race's average Move-Speed while disabling any Skills until this Movement has been ended. Certain Skills/Characters/Items interact with Sprinting in various ways which can benefit or change its interaction.
 - Flying - An acquired and specific skill, enabling its user to fly in any direction horizontally and vertically, it comes with various skill-levels that affect total Movement achieved by the skill/ability/ While flying, the creature's Hit DC is increased by an amount equal to the skill being displayed, lowered only if the attacker is also flying, but only if the creature's moved at least 5ft in any direction during their turn; the following skill levels are:
 	- Untrained - +1 Hit DC, 25% of Average Move-Speed, 15ft of Movement needed to turn 45 Degrees during Movement or come to a stop.
@@ -222,7 +249,7 @@ Some of the ways you can increase your Attack Rolls are:
 Unless a Skill specifies it, a creature's attack does not deal an Critical Strike or Damage. Any Damaging Skill that deals Damage and performs a Critical Strike normally deals Double Damage (+100%), however, certain items can raise the damage output of Critical Strikes, so this should be kept in mind for later calculations.
 When attempting to perform a Critical Strike, roll an Attack Roll like normal; for each 5% of Critical Chance you have, you convert that to +1 Crit Chance with a d20 dice. Starting from 20 and going down, if you roll on a number that would enable you to convert your normal Attack Roll into a Critical Strike, if the Attack Roll also succeeds, the Critical Attack is a success and your attack deals boosted damage. Crits only land if the attack does.
 ## Dodging
-Dodging is unique in this game with its double-dice system; the first roll is to determine the overall success or failure of the Dodger's capabilities, with a second d100 roll is made to determine how many attacks they are capable of evading. Players and Invaders both have the ability to Dodge Offensive Actions, while none of the Mobs can. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make it a d1000.
+Dodging is unique in this game with its double-dice system; the first roll, a d20+ their Hit DC, is to determine the overall success or failure of the Dodger's evasion, with a second d100 roll is made to determine how many attacks they are capable of evading. Players and Invaders both have the ability to Dodge Offensive Actions, while none of the Mobs can. The second dice is always a d100 unless the number of attacking enemies or attacks exceed 100, which instead would make roll an additional d100 for every 100 attacks needing to be evaded.
 ## Skill Checks
 Periodically, depending upon a scenario, a DM can ask a Player to perform a Skill Check; if your Monster can be found on one of these Maps, or if you have a Monster Manual for the Monster you're trying to identify, you gain a +1 to your roll to identify key-features in the area or know about monsters within the current field. The Skill Checks range from the following:
 - Lore (First Stage): Knowledge of the places and Monsters found within the first set of stages. 
@@ -248,9 +275,10 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 - Quick Release - Quickly release an ally, unit, or creature somewhere around you.
 - Risky Devouring Guard (Friendly Fire) - Taking a risk attempting to devour a projectile attack and redirect it to everyone inside you; failing guarantees you taking the damage.
 # Items & Effects
+There are a variety of item
 - Normal Items (Passive)
 	- Common
-		- Armour Piercing Rounds: Deal additional (20% + 20% per stack) damage to bosses
+		- Armour Piercing Rounds: Deal additional (20% + 20% per stack) damage to bosses.
 		- Backup Magazine: (1 + 1 per stack) Projectile to Secondary Skill.
 		- Bison Steak: Increases Max HP by (25 + 25 per stack).
 		- Bolstering Lantern: For each Creature within (65gy + 15ft per stack), up to a max of (4 + 2 per stack) Creatures (Creatures inside you don't count), increase your Attack Roll by +1 per stack with a stack; every 14 stacks of this item, gain 1 Offensive Stack Bonus that provides either +14 to Attack Rolls or gain +1 Offensive Action.
@@ -451,8 +479,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 + 1 per 10 Levels
 	  Digestion/Energy Drain Rate - 1 + 1 per Level
 	  Armour - 0
-		- Primary Skill: Headbutt - The Beetle winds up for a headbutt against a Target within 5ft, dealing 200% Total Damage while moving the Beetle 5ft forwards if possible. Can attack up to 4 times in 6 seconds.
-		- Secondary Skill (Player-Only): Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage.
+		- Primary Skill: Headbutt - The Beetle winds up for a headbutt against a Target within 5ft, dealing 200% Total Damage while moving the Beetle 5ft forwards if possible. Can attack up to 4 times per-Action, each consuming 5ft of Speed.
+		- Secondary Skill (Player-Only): Sleep - The Beetle lays down to sleep and recover from their damage, healing themselves for 5% of their Max HP per second. For 6 full Seconds, this creature can't be awoken by any creature or even themselves, but after 6 seconds, any Damage taken immediate wakes them up, or the Beetle can voluntarily choose when to wake up and continue healing until they take Damage. Disables and consumes all Movement.
 	 Evolves into: Beetle Guard (Lvl 12) or Beetle Queen (Lvl 24)
 	- Beetle Guard
 	  HP - 480 + 144 per Level
@@ -464,8 +492,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 2 + 1 per 4 Levels
 	  Digestion/Energy Drain Rate - 1 + 1 per Level
 	  Armour - 0
-		- Primary Skill: Ground Slam - The Beetle Guard raises both of its arms into the air before slamming them into the ground, causing a 10ft AOE shockwave of spikes to appear from the ground and launch all enemies within the radius 10ft vertically and 5ft horizontally away from the Beetle Guard; those within 5ft of the Beetle Guard are instead launched (20ft + 5ft per Level) vertically. The attack deals 440% Total Damage, and happens over a 3 Second Period with a once-per-Round Cooldown.
-		- Secondary Skill: Sunder - The Beetle Guard slams their arm down into the ground, causing a line of tall spikes to travel across the ground for 130ft and cause any enemy hit by these spikes to be launched towards the Beetle Guard, landing them anywhere within a 90 degree cone of them; the spikes continue travelling until they hit a wall, terrain, can no longer travel in a straight line, or breakable object. The spikes stay up as a 10ft wall that can block projectiles and most forms of movement through it for (1 + 1 per 20 points of Base Damage) Round(s). Those hit by the spikes during its travel take 300% Total Damage for each spike that hits an enemy, happens over a 3 Second Period, and can be used once every 2 rounds. 
+		- Primary Skill: Ground Slam - The Beetle Guard raises both of its arms into the air before slamming them into the ground, causing a 10ft AOE shockwave of spikes to appear from the ground and launch all enemies within the radius 10ft vertically and 5ft horizontally away from the Beetle Guard; those within 5ft of the Beetle Guard are instead launched (20ft + 5ft per Level) vertically. The attack deals 440% Total Damage, and consumes 15ft of Speed instead with a once-per-Round Cooldown.
+		- Secondary Skill: Sunder - The Beetle Guard slams their arm down into the ground, causing a line of tall spikes to travel across the ground for 130ft and cause any enemy hit by these spikes to be launched towards the Beetle Guard, landing them anywhere within a 90 degree cone of them; the spikes continue travelling until they hit a wall, terrain, can no longer travel in a straight line, or breakable object. The spikes stay up as a 10ft wall that can block projectiles and most forms of movement through it for (1 + 1 per 20 points of Base Damage) Round(s). Those hit by the spikes during its travel take 300% Total Damage for each spike that hits an enemy, consumes 15ft of Speed instead, and can be used once every 2 rounds. 
 	 Evolves into: Beetle Queen (Lvl 12)
 	- Bighorn Bison
 	- Blind Pest
@@ -483,8 +511,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 +1 per 10 Levels
 	  Digestion/Energy Drain Rate - 1 + 2 per Level
 	  Armour - 0
-		- Primary Skill: Rapid Fire - The Clay Templar spends 1 second winding up their cannon before firing 20 tar bullets per-second with a -10% damage fall-off every increment range of 15ft from the shooter; while firing, the shooter can only move 5ft per-Round. Each time this Attack hits, roll a d20; this roll determines how many bullets shot out hit its Target while the rest miss. Each bullet deals 32% Total Damage. Can attack up to 6 times in 6 seconds, with 1 second of wind-up and 2 seconds of wind-down.
-		- Secondary Skill: Tar Blast - The Clay Templar unleashes a short-ranged 20ft-wide, 10ft-long cone Tar Blast, pushing away Targets without a Test 30ft away on the ground, 90ft in the air while inflicting the Tar Condition. 1 Round Cooldown.
+		- Primary Skill: Rapid Fire - The Clay Templar spends 1 second winding up their cannon before firing 20 tar bullets per-second with a -10% damage fall-off every increment range of 15ft from the shooter; while firing, the shooter can only move 5ft per-Round. Each time this Attack hits, roll a d20; this roll determines how many bullets shot out hit its Target while the rest miss. Each bullet deals 32% Total Damage. Can attack up to 6 times per-Action that consumes 5ft of Speed per-attack, with a 1 second of wind-up that can be made with 5ft of Speed, and 2 seconds of wind-down that disables any Skill usage but restores up to 10ft of Speed consumed. Revving up to shoot does not consume Speed and allows 5ft of Movement before shooting. To maintain revving, there can't be more than 5ft of Speed made or consumed between each attack, or else the user is forced to rev down.
+		- Secondary Skill: Tar Blast - The Clay Templar unleashes a short-ranged 20ft-wide, 10ft-long cone Tar Blast, pushing away Targets without a Test 30ft away on the ground, 90ft in the air while inflicting the Tar Condition. Consumes 5ft of Speed, with a 1 Round Cooldown.
 	 Evolves into: Clay Apothecary (Lvl 20), Clay Dunestrider (Lvl 35)
 	- Elder Lemurian
 	- Geep
@@ -497,8 +525,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 +1 per 4 Levels
 	  Digestion/Energy Drain Rate - 2 + 2 per Level
 	  Armour - 0
-		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 10ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
-		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second hitting anything under itself for 75% of its Current HP as Damage while damaging anything around it for 15% of its Current HP as Damage. 1 Round Cooldown.
+		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 10ft for 300% Total Damage. Can attack up to 2 times per-Action, each attack hitting 2 times, consumes 5ft of Speed.
+		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Base Speed, spending 1 second airborne before spending the next second hitting anything under itself for 75% of its Current HP as Damage while damaging anything around it for 15% of its Current HP as Damage. 1 Round Cooldown, consumes half of whatever Speed is consumed rounded down to every 5ft.
 		- Passive Skill: Mitosis - When Geep dies, it splits into 2 Gip which have half of Geep's stats, but each Gip have the same amount of items 1 Geep has. After each Transporter Event, all Gips gather back together to restore themselves back into a Geep with no loss in Stats.
 	 Evolves into: Gup (Lvl32)
 	- Gip:
@@ -511,8 +539,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 +1 per 8 Levels
 	  Digestion/Energy Drain Rate - 2 + 2 per Level
 	  Armour - 0
-		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 5ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
-		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second hitting anything under itself for 50% of its Current HP as Damage while damaging anything around it for 10% of its Current HP as Damage. No Cooldown.
+		- Primary Skill: Spikes - The Gip projects spikes all across its body, hitting all enemies within 5ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times, consumes 5ft of Speed.
+		- Secondary Skill: Glorpy Pounce - The Gip prepares to jump and slam its body down and crush anything it lands upon within double its Base Speed, spending 1 second airborne before spending the next second hitting anything under itself for 50% of its Current HP as Damage while damaging anything around it for 10% of its Current HP as Damage. No Cooldown, consumes half of spent Speed.
 	 Evolves into: Geep (Lvl16), Gup (Lvl32)
 	- Greater Wisp
 	- Gup
@@ -525,8 +553,8 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 +1 per 3 Levels
 	  Digestion/Energy Drain Rate - 3 + 3 per Level
 	  Armour - 0
-		- Primary Skill: Spikes - The Gup projects spikes all across its body, hitting all enemies within 15ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times.
-		- Secondary Skill: Glorpy Pounce - The Gup prepares to jump and slam its body down and crush anything it lands upon within double its Movement, spending 1 second airborne before spending the next second  hitting anything under itself for 100% of its Current HP as Damage while damaging anything around it for 25% of its Current HP as Damage.
+		- Primary Skill: Spikes - The Gup projects spikes all across its body, hitting all enemies within 15ft for 300% Total Damage. Can attack up to 2 times in 6 seconds, each attack hitting 2 times, consumes 5ft of Speed.
+		- Secondary Skill: Glorpy Pounce - The Gup prepares to jump and slam its body down and crush anything it lands upon within double its Speed, spending 1 second airborne before spending the next second  hitting anything under itself for 100% of its Current HP as Damage while damaging anything around it for 25% of its Current HP as Damage, consuming half of whatever Speed is spent.
 		- Passive Skill: Mitosis - When Gup dies, it splits into 2 Geep which have half of Gup's stats, but each Geep have the same amount of items 1 Gup has. Same thing happens when each Geep dies. After each Transporter Event, all Geeps and Gips gather back together to restore themselves back into a Gup with no loss in Stats.
 	- Halcyonite
 	- Hermit Crab
@@ -540,7 +568,7 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 	  Stomach Capacity - 1 +1 per 8 Levels
 	  Digestion/Energy Drain Rate - 1 + 1.5 per Level
 	  Armour - 0
-		- Primary Skill: Abyssal Slash - The Imp slashes twice in front of itself, dealing 150% Total Damage per-hit and inflicting Bleed every 0.5 seconds for 2.5 seconds, each tick dealing 20% Base Damage. Can attack up to 5 times in 6 seconds, each attack hitting 2 times.
+		- Primary Skill: Abyssal Slash - The Imp slashes twice in front of itself, dealing 150% Total Damage per-hit and inflicting Bleed every 0.5 seconds for 2.5 seconds, each tick dealing 20% Base Damage. Can attack up to 5 times in 6 seconds, each attack hitting 2 times, and every 1-2 attacks consuming 5ft of Speed.
 		- Secondary Skill: Abyssal Blink - The Imp "Blinks" (Teleports) up to half of their remaining Movement in any direction of their choosing (usually towards Invaders). The Teleportation lasts 2 Seconds, makes the Imp untouchable during the duration of the Blink, and the Imp has 3 Charges of this Skill. Each Charge Recharges once every Round/6 Seconds, and can only Recharge 1 charge per-Round.
 	 Evolves into: Imp Overlord (Lvl24)
 	- Jellyfish: 
@@ -569,6 +597,17 @@ As an alternative Offensive Action, Players can choose one of the following Vore
 		- Primary Skill: Larval Leap - The Larva sprints and leaps up to their Movement Speed x8 before landing down with a heavy impact and a 10ft radius splash of acid; the distance travelled can be divided between vertical and horizontal travel, with horizontal movement taking double the movement needed. Those within the impact-radius, regardless of being at the edge or centre, take 320% Total Damage. This Skill can only be performed once per-Round.
 		- Secondary Skill (Player-Only): Commanding Swarm - To ensure their survival as a prominent Larva amongst their kin, they call upon (2 + 1 per Level) Larva Minions to help their leader swarm an enemy easier while taking any life-threatening hits for them; they gain a HP shield equal to 25% their Max HP for each Larva Minion they have with them, and for each attack that damages the Larva Swarm that exceeds their shield-value negates all further damage taken in exchange for that Larva Minion's life, meaning even if the Larva were to take more than all of their total combined health's worth in damage, only a single Larva Minion would die in their place. This includes DOT effects. The Minions don't attack, nor do they gain their own sets of Items like the Player, but they do benefit from healing effects provided to them. 5 Round/30 Second Cooldown.
 	- Lemurian: 
+	  HP - 80 + 24 per Level
+	  HP Regen - 0 + 0 per Level
+	  Base Damage - 12 + 2.4 per Level
+	  Size - Medium
+	  Hit DC - 7
+	  Base Speed  - 25ft
+	  Stomach Capacity - 1 + 1 per 9 Levels
+	  Digestion/Energy Drain Rate - 1 + 2.5 per Level
+	  Armour - 0
+		- Primary Skill: Fireball - The Lemurian charges up a ball of flame that does not get stronger when held. At will, they release the fireball from their mouth and spit it out in a straight line, dealing 100% Total Damage to a single target. 5ft Cost, 1 Second Cooldown.
+		- Secondary Skill: Swipe Attack - The Lemurian bites at their target within 5ft of them, dealing 200% Total Damage to them. 5ft Cost,1 Second Cooldown.
 	- Lesser Wisp:  
 	- Lunar Chimera (Exploder)
 	- Lunar Chimera (Golem)
