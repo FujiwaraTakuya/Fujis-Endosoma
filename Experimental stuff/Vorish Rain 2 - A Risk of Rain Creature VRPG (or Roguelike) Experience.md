@@ -187,19 +187,23 @@ As an example, I'll be using the Lemurian Mob Template with 25ft of Movement, 1 
 5) Repeat Steps 2 and 4 until no more Offensive/Defensive Actions due to Movement or lack of Actions can be taken or until the creature ends their Turn.
 6) Pass Turn to next player until no more Players are capable of performing Actions, then pass the Turn to the opponent.
 ### TTRPG Advanced Turn example
-1) Move 5ft with Movement Action to be within melee-range of Enemy A
-2) Use a Defensive Action to gain the Evasive Stance, increasing their Total Dodge Rolls by 50% while lowering their Attack Rolls by 25%, consuming 5ft of Movement
-3) Use an Offensive Action to use Skill 2 - Swipe Attack to deal 200% Total Damage to Enemy A, leaving only 5 Seconds of Action Economy left and consuming 5ft of Movement, leaving only 10ft of Movement left
-4) Move 5ft with Movement Action to escape melee-range of Enemy A
-5) Either End Turn to probably flex on the enemies, or perform a Dodge Action to increase your Hit DC and evade attacks easier
+1) Move 5ft with Movement Action to be within melee-range of Enemy A (Used Movement Action)
+2) Use a Defensive Action to gain the Evasive Stance, increasing their Total Dodge Rolls by 50% while lowering their Attack Rolls by 25%, consuming 5ft of Movement (Used Defensive Action)
+3) Use an Offensive Action to use Skill 2 - Swipe Attack to deal 200% Total Damage to Enemy A, leaving only 5 Seconds of Action Economy left and consuming 5ft of Movement, leaving only 10ft of Movement left (Used Offensive Action)
+4) Move 5ft with Movement Action to escape melee-range of Enemy A (Used Movement Action)
+5) Either End Turn to probably flex on the enemies, or perform a Dodge Action to increase your Hit DC and evade attacks easier (End Turn/Dodge Action)
 6) Pass the Turn to the next Player 
+Over the course of 6 seconds, the Lemurian had moved in and out of combat using their Speed take a defensive stance to make themselves harder to hit during Dodge Rolls, before making an Attack against an enemy within 5ft of them with a 25% Attack Roll Penalty reducing their next Attack Roll result by 25% to try and hit their target. Then after moving out of combat, because of their stance, they can take the Dodge Action to evade attacks more easily while 
 ## Combat Detailed
-Movement Speed has a very important function in this system as it dictates your ability 
-Combat is split between 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge to evade taking damage from an incoming or group of incoming Attack(s).
+All of combat is defined by Rounds and Turns; when you enter Combat, you enter the Round on your Turn as the Player having a more immediate apparent combat-presence than the Monsters attacking you. During a Round, you only have 6 seconds to choose how you act and wish to combat your encounters during said-turn, so some Actions you'd like to choose may have a Round, Speed, or Charge-limit that restricts its usage, which should be kept in mind. 
 
-Movement can be taken at any point during the Player's turn, and even if an Action is chosen, Movement is still left available to the Player at a slight caveat; each time an Action is taken, for that Round, the Player's total Movement is reduced by 5ft. *E.g., a creature with 30ft of Movement moving 5ft then using an Action reduces their total Movement that Round to 20ft from Moving and performing an Action.*
+Speed has a very important function in this system as it dictates mobility in combat, your ability to perform Offensive and Defensive Actions, and how many Actions you are able to perform within 6 seconds of a Round while maintaining your mobility and combat-effectiveness. Almost every Action you perform consumes Speed, from a minimum of 5ft, with some Actions requiring more than 5ft of Speed to be performed. The Movement Action is your main form of transportation across the maps, and a Common Action that relies on Speed to see how far you can walk, run, and sprint.
 
-Starting out, Players only have access to 1 Offensive and Defensive Action they can take. Upon completion of the Skill or Action they choose, they sacrifice 5ft of Movement in order to perform said-Action successfully unless said otherwise. Players over the course of the game can gain additional Offensive and Defensive Actions via increasing their Attack Speed or Movement Speed
+During Combat, 2 Actions that can be performed during a Player's turn: Offensive and Defensive Actions, and when the Player is attacked, they can choose to perform a Dodge Action to evade taking damage from an incoming or group of incoming Attack(s) as long as their chosen and maintained Stance enables them to perform a Dodge Action.
+
+Starting out, Players only have access to 1 Offensive and Defensive Action they can take. Players over the course of the game can gain additional Offensive and Defensive Actions via increasing their Attack Speed or Movement Speed.
+
+Movement can be taken at any point during the Player's turn, and even if an Action is chosen, Movement is still left available to the Player. *E.g., a creature with 30ft of Speed moving 5ft then using an Action that consumes 5ft of Speed reduces their total Movement that Round to 20ft from Moving and performing an Action.*
 
 Players start all encounters with non-Boss Monsters first; Boss Fights however must be rolled with (d20 + Player Level) vs (d20 + (World Number x 5)) to determine an Initiative Order against a Boss; all non-Boss Monsters go after Players.
 
@@ -212,7 +216,7 @@ When preparing an attack, Players can choose one of the following Offensive Acti
 - Invader Utility Skill - Manipulate the Invader within you to use their Utility Skill to your benefit
 - Activate Equipment - Activate your attached Equipment for its effect(s)
 - Vore Action - Alternative to other Offensive Actions, used to consume 1 or more creatures for voracious benefits
-- Creative Offense - In exchange for lowering your Dodge Roll by 75% and increase any incoming damage by 25%, the Player performs a set of actions within the Round's time limit that are not Skills to perform unique outcomes to deal damage with unique additions permissible by the DM; a Skill Check may or may not be involved when this Action's performed. Damage dealt is based either on Base Damage or Total Damage. You can't take a Creative Defence at the same time with this Skill.
+- Creative Offense - In exchange for lowering your Dodge Roll by 75% and increase any incoming damage by 25%, the Player performs a set of actions within the Round's time limit that are not Skills to perform unique outcomes to deal damage with unique additions permissible by the DM; a Skill Check may or may not be involved when this Action's performed. Damage dealt is based either on Base Damage or Total Damage. You can't take a Creative Defence at the same time with this Skill. 
 
 When preparing your defence, Players can choose one of the following Defensive Actions:
 - Balanced Stance - A balanced approach to combat, the Player gains no benefit or downside to fighting as such.
