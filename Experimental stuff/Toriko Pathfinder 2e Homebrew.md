@@ -1,0 +1,32 @@
+---
+share: true
+---
+# Prologue
+Someone once said there are beasts whose entire body is marbled meat that melts in your mouth. There are springs from which gush forth refreshing beverages made from deep, rich juices of the highest quality muskmelons and perfectly ripened mangoes in which endlessly dance bubbles of sweetness. The world is in the Gourmet Age. An age in which people quest for yet unknown culinary delights!
+## Classes
+There are a couple classes unique to the world of Toriko 
+- Gourmet Chef - A dedicated chef whom their main objective in life is to cook food unique to them and their life choices; their are many normal methods achievable, but some have almost superhuman abilities that are unique to them that enable them to perform feats of strange cooking and combat techniques that would not be normally possible by the average human, including expelling cooking oil from your skin to repel water fluids or fry your enemies, using threads to bind or slice through whatever's in front of you, throwing skewers to pin, penetrate, or target an enemy's nerves to halt certain bodily functions, carving through some of the toughest materials or even cutting only specified targets without hitting anything outside the targeted area, and so much more.
+- Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter)
+	- Appetite Demon
+	- Bishokukai (Bih-Show-Koo-Kai) (Gourmet Corp.)
+- Saiseiya (Food Reviver)
+- Gourmet Knight
+## Stats
+Starting stats are rolled the same, but depending on the class chosen from the, you'll gain unique benefits:
+- Gourmet Chef - A dedicated chef whom's main objective in life is to cook food
+- Bishokuya (Food Hunter)
+	- Appetite Demon
+	- Bishokukai
+- Saiseiya (Food Reviver)
+- Gourmet Knight
+## Races
+While there are not a tremendous amount of playable species in this world beyond the planet earth, the level of flexibility that can be attained from each race as to the way your character looks and functions is helped immensely due to the biological feats made within the world of Toriko:
+- Humans - Basic, but easiest race to modify and reach heights of surprising and terrifying power within the Normal World. Sometimes can be born with Gourmet Cells without needing an injection or consuming the fabled Gourmet Jellyfish.
+- Modified Humanoid - Either beings who've modified themselves or been modified to adjust to their home's unique habitat or those born from ancient civilizations within the Gourmet World, or maybe given modifications to their body that would enable them to take over the limbs of another Monster through a unique surgery. May or may not need Gourmet Cells to survive modifications
+- Modified Monster - A Monster from the Normal World (With a Capture Level of 1-30), or a weak Monster from the Gourmet World (Usually from one of the Ancient Civilizations) whom was modified by humanity or some third party with greater intelligence and the ability to speak the human language.
+- Nitro - An alien race of noodly-faced, mouth-splitting, avian-looking humanoids without wings whom came from an ancient space-traversing species that roam the universe finding planets to imbue Gourmet Life into with generally dubious experimented methods; with 2 variations of species, red and blue, there is a much more massive disparity between the two races than most would realise. Made and born from the evolution of single celled Gourmet Cells, their ability procreate is nothing but recreational and non-functional.
+	- Red Nitro - The most common species of Nitro in the universe, but also the weaker subspecies of Nitro; most were enslaved by the Blue Nitro and had their vocal cords irreparably damaged or removed, leading to them only being able to speak through monstrous screeches. Their personalities would be considerably close to that of humans, weren't it not for their self-consideration of a higher status as a species.
+	- Blue Nitro - The rarer, self-considered higher species of Nitro, these intelligent sub-species use their minds to figure out the workings of the Gourmet Universe while travelling the stars, but with usually less than charitable reasons. They are part of the cause of why Gourmet Cells have been spread throughout the universe, but beyond the desire to understand more of it, the reason to continue is yet to be understood.
+- Appetite Demon - An alien entity also born from Gourmet Cells; a host body is given a direct injection and the cells overwhelm its host's body due to their body being in compatible with the cells evolution, thus leading to the cells consuming its host and depending upon the level of destruction dealt to the host's cells, they either become a malformed modified humanoid being with some new traits but no Gourmet Cells, or becoming an entirely new being called an Appetite Demon. Their existence becomes entirely their own, and the host is no longer able to return to their body as all but their soul are consumed and taken from them. Appetite Demons born this way the first time can exist without a body for as long as they want, but if they die, their soul still exists thanks to their Gourmet Cells, and as such can allow them to be reborn at a different time through the randomised generation of Gourmet Cells somewhere throughout the world or planet they're upon, essentially becoming a symbiotic parasite to their given host while providing them access to a growing portion of their strength and other unique abilities. The only way for an Appetite Demon to exist outside of its Host's body, outside consuming a large number of the Host's Kcals during their manifestation, is for the Host to have consumed every dish of Acacia's Full Course- only then will their body have reached a stage of enlightenment that would allow their Appetite Demon to be able to permanently manifest at the Host's will with no Kcal consumption. The Demon themselves still requires food to sustain themselves as a being made of Gourmet Cells.
+- Off-worlder/Alien (Modified Creature Creator) - An unnamed alien species from another planet aside from Earth that may or may not have received a dosage of Gourmet Cells; they could come in different shapes and sizes, but their categories usually fit into an easy-to-identify chart which could denote their capabilities.
+## Monsters
