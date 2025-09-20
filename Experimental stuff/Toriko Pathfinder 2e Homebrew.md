@@ -6,19 +6,19 @@ Someone once said there are beasts whose entire body is marbled meat that melts 
 ## Classes
 There are a couple classes unique to the world of Toriko 
 - Gourmet Chef - A dedicated chef whom their main objective in life is to cook food unique to them and their life choices; their are many normal methods achievable, but some have almost superhuman abilities that are unique to them that enable them to perform feats of strange cooking and combat techniques that would not be normally possible by the average human, including expelling cooking oil from your skin to repel water fluids or fry your enemies, using threads to bind or slice through whatever's in front of you, throwing skewers to pin, penetrate, or target an enemy's nerves to halt certain bodily functions, carving through some of the toughest materials or even cutting only specified targets without hitting anything outside the targeted area, and so much more.
-- Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter)
-	- Appetite Demon
-	- Bishokukai (Bih-Show-Koo-Kai) (Gourmet Corp.)
-- Saiseiya (Food Reviver)
-- Gourmet Knight
+- Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter) - Food Hunters who explore the world, gathering ingredients to sell and make their living; while normal amongst most of the populace, their strength is usually above human for most who battle to find new flavours amongst themselves, or trying to attain rare ingredients that come every couple or hundred of years for money or purpose. But there are those who're either born immensely strong, or are born with or given Gourmet Cells which enhance their physical abilities, while providing them a arsenal of powers utensil-based powers unique to their evolving Cells, along with a Demon that now resides and grows within them.
+	- Appetite Demon - A being born of and made of Gourmet Cells; depending on their current life cycle, either exist in the world on their own or reborn as Cells within a Host's body, able to provide them power and knowledge should they accept it while being the cause of constant hunger and food needs within their host. Usually of Chaotic Alignment.
+	- Bishokukai (Bih-Show-Koo-Kai) (Gourmet Corp.) - Part of an evil organisation of Food Hunters, they will target any ingredient in the world to make themselves stronger and reach the pinnacle of all food in the universe: God. They'll lie, steal, kill- all for their objectives, and do it all to evolve further and further for their own goals, whether aligned with the boss' desires or their own, power means everything to those within the organisation- and appearances and tastes would stray further and further within the abhorrent than most would like or care to know of. Usually of Neutral or evil alignment.
+- Saiseiya (Food Reviver) - A group of specially trained people whom use special techniques, plants, chemicals, and other items to subdue criminals, heal the injured, and revive near-dead, sealed away, or near extinct creatures or ingredients. While their methods can be quite drastic at times, they usually aim to capture any criminal alive if possible to bring them to justice, while punishing those who abuse towards the ingredients and monsters of the world.
+- Gourmet Knight - The more reclusive warriors of the Gourmet Universe, their speciality aside from their fighting prowess comes from their ability function days, to weeks, to months, to years on end within solitude or without food, and drawing upon their techniques with greater efficiency than most other beings are capable of producing, at the cost of a usually frailer body and strict 'Gourmet Doctrine' that makes them entrust their body to nature.
 ## Stats
 Starting stats are rolled the same, but depending on the class chosen from the, you'll gain unique benefits:
-- Gourmet Chef - A dedicated chef whom's main objective in life is to cook food
-- Bishokuya (Food Hunter)
-	- Appetite Demon
-	- Bishokukai
-- Saiseiya (Food Reviver)
-- Gourmet Knight
+- Gourmet Chef - +6 Wisdom, +4 Intelligence, +2 Str/Dex
+- Bishokuya (Gourmet Hunter) - +6 Str/Dex/Con, +4 Dex/Con/Str, +2 Con/Str/Dex (1 stat bonus per Core Stat)
+	- Appetite Demon - +6 Con, +4 Str/Dex, -2 Str/Dex, +4 Int/Wis/Cha, -2 Wis/Cha/Int, -4 Cha/Int/Wis (1 stat bonus per Core Stat)
+	- Bishokukai (Gourmet Corp.) - +6 Str/Dex/Con, +6 Int/Wis, +4 Dex/Con/Str, -4 Con/Str/Dex, -4 Wis/Int, -6 Cha (1 stat bonus per Core Stat)
+- Saiseiya (Food Reviver) - +4 Int/Wis, +2 Wis/Int, +2 Cha, +4 Str/Dex/Cha (1 stat bonus per Core Stat)
+- Gourmet Knight - +6 Cha, +4 Str/Dex, +4 Wis, +2 Dex/Str, -2 Int, -6 Con
 ## Races
 While there are not a tremendous amount of playable species in this world beyond the planet earth, the level of flexibility that can be attained from each race as to the way your character looks and functions is helped immensely due to the biological feats made within the world of Toriko:
 - Humans - Basic, but easiest race to modify and reach heights of surprising and terrifying power within the Normal World. Sometimes can be born with Gourmet Cells without needing an injection or consuming the fabled Gourmet Jellyfish.
