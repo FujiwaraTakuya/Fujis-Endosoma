@@ -3,22 +3,126 @@ share: true
 ---
 # Prologue
 Someone once said there are beasts whose entire body is marbled meat that melts in your mouth. There are springs from which gush forth refreshing beverages made from deep, rich juices of the highest quality muskmelons and perfectly ripened mangoes in which endlessly dance bubbles of sweetness. The world is in the Gourmet Age. An age in which people quest for yet unknown culinary delights!
+## New Additions
+### Racial Traits
+Cold Environment Adaptation
+Low Altitude Adaptation
+Gravity Adaptation
+Hot Environment Adaptation
+Poison Adaptation
+Fire Adaptation
+Water Adaptation
+Air Adaptation
+Earth Adaptation
+Ice Adaptation
+Lightning Adaptation
+Mud Adaptation
+
+## Weapon Properties
+Gourmet Chef - Special cooking tools that can act like and be used as weapons by trained Gourmet Chefs.
+## Feats
+### Dark Technique (General)
+### Exotic Chef Weapon Proficiency (Combat)
+You gain access to 1 of any exotic Chef weapon, understand how to use that type of exotic weapon in combat, and can utilize any special tricks or qualities that exotic weapon might allow; if you have the Gourmet Chef Class, increase the number of exotic Chef Weapons you gain access to up to 3.
+Prerequisites: Gourmet Chef Class or Gourmet Cooking Proficiency Feat, BAB +1, Profession (Cook)
+Normal: A character who uses a weapon with which he is not proficient takes a –4 penalty on attack rolls.
+Special: You can gain Exotic Chef Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of exotic weapon.
+### Food Honour (General)
+Because of your training and learning of proper form and technique, you've gained the skill of trained Food Honour; Increase your BAB by +5, your Ref. Save by +2
+Prerequisites: BAB +6 or 1-12 months of teaching from a Food Honour Master
+Normal: There are certain Gourmet Foods, Material, and Ingredients that'll avoid you or outright be inedible without proper training in Food Honour.
+Special: 
+### Gourmet Cooking Proficiency (General)
+You have the technical ability and know-how to prepare a number of Gourmet Ingredients from Monsters, Plants, and the environment, multiplying your Profession (Cook) Skill by 2x, and enable you to use your Survival Skill to harvest Organic Gourmet Ingredients; if you have the Gourmet Chef Class, increase this multiplier to x3.
+Prerequisites: Profession (Cook)
+Normal: A character who tries to harvest Gourmet Ingredients without the understanding and knowledge of an Ingredient's qualities will always harvest and create poor quality ingredients/food with these specific ingredients.
+### Gourmet Cooking Expertise (General)
+Your ability to prepare and cook Gourmet Ingredients has advanced to a higher level, 
+Prerequisites: Gourmet Cooking Proficiency, Food Honour Feat, BAB +7
+Normal:
+### Knocking Training: Novice
+Through the understanding of most normal limbs, muscle fibres, and never placements, you can use Knocking Guns to safely apply Knocking Needles into a target's body and either force them into paralysis or slumber for easier capture, or restraining them
+Prerequisites: BAB +2
+### Pre-shot Routine (General)
+Through mental fortitude, concentration, and near-endless practice,
+Prerequisites:
+Normal: 
+Special:
+
+## Personal Taste/Flavours
+Every person has their own personal tastes of their favourite foods and flavours; for some, they can hear the voice of the ingredients, calling out to them to be eaten and prepared the best way possible for the best of their flavour. For those with Gourmet Cells, it can influence the way their body develops after consuming each ingredient, based on the following categories:
+- Flavour - Salty, Sweet, Bitter, Sour, and Umami/Savouriness
+- Texture - Smooth, Creamy, Chewy, Crunchy, Firm, Soft, Airy, Sticky, Crisp, Rubbery, Fibrous, and Juicy
+- Cooking Preparation - Fried, Deep Fried, Stewed, Steamed, Boiled, Roasted, Confit, Fermented, Smoked, Pressure Cooked, and Aged
+For every category a raw ingredient or dish fits into when consumed, you magnify the statistical benefits gained from it by +1x times.
+
 ## Classes
-There are a couple classes unique to the world of Toriko 
-- Gourmet Chef - A dedicated chef whom their main objective in life is to cook food unique to them and their life choices; their are many normal methods achievable, but some have almost superhuman abilities that are unique to them that enable them to perform feats of strange cooking and combat techniques that would not be normally possible by the average human, including expelling cooking oil from your skin to repel water fluids or fry your enemies, using threads to bind or slice through whatever's in front of you, throwing skewers to pin, penetrate, or target an enemy's nerves to halt certain bodily functions, carving through some of the toughest materials or even cutting only specified targets without hitting anything outside the targeted area, and so much more.
+There are a couple classes unique to the world of Toriko:
+### Gourmet Chef
+A dedicated chef whom their main objective in life is to cook food unique to them and their life choices; their are many normal methods achievable, but some have almost superhuman abilities that are unique to them that enable them to perform feats of strange cooking and combat techniques that would not be normally possible by the average human, including expelling cooking oil from your skin to repel water fluids or fry your enemies, using threads to bind or slice through whatever's in front of you, throwing skewers to pin, penetrate, or target an enemy's nerves to halt certain bodily functions, carving through some of the toughest materials or even cutting only specified targets without hitting anything outside the targeted area, and so much more.
+
+Role: While they perform more commonly as a martial class with a greater strength  and focus of Dexterity, some Chefs can get access to special abilities called Dark Techniques which can apply illegal techniques to anything it cuts, in exchange for a price.
+
+Hit Die: d6
+Starting Wealth:
+#### Class Skills
+Appraise, Craft (Cooking Implements, Cooking Utensils, Chefs Knives), Diplomacy, Handle Animal, Knowledge (Dungeoneering, Engineering, Geography, Local, Nature, Planes, Religion), Perception, Profession (Baker, Barrister, Brewer, Butcher, Cook, Gardener, Herbalist, Innkeeper, Merchant, Tanner), Sense Motive, Spellcraft, Survival, Use Magic Device
+
+Skill Points at each level: 4 + Int Modifier. 
+#### Class Features
+
+| Level | Base Attack<br>     Bonus | Fort<br>Save | Ref<br>Save | Will<br>Save | Special  |     |     |     |     |     |     |
+| ----- | ------------------------- | ------------ | ----------- | ------------ | -------- | --- | --- | --- | --- | --- | --- |
+| 1     | +0                        | +0           | +2          | +2           |          |     |     |     |     |     |     |
+| 2     | +1                        | +0           | +3          | +3           |          |     |     |     |     |     |     |
+| 3     | +2                        | +1           | +3          | +3           |          |     |     |     |     |     |     |
+| 4     | +3                        | +1           | +4          | +4           |          |     |     |     |     |     |     |
+| 5     | +3                        | +1           | +4          | +4           |          |     |     |     |     |     |     |
+| 6     | +4                        | +2           | +5          | +5           |          |     |     |     |     |     |     |
+| 7     | +5                        | +2           | +5          | +5           |          |     |     |     |     |     |     |
+| 8     | +6/+1                     | +2           | +6          | +6           |          |     |     |     |     |     |     |
+| 9     | +6/+1                     | +3           | +6          | +6           |          |     |     |     |     |     |     |
+| 10    | +7/+2                     | +3           | +7          | +7           |          |     |     |     |     |     |     |
+| 11    | +8/+3                     | +3           | +7          | +7           |          |     |     |     |     |     |     |
+| 12    | +9/+4                     | +4           | +8          | +8           |          |     |     |     |     |     |     |
+| 13    | +9/+4                     | +4           | +8          | +8           |          |     |     |     |     |     |     |
+| 14    | +10/+5                    | +4           | +9          | +9           |          |     |     |     |     |     |     |
+| 15    | +11/+6/+1                 | +5           | +9          | +9           |          |     |     |     |     |     |     |
+| 16    | +12/+7/+2                 | +5           | +10         | +10          |          |     |     |     |     |     |     |
+| 17    | +12/+7/+2                 | +5           | +10         | +10          |          |     |     |     |     |     |     |
+| 18    | +13/+8/+3                 | +6           | +11         | +11          |          |     |     |     |     |     |     |
+| 19    | +14/+9/+4                 | +6           | +11         | +11          |          |     |     |     |     |     |     |
+| 20    | +15/+10/+5                | +6           | +12         | +12          | God Chef |     |     |     |     |     |     |
+#### Weapon and Armor Proficiency
+A Gourmet Chef is proficient with all Simple Weapons, Simple Chef Weapons, and 1 Martial Chef Weapon of choice. A Gourmet Chef is also proficient with light armour, and Chef Shields.
+#### 
+
+
+### Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter)
+Food Hunters who explore the world, gathering ingredients to sell and make their living; while normal amongst most of the populace, their strength is usually above human for most who battle to find new flavours amongst themselves, or trying to attain rare ingredients that come every couple or hundred of years for money or purpose. But there are those who're either born immensely strong, or are born with or given Gourmet Cells which enhance their physical abilities, while providing them a arsenal of powers utensil-based powers unique to their evolving Cells, along with a Demon that now resides and grows within them.
+
+Class Skills - Acrobatics, Bluff, Climb, Escape Artist, Intimidate, Knowledge (Dungeoneering, Engineering, Geography, History, Local, Nature, Planes, Religion), Perception, Profession (Butcher, Clerk, Driver, Engineer, Farmer, Fisherman, Gambler, Gardener, Innkeeper, Merchant, Miner, Porter, Sailor, Shepherd, Soldier, Tanner, Trapper, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival, Swim
+
+#### Appetite Demon
+A being born of and made of Gourmet Cells; depending on their current life cycle, either exist in the world on their own or reborn as Cells within a Host's body, able to provide them power and knowledge should they accept it while being the cause of constant hunger and food needs within their host. Usually of Chaotic Alignment.
   
-  Class Skills - Appraise, Craft (Cooking Implements, Cooking Utensils, Chefs Knives), Diplomacy, Handle Animal, Knowledge (Dungeoneering, Engineering, Geography, Local, Nature, Planes, Religion), Perception, Profession (Baker, Barrister, Brewer, Butcher, Cook, Gardener, Herbalist, Innkeeper, Merchant, Tanner), Sense Motive, Survival
-- Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter) - Food Hunters who explore the world, gathering ingredients to sell and make their living; while normal amongst most of the populace, their strength is usually above human for most who battle to find new flavours amongst themselves, or trying to attain rare ingredients that come every couple or hundred of years for money or purpose. But there are those who're either born immensely strong, or are born with or given Gourmet Cells which enhance their physical abilities, while providing them a arsenal of powers utensil-based powers unique to their evolving Cells, along with a Demon that now resides and grows within them.
+Class Skills - Acrobatics, Appraise (Ingredients), Bluff, Climb, Diplomacy, Escape Artist, Heal, Intimidate, Knowledge (Arcana, Dungeoneering, Geography, History, Local, Nature, Nobility, Planes, Religion), Linguistics, Perception, Sense Motive, Sleight of Hand, Spellcraft, Stealth, Survival, Swim, Use Magic Device
+
+#### Bishokukai (Bih-Show-Koo-Kai) (Gourmet Corp.)
+Part of an evil organisation of Food Hunters, they will target any ingredient in the world to make themselves stronger and reach the pinnacle of all food in the universe: God. They'll lie, steal, kill- all for their objectives, and do it all to evolve further and further for their own goals, whether aligned with the boss' desires or their own, power means everything to those within the organisation- and appearances and tastes would stray further and further within the abhorrent than most would like or care to know of. Usually of Neutral or evil alignment.
   
-  Class Skills - Acrobatics, Bluff, Climb, Escape Artist, Intimidate, Knowledge (Dungeoneering, Engineering, Geography, History, Local, Nature, Planes, Religion), Perception, Profession (Butcher, Clerk, Driver, Engineer, Farmer, Fisherman, Gambler, Gardener, Innkeeper, Merchant, Miner, Porter, Sailor, Shepherd, Soldier, Tanner, Trapper, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival, Swim
-	- Appetite Demon - A being born of and made of Gourmet Cells; depending on their current life cycle, either exist in the world on their own or reborn as Cells within a Host's body, able to provide them power and knowledge should they accept it while being the cause of constant hunger and food needs within their host. Usually of Chaotic Alignment.
-	- Bishokukai (Bih-Show-Koo-Kai) (Gourmet Corp.) - Part of an evil organisation of Food Hunters, they will target any ingredient in the world to make themselves stronger and reach the pinnacle of all food in the universe: God. They'll lie, steal, kill- all for their objectives, and do it all to evolve further and further for their own goals, whether aligned with the boss' desires or their own, power means everything to those within the organisation- and appearances and tastes would stray further and further within the abhorrent than most would like or care to know of. Usually of Neutral or evil alignment.
-	  
-	Class Skills - Acrobatics, Bluff, Climb, Disguise, Escape Artist, Intimidate, Knowledge (Dungeoneering, Engineering, Geography, History, Local, Nature, Planes, Religion), Perception, Profession (Butcher, Clerk, Driver, Engineer, Farmer, Fisherman, Gambler, Gardener, Innkeeper, Merchant, Miner, Porter, Sailor, Shepherd, Soldier, Tanner, Trapper, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival
-- Saiseiya (Food Reviver) - A group of specially trained people whom use special techniques, plants, chemicals, and other items to subdue criminals, heal the injured, and revive near-dead, sealed away, or near extinct creatures or ingredients. While their methods can be quite drastic at times, they usually aim to capture any criminal alive if possible to bring them to justice, while punishing those who abuse towards the ingredients and monsters of the world.
-- Gourmet Knight - The more reclusive warriors of the Gourmet Universe, their speciality aside from their fighting prowess comes from their ability function days, to weeks, to months, to years on end within solitude or without food, and drawing upon their techniques with greater efficiency than most other beings are capable of producing, at the cost of a usually frailer body and strict 'Gourmet Doctrine' that makes them entrust their body to nature while living on the minimal amount of food possible while fasting.
+Class Skills - Acrobatics, Bluff, Climb, Disguise, Escape Artist, Intimidate, Knowledge (Dungeoneering, Engineering, Geography, History, Local, Nature, Planes, Religion), Perception, Profession (Butcher, Clerk, Driver, Engineer, Farmer, Fisherman, Gambler, Gardener, Innkeeper, Merchant, Miner, Porter, Sailor, Shepherd, Soldier, Tanner, Trapper, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival
   
-  Class Skills - Acrobatics, Bluff, Climb, Craft, Diplomacy, Escape Artist, Handle Animal, Heal, Knowledge (Geography, History, Local, Nature, Religion), Perception, Profession (Baker, Brewer, Cook, Driver, Farmer, Fisherman, Gambler, Gardener, Herbalist, Librarian, Midwife, Miner, Porter, Sailor, Scribe, Shepherd, Soldier, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival, Swim
+### Saiseiya (Food Reviver)
+A group of specially trained people whom use special techniques, plants, chemicals, and other items to subdue criminals, heal the injured, and revive near-dead, sealed away, or near extinct creatures or ingredients. While their methods can be quite drastic at times, they usually aim to capture any criminal alive if possible to bring them to justice, while punishing those who abuse towards the ingredients and monsters of the world.
+
+Class Skills - Acrobatics, Bluff, Climb, Craft, Diplomacy, Escape Artist, Handle Animal, Heal, Knowledge (Geography, History, Local, Nature, Religion), Perception, Profession (Baker, Brewer, Cook, Driver, Farmer, Fisherman, Gambler, Gardener, Herbalist, Librarian, Midwife, Miner, Porter, Sailor, Scribe, Shepherd, Soldier, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival, Swim
+  
+### Gourmet Knight
+The more reclusive warriors of the Gourmet Universe, their speciality aside from their fighting prowess comes from their ability function days, to weeks, to months, to years on end within solitude or without food, and drawing upon their techniques with greater efficiency than most other beings are capable of producing, at the cost of a usually frailer body and strict 'Gourmet Doctrine' that makes them entrust their body to nature while living on the minimal amount of food possible while fasting.
+  
+Class Skills - Acrobatics, Bluff, Climb, Craft, Diplomacy, Escape Artist, Handle Animal, Knowledge (Geography, History, Local, Nature, Religion), Perception, Profession (Baker, Brewer, Cook, Driver, Farmer, Fisherman, Gambler, Gardener, Herbalist, Librarian, Midwife, Miner, Porter, Sailor, Scribe, Shepherd, Soldier, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival
+  
 ## Stats
 Starting stats are rolled the same, but depending on the class chosen from the, you'll gain unique benefits:
 - Gourmet Chef - +6 Wisdom, +4 Intelligence, +2 Str/Dex
