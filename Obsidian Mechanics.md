@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Use [](.md#) to make linkes between posts
+Use [](.md) to make linkes between posts
 
 Use # at the start of each line to make headings; more #'s make smaller headers
 

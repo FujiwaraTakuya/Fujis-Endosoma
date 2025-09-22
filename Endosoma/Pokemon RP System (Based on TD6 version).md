@@ -1,24 +1,24 @@
 ---
 share: true
 ---
-Welcome to Fuji's Pokemon System! It'll teach you how to make your characters in the fastest way possible based off of the following entries: [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#), [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#), [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#), [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), & [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md#).
+Welcome to Fuji's Pokemon System! It'll teach you how to make your characters in the fastest way possible based off of the following entries: [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md), [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md), [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md), [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md), & [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md).
 
 It'll also give you a list of available actions performable during Combat, as well as some tips of what to do inside or outside of combat.
 # Pokemon Creation
-Use the [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#) as a base for creating Character Sheets for Trainers and Pokemon.
+Use the [Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md) as a base for creating Character Sheets for Trainers and Pokemon.
 ## Creating Trainer's Sheet
 ### 1a: Copy Template
 Use the given Template in Google Docs/Microsoft Word/Document reader of choice to create your Trainer's Character Sheet.
 ### 1b: Fill out obvious details
 Fill in Name, People, Homeland, Age, Eyes, Hair, Family Trade, Belief, and Size.
 
-[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#)
+[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md)
 ### 1c: Select Size to determine HP
 Make sure to note that Weight isn't always accurate with every species.
 
-[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#)
+[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md)
 ### 1d: Choose Heritage Trait
-As a Trainer, you can either choose a Trait from the TD6 Booklet, one from Endosoma, or one from [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#) that a Trainer is applicable for.
+As a Trainer, you can either choose a Trait from the TD6 Booklet, one from Endosoma, or one from [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md) that a Trainer is applicable for.
 ### 1e: Choose 3 Traits
 Same thing as above, but select 3 more.
 ### 1f: Choose a Weapon Proficiency and a Weapon (Will be made of wood)
@@ -43,15 +43,15 @@ Use the given Template in Google Docs/Microsoft Word/Document reader of choice t
 ### 1b: Fill out obvious details
 Fill in Name, People, Homeland, Age, Eyes, Hair, Family Trade, Belief, and Size.
 
-[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#)
+[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md)
 ### 1c: Select Size to determine HP
 Make sure to note that Weight isn't always accurate with every species.
 
-[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#)
+[Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md)
 ### 1d: Choose Heritage Trait
-As a Pokemon, you gain access to a Trait from the TD6 Booklet, one from Endosoma, or one from [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#) that a Pokemon is applicable for, and they gain access to a Pokemon-specific Heritage Trait that determines their gameplay style: Feral, Anthro, or Furryfied. Both Heritage Traits are labelled beside each other in the listing.
+As a Pokemon, you gain access to a Trait from the TD6 Booklet, one from Endosoma, or one from [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md) that a Pokemon is applicable for, and they gain access to a Pokemon-specific Heritage Trait that determines their gameplay style: Feral, Anthro, or Furryfied. Both Heritage Traits are labelled beside each other in the listing.
 
-[Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#)
+[Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md)
 ### 1e: Choose 3 Traits
 Same thing as above, but select 3 more.
 ### 1f: Record your Pokemon's Weaknesses and Strengths
@@ -97,7 +97,7 @@ Normally, it's impossible for a Move to randomly perform a Critical Hit, but cer
 - Attack (1 Action) - Perform an Attack within your Range.
 - Reload (1 Action (Ranged Weapons)) - Reload Projectile for ranged weapon.
 - Dodge (1 Action) - Use an Action to become more evasive until your next turn.
-- CR Action (1 Unused Action) - Choose to turn any unused Actions at the end of your turn into CR Actions to counter another Pokemon's Moves, or a Trainer's Actions. Can be used by Trainer to command Pokemon to perform a Move/Action or use themselves if applicable. Read [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#) for more.
+- CR Action (1 Unused Action) - Choose to turn any unused Actions at the end of your turn into CR Actions to counter another Pokemon's Moves, or a Trainer's Actions. Can be used by Trainer to command Pokemon to perform a Move/Action or use themselves if applicable. Read [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md) for more.
 - Use/hold/stow away Item in hand from/to Inventory/Range/area (1 Action) - Use an Object/Item/Interactable item within 5ft, or hold it.
 - Throw held thing (1 Action) - Throw a thing in your hand(s) up to 30ft.
 - Grapple (1 Action) - Bind something down with your reach to hold it in place.

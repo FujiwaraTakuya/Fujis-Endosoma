@@ -2,7 +2,7 @@
 share: true
 ---
 #Endosoma #TinyDungeons6 
-This is a simplified Guidebook of how to play Tiny Dungeons 2 and Endosoma by Fujiwara Takuya. Complex booklet's here: [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#), and other links here: [Endosoma TD6 Links](Endosoma%20TD6%20Links.md#)
+This is a simplified Guidebook of how to play Tiny Dungeons 2 and Endosoma by Fujiwara Takuya. Complex booklet's here: [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md), and other links here: [Endosoma TD6 Links](Endosoma%20TD6%20Links.md)
 
 
 # What is Endosoma? Simplified
@@ -16,7 +16,7 @@ You'll need the many Booklets, Guidebooks, and References to give yourself a bet
 
 First things first, you're going to need the following:
 - The Tiny Dungeons 6 Second Edition Rulebook (Optional; https://drive.google.com/file/d/1xg0bx2-zdZa7hcUbpMyGUYXD4HwMaWXA/view?usp=sharing)
-- An account on Roll 20 or a Google Sheets-friendly TD6 Character Sheet ([Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md#) or you can create your own based on it)
+- An account on Roll 20 or a Google Sheets-friendly TD6 Character Sheet ([Tiny Dungeons Template (Based on TD6 version)](Tiny%20Dungeons%20Template%20(Based%20on%20TD6%20version).md) or you can create your own based on it)
 - The ability to ask for help if you're having trouble understanding what something means.
 
 If you're able to at least get/use 2 of the 3 things up above, you should be able to play this system without much trouble. If ya can't, do please give your DM some consideration for doing some stuff for you if you still want to play the game but you can't use a PC or Roll20 or something.
@@ -40,7 +40,7 @@ Here's the list of common Tests that can be asked of you:
 - Advantage (3d6)
 - Advantage with success on 4, 5, and 6s (3d6)
 
-If a Gameplay Mechanic asks you to perform a Test with no Category (i.e. Disadvantage, Standard, Advantage, etc.), there's probably a section of the booklet/guidebook that you didn't read beforehand (E.g. [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#) Pokeball and Catching Mechanic)
+If a Gameplay Mechanic asks you to perform a Test with no Category (i.e. Disadvantage, Standard, Advantage, etc.), there's probably a section of the booklet/guidebook that you didn't read beforehand (E.g. [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md) Pokeball and Catching Mechanic)
 
 ### How do I do (Specific Action/Set of Actions)?
 Ask your DM base on their size, physique, abilities, and strength if they're capable of performing certain actions, and if they say yes, they'll more than likely ask you to make corresponding Tests to act upon them.
@@ -67,7 +67,7 @@ For the sake of the campaign, your character is a being born from a different di
 All you need to do is give your character a **Name, identify their People (Race), Homeland (Dimension/Place of existence/birth), Age, Eye Colour, Hair Colour, Family Trade (Job), and Belief (Personal Philosophy/Alignment)**; you ignore Heritage for now, and it's highly recommended to use your/a Fursona/Persona/Identity. These details are fairly minor, but depending upon the active background certain character traits can bring you benefits or disadvantages to certain rolls; if you're a cook, instead of making cooking Tests at Disadvantage, it could be rolled at Standard or Advantage.
 
 ### 1b: Choosing your Size, Weight, and Starting HP
-From the [Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md#) page, your Character's size and weight will generally affect your ability to interact with the world and its environment.
+From the [Endosoma Size and Weight Character Stuff](Endosoma%20Size%20and%20Weight%20Character%20Stuff.md) page, your Character's size and weight will generally affect your ability to interact with the world and its environment.
 
 All character are highly recommended to play Medium-sized characters for the sake of gameplay, but generally creatures of 1 size-category larger or smaller are also acceptable; any bigger or smaller will be up to your DM's discretion as to what is and isn't allowed.
 
@@ -131,7 +131,7 @@ These steps come after creating your Character with the TD6 System up above.
 ### 2a: Endosoma's Class System
 Endosoma enables players to feel unique and interesting by giving them the ability to Tri-Multiclass from a massive list of classes, subclasses, and different Traits which can affect their abilities in gameplay while attempting to make any classes played feel valued and enjoyable.
 
-Players choose a Primary Class to play with from the [Endosoma TD6 Classes](Endosoma%20TD6%20Classes.md#) page of the Endosoma Content, but as they play more of the game, they can spend their EXP to gain a Secondary and Tertiary Class; when spending Experience for new Traits, Secondary Classes require 1.5x the EXP cost to gain new Traits, while Tertiary Classes require 2x the EXP cost. Outside of these costs, not much from the classes are inhibited, and be wary these Traits can cost more than non-Endosoma Traits.
+Players choose a Primary Class to play with from the [Endosoma TD6 Classes](Endosoma%20TD6%20Classes.md) page of the Endosoma Content, but as they play more of the game, they can spend their EXP to gain a Secondary and Tertiary Class; when spending Experience for new Traits, Secondary Classes require 1.5x the EXP cost to gain new Traits, while Tertiary Classes require 2x the EXP cost. Outside of these costs, not much from the classes are inhibited, and be wary these Traits can cost more than non-Endosoma Traits.
 
 At the start of the game, each Class comes with their own Class Ability that comes free with choosing a Class, and 1 free Class Trait that the Player can take with the Class, but any additional Class Traits require EXP in to gain more Traits.
 
@@ -177,7 +177,7 @@ In short, Creative Actions cost 2 Actions to perform, can be performed in and ou
 ## Pokemon Content
 This is the Homebrew Pokemon Content made by Fuji; doesn't need any more explanation further than this otherwise I'm probably gonna risk being Copyright Strike'd despite this being fan content by one guy.
 
-The following steps are instructions for additions after making your Character's base; if you want the full set of instructions, head to [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#)
+The following steps are instructions for additions after making your Character's base; if you want the full set of instructions, head to [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md)
 ### 3a: Choose your Pokemon's Heritage Trait
 Pokemon have a list of 3 Heritage Traits they choose to take when they're first created:
 - **Feral -** _You teach me and I'll teach you! POKEMOOOON!!_ As a natural Pokemon, you don't understand how to use regular tools or weaponry, but as long as an object's simple enough for them to wield, they can still use it as a weapon. **Feral Pokemon cannot use regular weaponry outside of Improvised and Unarmed Strike Attacks, and also have Proficiency over Unarmed Strike Attacks. Also, your Character's Size can either be based off of Character Creation, or the Pokemon's Average Size up to a size limit based off the Pokepedia page.** **Finally, like other Pokemon, you have elemental resistances and weaknesses while also being affected by certain weathered/elemental environments.**

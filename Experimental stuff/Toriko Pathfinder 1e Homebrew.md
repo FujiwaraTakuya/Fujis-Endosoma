@@ -64,40 +64,55 @@ A dedicated chef whom their main objective in life is to cook food unique to the
 Role: While they perform more commonly as a martial class with a greater strength  and focus of Dexterity, some Chefs can get access to special abilities called Dark Techniques which can apply illegal techniques to anything it cuts, in exchange for a price.
 
 Hit Die: d6
-Starting Wealth:
+Starting Wealth: Check Class Features
 #### Class Skills
 Appraise, Craft (Cooking Implements, Cooking Utensils, Chefs Knives), Diplomacy, Handle Animal, Knowledge (Dungeoneering, Engineering, Geography, Local, Nature, Planes, Religion), Perception, Profession (Baker, Barrister, Brewer, Butcher, Cook, Gardener, Herbalist, Innkeeper, Merchant, Tanner), Sense Motive, Spellcraft, Survival, Use Magic Device
 
 Skill Points at each level: 4 + Int Modifier. 
 #### Class Features
 
-| Level | Base Attack<br>     Bonus | Fort<br>Save | Ref<br>Save | Will<br>Save | Special  |     |     |     |     |     |     |
-| ----- | ------------------------- | ------------ | ----------- | ------------ | -------- | --- | --- | --- | --- | --- | --- |
-| 1     | +0                        | +0           | +2          | +2           |          |     |     |     |     |     |     |
-| 2     | +1                        | +0           | +3          | +3           |          |     |     |     |     |     |     |
-| 3     | +2                        | +1           | +3          | +3           |          |     |     |     |     |     |     |
-| 4     | +3                        | +1           | +4          | +4           |          |     |     |     |     |     |     |
-| 5     | +3                        | +1           | +4          | +4           |          |     |     |     |     |     |     |
-| 6     | +4                        | +2           | +5          | +5           |          |     |     |     |     |     |     |
-| 7     | +5                        | +2           | +5          | +5           |          |     |     |     |     |     |     |
-| 8     | +6/+1                     | +2           | +6          | +6           |          |     |     |     |     |     |     |
-| 9     | +6/+1                     | +3           | +6          | +6           |          |     |     |     |     |     |     |
-| 10    | +7/+2                     | +3           | +7          | +7           |          |     |     |     |     |     |     |
-| 11    | +8/+3                     | +3           | +7          | +7           |          |     |     |     |     |     |     |
-| 12    | +9/+4                     | +4           | +8          | +8           |          |     |     |     |     |     |     |
-| 13    | +9/+4                     | +4           | +8          | +8           |          |     |     |     |     |     |     |
-| 14    | +10/+5                    | +4           | +9          | +9           |          |     |     |     |     |     |     |
-| 15    | +11/+6/+1                 | +5           | +9          | +9           |          |     |     |     |     |     |     |
-| 16    | +12/+7/+2                 | +5           | +10         | +10          |          |     |     |     |     |     |     |
-| 17    | +12/+7/+2                 | +5           | +10         | +10          |          |     |     |     |     |     |     |
-| 18    | +13/+8/+3                 | +6           | +11         | +11          |          |     |     |     |     |     |     |
-| 19    | +14/+9/+4                 | +6           | +11         | +11          |          |     |     |     |     |     |     |
-| 20    | +15/+10/+5                | +6           | +12         | +12          | God Chef |     |     |     |     |     |     |
+|       |                           |              |             |              |                    |                       |     | Techniques you can prep per day |     |     |     |     |     |     |     |     |     |
+| :---: | :-----------------------: | :----------: | :---------: | :----------: | :----------------: | :-------------------: | :-: | :-----------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Level | Base Attack<br>     Bonus | Fort<br>Save | Ref<br>Save | Will<br>Save |      Special       | Cooking Tools per day |     |                0                | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|   1   |            +0             |      +0      |     +2      |      +2      | Cooking Techniques |           3           |     |                3                |  1  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   2   |            +1             |      +0      |     +3      |      +3      |                    |           3           |     |                4                |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   3   |            +2             |      +1      |     +3      |      +3      |                    |           4           |     |                4                |  2  |  1  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   4   |            +3             |      +1      |     +4      |      +4      |                    |           4           |     |                4                |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   5   |            +3             |      +1      |     +4      |      +4      |                    |           4           |     |                4                |  3  |  2  |  1  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   6   |            +4             |      +2      |     +5      |      +5      |                    |           5           |     |                4                |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   7   |            +5             |      +2      |     +5      |      +5      |                    |           5           |     |                4                |  4  |  3  |  2  |  1  |  -  |  -  |  -  |  -  |  -  |
+|   8   |           +6/+1           |      +2      |     +6      |      +6      |                    |           6           |     |                4                |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|   9   |           +6/+1           |      +3      |     +6      |      +6      |                    |           6           |     |                4                |  4  |  4  |  3  |  2  |  1  |  -  |  -  |  -  |  -  |
+|  10   |           +7/+2           |      +3      |     +7      |      +7      |                    |           6           |     |                4                |  4  |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|  11   |           +8/+3           |      +3      |     +7      |      +7      |                    |           7           |     |                4                |  4  |  4  |  4  |  3  |  2  |  1  |  -  |  -  |  -  |
+|  12   |           +9/+4           |      +4      |     +8      |      +8      |                    |           8           |     |                4                |  4  |  4  |  4  |  3  |  3  |  2  |  -  |  -  |  -  |
+|  13   |           +9/+4           |      +4      |     +8      |      +8      |                    |           8           |     |                4                |  4  |  4  |  4  |  4  |  3  |  2  |  1  |  -  |  -  |
+|  14   |          +10/+5           |      +4      |     +9      |      +9      |                    |           9           |     |                4                |  4  |  4  |  4  |  4  |  3  |  3  |  2  |  -  |  -  |
+|  15   |         +11/+6/+1         |      +5      |     +9      |      +9      |                    |          10           |     |                4                |  4  |  4  |  4  |  4  |  4  |  3  |  2  |  1  |  -  |
+|  16   |         +12/+7/+2         |      +5      |     +10     |     +10      |                    |          11           |     |                4                |  4  |  4  |  4  |  4  |  4  |  3  |  3  |  2  |  -  |
+|  17   |         +12/+7/+2         |      +5      |     +10     |     +10      |                    |          11           |     |                4                |  4  |  4  |  4  |  4  |  4  |  4  |  3  |  2  |  1  |
+|  18   |         +13/+8/+3         |      +6      |     +11     |     +11      |                    |          12           |     |                4                |  4  |  4  |  4  |  4  |  4  |  4  |  3  |  3  |  2  |
+|  19   |         +14/+9/+4         |      +6      |     +11     |     +11      |                    |          13           |     |                4                |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  3  |  3  |
+|  20   |        +15/+10/+5         |      +6      |     +12     |     +12      |     Godly Chef     |          14           |     |                4                |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  |
 #### Weapon and Armor Proficiency
 A Gourmet Chef is proficient with all Simple Weapons, Simple Chef Weapons, and 1 Martial Chef Weapon of choice. A Gourmet Chef is also proficient with light armour, and Chef Shields.
-#### 
+#### Cooking Techniques (Spells)
+With your abilities as a chef, you've managed to adapt common cooking methods into modern and unique combat techniques. A Gourmet Chef draws upon their Techniques from the Gourmet Chef Technique List (spell list). A Gourmet Chef must choose and prepare their Techniques ahead of time.
 
+To learn, prepare, or perform a Technique, the chef must have a Wisdom Score equal to at least 10 + the Technique level. The Difficulty Class for a saving throw against a Gourmet Chef's Technique is 10 + the Technique level + the Chef's Wisdom Modifier.
 
+Using Cooking Techniques like weapons is hard, especially with much larger and deadly implements being used, it requires skill and energy to perform, 
+
+Whenever a Technique is performed, a unit of Cooking Tools and a certain amount of points of Energy are consumed in the process.
+
+A Gourmet Chef can only choose a number of Techniques to use within a day equal to the base allotted amount given on Table: Gourmet Chef. In addition, they receive bonus Techniques per day if they have a high Wisdom score (see Table: Ability Modifiers and Bonus Spells).
+
+A Gourmet Chef can only choose a number of Cooking Tools to use within a day equal to the base allotted amount given on Table: Gourmet Chef. In addition, they receive bonus Techniques per day if they have a high Strength Score score (see Table: Ability Modifiers and Bonus Spells).
+
+A Gourmet Chef may know any number of Techniques. They must choose and prepare their Equipment ahead of time by getting 8 hours of sleep and spending 1 hour prepping their tools. While preparing, the chef decides which Techniques to ready that day.
+#### Common Techniques (Cantrips)
+Gourmet Chefs can prepare a number of Common Techniques, or 0-level Techniques, each day, as noted on Table: Wizard under "Techniques you can prep per day." These Common Techniques are performed like any other Technique, but they 
+ 
 ### Bishokuya (Bih-Show-Koo-Yuh) (Gourmet Hunter)
 Food Hunters who explore the world, gathering ingredients to sell and make their living; while normal amongst most of the populace, their strength is usually above human for most who battle to find new flavours amongst themselves, or trying to attain rare ingredients that come every couple or hundred of years for money or purpose. But there are those who're either born immensely strong, or are born with or given Gourmet Cells which enhance their physical abilities, while providing them a arsenal of powers utensil-based powers unique to their evolving Cells, along with a Demon that now resides and grows within them.
 
@@ -113,7 +128,7 @@ Part of an evil organisation of Food Hunters, they will target any ingredient in
   
 Class Skills - Acrobatics, Bluff, Climb, Disguise, Escape Artist, Intimidate, Knowledge (Dungeoneering, Engineering, Geography, History, Local, Nature, Planes, Religion), Perception, Profession (Butcher, Clerk, Driver, Engineer, Farmer, Fisherman, Gambler, Gardener, Innkeeper, Merchant, Miner, Porter, Sailor, Shepherd, Soldier, Tanner, Trapper, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival
   
-### Saiseiya (Food Reviver)
+### Saiseiya (Gourmet Reviver)
 A group of specially trained people whom use special techniques, plants, chemicals, and other items to subdue criminals, heal the injured, and revive near-dead, sealed away, or near extinct creatures or ingredients. While their methods can be quite drastic at times, they usually aim to capture any criminal alive if possible to bring them to justice, while punishing those who abuse towards the ingredients and monsters of the world.
 
 Class Skills - Acrobatics, Bluff, Climb, Craft, Diplomacy, Escape Artist, Handle Animal, Heal, Knowledge (Geography, History, Local, Nature, Religion), Perception, Profession (Baker, Brewer, Cook, Driver, Farmer, Fisherman, Gambler, Gardener, Herbalist, Librarian, Midwife, Miner, Porter, Sailor, Scribe, Shepherd, Soldier, Woodcutter), Sense Motive, Sleight of Hand, Stealth, Survival, Swim
@@ -129,7 +144,7 @@ Starting stats are rolled the same, but depending on the class chosen from the, 
 - Bishokuya (Gourmet Hunter) - +6 Str/Dex/Con, +4 Dex/Con/Str, +2 Con/Str/Dex (1 stat bonus per Core Stat)
 	- Appetite Demon - +6 Con, +4 Str/Dex, -2 Str/Dex, +4 Int/Wis/Cha, -2 Wis/Cha/Int, -4 Cha/Int/Wis (1 stat bonus per Core Stat)
 	- Bishokukai (Gourmet Corp.) - +6 Str/Dex/Con, +6 Int/Wis, +4 Dex/Con/Str, -4 Con/Str/Dex, -4 Wis/Int, -6 Cha (1 stat bonus per Core Stat)
-- Saiseiya (Food Reviver) - +4 Int/Wis, +2 Wis/Int, +2 Cha, +4 Str/Dex/Cha (1 stat bonus per Core Stat)
+- Saiseiya (Gourmet Reviver) - +4 Int/Wis, +2 Wis/Int, +2 Cha, +4 Str/Dex/Cha (1 stat bonus per Core Stat)
 - Gourmet Knight - +6 Cha, +4 Str/Dex, +4 Wis, +2 Dex/Str, -2 Int, -6 Con
 ## Races
 While there are not a tremendous amount of playable species in this world beyond the planet earth, the level of flexibility that can be attained from each race as to the way your character looks and functions is helped immensely due to the biological feats made within the world of Toriko:
@@ -142,3 +157,7 @@ While there are not a tremendous amount of playable species in this world beyond
 - Appetite Demon - An alien entity also born from Gourmet Cells; a host body is given a direct injection and the cells overwhelm its host's body due to their body being in compatible with the cells evolution, thus leading to the cells consuming its host and depending upon the level of destruction dealt to the host's cells, they either become a malformed modified humanoid being with some new traits but no Gourmet Cells, or becoming an entirely new being called an Appetite Demon. Their existence becomes entirely their own, and the host is no longer able to return to their body as all but their soul are consumed and taken from them. Appetite Demons born this way the first time can exist without a body for as long as they want, but if they die, their soul still exists thanks to their Gourmet Cells, and as such can allow them to be reborn at a different time through the randomised generation of Gourmet Cells somewhere throughout the world or planet they're upon, essentially becoming a symbiotic parasite to their given host while providing them access to a growing portion of their strength and other unique abilities. The only way for an Appetite Demon to exist outside of its Host's body, outside consuming a large number of the Host's Kcals during their manifestation, is for the Host to have consumed every dish of Acacia's Full Course- only then will their body have reached a stage of enlightenment that would allow their Appetite Demon to be able to permanently manifest at the Host's will with no Kcal consumption. The Demon themselves still requires food to sustain themselves as a being made of Gourmet Cells.
 - Off-worlder/Alien (Modified Creature Creator) - An unnamed alien species from another planet aside from Earth that may or may not have received a dosage of Gourmet Cells; they could come in different shapes and sizes, but their categories usually fit into an easy-to-identify chart which could denote their capabilities.
 ## Monsters
+
+## Class Features Lists
+
+### Gourmet Chef Techniques
