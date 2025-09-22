@@ -2,15 +2,15 @@
 share: true
 ---
 #Pokemon #TinyDungeons6 
-This is a booklet explaining on how to play as a Pokemon or Pokemon Trainer in the TTRPG system Tiny Dungeons 2; related pages: [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md#), [Endosoma TD6 Links](Endosoma%20TD6%20Links.md#)
+This is a booklet explaining on how to play as a Pokemon or Pokemon Trainer in the TTRPG system Tiny Dungeons 2; related pages: [Pokemon TD6 Moves](Pokemon%20TD6%20Moves.md), [Endosoma TD6 Links](Endosoma%20TD6%20Links.md)
 
 # 
 # Trainer Creation
 If you're planning on playing as JUST a Trainer, you create your Character like normal through the Tiny Dungeons system, but you also gain access to Trainer-only Traits, can add a Starter Pokemon from the list available below (or wait until they find their first Catch of choice through wild encounters) to their Character Sheet in their Inventory-Section as (-Pokeball name-:-Pokemon Name-) before giving the Pokemon themselves a Character Sheet.
 ## 1a: Create your Trainer
-Whilst ignoring the Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
+Whilst ignoring the Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md) to create your Character.
 ## 1b: Add Trainer Traits (Optional)
-Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
+Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md), and any other list of Traits, add any available Traits to your Character Sheet.
 ## 1c: Learn Pokemon Moves (Optional)
 Unlike normal Pokemon, certain beings are capable of learning Pokemon Moves despite not being Pokemon; instead of 10 EXP to learn a Move, it becomes 100 EXP and requires to be taught by another non-Pokemon Teacher who knows the Move, or a Anthro/Furryfied Pokemon Teacher that can communicate with the Trainer to teach them the ability and usage of the Move.
 ### Trainer Features
@@ -44,7 +44,7 @@ It's recommended that any creature of Large size to be kept in their Pokeball wh
 
 In this game, Pokemon are born either Feral, Anthro, or Furryfied, but this Heritage Trait can be changed later on through a Ball-Transfer Machine and specially-designed Pokeballs which allow for visual/permanent transformations into other Heritage Traits.
 ## 2a: Create your Pokemon
-Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md#) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md#) to create your Character.
+Whilst ignoring the Traits and Heritage Traits you gain for Character Creation (for now), use the [Endosoma Simplified Gameplay Guidebook](Endosoma%20Simplified%20Gameplay%20Guidebook.md) or [Endosoma Detailed Gameplay Guidebook](Endosoma%20Detailed%20Gameplay%20Guidebook.md) to create your Character.
 ## 2b: Choose a Pokemon Heritage Trait
 As a base, all Pokemon start with one of the 3 Heritage Traits mentioned below: Feral, Anthropomorphic, and Furryfied; this Heritage Trait isn't named in the Heritage section. They also gain access to 1 additional non-Pokemon Trait if they're physically applicable for it, and this is the Trait that is named in their Heritage section.
 ## 2c: Pokemon Strengths and Weaknesses
@@ -56,9 +56,9 @@ If a Pokemon is currently a Shadow Pokemon, above the normal Typings for the Pok
 	 Strengths: All Types
 	 Weaknesses: None
 	 Shadow Points: 
-	 Read [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md#) for more about Shadow Pokemon
+	 Read [Pokemon TD6 Booklet](Pokemon%20TD6%20Booklet.md) for more about Shadow Pokemon
 ## 2d: Add Pokemon Traits (Optional)
-Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md#), and any other list of Traits, add any available Traits to your Character Sheet.
+Using the TD6 handbook on available Traits, [Pokemon TD6 Trait List](Pokemon%20TD6%20Trait%20List.md), and any other list of Traits, add any available Traits to your Character Sheet.
 ## 2e: Give your Pokemon its Moves
 All Pokemon gain access to their Level 1 Moves for free without issue, but any Moves gained afterwards must be gained through EXP expenditure; Moves must be gained in order of Level progression, but that aside, gaining a new Move is like gaining a new Trait in that 10 EXP must be spent to learn a new Move.
 
@@ -92,7 +92,7 @@ During Combat, a Pokemon or Trainer can forego using their Action to attack to c
 - Block - The Defender braces and guards against the attack, reducing by 0.25x the amount with a minimum of 1; if the Move is Super Effective against the Defender the amount is reduced by 0.4x instead; if the Move is Not Effective against the Defender the amount is reduced by 0.2x instead.
 - Dodge - The Defender makes a Disadvantage Test + 1 Disadvantage Test per hit multi-hit Moves would land to evade the attack, before choosing to either move or use a Move to retaliate against their Attacker, with the Attacker being unable to Attack back if they choose the Dodge maneuver.
 - Clash - Risking taking more damage, the Defender clashes Moves against their Attacker (still needing to make an Attack Test to hit) before both combatants perform a Disadvantage Test to see if their attack is still succeeding. The loser of the Clash can make a Disadvantage Test to barely scrape past the Winner's attack then attempt to perform a Counter, Block, or Dodge, but failure results them in taking 1.5x more damage than they would've from taking the hit normally. Successfully Blocking a Clash reduces the damage by 0.5x. Successfully landing a Counter increases the damage the Winner will take by 2x.
-Read [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md#) for more details.
+Read [Pokemon TD6 Call & Response System](Pokemon%20TD6%20Call%20&%20Response%20System.md) for more details.
 # Pokeball Functions & Catch-Rates
 To catch a Pokemon, the Poke Ball must make contact with the Pokemon in some way either through rubbing off against them, bouncing off against them, or being pressed by them.
 
