@@ -81,6 +81,9 @@ Expert in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Berserker
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
@@ -90,6 +93,9 @@ Expert in Perception
 Expert in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Black Belt
 Stats: +2 Charisma, +1 Dexterity, -2 Intelligence
@@ -99,6 +105,9 @@ Trained in Perception
 Expert in Fortitude
 Expert in Reflex
 Trained in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 
 ### Cleric
@@ -109,6 +118,9 @@ Trained in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Dancer
 Stats: +2 Dexterity, +1 Strength, -2 Constitution
@@ -118,6 +130,9 @@ Expert in Perception
 Expert in Fortitude
 Expert in Reflex
 Trained in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Druid
 Stats: +2 Wisdom, +1 Charisma, -2 Intelligence
@@ -127,6 +142,9 @@ Trained in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Gambler
 Stats: +2 Charisma, +1 Wisdom, -2 Strength
@@ -136,6 +154,9 @@ Expert in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Healer
 Stats: +2 Intelligence, +1 Constitution, -2 Dexterity
@@ -145,6 +166,9 @@ Trained in Perception
 Expert in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Illusionist
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -154,6 +178,9 @@ Trained in Perception
 Trained in Fortitude
 Expert in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Knight
 Stats: +2 Strength, +1 Dexterity, -2 Intelligence
@@ -163,6 +190,9 @@ Trained in Perception
 Expert in Fortitude
 Expert in Reflex
 Trained in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Medic
 Stats: +2 Wisdom, +1 Intelligence, -2 Strength
@@ -172,6 +202,9 @@ Expert in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Monk
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -181,6 +214,9 @@ Trained in Perception
 Expert in Fortitude
 Expert in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Ninja
 Stats: +2 Dexterity, +1 Wisdom, -2 Charisma
@@ -190,6 +226,9 @@ Expert in Perception
 Expert in Fortitude
 Expert in Reflex
 Trained in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Paladin
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
@@ -199,6 +238,9 @@ Trained in Perception
 Expert in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Psychic
 Stats: +2 Wisdom, +1 Intelligence, -2 Constitution
@@ -208,6 +250,9 @@ Trained in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Samurai
 Stats: +2 Strength, +1 Wisdom, -2 Charisma
@@ -217,6 +262,9 @@ Expert in Perception
 Expert in Fortitude
 Expert in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Sorcerer
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
@@ -226,6 +274,9 @@ Trained in Perception
 Trained in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Summoner
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -235,6 +286,9 @@ Trained in Perception
 Expert in Fortitude
 Trained in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Thief
 Stats: +2 Dexterity, +1 Wisdom, -2 Constitution
@@ -244,6 +298,9 @@ Expert in Perception
 Trained in Fortitude
 Expert in Reflex
 Expert in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 ### Warrior
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
@@ -253,6 +310,9 @@ Expert in Perception
 Expert in Fortitude
 Expert in Reflex
 Trained in Will
+#### Skills
+Trained in
+Trained in a number of additional skills equal to  plus your Intelligence modifier
 
 
 
