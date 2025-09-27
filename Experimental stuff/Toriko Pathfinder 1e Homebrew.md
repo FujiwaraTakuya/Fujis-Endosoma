@@ -101,7 +101,7 @@ With your abilities as a chef, you've managed to adapt common cooking methods in
 
 To learn, prepare, or perform a Technique, the chef must have a Wisdom Score equal to at least 10 + the Technique level. The Difficulty Class for a saving throw against a Gourmet Chef's Technique is 10 + the Technique level + the Chef's Wisdom Modifier.
 
-Using Cooking Techniques like weapons is hard, especially with much larger and deadly implements being used, it requires skill and energy to perform, 
+Using Cooking Techniques like weapons is hard, especially with much larger and deadly implements being used, it requires skill and energy to perform, in the form of EP (Energy Points (Use the Psionics spell page))
 
 Whenever a Technique is performed, a unit of Cooking Tools and a certain amount of points of Energy are consumed in the process.
 
