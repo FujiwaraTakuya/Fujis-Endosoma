@@ -7,7 +7,7 @@ share: true
 # System
 This system tries to highlight both the benefits of being a Pokemon and having Classes at the same time to try and liven gameplay while also livening utility and access
 ## Natures
-Bonuses to a Mon's core stats that come every level up to Level 20 at a rate of +1/-1 per level; the following table helps clarify this detail:
+Bonuses to a Mon's core stats that come every level up to Level 20 at a rate of +1/-1 per level; the following table helps clarify this detail (Yes, I came up with 9 new Natures to fit in Charisma):
 
 | Nature     | Add. Increased stat | Add. Decreased Stat |
 | ---------- | ------------------- | ------------------- |
@@ -82,8 +82,19 @@ Trained in Fortitude
 Trained in Reflex
 Expert in Will
 #### Skills
-Trained in
+Trained in your choice of Occultism or Performance
+Trained in a number of additional skills equal to 4 plus your Intelligence modifier
+#### Attacks
+Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Bard Class DC
+#### Moves (Spells)
+Trained in verbal component spell attacks
+Trained in verbal component spell DC
 
 ### Berserker
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
@@ -96,6 +107,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Berserker Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Black Belt
 Stats: +2 Charisma, +1 Dexterity, -2 Intelligence
@@ -108,6 +130,17 @@ Trained in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Black Belt Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 
 ### Cleric
@@ -121,6 +154,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Cleric Class DC
+#### Moves (Spells)
+Trained in verbal component spell attacks
+Trained in verbal component spell DC
 
 ### Dancer
 Stats: +2 Dexterity, +1 Strength, -2 Constitution
@@ -133,6 +177,17 @@ Trained in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Dancer Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Druid
 Stats: +2 Wisdom, +1 Charisma, -2 Intelligence
@@ -145,6 +200,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Druid Class DC
+#### Moves (Spells)
+Trained in verbal or somatic component spell attacks (player's choice)
+Trained in verbal or somatic component spell DC (player's choice)
 
 ### Gambler
 Stats: +2 Charisma, +1 Wisdom, -2 Strength
@@ -157,6 +223,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Gamebler Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Healer
 Stats: +2 Intelligence, +1 Constitution, -2 Dexterity
@@ -169,6 +246,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Healer Class DC
+#### Moves (Spells)
+Trained in verbal or somatic component spell attacks (player's choice)
+Trained in verbal or somatic component spell DC (player's choice)
 
 ### Illusionist
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -181,6 +269,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Illusionist Class DC
+#### Moves (Spells)
+Trained in verbal or somatic component spell attacks (player's choice)
+Trained in verbal or somatic component spell DC (player's choice)
 
 ### Knight
 Stats: +2 Strength, +1 Dexterity, -2 Intelligence
@@ -193,6 +292,17 @@ Trained in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Knight Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Medic
 Stats: +2 Wisdom, +1 Intelligence, -2 Strength
@@ -205,6 +315,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Medic Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Monk
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -217,6 +338,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Monk Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Ninja
 Stats: +2 Dexterity, +1 Wisdom, -2 Charisma
@@ -229,6 +361,17 @@ Trained in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Ninja Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Paladin
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
@@ -241,6 +384,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Paladin Class DC
+#### Moves (Spells)
+Trained in verbal or somatic component spell attacks (player's choice)
+Trained in verbal or somatic component spell DC (player's choice)
 
 ### Psychic
 Stats: +2 Wisdom, +1 Intelligence, -2 Constitution
@@ -253,6 +407,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Psychic Class DC
+#### Moves (Spells)
+Trained in Somatic component spell attacks
+Trained in Somatic component spell DC
 
 ### Samurai
 Stats: +2 Strength, +1 Wisdom, -2 Charisma
@@ -265,6 +430,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Samurai Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Sorcerer
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
@@ -277,6 +453,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Sorcerer Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 ### Summoner
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
@@ -289,6 +476,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in verbal or somatic spell attacks (player's choice)
+Trained in verbal or somatic spell DC (player's choice)
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Summoner Class DC
+#### Moves (Spells)
+Trained in verbal component spell attacks
+Trained in verbal component spell DC
 
 ### Thief
 Stats: +2 Dexterity, +1 Wisdom, -2 Constitution
@@ -301,6 +499,17 @@ Expert in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Thief Class DC
+#### Moves (Spells)
+Trained in Somatic component spell attacks
+Trained in Somatic component spell DC
 
 ### Warrior
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
@@ -313,6 +522,17 @@ Trained in Will
 #### Skills
 Trained in
 Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Attacks
+Trained in 
+Trained in a number of additional skills equal to  plus your Intelligence modifier
+#### Defenses
+Trained in light armour
+Trained in unarmoured defense
+#### Class DC
+Trained in Warrior Class DC
+#### Moves (Spells)
+Trained in somatic component spell attacks
+Trained in somatic component spell DC
 
 
 
