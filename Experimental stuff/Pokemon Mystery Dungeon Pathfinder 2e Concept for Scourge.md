@@ -78,21 +78,27 @@ Stats: +2 Charisma, +1 Intelligence, -2 Constitution
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Berserker
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Black Belt
 Stats: +2 Charisma, +1 Dexterity, -2 Intelligence
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Trained in Will
 
 
 ### Cleric
@@ -100,119 +106,153 @@ Stats: +2 Charisma, +1 Dexterity, -2 Constitution
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Dancer
 Stats: +2 Dexterity, +1 Strength, -2 Constitution
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Trained in Will
 
 ### Druid
 Stats: +2 Wisdom, +1 Charisma, -2 Intelligence
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Gambler
 Stats: +2 Charisma, +1 Wisdom, -2 Strength
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Healer
 Stats: +2 Intelligence, +1 Constitution, -2 Dexterity
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Illusionist
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Expert in Reflex
+Expert in Will
 
 ### Knight
 Stats: +2 Strength, +1 Dexterity, -2 Intelligence
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Trained in Will
 
 ### Medic
 Stats: +2 Wisdom, +1 Intelligence, -2 Strength
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Monk
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Expert in Will
 
 ### Ninja
 Stats: +2 Dexterity, +1 Wisdom, -2 Charisma
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Trained in Will
 
 ### Paladin
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Psychic
 Stats: +2 Wisdom, +1 Intelligence, -2 Constitution
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Samurai
 Stats: +2 Strength, +1 Wisdom, -2 Charisma
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Expert in Will
 
 ### Sorcerer
 Stats: +2 Charisma, +1 Constitution, -2 Dexterity
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Summoner
 Stats: +2 Charisma, +1 Dexterity, -2 Constitution
 #### Perception
 Trained in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Trained in Reflex
+Expert in Will
 
 ### Thief
 Stats: +2 Dexterity, +1 Wisdom, -2 Constitution
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Trained in Fortitude
+Expert in Reflex
+Expert in Will
 
 ### Warrior
 Stats: +2 Strength, +1 Constitution, -2 Intelligence
 #### Perception
 Expert in Perception
 #### Saving Throws
-
+Expert in Fortitude
+Expert in Reflex
+Trained in Will
 
 
 
@@ -275,8 +315,15 @@ This was hard go think of equivalents, but I think I managed to figure something
 - 200 - 6d12
 - 210 - 7d4
 - 250 - 7d6
+#### Accuracy
+Moves that give or lower Accuracy affect a Pokemon's Attack Roll until the 'mon steps on a Wonder Tile or exits a Mystery Dungeon.
+Interesting idea; for moves with Accuracy, every missing 5% increases the DC to hit by +1.
 #### Z-Move Power Explanations
 Due to the unexpected complexity of Z-Moves and their power, use the following calculation to determine a Z-Move's Power (Move Base Power + S.T.A.B. = Z-Move Base Power)
+##### S.T.A.B
+Same Type Attack Bonus; if the Pokemon uses a Move of the same typing, the Move's power increases by 1.5x or 2x if they have the Ability Adaptability.
+
+For Terastallized Pokemon, it's 2x for same types as their Tera, or 2.25x for Ability Adaptability.
 #### Fling Power Description
 Most of this is copy-pasted because JEBUS WHY IS THIS SO COMPLEX!?
 - 10 - d1 (All [Berries](https://bulbapedia.bulbagarden.net/wiki/Berry "Berry"), all [Incenses](https://bulbapedia.bulbagarden.net/wiki/Incense "Incense"), all [Mints](https://bulbapedia.bulbagarden.net/wiki/Mint "Mint"), all [Nectars](https://bulbapedia.bulbagarden.net/wiki/Nectar "Nectar"), all [Scarves](https://bulbapedia.bulbagarden.net/wiki/Scarf "Scarf"), all [Sweets](https://bulbapedia.bulbagarden.net/wiki/Sweet "Sweet"), [Air Balloon](https://bulbapedia.bulbagarden.net/wiki/Air_Balloon "Air Balloon"), [Big Root](https://bulbapedia.bulbagarden.net/wiki/Big_Root "Big Root"), [Bright Powder](https://bulbapedia.bulbagarden.net/wiki/Bright_Powder "Bright Powder"), [Choice Band](https://bulbapedia.bulbagarden.net/wiki/Choice_Band "Choice Band"), [Choice Scarf](https://bulbapedia.bulbagarden.net/wiki/Choice_Scarf "Choice Scarf"), [Choice Specs](https://bulbapedia.bulbagarden.net/wiki/Choice_Specs "Choice Specs"), [Destiny Knot](https://bulbapedia.bulbagarden.net/wiki/Destiny_Knot "Destiny Knot"), [Discount Coupon](https://bulbapedia.bulbagarden.net/wiki/Discount_Coupon "Discount Coupon"), [Electric Seed](https://bulbapedia.bulbagarden.net/wiki/Electric_Seed "Electric Seed"), [Expert Belt](https://bulbapedia.bulbagarden.net/wiki/Expert_Belt "Expert Belt"), [Fairy Feather](https://bulbapedia.bulbagarden.net/wiki/Fairy_Feather "Fairy Feather"), [Focus Band](https://bulbapedia.bulbagarden.net/wiki/Focus_Band "Focus Band"), [Focus Sash](https://bulbapedia.bulbagarden.net/wiki/Focus_Sash "Focus Sash"), [Grassy Seed](https://bulbapedia.bulbagarden.net/wiki/Grassy_Seed "Grassy Seed"), [Lagging Tail](https://bulbapedia.bulbagarden.net/wiki/Lagging_Tail "Lagging Tail"), [Leftovers](https://bulbapedia.bulbagarden.net/wiki/Leftovers "Leftovers"), [Mental Herb](https://bulbapedia.bulbagarden.net/wiki/Mental_Herb "Mental Herb"), [Metal Powder](https://bulbapedia.bulbagarden.net/wiki/Metal_Powder "Metal Powder"), [Misty Seed](https://bulbapedia.bulbagarden.net/wiki/Misty_Seed "Misty Seed"), [Muscle Band](https://bulbapedia.bulbagarden.net/wiki/Muscle_Band "Muscle Band"), [Power Herb](https://bulbapedia.bulbagarden.net/wiki/Power_Herb "Power Herb"), [Psychic Seed](https://bulbapedia.bulbagarden.net/wiki/Psychic_Seed "Psychic Seed"), [Quick Powder](https://bulbapedia.bulbagarden.net/wiki/Quick_Powder "Quick Powder"), [Reaper Cloth](https://bulbapedia.bulbagarden.net/wiki/Reaper_Cloth "Reaper Cloth"), [Red Card](https://bulbapedia.bulbagarden.net/wiki/Red_Card "Red Card"), [Ring Target](https://bulbapedia.bulbagarden.net/wiki/Ring_Target "Ring Target"), [Shed Shell](https://bulbapedia.bulbagarden.net/wiki/Shed_Shell "Shed Shell"), [Silk Scarf](https://bulbapedia.bulbagarden.net/wiki/Silk_Scarf "Silk Scarf"), [Silver Powder](https://bulbapedia.bulbagarden.net/wiki/Silver_Powder "Silver Powder"), [Smooth Rock](https://bulbapedia.bulbagarden.net/wiki/Smooth_Rock "Smooth Rock"), [Soft Sand](https://bulbapedia.bulbagarden.net/wiki/Soft_Sand "Soft Sand"), [Soothe Bell](https://bulbapedia.bulbagarden.net/wiki/Soothe_Bell "Soothe Bell"), [White Herb](https://bulbapedia.bulbagarden.net/wiki/White_Herb "White Herb"), [Wide Lens](https://bulbapedia.bulbagarden.net/wiki/Wide_Lens "Wide Lens"), [Wise Glasses](https://bulbapedia.bulbagarden.net/wiki/Wise_Glasses "Wise Glasses"), [Zoom Lens](https://bulbapedia.bulbagarden.net/wiki/Zoom_Lens "Zoom Lens"), [Bread](https://bulbapedia.bulbagarden.net/wiki/Bread "Bread"), [Coconut Milk](https://bulbapedia.bulbagarden.net/wiki/Coconut_Milk "Coconut Milk"), [Fresh Cream](https://bulbapedia.bulbagarden.net/wiki/Fresh_Cream "Fresh Cream"), [Fried Food](https://bulbapedia.bulbagarden.net/wiki/Fried_Food "Fried Food"), [Fruit Bunch](https://bulbapedia.bulbagarden.net/wiki/Fruit_Bunch "Fruit Bunch"), [Instant Noodles](https://bulbapedia.bulbagarden.net/wiki/Instant_Noodles "Instant Noodles"), [Mixed Mushrooms](https://bulbapedia.bulbagarden.net/wiki/Mixed_Mushrooms "Mixed Mushrooms"), [Pack of Potatoes](https://bulbapedia.bulbagarden.net/wiki/Pack_of_Potatoes "Pack of Potatoes"), [Packaged Curry](https://bulbapedia.bulbagarden.net/wiki/Packaged_Curry "Packaged Curry"), [Pasta](https://bulbapedia.bulbagarden.net/wiki/Pasta "Pasta"), [Precooked Burger](https://bulbapedia.bulbagarden.net/wiki/Precooked_Burger "Precooked Burger"), [Pungent Root](https://bulbapedia.bulbagarden.net/wiki/Pungent_Root "Pungent Root"), [Salad Mix](https://bulbapedia.bulbagarden.net/wiki/Salad_Mix "Salad Mix"), [Sausages](https://bulbapedia.bulbagarden.net/wiki/Sausages "Sausages"), [Smoke-Poke Tail](https://bulbapedia.bulbagarden.net/wiki/Smoke-Poke_Tail "Smoke-Poke Tail")|)
