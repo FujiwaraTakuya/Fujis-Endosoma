@@ -7,10 +7,11 @@ share: true
 # System
 This system tries to highlight both the benefits of being a Pokemon and having Classes at the same time to try and liven gameplay while also livening utility and access
 ## Natures
-Bonuses to a Mon's core stats that come every level up to Level 20 at a rate of +1/-1 per level; the following table helps clarify this detail (Yes, I came up with 9 new Natures to fit in Charisma):
+Bonuses to a Mon's core stats that affect level ups; akin to point buy from 1e, with core stats between 11-18 increasing points takes 1 Core Stat Point, while increasing core stats between 19-28 require 2 core stat points, and et cetera for anything above that. Natures reduce/increase that penalty; positives increase stat gains from 11-8 to 11-22, lowering the amount of points required to reach a higher core stat, while negatives decrease stat gains from 11-18 to 11-14, increasing the required amount of points needed to increase one's core stats. The following tables helps clarify this detail (Yes, I came up with 11 new Natures to fit in Charisma):
 
-| Nature     | Add. Increased stat | Add. Decreased Stat |
+|            | Nature Table        |                     |
 | ---------- | ------------------- | ------------------- |
+| Nature     | Add. Increased stat | Add. Decreased Stat |
 | Hardy      | Strength            | Strength            |
 | Lonely     | Strength            | Constitution        |
 | Brave      | Strength            | Dexterity           |
@@ -47,6 +48,15 @@ Bonuses to a Mon's core stats that come every level up to Level 20 at a rate of 
 | Cheeky     | Charisma            | Intelligence        |
 | Rigid      | Charisma            | Wisdom              |
 | Cocky      | Charisma            | Charisma            |
+
+| Core<br>Stat<br>Points<br>Req.<br>for<br>increase | Stat increases<br>Core Stat Req.<br>per-recurring<br>cost<br>(idunno how<br>to word this<br>better) | Positive | Negative |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | -------- |
+| 1                                                 | 11-18                                                                                               | 11-22    | 11-14    |
+| 2                                                 | 19-28                                                                                               | 23-37    | 15-19    |
+| 3                                                 | 29-38                                                                                               | 38-52    | 20-24    |
+| 4                                                 | 39-48                                                                                               | 53-67    | 25-29    |
+| 5                                                 | 49-58                                                                                               | 67-82    | 30-34    |
+
 ## Level Up
 Every time you level up, gain the following benefits at each level (Unless mentioned otherwise); every 5 points above 20 require an additional Stat Point to increase (21-25 needs 2 Stat Points, 26-30 needs 3 Stat Points, etc.):
 - Level 2 - +1 all Core Stats
@@ -85,11 +95,10 @@ Expert in Will
 Trained in your choice of Occultism or Performance
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 #### Attacks
-Trained in 
-Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+Trained in simple and martial weapons, and unarmed attacks
+#### Defences
 Trained in light armour
-Trained in unarmoured defense
+Trained in unarmoured defence
 #### Class DC
 Trained in Bard Class DC
 #### Moves (Spells)
@@ -105,12 +114,11 @@ Expert in Fortitude
 Trained in Reflex
 Expert in Will
 #### Skills
-Trained in
-Trained in a number of additional skills equal to  plus your Intelligence modifier
+Trained in Athletics
+Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 #### Attacks
-Trained in 
-Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+Trained in simple and martial weapons, and unarmed attacks
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -128,14 +136,14 @@ Expert in Fortitude
 Expert in Reflex
 Trained in Will
 #### Skills
-Trained in
-Trained in a number of additional skills equal to  plus your Intelligence modifier
+Trained in Athletics
+Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 #### Attacks
-Trained in 
-Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+Trained in simple weapons
+Expert in unarmed attacks
+#### Defences
 Trained in light armour
-Trained in unarmoured defense
+Expert in unarmoured defense
 #### Class DC
 Trained in Black Belt Class DC
 #### Moves (Spells)
@@ -152,14 +160,16 @@ Trained in Fortitude
 Trained in Reflex
 Expert in Will
 #### Skills
-Trained in
-Trained in a number of additional skills equal to  plus your Intelligence modifier
+Trained in Religion
+Trained in 1 skill determined by your choice of Legendary/Mythical Pokemon
+Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 #### Attacks
-Trained in 
-Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
-Trained in light armour
-Trained in unarmoured defense
+Trained in simple weapons
+Trained in a favoured Move/Ability of your deity (Signatures are only Once-per-day and unmodifiable)
+Trained unarmed attacks
+#### Defences
+Untrained in all armour, though your doctrine might alter this
+Trained in unarmoured defence
 #### Class DC
 Trained in Cleric Class DC
 #### Moves (Spells)
@@ -180,7 +190,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -203,7 +213,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -226,7 +236,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -249,7 +259,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -272,7 +282,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -295,7 +305,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -318,7 +328,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -341,7 +351,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -364,7 +374,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -387,7 +397,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -410,7 +420,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -433,7 +443,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -456,7 +466,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -479,7 +489,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in verbal or somatic spell attacks (player's choice)
 Trained in verbal or somatic spell DC (player's choice)
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -502,7 +512,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -525,7 +535,7 @@ Trained in a number of additional skills equal to  plus your Intelligence modifi
 #### Attacks
 Trained in 
 Trained in a number of additional skills equal to  plus your Intelligence modifier
-#### Defenses
+#### Defences
 Trained in light armour
 Trained in unarmoured defense
 #### Class DC
@@ -538,8 +548,223 @@ Trained in somatic component spell DC
 
 ## Pokemon 
 
+### Legendaries and Mythicals (Deities)
+A guess and random-ish assortment of what Moves legendary and mythical pokemon favour and can be used for the Cleric Class and other classes with similar functions
+#### Sub-Legendary
+##### Articuno
+Favoured Move: Hail
+##### Zapdos
+Favoured Move: Discharge
+##### Moltres
+Favoured Move: Sunny Day
+##### Raikou
+Favoured Move: Thunder Fang
+##### Entei
+Favoured Move: Fire Fang
+##### Suicune
+Favoured Move: Ice Fang
+##### Regirock
+Favoured Move: Rock Slide
+##### Regice
+Favoured Move: Ice Beam
+##### Registeel
+Favoured Move: Flash Cannon 
+##### Latias
+Favoured Move: Confusion
+##### Latios
+Favoured Move: Zen Headbutt
+##### Uxie
+Favoured Move: Amnesia
+##### Mesprit
+Favoured Move: Extrasensory
+##### Azelf
+Favoured Move: Imprison
+##### Heatran
+Favoured Move: Lava Plume
+##### Regigigas
+Favoured Move: Mega Punch
+##### Cresselia
+Favoured Move: Moonlight
+##### Cobalion
+Favoured Move: Sacred Sword
+##### Terrakion
+Favoured Move: Sacred Sword
+##### Virizion
+Favoured Move: Sacred Sword
+##### Tornadus
+Favoured Move: Tailwind
+##### Thundurus
+Favoured Move: Thunder
+##### Landorus
+Favoured Move: Earth Power
+##### Type: Null
+Favoured Move: Crush Claw
+##### Silvally
+Favoured Move: Double Hit
+##### Tapu Koko
+Favoured Ability: Electric Surge 
+##### Tapu Lele
+Favoured Ability: Psychic Surge
+##### Tapu Bulu
+Favoured Move: Grassy Surge
+##### Tapu Fini
+Favoured Move: Misty Surge
+##### Nihilego
+Favoured Move: Venom Drench
+##### Buzzwole
+Favoured Move: Fell Stinger
+##### Pheromosa
+Favoured Move: Triple Kick
+##### Xurkitree
+Favoured Move: Shock Wave
+##### Celesteela
+Favoured Move: Giga Drain
+##### Kartana
+Favoured Move: Laser Focus
+##### Guzzlord
+Favoured Move: Crunch
+##### Poipole
+Favoured Move: Fury Attack
+##### Naganadel
+Favoured Move: Vanoshock
+##### Stakataka
+Favoured Move: Iron Defense
+##### Blacephalon
+Favoured Move: Confuse Ray
+##### Kubfu
+Favoured Move: Brick Break
+##### Urshifu
+Favoured Move: Counter / Dynamic Punch
+##### Regieleki
+Favoured Move: Electroweb
+##### Regidrago
+Favoured Move: Dragon Breath
+##### Glastrier
+Favoured Move: Avalanche
+##### Spectrier
+Favoured Move: Hex
+##### Enamorus
+Favoured Move: Draining Kiss
+##### Wo-Chien
+Favoured Move: Ingrain
+##### Chien-Pao
+Favoured Move: Snowscape
+##### Ting-Lu
+Favoured Move: Bulldoze
+##### Chi-Yu
+Favoured Move: Incinerate
+##### Okidogi
+Favoured Move: Howl
+##### Munikidori
+Favoured Move: Confusion
+##### Fezandipiti
+Favoured Move: Poison Gas
+##### Ogerpon
+Favoured Move: Slam
+#### Legendary
+##### Mewtwo
+Favoured Move: Psychic
+##### Lugia
+Favoured Move: Aeroblast
+##### Ho-oh
+Favoured Move: Life Dew
+##### Kyogre
+Favoured Ability: Drizzle
+##### Groudon
+Favoured Abilitty: Drought
+##### Rayquaza
+Favoured Move: Fly
+##### Dialga
+Favoured Move: Ancient Power
+##### Palkia
+Favoured Move: Dragon Claw
+##### Giratina
+Favoured Move: Shadow Claw
+##### Reshiram
+Favoured Move: Flamethrower
+##### Zekrom
+Favoured Move: Thunderbolt
+##### Kyurem
+Favoured Move: Freeze-Dry 
+##### Xerneas
+Favoured Move: Healing Pulse
+##### Yveltal
+Favoured Move: Air Slash
+##### Zygarde
+Favoured Move: Safeguard
+##### Cosmog
+Favoured Move: Teleport
+##### Cosmoem
+Favoured Move: Cosmic Power
+##### Solgaleo
+Favoured Move: Morning Sun
+##### Lunala
+Favoured Move: Moonblast
+##### Necrozma
+Favoured Move: Stored Power
+##### Zacian
+Favoured Move: Slash
+##### Zamazenta
+Favoured Move: Iron Head
+##### Eternatus
+Favoured Move: Dragon Pulse
+##### Calyrex
+Favoured Move: Psyshock / Icicle Crash / Shadow Ball
+##### Koraidon
+Favoured Move: Drain Punch
+##### Miraidon
+Favoured Move: Parabolic Charge
+##### Terapagos
+Favoured Move: Headbutt
+#### Mythical
+##### Mew
+Favoured Move: Metronome
+##### Celebi
+Favoured Move: Baton Pass
+##### Jirachi
+Favoured Move: Wish
+##### Deoxys
+Favoured Move: Skill Swap / Superpower / Protect / Double Team
+##### Phione
+Favoured Move: Water Gun
+##### Manaphy
+Favoured Move: Heart Swap
+##### Darkrai
+Favoured Move: Sucker Punch
+##### Shaymin
+Favoured Move: Magical Leaf / Play Rough
+##### Arceus
+Favoured Move: Judgement
+##### Victini
+Favoured Move: Flare Blitz
+##### Keldeo
+Favoured Move: Double Kick
+##### Meloetta
+Favoured Move: Echoed Voice / Acrobatics
+##### Genesect
+Favoured Move: Lock-On
+##### Diancie
+Favoured Move: Power Gem
+##### Hoopa
+Favoured Move: Phantom Force / Hyperspace Fury
+##### Volcanion
+Favoured Move: Scald
+##### Magearna
+Favoured Move: Shift Gear
+##### Marshadow
+Favoured Move: Shadow Sneak
+##### Zeraora
+Favoured Move: Volt Switch
+##### Meltan
+Favoured Move: Headbutt
+##### Melmetal
+Favoured Move: Flash Cannon
+##### Zarude
+Favoured Move: Energy Ball
+##### Pecharunt
+Favoured Move: Toxic
 
-### Movelist
+### Movelist simplified
 To MASSIVELY simplify how Moves are translated between systems, use the following system:
 #### Category & Type
 Physical is Physical damage, with the way it's performed being obviously either Bludgeoning, Piercing, or Slashing.
