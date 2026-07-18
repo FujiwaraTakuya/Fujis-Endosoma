@@ -115,3 +115,153 @@ New terms:
 - Vania - A term for those under the influence of a Vice, unable to control themselves, and losing themselves to their desires while influencing those around them into following their example; usually causing issues and harm to those around them in a mania-like state.
 - Power of Vices - The power to manipulate the various different effects that come from the different powers of Vices; those with the Power of Vices can either be people with Vania or Vicers, but the power come from the same root of cause and effect, as such it should be made clear that Vania is considered a Symptom while Vicers are a title.
 - Vicers - The Title given to those who were born with and inhabit the power of 1 of 9 Vices; they're able to use this power to influence themselves and those around them controllably without causing unintended issues or influences. Their personalities don't entirely revolve around their given powers, but can grant insight into their personality or the life they lead.
+
+System(s) being used:  
+DND 5e
+
+[https://dnd5e.wikidot.com](https://dnd5e.wikidot.com)
+
+Pokemon 5th Edition
+
+[https://poke5e.app](https://poke5e.app)
+
+Nekomancer's DM Guide to Love and Vore
+
+[https://docs.google.com/document/d/1IeNcJZlOG3miEdzGDfFcxz8nQBjgJZk5oEmQvHSkXoM/edit#heading=h.gjdgxs](https://docs.google.com/document/d/1IeNcJZlOG3miEdzGDfFcxz8nQBjgJZk5oEmQvHSkXoM/edit#heading=h.gjdgxs)
+
+Specific Rulings
+
+Character Creation
+
+You'll be making a character with DND 5e 2014 Rules while using the Pokemon Details from Pokemon 5th Edition as a base to create your Character. You can either follow the Bulletin Board List, or go beyond it to do it normally if you're experienced enough with DND.
+
+- Class: Pokemon (Reflavoured from Trainer Class)
+- Race: Pokemon Name
+- Race Stat Bonuses and Bonus Skills: The positive and negative bonuses on your Pokemon's sheet that raises or lowers base stat of 10, and whatever Skill is marked with a Circle-Dot Icon
+- Stat Roll: Roll 4d6d1 (Roll 4d6s, then remove the lowest roll, performing this 6 times; count the 6 totals and if they equal 72 or higher, keep those numbers and allocate them to your Stats, but if lower, then reroll; highest a Stat can be after Race Bonuses is 20 for Character Creation.)
+- Background: Any choice within the DND 5e
+- Proficiency Bonus: +2 at Level 1, at Level 5 and every 4 Levels after +1 to bonus
+- Saving Throws: Whatever's displayed on your Mon's page by the Circle-Dot Icon
+- Proficient Skills: Whatever's provided by Race Bonus and Background, +3 + Int Mod, Minimum of 3
+- Hit Dice: Is what your Pokemon provides per Level
+- HP: Whatever's displayed on your Mon's page Level 1 + Con Mod, then Hit Die + Con Mod Average/Dice Roll per-Level
+- Base AC: Whatever's displayed on your Mon's page - their Dex Mod, placed into your Armor Class (Dex Bonus/Penalty will raise/lower Armor Class with)
+- Size: Whatever's displayed on your Mon's page, place into your Feats & Traits
+- Typing and Vulnerabilities: Whatever's displayed on your Mon's page, placed into your Racial Traits
+- Nature: Whatever's displayed on your Mon's page, placed into your Feats & Traits
+- Ability: Whatever's displayed on your Mon's page, placed into your Feats & Traits
+- Speed: Whatever's displayed on your Mon's page, placed into your Speed
+- Climbing/Flying Speed: Whatever's displayed on your Mon's page, placed into Tool Proficiencies & Custom Skills
+- Armor Proficiencies: None
+- Weapon Proficiencies: Unarmed Strikes
+- Languages: Pokemon
+- Moves: Whatever your Pokemon learns, placed into Attacks & Spellcasting
+- Move PP Count: Whatever your Move says in its entry, in Class/Other Resource Section (Can make more with + icon)
+- ASI (Ability Score Increase): At Level 4 and every 4 Levels after increase 1 Core Stat by +1
+- Feats: Can take a Feat in place of an ASI in Progression Chart
+- Vice Level & Feats: Features & Traits
+- Vore Feats: From Nekomancer's, into Features & Traits
+- Starting Money: P$1000 + P$100 * 4d4 (Multiply P$100 by 4d4 result (4-16))
+
+Pokemon Class Progression
+
+| Level | Proficiency | Features                   | STAB |
+| ----- | ----------- | -------------------------- | ---- |
+| 1     | +2          |                            | +0   |
+| 2     | +2          | New Moves                  | +0   |
+| 3     | +2          | STAB Increase              | +1   |
+| 4     | +2          | ASI                        | +1   |
+| 5     | +3          | Damage Increase            | +1   |
+| 6     | +3          | New Moves                  | +1   |
+| 7     | +3          | STAB Increase              | +2   |
+| 8     | +3          | ASI                        | +2   |
+| 9     | +4          |                            | +2   |
+| 10    | +4          | New Moves, Damage Increase | +2   |
+| 11    | +4          | STAB Increase              | +3   |
+| 12    | +4          | ASI                        | +3   |
+| 13    | +5          |                            | +3   |
+| 14    | +5          | New Moves                  | +3   |
+| 15    | +5          | STAB Increase              | +4   |
+| 16    | +5          | ASI                        | +4   |
+| 17    | +6          | Damage Increase            | +4   |
+| 18    | +6          | New Moves                  | +4   |
+| 19    | +6          | STAB Increase              | +5   |
+| 20    | +6          | ASI                        | +5   |
+
+HIT POINTS
+
+Hit Dice: Check Pokemon's Page
+
+Hit Points at 1st Level: Pokemon's Starting HP + Con Mod
+
+Hit Points at Higher Levels: Pokemon's Hit Dice + Con Mod per Pokemon Level after 1st
+
+PROFICIENCIES
+
+Armor: None
+
+Weapons: Unarmed Strikes
+
+Tools:
+
+Saving Throws: Whatever's on your Pokemon's Page highlighted with Circle-Dot
+
+Skills: Choose 3 + Int Mod, Minimum of 3
+
+EQUIPMENT
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- Starting Money: P$1000 + P$100 * 4d4 (Multiply P$100 by 4d4 result (4-16))
+- 1 Potion
+
+New Moves
+
+Add new Moves to your Move List at every Level Increment.
+
+STAB Increase
+
+STAB is an abbreviation for Same-Type Attack Bonus. Your Pokémon gains a bonus to damage rolls when it uses an attack move type that is the same as their Pokémon type. STAB may only be added once per move, even for moves that deal damage over time like Leech Seed, Smog, etc. This bonus increases as the Pokémon levels up.
+
+Ability Score Improvement (ASI)
+
+Your Pokémon gains a number of points to allocate to any of its ability scores, to a maximum of 20. The number of points to allocate depends on the number of evolutionary stages in that Pokémon's line:
+
+- 1 stage: 4 points
+- 2 stages: 3 points
+- 3 stages: 2 points
+
+Up to 2 of these points may be used to acquire a [Feat](https://poke5e.app/reference/feats) instead.
+
+This happens at levels 4, 8, 12, 16, and 20.
+
+Damage Increase
+
+The damage of each damaging move increases at levels 5, 10, and 17, as shown in the move description.
+
+Currency Conversion  
+I apologise for using both P$ and Copper/Silver/Gold Pieces, but here's the price conversion:
+
+- Copper : P$100
+- Silver : P$1000
+- Gold : P$10000
+
+Pokemon Moves
+
+They are treated like Spells, placed into a Spell-listing, each with an independent PP value that's smaller than the OG's counterparts. Instead of limiting to 4 Moves only, you can gain all Moves you get Per-Level and use freely. Only in Competitions will there be a 4 Move Limit. Also all Pokemon can make Unarmed Strikes dealing 1d6+Str/Dex Bludgeoning, Piercing, or Slashing depending on the attack method; discuss with the DM how it's done, and size affects damage die.
+
+STAB
+
+STAB in this game is a bonus to Damage Rolls to Moves you share the same Typing with granted through the STAB section of the Pokemon Class Progression.
+
+Pokemon Held Items
+
+Due to the issues between Invested Items and Held Items in both Pokemon and DND, I'm electing to give Held Items a similar role of Held Items, but also giving Held items specific specifications of where they're worn to apply such effects, which includes a comprehensive list charting their placement.
+
+Feat Progression
+
+Normal for the most part; either get an ASI or replace Points for Feats.
+
+Vices and Crests
+
+Crests are TOO OP for Level 1 Players, so they'll be saved for NPCs or other games in the future. Players will get access to the Vice System, and multiple Players can share the same Vice if they wish. Vices have their own levelling system that's not tied to EXP and are similar to Milestones. You gain Vice Feats every Vice Level you gain, and gain Universal Vice Feats at Level 1 and every odd Level.
