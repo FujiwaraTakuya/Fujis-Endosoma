@@ -139,7 +139,7 @@ You'll be making a character with DND 5e 2014 Rules while using the Pokemon Deta
 - Race: Pokemon Name
 - Race Stat Bonuses and Bonus Skills: The positive and negative bonuses on your Pokemon's sheet that raises or lowers base stat of 10, and whatever Skill is marked with a Circle-Dot Icon
 - Stat Roll: Roll 4d6d1 (Roll 4d6s, then remove the lowest roll, performing this 6 times; count the 6 totals and if they equal 72 or higher, keep those numbers and allocate them to your Stats, but if lower, then reroll; highest a Stat can be after Race Bonuses is 20 for Character Creation.)
-- Background: Any choice within the DND 5e
+- Background: Any choice within the DND 5e or Nekomancer's DM Guide to Love and Vore
 - Proficiency Bonus: +2 at Level 1, at Level 5 and every 4 Levels after +1 to bonus
 - Saving Throws: Whatever's displayed on your Mon's page by the Circle-Dot Icon
 - Proficient Skills: Whatever's provided by Race Bonus and Background, +3 + Int Mod, Minimum of 3
@@ -168,7 +168,7 @@ Pokemon Class Progression
 
 | Level | Proficiency | Features                              | STAB |
 | ----- | ----------- | ------------------------------------- | ---- |
-| 1     | +2          | Specialization                        | +0   |
+| 1     | +2          | Specialization, Feat                  | +0   |
 | 2     | +2          | New Moves, Pokemon Path               | +0   |
 | 3     | +2          | STAB Increase                         | +1   |
 | 4     | +2          | ASI                                   | +1   |
@@ -242,75 +242,75 @@ The damage of each damaging move increases at levels 5, 10, and 17, as shown in 
 
 Pokemon Paths
 
-Like a Subclass, but with less total features, and stronger effects; select 1 Path to follow at Level 2:
+Like a Subclass, but with less total features, and stronger effects; please follow this list as it modifies it for a PMD experience; select 1 Path to follow at Level 2:
 
-- Ace Fighter
+- Ace Fighter - Your goal is to become the strongest fighter in the world, and so you excel in battle. You gain +1 to your attack and damage rolls.
 
-- [Lvl 5, ]
-- [Lvl 9, ]
-- [Lvl 15, ]
+- [Lvl 5, Battle Master] When you reach Level 5, you gain a number of Battle Dice (d6) equal to 1 + your Dex Mod (Minimum of 1). You may add 1 of these dice to a single Attack or Damage Roll, after the result of the Initial Roll. You replenish your pool of Battle Dice at each long Rest.
+- [Lvl 9, Max Potential] Once you reach Level 9, choose 1 Ability Score; increase that Ability Score by one. Additionally, your Battle Dice becomes a d8.
+- [Lvl 15, Rapid Switching] When you reach Level 15, whenever you or an ally performs an action that swaps your positioning, that ally or you can only take a single Action (Standard, Interact) or Move once their turn comes up. They still can't use a Bonus Action or a Reaction on that turn. Additionally, your Battle Dice becomes a d10.
 
-- Hobbyist
+- Hobbyist - You think being a Mystery Dungeon Explorer requires being very good at a little bit of everything. Select one additional Specialization adn two new skill proficiencies for yourself. The Specializations you choose must be different from any specializations you already have.
 
-- [Lvl 5, ]
-- [Lvl 9, ]
-- [Lvl 15, ]
+- [Lvl 5, Versatile] At Level 5, you gain a number Skill Dice (d6) equal to 1 + your Wisdom Mod (Minimum of 1 ). You may add 1 of these dice to a single Skill Check or Saving Throw, after the result of the Initial Roll. You replenish your pool of Battle Dice at each long Rest.
+- [Lvl 9, Many Faces] At Level 9, you can add your Proficiency Bonus (round down) to any Ability Check you make that uses a Skill Proficiency that you lack and that doesn't otherwise use your Proficiency Bonus. Additionally, your Skill Dice become a d8.
+- [Lvl 15, Skill Switch] At Level 15, you gain one additional Skill to become Proficient in. Additionally, your Skill Dice becomes a d10.
 
-- Mentor
-
-- [Lvl 5, ]
-- [Lvl 9, ]
-- [Lvl 15, ]
-
-- Researcher
+- Mentor - You have a skill for mentoring other Pokemon to bring out the best in them. Beginning at Level 2, your TMs can be used twice before breaking; using them this way reduces its P$ value in half.
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Collector
+- Researcher -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Nurse
+- Collector -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Type Master
+- Nurse -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Commander
+- Type Master -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Grunt
+- Commander -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Tactician
+- Grunt -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Ranger
+- Tactician -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
 - [Lvl 15, ]
 
-- Guru
+- Ranger -
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Guru -
 
 - [Lvl 5, ]
 - [Lvl 9, ]
@@ -318,7 +318,7 @@ Like a Subclass, but with less total features, and stronger effects; select 1 Pa
 
 Specialization
 
-Gain a Specialization at Levels 1, 7, and 18 for Bonuses; can be stacked with other Specializations, but can't take duplicates.
+Gain a Specialization at Levels 1, 7, and 18 for Bonuses; can be stacked with other Specializations, and you can take duplicates at these Levels.
 
 Currency Conversion  
 I apologise for using both P$ and Copper/Silver/Gold Pieces, but here's the price conversion:
@@ -335,14 +335,80 @@ STAB
 
 STAB in this game is a bonus to Damage Rolls to Moves you share the same Typing with granted through the STAB section of the Pokemon Class Progression.
 
+Switching Moves
+
+Moves like U-Turn that switches your place with another Pokemon, I'll rule like a position-swap where you swap the place of yourself and a Pokemon of your choice in the Party. Also, Switching positions like this or any other way in the PMD universe does not undo combat buffs and debuffs.
+
 Pokemon Held Items
 
-Due to the issues between Invested Items and Held Items in both Pokemon and DND, I'm electing to give Held Items a similar role of Held Items, but also giving Held items specific specifications of where they're worn to apply such effects, which includes a comprehensive list charting their placement.
+Due to the issues between Invested Items and Held Items in both Pokemon and DND, I'm electing to give Held Items a similar role of Held Items, but also giving Held items specific specifications of where they're worn to apply such effects, which includes a comprehensive list charting their placement. Here's the list of locations Magic Items can be placed on your body:
+
+- Head
+- Headband
+- Eyes
+- Shoulders
+- Neck
+- Chest
+- Body
+- Armor
+- Belt
+- Wrists
+- Hands (If item is allocated to both hands instead of 1)
+- Hand Left
+- Hand Right
+- Ring 1
+- Ring 2
+- Feet
 
 Feat Progression
 
-Normal for the most part; either get an ASI or replace Points for Feats.
+Normal for the most part; either get an ASI or replace Points for Feats. You can grab any normal Feats from WikiDot's 5e page, or from the list down below of modified Pokemon Feats specifically tailored for Pokemon Mystery Dungeon.
 
 Vices and Crests
 
 Crests are TOO OP for Level 1 Players, so they'll be saved for NPCs or other games in the future. Players will get access to the Vice System, and multiple Players can share the same Vice if they wish. Vices have their own levelling system that's not tied to EXP and are similar to Milestones. You gain Vice Feats every Vice Level you gain, and gain Universal Vice Feats at Level 1 and every odd Level.
+
+Pokemon Feats
+
+| Pokemon Feats  | Description                                                                                                                            | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Able-Bodied    | Your body is trained to learn from and fight off ailments for long periods of time.                                                    | The status "grace period" for this Pokémon is extended by two rounds.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| AC Up          | You naturally become a bit tougher and more resilient to strikes.                                                                      | Your Pokémon’s AC increases by 1. This bonus is included through a Pokémon’s evolutions.                                                                                                                                                                                                                                                                                                                                                                                          |
+| Combo Master   | You're an expert in combining strikes against a foe.                                                                                   | When this feat is selected, moves that have the ability to hit more than once, after the same attack roll, are guaranteed to hit at least twice. (Fury Swipes, Double Slap, Water Shuriken, etc.)                                                                                                                                                                                                                                                                                 |
+| Extra Move     | You're such a talented Mon that you can learn skills you were never meant to attain.                                                   | Whenever you find a Teacher who's willing to Teach you a Move from their Movelist, you can learn 1 Move outside of your normal Learnset. This Feat can be taken Multiple Times.                                                                                                                                                                                                                                                                                                   |
+| Hidden Ability | You reach inside yourself to discover a new ability.                                                                                   | It gains access to the Hidden Ability in its Stat Block. This overwrites it's normal Ability.                                                                                                                                                                                                                                                                                                                                                                                     |
+| Melee Master   | You're a master of close combat.                                                                                                       | You gain the following benefits:<br><br>- Gain advantage on all attacks of opportunity.<br>- Before you make a melee attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).                                                                                                                                                                                                                      |
+| Power Sculpter | You're able to sculpt the power of your Moves around your allies.                                                                      | For area of effect moves you activate, choose 1 + MOVE Attack Mod number of allies in range to automatically succeed on their saving throw against taking damage or an effect. If the damage is halved for a successful save, they take no damage instead.                                                                                                                                                                                                                        |
+| Ranged Master  | You're a sharpshooter.                                                                                                                 | You gain the following benefits:<br><br>- Your ranged attacks ignore half and three-fourths cover.<br>- Before you make a ranged attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).                                                                                                                                                                                                          |
+| Terrain Adept  | Your Pokémon is especially skilled when fighting on a specific terrain.                                                                | Choose one of the following terrains when selecting this feat. Your Pokémon gains +2 to attack rolls when in this terrain. Terrains: Coastal, Swamp, Forest, Arctic, Desert, Grassland, Hill, Mountain, Underwater.                                                                                                                                                                                                                                                               |
+| Tireless       | Your Pokemon endures hours of rigorous training which keep it in battle longer than the average Pokemon.                               | Gain +1 PP for every Move.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Wrangler       | You have developed a unique set of skills that give you the ability to grapple and hold an opponent down with steady and strong hands. | You gain the following benefits:<br><br>- You have advantage on attack rolls against a creature you are Grappling.<br>- You can use your action to try to pin a creature already Grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both Restrained until the grapple ends.<br>- When a creature attempts to use their movement to leave your reach without disengaging, you may use your reaction to attempt to Grapple the target. |
+
+Held Item Location Investments.
+
+| Item Name      | Item Cost | Item Description                                                                                                                                                       | Item Effect                                                                                                                                                                                                                                                                                                             | Investment Area        |
+| -------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Air Balloon    | P$1,000   | A colourful balloon attached to the body with a string, allowing the one it's attached to just hover above the ground.                                                 | The holder is immune to ground-type damage. When the holder takes damage, the item is popped and no longer confers its benefit.<br><br>The Air Balloon can be freely repaired during a short rest.                                                                                                                      | Body                   |
+| Assault Vest   | P$2,000   | A red vest with pockets usually fitted with replaceable, thick, heavy plates.                                                                                          | The holder has +1 to their AC, but may only use damaging moves.                                                                                                                                                                                                                                                         | Armor                  |
+| Big Root       | P$4,400   | A piece of some kind of vegetation's roots; a single piece with 4 or so collection of roots sticking outwards with smaller hairs and roots sticking out from it.       | Moves that simultaneously deal damage to a target and heal the holder restore an additional 1d12 HP to the holder.                                                                                                                                                                                                      | Hand L/R               |
+| Black Sludge   | P$2,000   | A gloppy blob of gray sludge with a tiny bit of bluish-purple tinting.                                                                                                 | This item has 10 charges. If the holder is a poison-type Pokémon, they may use a bonus action to use a charge, healing HP equal to their proficiency bonus. It recovers its charges at dawn each day.<br><br>If the holder is not a poison-type Pokémon, they take 1d6 poison damage at the end of each of their turns. | Hand L/R               |
+| Eject Button   | P$4,000   | A small, metalic block cut in half with a flat platform on one side, yellow and black safety tape placed on two of the diagonal edges, and a red button in the centre. | This item has 1 charge. When the holder is damaged by an attack, this creature may switch the holder for another Party Member as a free action, consuming the charge.<br><br>The Eject Button regains its charge at dawn each day.                                                                                      | Hand L/R               |
+| Eviolite       | P$4,000   | A small, pink gem with a purple interior, shaped like an upside-down kite.                                                                                             | The holder is prevented from evolving. If the Pokémon holding this is not a final evolutionary form, they take 3 less damage from all damage sources.                                                                                                                                                                   | Neck                   |
+| Focus Band     | P$1,000   | A red, orange, and yellow headband with a flame/fire motif to its design.                                                                                              | When the holder would become flinched, roll a d20. On a 10 or higher, the holder does not flinch.                                                                                                                                                                                                                       | Headband               |
+| Focus Sash     | P$4,000   | A red ribbon with yellow energy shimmering and pulsing through it.                                                                                                     | This item has 1 charge. If damage would bring the holder to below 1 HP, it instead brings the holder to 1 HP, consuming the charge.<br><br>The Focus Sash regains its charge at dawn each day.<br><br>Only 1 at a time can be worn.                                                                                     | Headband, Wrists, Neck |
+| Leftovers      | P$4,400   | What looks like to be a single uneaten apple core.                                                                                                                     | This item has 10 charges. The holder may use a bonus action to use a charge, healing HP equal to their proficiency bonus. It recovers its charges at dawn each day.                                                                                                                                                     | Hand L/R               |
+| King's Rock    | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Muscle Band    | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Quick Claw     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Razor Claw     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Razor Fang     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Scope Lens     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Shell Bell     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Smoke Ball     | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Wide Lens      | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Wise Glasses   | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+| Megalite Stone | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+|                | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+|                | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+|                | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
+|                | P$        |                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                         |                        |
