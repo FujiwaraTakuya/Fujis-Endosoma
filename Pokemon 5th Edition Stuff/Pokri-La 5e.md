@@ -162,31 +162,32 @@ You'll be making a character with DND 5e 2014 Rules while using the Pokemon Deta
 - Vice Level & Feats: Features & Traits
 - Vore Feats: From Nekomancer's, into Features & Traits
 - Starting Money: P$1000 + P$100 * 4d4 (Multiply P$100 by 4d4 result (4-16))
+- Pokemon Path Feature: Trainer Path renamed to Pokemon Path, place into Features & Traits
 
 Pokemon Class Progression
 
-| Level | Proficiency | Features                   | STAB |
-| ----- | ----------- | -------------------------- | ---- |
-| 1     | +2          |                            | +0   |
-| 2     | +2          | New Moves                  | +0   |
-| 3     | +2          | STAB Increase              | +1   |
-| 4     | +2          | ASI                        | +1   |
-| 5     | +3          | Damage Increase            | +1   |
-| 6     | +3          | New Moves                  | +1   |
-| 7     | +3          | STAB Increase              | +2   |
-| 8     | +3          | ASI                        | +2   |
-| 9     | +4          |                            | +2   |
-| 10    | +4          | New Moves, Damage Increase | +2   |
-| 11    | +4          | STAB Increase              | +3   |
-| 12    | +4          | ASI                        | +3   |
-| 13    | +5          |                            | +3   |
-| 14    | +5          | New Moves                  | +3   |
-| 15    | +5          | STAB Increase              | +4   |
-| 16    | +5          | ASI                        | +4   |
-| 17    | +6          | Damage Increase            | +4   |
-| 18    | +6          | New Moves                  | +4   |
-| 19    | +6          | STAB Increase              | +5   |
-| 20    | +6          | ASI                        | +5   |
+| Level | Proficiency | Features                              | STAB |
+| ----- | ----------- | ------------------------------------- | ---- |
+| 1     | +2          | Specialization                        | +0   |
+| 2     | +2          | New Moves, Pokemon Path               | +0   |
+| 3     | +2          | STAB Increase                         | +1   |
+| 4     | +2          | ASI                                   | +1   |
+| 5     | +3          | Damage Increase, Pokemon Path Feature | +1   |
+| 6     | +3          | New Moves                             | +1   |
+| 7     | +3          | STAB Increase, Specialization         | +2   |
+| 8     | +3          | ASI                                   | +2   |
+| 9     | +4          | Pokemon Path Feature                  | +2   |
+| 10    | +4          | New Moves, Damage Increase            | +2   |
+| 11    | +4          | STAB Increase                         | +3   |
+| 12    | +4          | ASI                                   | +3   |
+| 13    | +5          |                                       | +3   |
+| 14    | +5          | New Moves                             | +3   |
+| 15    | +5          | STAB Increase, Pokemon Path Feature   | +4   |
+| 16    | +5          | ASI                                   | +4   |
+| 17    | +6          | Damage Increase                       | +4   |
+| 18    | +6          | New Moves, Specializtion              | +4   |
+| 19    | +6          | STAB Increase                         | +5   |
+| 20    | +6          | ASI                                   | +5   |
 
 HIT POINTS
 
@@ -238,6 +239,86 @@ This happens at levels 4, 8, 12, 16, and 20.
 Damage Increase
 
 The damage of each damaging move increases at levels 5, 10, and 17, as shown in the move description.
+
+Pokemon Paths
+
+Like a Subclass, but with less total features, and stronger effects; select 1 Path to follow at Level 2:
+
+- Ace Fighter
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Hobbyist
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Mentor
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Researcher
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Collector
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Nurse
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Type Master
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Commander
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Grunt
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Tactician
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Ranger
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+- Guru
+
+- [Lvl 5, ]
+- [Lvl 9, ]
+- [Lvl 15, ]
+
+Specialization
+
+Gain a Specialization at Levels 1, 7, and 18 for Bonuses; can be stacked with other Specializations, but can't take duplicates.
 
 Currency Conversion  
 I apologise for using both P$ and Copper/Silver/Gold Pieces, but here's the price conversion:
