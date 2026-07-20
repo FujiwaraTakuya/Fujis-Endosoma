@@ -305,7 +305,7 @@ Like a Subclass, but with less total features, and stronger effects; please foll
 
 - [Lvl 5, Deep Connection] As a Pokemon Ranger you use a special tool used to 'Capture' other Pokemon called a Capture Styler. At Level 5, if you run all the way around a Pokemon and return to your starting point, you gain +5 to 'Capturing' that Pokemon, more if you perform multiple circles around the Pokemon before 'Capturing' them; Capturing is done in two forms:
 
-- Restraint: You create rings made of Energy with a DC equal to your Grapple Check + amount of Rings performed. To escape the ring, use either an Athletics or Acrobatics Check to break/escape the bindings. If Capturing is successful, the Creature is Restrained by the Energy Rings until they're broken, but not incapacitated.
+- Restraint: You create rings made of Energy with a DC equal to your Grapple Check + amount of Rings performed (Grapple can be made with Str or Dex). To escape the ring, use either an Athletics or Acrobatics Check to break/escape the bindings. If Capturing is successful, the Creature is Restrained by the Energy Rings until they're broken, but not incapacitated.
 - Request: You create ribbons of Energy with a DC equal to your Diplomacy Check + amount of Rings performed. To resist the ring, you must perform a Wisdom Save to negate the effects. If Capturing is successful, the Creature is compelled to ally with the Ranger until they've been given 1 Command they must follow to the best of their abilities, performed 1 Attack against another Pokemon, or the Compulsion is broken.
 
 At the end of each Round, roll a d6, then reduce the DC by an equal amount.
