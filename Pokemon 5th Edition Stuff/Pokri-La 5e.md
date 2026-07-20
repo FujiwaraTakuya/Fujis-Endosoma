@@ -164,7 +164,7 @@ You'll be making a character with DND 5e 2014 Rules while using the Pokemon Deta
 - Starting Money: P$1000 + P$100 * 4d4 (Multiply P$100 by 4d4 result (4-16))
 - Pokemon Path Feature: Trainer Path renamed to Pokemon Path, place into Features & Traits
 - Bond Level: Add to Feats & Traits; improves Saves, Max HP, and some Skill Class Features with a positive Bond, while ruining the same for a negative Bond.
-- Vore: Technically anyone can do it, including gaining Vore Feats, just Vore is only an appeal for a select few, and there are bad rumours around the act, even despite the positives.
+- Vore: Technically anyone can do it, including gaining Vore Feats, just Vore is only an appeal for a select few, and there are bad rumours around the act, even despite the positives. When performing Grapple Checks to Devour, you roll the highest modifier of your choice with your Grapple Check; I have not figure out the logic behind it yet.
 
 Pokemon Class Progression
 
