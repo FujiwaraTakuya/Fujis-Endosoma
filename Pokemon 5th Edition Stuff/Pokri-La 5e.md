@@ -144,7 +144,7 @@ You'll be making a character with DND 5e 2014 Rules while using the Pokemon Deta
 - Saving Throws: Whatever's displayed on your Mon's page by the Circle-Dot Icon
 - Proficient Skills: Whatever's provided by Race Bonus and Background, +3 + Int Mod
 - Hit Dice: Is what your Pokemon provides per Level
-- HP: Whatever's displayed on your Mon's page Level 1 + Con Mod, then Hit Die + Con Mod Average/Dice Roll per-Level
+- HP: Pokemon's Hit Die. * 2 + 1d6 + Con Mod, then Hit Die + Con Mod Average/Dice Roll per-Level
 - Base AC: Whatever's displayed on your Mon's page - their Dex Mod, placed into your Armor Class (Dex Bonus/Penalty will raise/lower Armor Class with)
 - Size: Whatever's displayed on your Mon's page, place into your Feats & Traits
 - Typing and Vulnerabilities: Whatever's displayed on your Mon's page, placed into your Racial Traits
