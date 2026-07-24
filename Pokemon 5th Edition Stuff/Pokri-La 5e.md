@@ -584,14 +584,13 @@ Held Item Location Investments.
 
 Learning New Moves not in Learnset costs
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|Table Names|Lvl 2|Lvl 6|Lvl 10|Lvl 14|Lvl 18||
-|Level Cost|P$2,000|P$4,000|P$8,000|P$16,000|P$32,000||
-||20|15|10|5|3|1|
-|PP Cost|P$200|P$500|P$1,250|P$3,125|P$7,810|P$10,000|
-||Normal|Legendary|Mythical||||
-|Pokemon Cost|P$300|P$1,000|P$1,500||||
+| Table Names  | Lvl 2   | Lvl 6     | Lvl 10   | Lvl 14   | Lvl 18   |          |
+| ------------ | ------- | --------- | -------- | -------- | -------- | -------- |
+| Level Cost   | P$2,000 | P$4,000   | P$8,000  | P$16,000 | P$32,000 |          |
+|              | 20      | 15        | 10       | 5        | 3        | 1        |
+| PP Cost      | P$200   | P$500     | P$1,250  | P$3,125  | P$7,810  | P$10,000 |
+|              | Normal  | Legendary | Mythical |          |          |          |
+| Pokemon Cost | P$300   | P$1,000   | P$1,500  |          |          |          |
 
 Combining the 3 ratings to get the cost of learning a Move from a Teacher
 
@@ -603,30 +602,158 @@ Moves (that don't have a normal listing)
 
 Dungeon Rating System, including functions
 
-| Number of Floors | Number of rooms per floor (Rolling Die. Max Number = Finding Stair Room) | Room Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Number of Mons per room (1 means 0) | Number of items per room | P$ Base Value (Roll 1d2) | Trap chance on a Max Roll | Number of Pokemon Types |
-| ---------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------ | ------------------------ | ------------------------- | ----------------------- |
-| 5                | 3                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d3             | 1 + 1d4                  | P$50/100                 | 1d10                      | D6                      |
-| 10               | 3                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d3             | 1 + 1d4                  | P$100/150                | 1d10                      | D6                      |
-| 15               | 4                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d4             | 1 + 1d4                  | P$150/200                | 2d10                      | D6                      |
-| 20               | 4                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d4             | 2 + 1d4                  | P$200/250                | 2d10                      | D6                      |
-| 25               | 5                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d5             | 2 + 1d4                  | P$250/300                | 2d8                       | D6                      |
-| 30               | 5                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d5             | 2 + 1d4                  | P$300/350                | 2d8                       | D8                      |
-| 35               | 6                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d6             | 3 + 1d4                  | P$350/400                | 3d8                       | D8                      |
-| 40               | 6                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d6             | 3 + 1d4                  | P$400/450                | 3d8                       | D8                      |
-| 45               | 7                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d7             | 3 + 1d4                  | P$450/500                | 3d6                       | D8                      |
-| 50               | 7                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d7             | 3 + 2d4                  | P$500/550                | 3d6                       | D8                      |
-| 55               | 8                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d8             | 3 + 2d4                  | P$550/600                | 4d6                       | D10                     |
-| 60               | 8                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d8             | 3 + 2d4                  | P$600/650                | 4d6                       | D10                     |
-| 65               | 9                                                                        | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d9             | 4 + 2d4                  | P$650/700                | 4d4                       | D10                     |
-| 70               | 9                                                                        | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d9             | 4 + 2d4                  | P$700/750                | 4d4                       | D10                     |
-| 75               | 10                                                                       | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d10            | 4 + 2d4                  | P$750/800                | 5d4                       | D10                     |
-| 80               | 10                                                                       | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d10            | 5 + 2d4                  | P$800/850                | 5d4                       | D12                     |
-| 85               | 11                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d11            | 5 + 2d4                  | P$850/900                | 5d3                       | D12                     |
-| 90               | 11                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d11            | 5 + 2d4                  | P$900/950                | 5d3                       | D12                     |
-| 95               | 12                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d12            | 6 + 2d4                  | P$950/1000               | 6d3                       | D12                     |
-| 100              | 12                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d12            | 6 + 3d4                  | P$1000/1100              | 6d3                       | D12                     |
+| Number of Floors | Number of rooms per floor (Rolling Die. Max Number = Finding Stair Room) | Room Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Number of Mons per room (1 means 0) | Number of items per room | P$ Base Value | Trap chance on a Max Roll | Number of Pokemon Types |
+| ---------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------ | ------------- | ------------------------- | ----------------------- |
+| 5                | 3                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d3             | 1 + 1d4                  | P$50/100      | 1d10                      | D6                      |
+| 10               | 3                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d3             | 1 + 1d4                  | P$100/150     | 1d10                      | D6                      |
+| 15               | 4                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d4             | 1 + 1d4                  | P$150/200     | 2d10                      | D6                      |
+| 20               | 4                                                                        | D6:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Item Room<br><br>5: Monster & Item Room<br><br>6: Item Room                                                                                                                                                                                                                                                                                                                                                                              | Number of Players + 1d4             | 2 + 1d4                  | P$200/250     | 2d10                      | D6                      |
+| 25               | 5                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d5             | 2 + 1d4                  | P$250/300     | 2d8                       | D6                      |
+| 30               | 5                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d5             | 2 + 1d4                  | P$300/350     | 2d8                       | D8                      |
+| 35               | 6                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d6             | 3 + 1d4                  | P$350/400     | 3d8                       | D8                      |
+| 40               | 6                                                                        | D8:<br><br>1: Empty Room<br><br>2: Monster Room<br><br>3: Monster & Item Rooms<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Item Room<br><br>7:Monster & Item Room<br><br>8: Item Room                                                                                                                                                                                                                                                                                                                         | Number of Players + 1d6             | 3 + 1d4                  | P$400/450     | 3d8                       | D8                      |
+| 45               | 7                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d7             | 3 + 1d4                  | P$450/500     | 3d6                       | D8                      |
+| 50               | 7                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d7             | 3 + 2d4                  | P$500/550     | 3d6                       | D8                      |
+| 55               | 8                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d8             | 3 + 2d4                  | P$550/600     | 4d6                       | D10                     |
+| 60               | 8                                                                        | D10:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster Room<br><br>4: Monster & Item Room<br><br>5: Monster Room<br><br>6: Monster & Item Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Rare Item Room                                                                                                                                                                                                                                                                      | Number of Players + 1d8             | 3 + 2d4                  | P$600/650     | 4d6                       | D10                     |
+| 65               | 9                                                                        | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d9             | 4 + 2d4                  | P$650/700     | 4d4                       | D10                     |
+| 70               | 9                                                                        | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d9             | 4 + 2d4                  | P$700/750     | 4d4                       | D10                     |
+| 75               | 10                                                                       | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d10            | 4 + 2d4                  | P$750/800     | 5d4                       | D10                     |
+| 80               | 10                                                                       | D12:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster & Item Room<br><br>4: Monster Room<br><br>5: Monster & Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster & Item Room<br><br>9: Item Room  <br>10: Monster & Item Room<br><br>11: Monster & Rare Item Room<br><br>12: Rare Item Room                                                                                                                                                                                                   | Number of Players + 1d10            | 5 + 2d4                  | P$800/850     | 5d4                       | D12                     |
+| 85               | 11                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d11            | 5 + 2d4                  | P$850/900     | 5d3                       | D12                     |
+| 90               | 11                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d11            | 5 + 2d4                  | P$900/950     | 5d3                       | D12                     |
+| 95               | 12                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d12            | 6 + 2d4                  | P$950/1000    | 6d3                       | D12                     |
+| 100              | 12                                                                       | D20:<br><br>1: Monster House<br><br>2: Monster Room<br><br>3: Monster House<br><br>4: Monster Room<br><br>5: Item Room<br><br>6: Monster Room<br><br>7: Item Room<br><br>8: Monster Room<br><br>9: Item Room<br><br>10: Monster Room<br><br>11: Monster & Item Room<br><br>12: Monster Room<br><br>13: Monster & Item Room<br><br>14: Monster Room<br><br>15: Monster & Item Room<br><br>16: Monster Room<br><br>17: Rare Item Room<br><br>18: Monster & Rare Item Room<br><br>19: Rare Item Room<br><br>20: Mega Rare Item Room | Number of Players + 1d12            | 6 + 3d4                  | P$1000/1100   | 6d3                       | D12                     |
 
 When moving on the Map, roll a d100; if it lands on 100, the player triggered the trap and is this affected by it;  if not, minus the number of traps to the d100 to make it the new dice value. Keep repeating this process until the Trap is activated, then reset the d100 back to 100 for the remaining traps on the field then repeat once again; continue until all unmarked traps are revealed.
+
+Item Chance Dice Rolling
+
+Item Room
+
+1: Unique Berry
+
+2: Apple
+
+3: Big Apple
+
+4: Unique Berry
+
+5: Apple
+
+6: Big Apple
+
+7: Unique Berry
+
+8: Apple
+
+9: Big Apple
+
+10: Oran Berry
+
+11: Small Money
+
+12: Unique Berry
+
+13: Oran Berry
+
+14: Small Money
+
+15: Big Money
+
+16: Unique Berry
+
+17: Oran Berry
+
+18: Small Money
+
+19: Big Money
+
+20: Evolution Item
+
+Rare Item Room
+
+1: Apple
+
+2: Big Apple
+
+3: Apple
+
+4: Big Apple
+
+5: Apple
+
+6: Big Apple
+
+7: Oran Berry
+
+8: Big Apple
+
+9: Small Money
+
+10: Unique Berry
+
+11: Big Money
+
+12: Small Money
+
+13: Oran Berry
+
+14: Big Money
+
+15: Small Money
+
+16: Unique Berry
+
+17: Big Money
+
+18: Evolution Item
+
+19: Evolution Item
+
+20: Held Item
+
+Mega Rare Item Room
+
+1: Big Apple
+
+2: Unique Berry
+
+3: Big Apple
+
+4: Oran Berry
+
+5: Big Apple
+
+6: Small Money
+
+7: Oran Berry
+
+8: Small Money
+
+9: Big Money
+
+10: Unique Berry
+
+11: Big Money
+
+12: Unique Berry
+
+13: Oran Berry
+
+14: Big Money
+
+15: Big Money
+
+16: Evolution Item
+
+17: Evolution Item
+
+18: Evolution Item
+
+19: Held Item
+
+20: Held Item
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -648,7 +775,21 @@ Aya is considered to be the Heart of the Guild as their peppy personality and ab
 
 The party has been tasked to prove their skill as Mystery Dungeon Explorers by defeating the nearby identified Dungeon called Petulant Plateau. It was filled with Fire, Grass, Lightning, and Water Types; the perfect Dragon Type training grounds to prepare and learn from the Dungeon about the harshness and dangers that come with it. If they can beat within a week, they'll be given their first job.
 
-Starter Dungeon:
+Starter Dungeon: Petulant Plateau (5 Floors)
+
+Pokemon Encounters:
+
+1 Dratini
+
+2 Tyrunt
+
+3 Gible
+
+4 Bagon
+
+5 Deino
+
+6 Axew
 
 Reward for Request: P$4000, 4 Oran Berries, 4 Mystery Dungeon Guild Badge: Vicers Division (A Pokeball-like pendant with a coloured bead in the centre, and wings on both sides spread outwards; beside this bead are the letters VD)
 
