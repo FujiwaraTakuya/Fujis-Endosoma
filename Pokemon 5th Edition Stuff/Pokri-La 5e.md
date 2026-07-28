@@ -1,6 +1,8 @@
 ---
 share: true
 ---
+Module by Fujiwara Takuya, aided by Nerthiril and Electrici-Bea.
+
 Year: 1200, Set on a planet devoid of humans, Pokemon society eventually gradually advanced past old tribal cultures and have begun to grow steadily as a medieval-like society. As populations began to skyrocket with the growing societal changes, food, water, and living spaces began to grow sparse as civilian discontent grew at large and fights began to break out between species of all kinds; from the homeowners to the nomads, to the hermits and the powerful land-claimers still clinging to old measures of might makes right. Because of these differences, it all eventually culminated to civil wars amongst all Pokemon whether they liked it or not- fighting over territory, the right to eat, the right to live, even personal philosophies. Millions were dying by the year, most could not see eye to eye from each other, and the world was also ravaged by pillages and kidnappings amidst all of the unfair carnage and hatred that was brought about. It was only after 20 years of wanton wars that Arceus, God of the Poke-universe could no longer abide by their passive creed and thus made it their mission to save all Pokemon from themselves.
 
 Arceus gave birth to more legendary Pokémon under the guidance of the existing legendary Pokémon and imbued each leader with a legendary power- The Crest of Arceus, each individually giving the user more power than they already have, alongside a tertiary Typing in hopes to help mitigate their harder to battle enemies; the mark being visible upon a part of their skin akin to a tattoo that displays the golden Ring of Arceus. He instructed every and all legendary Pokemon to make themselves known to the Pokemon of the world and protect them from themselves and solve their issues and disputes. Under his guidance, the legendary Pokemon set out to right the wrongs of the world and protect all from harm, and within 100 years, was able to prevent any preventable deaths from occurring with the aid of the giant number of Legendary Pokemon now roaming the earth. They were given the title: Arceus Guardian
@@ -96,16 +98,15 @@ Aside from each specific Crest's blessing, they Universally provide the followin
 
 Crest Feats
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Crest Feat Name|Feat Level|Description|Effect|Crest Type|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+| Crest Feat Name | Feat Level | Description | Effect | Crest Type |
+| --------------- | ---------- | ----------- | ------ | ---------- |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
+|                 |            |             |        |            |
 
 New terms:
 
@@ -392,47 +393,45 @@ Note: Size does not increase size or range of Moves.
 
 Nature Chart (and relevant effects)
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|Nature|Increase|Decrease|Favourite Flavour|Disliked Flavour|What they taste like (if does not have a custom taste)|
-|Reckless|+2 STR|-2 DEX|Spicy|Sweet|Spicy|
-|Rash|+2 STR|-2 CON|Spicy|Sour|Spicy|
-|Brave|+2 STR|-2 WIS|Spicy|Bitter|Spicy|
-|Arrogant|+2 STR|-2 CHA|Spicy|Dry|Spicy|
-|Skittish|+2 DEX|-2 STR|Sweet|Spicy|Sweet|
-|Hasty|+2 DEX|-2 CON|Sweet|Sour|Sweet|
-|Energetic|+2 DEX|-2 CHA|Sweet|Dry|Sweet|
-|Clumsy|+2 DEX|-2 WIS|Sweet|Bitter|Sweet|
-|Apathetic|+2 CON|-2 DEX|Sour|Sweet|Sour|
-|Stubborn|+2 CON|-2 WIS|Sour|Bitter|Sour|
-|Grumpy|+2 CON|-2 CHA|Sour|Dry|Sour|
-|Relaxed|+2 CON|-2 STR|Sour|Spicy|Sour|
-|Careful|+2 WIS|-2 STR|Bitter|Spicy|Bitter|
-|Curious|+2 WIS|-2 CON|Bitter|Sour|Bitter|
-|Naughty|+2 WIS|-2 CHA|Bitter|Dry|Bitter|
-|Cheerful|+2 CHA|-2 STR|Dry|Spicy|Dry|
-|Sassy|+2 CHA|-2 DEX|Dry|Sweet|Dry|
-|Innocent|+2 CHA|-2 WIS|Dry|Bitter|Dry|
-|Hardy|+1 AC|-2 DEX|Bland|Sweet|Bland|
-|Nimble|+1 AC|-2 STR|Bland|Spicy|Bland|
+| Nature    | Increase | Decrease | Favourite Flavour | Disliked Flavour | What they taste like (if does not have a custom taste) |
+| --------- | -------- | -------- | ----------------- | ---------------- | ------------------------------------------------------ |
+| Reckless  | +2 STR   | -2 DEX   | Spicy             | Sweet            | Spicy                                                  |
+| Rash      | +2 STR   | -2 CON   | Spicy             | Sour             | Spicy                                                  |
+| Brave     | +2 STR   | -2 WIS   | Spicy             | Bitter           | Spicy                                                  |
+| Arrogant  | +2 STR   | -2 CHA   | Spicy             | Dry              | Spicy                                                  |
+| Skittish  | +2 DEX   | -2 STR   | Sweet             | Spicy            | Sweet                                                  |
+| Hasty     | +2 DEX   | -2 CON   | Sweet             | Sour             | Sweet                                                  |
+| Energetic | +2 DEX   | -2 CHA   | Sweet             | Dry              | Sweet                                                  |
+| Clumsy    | +2 DEX   | -2 WIS   | Sweet             | Bitter           | Sweet                                                  |
+| Apathetic | +2 CON   | -2 DEX   | Sour              | Sweet            | Sour                                                   |
+| Stubborn  | +2 CON   | -2 WIS   | Sour              | Bitter           | Sour                                                   |
+| Grumpy    | +2 CON   | -2 CHA   | Sour              | Dry              | Sour                                                   |
+| Relaxed   | +2 CON   | -2 STR   | Sour              | Spicy            | Sour                                                   |
+| Careful   | +2 WIS   | -2 STR   | Bitter            | Spicy            | Bitter                                                 |
+| Curious   | +2 WIS   | -2 CON   | Bitter            | Sour             | Bitter                                                 |
+| Naughty   | +2 WIS   | -2 CHA   | Bitter            | Dry              | Bitter                                                 |
+| Cheerful  | +2 CHA   | -2 STR   | Dry               | Spicy            | Dry                                                    |
+| Sassy     | +2 CHA   | -2 DEX   | Dry               | Sweet            | Dry                                                    |
+| Innocent  | +2 CHA   | -2 WIS   | Dry               | Bitter           | Dry                                                    |
+| Hardy     | +1 AC    | -2 DEX   | Bland             | Sweet            | Bland                                                  |
+| Nimble    | +1 AC    | -2 STR   | Bland             | Spicy            | Bland                                                  |
 
 Pokemon Feats
 
-|   |   |   |
-|---|---|---|
-|Pokemon Feats|Description|Effect|
-|Able-Bodied|Your body is trained to learn from and fight off ailments for long periods of time.|The status "grace period" for this Pokémon is extended by two rounds.|
-|AC Up|You naturally become a bit tougher and more resilient to strikes.|Your Pokémon’s AC increases by 1. This bonus is included through a Pokémon’s evolutions.|
-|Combo Master|You're an expert in combining strikes against a foe.|When this feat is selected, moves that have the ability to hit more than once, after the same attack roll, are guaranteed to hit at least twice. (Fury Swipes, Double Slap, Water Shuriken, etc.)|
-|Extra Move|You're such a talented Mon that you can learn skills you were never meant to attain.|Whenever you find a Teacher who's willing to Teach you a Move from their Movelist, you can learn 1 Move outside of your normal Learnset. This Feat can be taken Multiple Times.|
-|Hidden Ability|You reach inside yourself to discover a new ability.|It gains access to the Hidden Ability in its Stat Block. This overwrites it's normal Ability.|
-|Item Master|You're more capable of strategizing with specialized gear than before.|You increase the maximum amount of Investable Held Items you can wear by +1.<br><br>This Feat can be taken multiple times.|
-|Melee Master|You're a master of close combat.|You gain the following benefits:<br><br>- Gain advantage on all attacks of opportunity.<br>- Before you make a melee attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).|
-|Power Sculpter|You're able to sculpt the power of your Moves around your allies.|For area of effect moves you activate, choose 1 + MOVE Attack Mod number of allies in range to automatically succeed on their saving throw against taking damage or an effect. If the damage is halved for a successful save, they take no damage instead.|
-|Ranged Master|You're a sharpshooter.|You gain the following benefits:<br><br>- Your ranged attacks ignore half and three-fourths cover.<br>- Before you make a ranged attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).|
-|Terrain Adept|Your Pokémon is especially skilled when fighting on a specific terrain.|Choose one of the following terrains when selecting this feat. Your Pokémon gains +2 to attack rolls when in this terrain. Terrains: Coastal, Swamp, Forest, Arctic, Desert, Grassland, Hill, Mountain, Underwater.|
-|Tireless|Your Pokemon endures hours of rigorous training which keep it in battle longer than the average Pokemon.|Gain +1 PP for every Move.|
-|Wrangler|You have developed a unique set of skills that give you the ability to grapple and hold an opponent down with steady and strong hands.|You gain the following benefits:<br><br>- You have advantage on attack rolls against a creature you are Grappling.<br>- You can use your action to try to pin a creature already Grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both Restrained until the grapple ends.<br>- When a creature attempts to use their movement to leave your reach without disengaging, you may use your reaction to attempt to Grapple the target.|
+| Pokemon Feats  | Description                                                                                                                            | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Able-Bodied    | Your body is trained to learn from and fight off ailments for long periods of time.                                                    | The status "grace period" for this Pokémon is extended by two rounds.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| AC Up          | You naturally become a bit tougher and more resilient to strikes.                                                                      | Your Pokémon’s AC increases by 1. This bonus is included through a Pokémon’s evolutions.                                                                                                                                                                                                                                                                                                                                                                                          |
+| Combo Master   | You're an expert in combining strikes against a foe.                                                                                   | When this feat is selected, moves that have the ability to hit more than once, after the same attack roll, are guaranteed to hit at least twice. (Fury Swipes, Double Slap, Water Shuriken, etc.)                                                                                                                                                                                                                                                                                 |
+| Extra Move     | You're such a talented Mon that you can learn skills you were never meant to attain.                                                   | Whenever you find a Teacher who's willing to Teach you a Move from their Movelist, you can learn 1 Move outside of your normal Learnset. This Feat can be taken Multiple Times.                                                                                                                                                                                                                                                                                                   |
+| Hidden Ability | You reach inside yourself to discover a new ability.                                                                                   | It gains access to the Hidden Ability in its Stat Block. This overwrites it's normal Ability.                                                                                                                                                                                                                                                                                                                                                                                     |
+| Item Master    | You're more capable of strategizing with specialized gear than before.                                                                 | You increase the maximum amount of Investable Held Items you can wear by +1.<br><br>This Feat can be taken multiple times.                                                                                                                                                                                                                                                                                                                                                        |
+| Melee Master   | You're a master of close combat.                                                                                                       | You gain the following benefits:<br><br>- Gain advantage on all attacks of opportunity.<br>- Before you make a melee attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).                                                                                                                                                                                                                      |
+| Power Sculpter | You're able to sculpt the power of your Moves around your allies.                                                                      | For area of effect moves you activate, choose 1 + MOVE Attack Mod number of allies in range to automatically succeed on their saving throw against taking damage or an effect. If the damage is halved for a successful save, they take no damage instead.                                                                                                                                                                                                                        |
+| Ranged Master  | You're a sharpshooter.                                                                                                                 | You gain the following benefits:<br><br>- Your ranged attacks ignore half and three-fourths cover.<br>- Before you make a ranged attack, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage (Once per move).                                                                                                                                                                                                          |
+| Terrain Adept  | Your Pokémon is especially skilled when fighting on a specific terrain.                                                                | Choose one of the following terrains when selecting this feat. Your Pokémon gains +2 to attack rolls when in this terrain. Terrains: Coastal, Swamp, Forest, Arctic, Desert, Grassland, Hill, Mountain, Underwater.                                                                                                                                                                                                                                                               |
+| Tireless       | Your Pokemon endures hours of rigorous training which keep it in battle longer than the average Pokemon.                               | Gain +1 PP for every Move.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Wrangler       | You have developed a unique set of skills that give you the ability to grapple and hold an opponent down with steady and strong hands. | You gain the following benefits:<br><br>- You have advantage on attack rolls against a creature you are Grappling.<br>- You can use your action to try to pin a creature already Grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both Restrained until the grapple ends.<br>- When a creature attempts to use their movement to leave your reach without disengaging, you may use your reaction to attempt to Grapple the target. |
 
 Held Item Location Investments.
 
@@ -520,67 +519,67 @@ Held Item Location Investments.
 |Sky Plate|P$-|A stone tablet imbued with the essence of flight. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Flying type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Flying.|||
 |Splash Plate|P$-|A stone tablet imbued with the essence of water. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Water type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Water.|||
 |Spooky Plate|P$-|A stone tablet imbued with the essence of ghosts. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Ghost type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Ghost.|||
-|Stone Plate|P$-||Allows Arceus to, at will, change its typing and the typing of the move Judgment to Rock.|||
-|Toxic Plate|P$-||Allows Arceus to, at will, change its typing and the typing of the move Judgment to Poison.|||
-|Zap Plate|P$-||Allows Arceus to, at will, change its typing and the typing of the move Judgment to Electric.|||
+|Stone Plate|P$-|A stone tablet imbued with the essence of rock. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Rock type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Rock.|||
+|Toxic Plate|P$-|A stone tablet imbued with the essence of poison. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Poison type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Poison.|||
+|Zap Plate|P$-|A stone tablet imbued with the essence of electricity. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Electric type.|Allows Arceus to, at will, change its typing and the typing of the move Judgment to Electric.|||
 |DNA Splicer|P$-|An black and white isosceles triangle-shaped pyramid mechanism, with a yellow pyramid mechanism sticking out of the bottom.|While in the presence of a willing Reshiram or Zekrom, Kyurem can fuse with one of the willing Pokemon, at will, with the help of a DNA Splicer. This process is called Absofusion and will result in a White Kyurem (if fused with Reshiram) or Black Kyurem (if fused with Zekrom).|Hand L/R||
-|Deep Sea Scale|P$-||When held by a Clamperl, its AC is increased by 1.<br><br>Pokemon that evolve using this item:<br><br>- [Clamperl](https://poke5e.app/pokemon/clamperl)|Neck||
-|Deep Sea Tooth|P$-||When held by a Clamperl, its STAB is increased by 1.<br><br>Pokemon that evolve using this item:<br><br>- [Clamperl](https://poke5e.app/pokemon/clamperl)|Neck||
-|Gracidea Flower|P$-||When held by a Shaymin, the Shaymin may use its action to change between its Land and Sky forms.|Headband||
-|Griseous Orb|P$-||When held by a Giratina, the Giratina may use its action to change between its Altered and Origin forms. Its Dragon- and Ghost-type moves have double STAB.|Hand L/R||
-|Leek|P$-||When held by a Farfetch'd or Sirfetch'd, the holder's critical hit range increases by two.<br><br>Most of the time, this means attacks can critical on a natural 18, 19, or 20. For a move like Slash which already expands critical hit range, criticals can happen on natural 17, 18, 19, or 20.|Hand L/R||
-|Light Ball|P$-||When held by a Pikachu, raises its MOVE power modifier by +1.|Hand L/R||
-|Lucky Punch|P$-||When held by a Chansey, its critical hit range increases by one.<br><br>Most of the time, this means attacks can critical on a natural 19 or 20. For a move like Slash which already expands critical hit range, criticals can happen on natural 18, 19, or 20.|Hand L/R||
-|Metal Powder|P$-||When held by a Ditto, its CON score increases by +3.|Neck||
-|N-Solarizer|P$-||A device that allows manual control to fuse and defuse a Solgaleo and Necrozma may use an action to fuse them into a Dusk Mane Necrozma. They may also use an action to separate a Dusk Mane Necrozma into a Solgaleo and Necrozma.|Hand L/R|Hand L/R|
-|N-Lunarizer|P$-||A device that allows manual control to fuse and defuse a Lunala and Necrozma may use an action to fuse them into a Dawn Wings Necrozma. They may also use an action to separate a Dawn Wings Necrozma into a Lunala and Necrozma.|Hand L/R||
-|Prison Bottle|P$-||The user may use their action to unconfine a nearby Hoopa, changing it from its Confined form to Unconfimed form for three days.|Hand L/R||
-|Reveal Glass|P$-||When held by a Thundurus, Landorus, Tornadus, or Enamorus, the holder may use its action to change between its Incarnate and Therian forms.|Hand L/R||
-|Thick Club|P$-||When held by a Cubone, Marowak, or Alolan Marowak, the holder's STAB is doubled.|Hand L/R||
-|Burn Drive|P$4,000||When held by a Genesect, changes the type of its move Techno Blast to Fire.|Head||
-|Chill Drive|P$4,000||When held by a Genesect, changes the type of its move Techno Blast to Ice.|Head||
-|Douse Drive|P$4,000||When held by a Genesect, changes the type of its move Techno Blast to Water.|Head||
-|Shock Drive|P$4,000||When held by a Genesect, changes the type of its move Techno Blast to Electric.|Head||
-|Bug Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Bug.|Head||
-|Dark Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Dark.|Head||
-|Dragon Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Dragon.|Head||
-|Electric Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Electric.|Head||
-|Fairy Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to fairy.|Head||
-|Fighting Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Fighting.|Head||
-|Fire Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Fire.|Head||
-|Flying Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Flying.|Head||
-|Ghost Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Ghost.|Head||
-|Grass Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Grass.|Head||
-|Ground Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Ground.|Head||
-|Ice Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Ice.|Head||
-|Poison Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Poison.|Head||
-|Psychic Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Psychic.|Head||
-|Rock Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Rock.|Head||
-|Steel Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Steel.|Head||
-|Water Memory Disc|P$2,000||When held by a Pokémon with the RKS System ability, changes the type of the holder to Water.|Head||
-|Blue Orb|P$-||When held by Kyogre, allows it to revert to its Primal form as a free action.|Chest||
-|Red Orb|P$-||When held by Groudon, allows it to revert to its Primal form as a free action.|Chest||
-|Dragon Scale|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Seadra](https://poke5e.app/pokemon/seadra)|Chest||
-|Upgrade|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Porygon](https://poke5e.app/pokemon/porygon)|Chest||
-|Protector|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Rhydon](https://poke5e.app/pokemon/rhydon)|Chest||
-|Electirizer|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Electabuzz](https://poke5e.app/pokemon/electabuzz)|Hand L/R||
-|Magmarizer|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Magmar](https://poke5e.app/pokemon/magmar)|Hand L/R||
-|Dubious Disc|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Porygon2](https://poke5e.app/pokemon/porygon2)|Chest||
-|Reaper Cloth|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Dusclops](https://poke5e.app/pokemon/dusclops)|Hand L/R||
-|Prism Scale|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Feebas](https://poke5e.app/pokemon/feebas)|Chest||
-|Whipped Dream|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Swirlix](https://poke5e.app/pokemon/swirlix)|Hand L/R||
-|Sachet|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Spritzee](https://poke5e.app/pokemon/spritzee)|Hand L/R||
-|Sweet|P$500||Some Pokémon may consume the power of this item to evolve.<br><br>Comes in different flavors, such as strawberry, love, berry, clover, flower, star, and ribbon.<br><br>Pokemon that evolve using this item:<br><br>- [Milcery](https://poke5e.app/pokemon/milcery)|Hand L/R||
-|Cracked Pot|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Sinistea](https://poke5e.app/pokemon/sinistea)|Hand L/R||
-|Chipped Pot|P$38,000||Some Pokémon may consume the power of this item to evolve.<br><br>From <[https://poke5e.app/items/chipped-pot](https://poke5e.app/items/chipped-pot)>|Hand L/R||
-|Unremarkable Teacup|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Poltchageist](https://poke5e.app/pokemon/poltchageist)|Hand L/R||
-|Masterpiece Teacup|P$9,500||Some Pokémon may consume the power of this item to evolve.|Hand L/R||
-|Galaria Wreath|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Galarian Slowpoke](https://poke5e.app/pokemon/galarian-slowpoke)|Hand L/R||
-|Black Augurite|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Scyther](https://poke5e.app/pokemon/scyther)|Hand L/R||
-|Peat Block|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Ursaring](https://poke5e.app/pokemon/ursaring)|Hand L/R||
-|Auspicious Armor|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Charcadet](https://poke5e.app/pokemon/charcadet)|Chest||
-|Malicious Armor|P$4,000||Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Charcadet](https://poke5e.app/pokemon/charcadet)|Chest||
-|Gimmighoul Coin|P$100||Wild Gimmighoul (Roaming) Pokémon carry 1d4 Gimmighoul Coins. Wild Gimmighoul (Chest) Pokèmon carry 1d20 + 10 Gimmighoul Coins.|Chest (Literally)||
+|Deep Sea Scale|P$-|An item to be held by Clamperl. This scale shines with a faint pink and boosts Clamperl's Defenses.|When held by a Clamperl, its AC is increased by 1.<br><br>Pokemon that evolve using this item:<br><br>- [Clamperl](https://poke5e.app/pokemon/clamperl)|Neck||
+|Deep Sea Tooth|P$-|An item to be held by Clamperl. This fang gleams a sharp silver and boosts the power of Clamperl's moves that match its type.|When held by a Clamperl, its STAB is increased by 1.<br><br>Pokemon that evolve using this item:<br><br>- [Clamperl](https://poke5e.app/pokemon/clamperl)|Neck||
+|Gracidea Flower|P$-|A flower sometimes bundled into a bouquet to be given as an expression of gratitude on special occasions, such as birthdays and anniversaries. If given to Shaymin, it allows them to fly|When held by a Shaymin, the Shaymin may use its action to change between its Land and Sky forms.|Headband||
+|Griseous Orb|P$-|A shining gem to be held by Giratina. It boosts the power of Giratina's Dragon- and Ghost-type moves.|When held by a Giratina, the Giratina may use its action to change between its Altered and Origin forms. Its Dragon- and Ghost-type moves have double STAB.|Hand L/R||
+|Leek|P$-|An item to be held by Farfetch'd. This very long and stiff stalk of leek boosts the critical-hit ratio of Farfetch'd's moves.|When held by a Farfetch'd or Sirfetch'd, the holder's critical hit range increases by two.<br><br>Most of the time, this means attacks can critical on a natural 18, 19, or 20. For a move like Slash which already expands critical hit range, criticals can happen on natural 17, 18, 19, or 20.|Hand L/R||
+|Light Ball|P$-|An item to be held by Pikachu. It's a mysterious orb that boosts Pikachu’s move power|When held by a Pikachu, raises its MOVE power modifier by +1.|Hand L/R||
+|Lucky Punch|P$-|An item to be held by Chansey. This pair of lucky boxing gloves will boost Chansey's critical-hit ratio.|When held by a Chansey, its critical hit range increases by one.<br><br>Most of the time, this means attacks can critical on a natural 19 or 20. For a move like Slash which already expands critical hit range, criticals can happen on natural 18, 19, or 20.|Hand L/R||
+|Metal Powder|P$-|An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the HP stat|When held by a Ditto, its CON score increases by +3.|Neck||
+|N-Solarizer|P$-|(While unfused) A machine to fuse Necrozma, which needs light, and Solgaleo.  <br>(While Fused) A machine to separate Necrozma, which needed light, from Solgaleo.|A device that allows manual control to fuse and defuse a Solgaleo and Necrozma may use an action to fuse them into a Dusk Mane Necrozma. They may also use an action to separate a Dusk Mane Necrozma into a Solgaleo and Necrozma.|Hand L/R|Hand L/R|
+|N-Lunarizer|P$-|(While not Fused) A machine to fuse Necrozma, which needs light, and Lunala.  <br>(While Fused) A machine to separate Necrozma, which needed light, from Lunala.|A device that allows manual control to fuse and defuse a Lunala and Necrozma may use an action to fuse them into a Dawn Wings Necrozma. They may also use an action to separate a Dawn Wings Necrozma into a Lunala and Necrozma.|Hand L/R||
+|Prison Bottle|P$-|A bottle believed to have been used to seal away the power of [a certain Pokémon](https://bulbapedia.bulbagarden.net/wiki/Hoopa_\(Pok%C3%A9mon\)) long, long ago.|The user may use their action to unconfine a nearby Hoopa, changing it from its Confined form to Unconfimed form for three days.|Hand L/R||
+|Reveal Glass|P$-|A looking glass that reveals the truth. It's a mysterious mirror that returns certain Pokémon to their true shape.|When held by a Thundurus, Landorus, Tornadus, or Enamorus, the holder may use its action to change between its Incarnate and Therian forms.|Hand L/R||
+|Thick Club|P$-|An item to be held by Cubone or Marowak. This hard bone of unknown origin boosts moves that match their type|When held by a Cubone, Marowak, or Alolan Marowak, the holder's STAB is doubled.|Hand L/R||
+|Burn Drive|P$4,000|A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type.|When held by a Genesect, changes the type of its move Techno Blast to Fire.|Head||
+|Chill Drive|P$4,000|A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type.|When held by a Genesect, changes the type of its move Techno Blast to Ice.|Head||
+|Douse Drive|P$4,000|A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type.|When held by a Genesect, changes the type of its move Techno Blast to Water.|Head||
+|Shock Drive|P$4,000|A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type.|When held by a Genesect, changes the type of its move Techno Blast to Electric.|Head||
+|Bug Memory Disc|P$2,000|A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Bug.|Head||
+|Dark Memory Disc|P$2,000|A memory disc that contains Dark-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Dark.|Head||
+|Dragon Memory Disc|P$2,000|A memory disc that contains Dragon-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Dragon.|Head||
+|Electric Memory Disc|P$2,000|A memory disc that contains Electric-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Electric.|Head||
+|Fairy Memory Disc|P$2,000|A memory disc that contains Fairy-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to fairy.|Head||
+|Fighting Memory Disc|P$2,000|A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Fighting.|Head||
+|Fire Memory Disc|P$2,000|A memory disc that contains Fire-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Fire.|Head||
+|Flying Memory Disc|P$2,000|A memory disc that contains Flying-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Flying.|Head||
+|Ghost Memory Disc|P$2,000|A memory disc that contains Ghost-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Ghost.|Head||
+|Grass Memory Disc|P$2,000|A memory disc that contains Grass-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Grass.|Head||
+|Ground Memory Disc|P$2,000|A memory disc that contains Ground-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Ground.|Head||
+|Ice Memory Disc|P$2,000|A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Ice.|Head||
+|Poison Memory Disc|P$2,000|A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Poison.|Head||
+|Psychic Memory Disc|P$2,000|A memory disc that contains Psychic-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Psychic.|Head||
+|Rock Memory Disc|P$2,000|A memory disc that contains Rock-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Rock.|Head||
+|Steel Memory Disc|P$2,000|A memory disc that contains Steel-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Steel.|Head||
+|Water Memory Disc|P$2,000|A memory disc that contains Water-type data. It changes the type of the holder if held by a certain species of Pokémon.|When held by a Pokémon with the RKS System ability, changes the type of the holder to Water.|Head||
+|Blue Orb|P$-|A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region.|When held by Kyogre, allows it to revert to its Primal form as a free action.|Chest||
+|Red Orb|P$-|A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region.|When held by Groudon, allows it to revert to its Primal form as a free action.|Chest||
+|Dragon Scale|P$4,000|A very tough and inflexible scale. When held by a certain Pokémon causes them to evolve.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Seadra](https://poke5e.app/pokemon/seadra)|Chest||
+|Upgrade|P$4,000|A transparent device somehow filled with all sorts of data. It was produced by Silph Co. When held by a certain Pokémon causes them to evolve|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Porygon](https://poke5e.app/pokemon/porygon)|Chest||
+|Protector|P$4,000|A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Rhydon](https://poke5e.app/pokemon/rhydon)|Chest||
+|Electirizer|P$4,000|A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Electabuzz](https://poke5e.app/pokemon/electabuzz)|Hand L/R||
+|Magmarizer|P$4,000|A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Magmar](https://poke5e.app/pokemon/magmar)|Hand L/R||
+|Dubious Disc|P$4,000|A transparent device overflowing with dubious data. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Porygon2](https://poke5e.app/pokemon/porygon2)|Chest||
+|Reaper Cloth|P$4,000|A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Dusclops](https://poke5e.app/pokemon/dusclops)|Hand L/R||
+|Prism Scale|P$4,000|A mysterious scale that causes a certain Pokémon to evolve. It shines with a beautiful iridescence.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Feebas](https://poke5e.app/pokemon/feebas)|Chest||
+|Whipped Dream|P$4,000|A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Swirlix](https://poke5e.app/pokemon/swirlix)|Hand L/R||
+|Sachet|P$4,000|A sachet filled with fragrant perfumes that are just slightly overwhelming. Yet it's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Spritzee](https://poke5e.app/pokemon/spritzee)|Hand L/R||
+|Sweet|P$500|(Strawberry) A strawberry-shaped sweet. When a Milcery holds this, it spins around happily and evolves  <br>(Heart) A heart-shaped sweet. When a Milcery holds this, it spins around happily and evolves  <br>(Berry) A berry-shaped sweet. When a Milcery holds this, it spins around happily and evolves<br><br>(Clover) A clover-shaped sweet. When a Milcery holds this, it spins around happily and evolves<br><br>(Flower) A flower-shaped sweet. When a Milcery holds this, it spins around happily and evolves<br><br>(Star) A star-shaped sweet. When a Milcery holds this, it spins around happily and evolves<br><br>(Ribbon) A ribbon-shaped sweet. When a Milcery holds this, it spins around happily and evolves|Some Pokémon may consume the power of this item to evolve.<br><br>Comes in different flavors, such as strawberry, love, berry, clover, flower, star, and ribbon.<br><br>Pokemon that evolve using this item:<br><br>- [Milcery](https://poke5e.app/pokemon/milcery)|Hand L/R||
+|Cracked Pot|P$4,000|A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Sinistea](https://poke5e.app/pokemon/sinistea)|Hand L/R||
+|Chipped Pot|P$38,000|A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.|Some Pokémon may consume the power of this item to evolve.<br><br>From <[https://poke5e.app/items/chipped-pot](https://poke5e.app/items/chipped-pot)>|Hand L/R||
+|Unremarkable Teacup|P$4,000|A peculiar teacup that can make a certain species of Pokémon evolve. It may be cracked, but tea drunk from it is delicious.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Poltchageist](https://poke5e.app/pokemon/poltchageist)|Hand L/R||
+|Masterpiece Teacup|P$9,500|A peculiar teacup that can make a certain species of Pokémon evolve. It may be chipped, but tea drunk from it is delicious.|Some Pokémon may consume the power of this item to evolve.|Hand L/R||
+|Galaria Wreath|P$4,000|A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Galarian Slowpoke](https://poke5e.app/pokemon/galarian-slowpoke)|Hand L/R||
+|Black Augurite|P$4,000|A glassy black stone that produces a sharp cutting edge when split. It's loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Scyther](https://poke5e.app/pokemon/scyther)|Hand L/R||
+|Peat Block|P$4,000|A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Ursaring](https://poke5e.app/pokemon/ursaring)|Hand L/R||
+|Auspicious Armor|P$4,000|A peculiar set of armor that can make a certain species of Pokémon evolve. Auspicious wishes live within it.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Charcadet](https://poke5e.app/pokemon/charcadet)|Chest||
+|Malicious Armor|P$4,000|A peculiar set of armor that can make a certain species of Pokémon evolve. Malicious will lurks within it.|Some Pokémon may consume the power of this item to evolve.<br><br>Pokemon that evolve using this item:<br><br>- [Charcadet](https://poke5e.app/pokemon/charcadet)|Chest||
+|Gimmighoul Coin|P$100|Material accidentally dropped by a Pokémon. It seems that [Gimmighoul](https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_\(Pok%C3%A9mon\)) treasure and hoard these.|Wild Gimmighoul (Roaming) Pokémon carry 1d4 Gimmighoul Coins. Wild Gimmighoul (Chest) Pokèmon carry 1d20 + 10 Gimmighoul Coins.|Chest (Literally)||
 |Key Stone|P$-|A special rainbow-coloured crystal with a unique spirit-like helical insignia within it. This crystal is usually placed in an accessory, then placed upon your body for ease of access. When a Pokemon wishes to Mega-Evolve, if they or an ally has the associated Mega-Stone, touching the Key Stone activates the Mega-Stone's reaction with the Pokemon's DNA, causing a surge of powerful Mega Evolution Energy to envelop its user before creating a crystal-like cocoon, forcing the Pokemon to Mega Evolve. After a while or at will, the energy will leave the user, returning them back to their original form.|Allows a trainer to Mega Evolve their Pokémon. Has one charge, and recovers its charge at dawn each day.|Anywhere||
 |Z-Ring|P$-|A ring-like bracelet made from a refined Sparkling Stone; is usually refined and coloured before taking its base shape. In the middle of it is a black diamond slot with a white Z on top of it. If one takes the 4 Trials of Alola and succeeds in all Trials, the user is permitted to perform Z-Moves with blessings from Alola. Placing a Z-Crystal into the diamond slot, twisting it to activate, then performing the set ritual associated with each Z-Crystal allows the user to perform a Z-Move. If you have a trusted Ally, you can activate a Z-Move for them without needing to take the recoil from performing the Z-Move.|Allows a trainer to unleash their Pokémon's Z-Power in the form of a Z-Move. Has one charge, and recovers its charge at dawn each day.|Wrists||
 |Dynamax Band|P$-|A fitting white sports band with a red edge on top, blue edge on the bottom, and a black plate in the middle that's made from material coming from Wishing Star. It absorbs glowing pink energy from around the area of Galar to allow the user to Dynamax/Gigantamax.|Allows you to Dynamax. Has one charge, and recovers its charge at dawn each day.|Anywhere||
@@ -589,16 +588,17 @@ Held Item Location Investments.
 
 Pokemon Mystery Dungeon Exclusive Items
 
-| Item Name | Item Cost | Item Description | Item Effect | Investment Area (Choose) | Consumed on usage |
-| --------- | --------- | ---------------- | ----------- | ------------------------ | ----------------- |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
-|           |           |                  |             |                          |                   |
+| Item Name      | Item Cost | Item Description                                                                                                                                                                                                                             | Item Effect                                                                                                                                                                       | Investment Area (Choose) | Consumed on usage |
+| -------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |
+| Connection Orb | N/A       | The Connection Orb displays all Pokémon who the owner has either met or connected with. Pokémon in the Connection Orb will post requests when they have a problem they need help with. Completing these requests can help expand the network | Lets you receive and view requests from Pokémon easier without going to town for them.                                                                                            | N/A                      | N/A               |
+| Cheering Flag  | P$3000    | When a teammate uses a move next to the holder, the power of the move goes up. But it has no effect on the holder.                                                                                                                           | When held raises the Move power of adjacent ally Pokémon by +1, this item has no effect on the holder                                                                             | Hand L/R                 | No                |
+| Clarity Flag   | P$3000    | Being next to the holder prevents you from having the Confused status condition. But it has no effect on the holder.                                                                                                                         | Protects the surrounding ally Pokémon from becoming Confused.                                                                                                                     | Hand L/R                 | No                |
+| Immunity Flag  | P$3000    | Being next to the holder prevents you from having the Poisoned or Badly Poisoned status condition. But it has no effect on the holder.                                                                                                       | When held prevents adjacent ally Pokémon from becoming poisoned or badly poisoned, this item has no effect on the holder                                                          | Hand L/R                 | No                |
+| Insomnia Flag  | P$3000    | Being next to the holder prevents you from having the Sleep, Yawning, Napping, or Nightmare status condition. But it has no effect on the holder.                                                                                            | Protects the surrounding ally Pokémon from being put to sleep.                                                                                                                    | Hand L/R                 | No                |
+| Limber Flag    | P$3000    | Being next to the holder prevents you from having the Paralyzed status condition. But it has no effect on the holder.                                                                                                                        | Protects the surrounding allied Pokémon from being paralyzed.                                                                                                                     | Hand L/R                 | No                |
+| Resilient Flag | P$3000    | Being next to the holder prevents your stats from being lowered. But it has no effect on the holder.                                                                                                                                         | Protects the surrounding Pokémon from stat drops.                                                                                                                                 | Hand L/R                 | No                |
+| Tough Flag     | P$5000    | Being next to the holder may make you survive even if you take a critical hit. But it has no effect on the holder.                                                                                                                           | If an attack would bring a nearby ally Pokémon to 0 HP, instead bring them to 1 HP, a Pokémon can only be effected by this flag once per day. Refreshing at dawn of the next day. | Hand L/R                 | No                |
+|                |           |                                                                                                                                                                                                                                              |                                                                                                                                                                                   |                          |                   |
 
 Learning New Moves not in Learnset costs
 
@@ -775,16 +775,21 @@ Mega Rare Item Room
 
 Pokemon Mystery Dungeon Ranks
 
-|   |   |   |   |
-|---|---|---|---|
-|Rank Name|Guild Points|Guild Bag Bulk Limit|Item Rewards|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+| Rank Name | Guild Points | Guild Bag Bulk Limit | Item Rewards                                                                                    |
+| --------- | ------------ | -------------------- | ----------------------------------------------------------------------------------------------- |
+| Normal    | 0            | No Bag               | N/A                                                                                             |
+| Bronze    | 50           | +2 (5 bulk; 50lbs)   | 2x Reviver Seeds, 3x Oran Berries, 1x Random Held Item                                          |
+| Silver    | 150          | +2 (5 bulk; 50lbs)   | 2x Reviver Seeds, 5x Gold Bars, Coalition Scarf, 2x Random Held Items                           |
+| Gold      | 350          | +3 (6 bulk; 60lbs)   | 1x Life Seed, 1x Sitrus Berry, 5x Gold Bars, 2x Random Held Items                               |
+| Platinum  | 700          | +3 (6 bulk; 60lbs)   | 1x Iron, 1x Zinc, 10x Gold Bars, 2x Random Held Items                                           |
+| Diamond   | 1,250        | +4 (7 bulk; 70lbs)   | 1x Protein, 1x Calcium, 2x Random Held Items                                                    |
+| Super     | 5,000        | +4 (7 bulk; 70lbs)   | Red Key (5-20), Blue Key (25-40), Green Key (45-60), Black Key (65-80)                          |
+| Hyper     | 10,000       | +5 (8 bulk; 80lbs)   | 3x Accuracy Manual, 3x Power Manual, 3x PP Manual, 1x Random Held Item                          |
+| Master    | 20,000       | +5 (8 bulk; 80lbs)   | 30x Gold Bars                                                                                   |
+| Royal     | 40,000       | +6 (9 bulk; 90lbs)   | 3x Protein, 3x Calcium, 3x Iron, 3x Zinc, 1x Random Held Item                                   |
+| Perfect   | 99,999       | +6 (9 bulk; 90lbs)   | 1x Frenzy Plant TM, 1x Blast Burn TM, 1x Hydro Cannon TM, 1x Volt Tackle TM, 1x Draco Meteor TM |
+
+The Key Items allow you to access dungeons with specific floor-ranges to raise or lower their difficulty.
 
 Pokemon EXP rewards for non-scripted encounters & Guild Point Rewards for non-Main and Side-Story
 
@@ -838,7 +843,7 @@ Chapter 1:
 
 Your party has been assembled from across the world to take part of a newly formed Mystery Dungeon group and aid in the ongoing terror of outgoing cases of Vania that have been identified across the land. Depending on where the Pokemon normally originates from, they'll have had to be flown in via Corviknight Airways, or brought across the seas via Minetine Shipping Co.. Your party is made exclusively of members of Good/'Good' Pokemon who've become recent members or were already long-time members of the Guild and having revealed the existence of their powers as a Vicer- one of few Pokemon in the world with the ability to control the Power of Vices. While you are technically under investigation as to your actions and intentions, your tasks are relatively simple: Maintain your symbol as a member of the Mystery Dungeon Guilds spanning across the 9 continents, and defeat any and all Pokemon who've succumbed to the Power of Vices.
 
-This story follows a party aiding the Unovan Mystery Dungeon, Captained by Druddigon Drayga, The Spartan Mayor, and their Protégé, Aya the Haxorus.
+This story follows a party aiding the Unovan Mystery Dungeon, Captained by The Druddigon,  Drayga, The Spartan Mayor, and their Protégé, Aya the Haxorus.
 
 Drayga is known for his powerful personality, stout demeanour, and a strong disdain for Vicers, in particular with Lust/Shamelessness Vicers, despite his willingness to cooperate with them. His body is coarse like sandpaper, much like the way he speaks, but his power and leadership are nothing to scoff at- he is even admired for his ability to continue leading, even with his disability of missing his left arm. It was presumed that it was lost somewhere during the war, or because of a Vicer that he has disdain for them, but despite his short temper with them, he's never taken any extreme measures when handling them.
 
@@ -862,13 +867,15 @@ Pokemon Encounters:
 
 6: Emolga
 
-Reward for Request: P$4000, 4 Oran Berries, 4 Mystery Dungeon Guild Badge: Vicers Division (A Pokeball-like pendant with a coloured bead in the centre, and wings on both sides spread outwards; beside this bead are the letters VD), 50 EXP
+Reward for Request: P$5000, 5 Oran Berries, 5 Mystery Dungeon Guild Badge: Vicers Division (A Pokeball-like pendant with a coloured bead in the centre, and wings on both sides spread outwards; beside this bead are the letters VD), 50 EXP
 
 After completing the training task, their first mission is to find a Pokemon in Opelucid Town just South of The Petulant Plateau Dungeon. They've heard of rumours about a growing number of Dine & Dashing Pokemon approaching businesses across Opelucid Town, eating thousands to tens of thousands in P$ before skipping out on their bill, leaving most vendors with a money issue; both needing to recoup from their used supplies and lost money, which the Guild was helping to organize with the distant Ryehorn Farming and Food Exports Co.. Witness reports explained seeing a Slurpuff, Lickitung, and Greedent leading a band of ravenous Pokemon day by day, at first asking for food like normal customers before eating them out of house and home.
 
 While they dart around the place, the pattern of their movements has been identified, so now they believe they're planning on attacking the most popular food vendor there currently is in Opelucid Town: Cofagrigus and Porygon's Perpetual Potluck. A stew made of cooked berries, herbs, and specialized Vegan meat substitutes, accompanied with a charcoal grill for a refreshing Berry Barbecue; the stew cooks indefinitely at a high-ish temperature to stave off bacteria while cooking ingredients in it for up to a day at most before serving as is or grilled. It's a masterclass of old and new techniques mashed together to create a unique fusion cuisine that's delectable for all those who smell it.
 
 They have until the end of 31st of March to capture the leaders and complete their task, but the sooner the task is dealt with, the bigger the bonus they're given. (3 weeks + any days leftover from test.)
+
+Opelucid Town appears to be hosting a little festival in respect to Reshiram and Zekrom, hearing the sound of deep, pounding drums and clacking drum sticks as excitement arises from everyone there as between the claps and dancing, lies a street full of life and food as everyone celebrates to praise the Legendary Pokemon and relax for the Spring Time. Sweet treats, savoury snacks, and drinks abound being sold en-masse by vendors as everyone celebrates the return of Spring.
 
 When they find the group, they'll see the group already inside, ordering food, with the Lickitung inside seeming to eye more than just the food; they seem to give the owner a big, wet, lick, then a Pop-Up Mystery Dungeon appears where the shop once was.
 
@@ -894,23 +901,82 @@ Lickilicky
 
 Beating the Greedent and Lickilicky will allow Gluttony and Lust/Shamelessness players to gain +1 Vice Level. Turns out the Slurpuff didn't have Vania, they're just a natural glutton. After being caught, the other Pokemon that were affected wake up from being passed out, and immediately head back to the shops to apologise and pay their outstanding bills. Players will bring back the captured leaders to be interrogated for their actions and activities.
 
-Guild Money from Reward: P$50,000; party's cut: 20%, P$10,000.
+The others were drawn in by the air of their auras, and while Greedent was wanting to pig out despite winter ending, Lickilicky had a deep and desired love for the Cofagrigus...'s flavour out of intense intrigue; what did old Pokemon taste like? Just how would they react to being licked? How much more would they allow if they kept going? Would they love them feeling their tongue wrapping all around their coffin? When law enforcement arrives, the victims will explain the situation from their point of view before the players will be involved. After the situation is settled, some of the mons will get a jail sentence- Lickilicky especially, but other than that, most of the other Pokemon should be absolved of their actions due to the Power of Vices.
 
-Reward for first Vania Quest: P$10,000 (P$2,500 per Pokemon), 50 Guild Points, 10% Discount on farm-fresh berries and drinks, and 20% discount to local cuisine in Opelucid Town, 150 EXP.
+Guild Money from Reward: P$75,000; party's cut: 20%, P$15,000.
 
-- 4+ weeks (29+) left: +P$800  (P$4000)
-- 4 weeks (28-22) left: +P$800  (P$3200)
-- 3 weeks (21-15) left: +P$800 (P$2400)
-- 2 weeks (14-8) left: +P$800 (P$1600)
-- 1 week (7-1) left: P$800
+Reward for first Vania Quest: P$15,000 (P$3,000 per Pokemon), 50 Guild Points, 10% Discount on farm-fresh berries and drinks, and 20% discount to local cuisine in Opelucid Town, 150 EXP.
+
+- 4+ weeks (29+) left: +P$1000  (P$5000)
+- 4 weeks (28-22) left: +P$1000  (P$4000)
+- 3 weeks (21-15) left: +P$1000 (P$3000)
+- 2 weeks (14-8) left: +P$1000 (P$2000)
+- 1 week (7-1) left: P$1000
 
 With this task done for now, the party is told to wait for new orders 'til they are able to identify another location where their group can intervene another case of Vania across
 
 Unova.
 
-Side Quest 1: 
+Side Quest 1: Hunt down the Candy Scalper!
 
-Side Quest 2:
+Leavanny & Liligant's Glazed Donuts and Sweets shop in Opelucid Town has been bought-out of their specialized Poke-Donuts with icing designed after Pokemon from Unova, and their imported Castelia Cones with homemade occa berry ice cream; a single Heatmor has been coming in daily and buying out the products so much so that other customers have been feeling really bummed out and disappointed they keep on running out. While they do try to tell the customer to let the other customers be able to buy some of their products, they would lash out verbally and get close to becoming physically violent for not being able to buy out their stock and satiate their desires. This may be a case of Vania; try to help out the shop owners as much as you can before things get out of hand!
+
+Pop-up Dungeon: Glazed Donuts & Sweets Dungeon (5 Floors)
+
+Pokemon Encounters:
+
+1: Swaddle
+
+2: Petilil
+
+3: Cottonee
+
+4: Whimsicott
+
+5: Swadloon
+
+6: Liligant
+
+The Heatmor was afflicted with Gluttony Vania; he is a wandering gourmand, who specializes in temperature-cooking, or in a sense, masterful usage of cold and heat to cook dishes to perfection, however along the way, he was beginning to lose faith in the food and treats being made by other cooks and chefs across the country. If it was by a common cook, the flavours weren't completely harmonious, and the cooking methods usually had a ways to go before being up to par; if it was made by a chef, the price would've been rather high for whatever flavours and textures that were presented, and even then, their flavours were used such standoff-ish methods that it barely felt like eating food anymore. Just as they were about to give up their career and hobby, they across L&L's donuts & ice cream and fell in love with their cooking; complex preparations, with simple cooking methods that spoke to the tongue and the soul with its heart; with each design came its own unique cream filling that elevated the dishes several times over for its intricacies and careful work. It was too good- just too good to be given to people who didn't understand all of its unique qualities like he did. He started to become obsessed with their food, to the point where he stopped really thinking about other Pokemon and what they wanted. This all went against his desire as a Gourmand to share the food that deserved more attention with Pokemon who didn't know about it. He'll then humbly apologise for the disturbance he's caused, and even offers to buy everyone's orders of the special donuts as an apology to the public and his fans.
+
+Gluttony Players gain +1 Vice Level. 
+
+Reward: $2,500, 5x Special Final-Evo Donuts (Custom-made donuts based upon the final evolutions of the players imagined by the food-artisans who made them; eating them cures all status Conditions and heals for 10d4 HP)
+
+Side Quest 2: Curb the temperament of the Rune Master!
+
+The leader of the Records department in Opelucid, a Golurk, that keeps track of general information like a library and any information and discovery made within the walls of the cave structure they were housing themselves within, was becoming quickly agitated and short-tempered; everyone's not sure what went wrong, but they'd been growing increasingly cautious about something, and with one employee, has become particularly rough with, to the point where it seems he's taking it out on the rest of the employees and nobody understands why. Try and solve the issue at hand if possible!
+
+Players will be given the option to investigate the employees for answers (Golett, Durant, Yamask, Darmanitan, Sigilyph, and Cofagrigus); multiple point towards a lone Darmanitan who seems exhausted for some reason despite carrying some large rock slabs with ease. Attempts to question them are hard to convince them (DC 15), but if they do manage to fail the Skill, the Darmanitan walks away not wanting to continue talking. If the players harass them about it, they'll enter Zen mode and go completely silent. If they find them willing to speak about what they saw, they'll mention that he accidentally caught the boss panting heavily over something. While they didn't see what exactly it was, it appeared to be some kind of paper-based article they'd never seen before in the department; their research was conducted on stone slabs since they would last the longest out of any data they were writing into, but there wasn't anything particularly like what they'd seen before. It just looked like some kind of specialized newsletter, but for some reason there were 2 burly-looking Pokemon being featured on it- and by this point it was when the boss noticed him peaking and he started to view him quite negatively, and even giving him an increased number of tasks to take on. It's at this point the Golurk steps out to tell the Darmanitan to go back to work and asking the other players to leave, then conversations ensue from here. If things go badly, a Pop-up Dungeon is formed, otherwise the fight breaks out in the cave.
+
+Pop-up Dungeon: Revealing Research (10 Floor, target 10)
+
+Encounter:
+
+1: Golett
+
+2: Yamask
+
+3: Durant
+
+4: Sigilyph
+
+5: Darmanitan
+
+6: Cofagrigus  
+ 
+
+They lash out against the other Players for trying to reveal everything and ruin their name; believing that silencing the party and the Darmanitan is the only solution now, they attack everyone violently.
+
+Final Floor Fight:
+
+Golerk
+
+After having their Vania removed, the Golerk weeps that their career is over and that they've lost all respect from everyone for what they found out. When asked why they acted the way they did, they'll reveal that their vested interest was the growing market of Bara content, a Kanto-Johto vested interest in big, burly men. He's very fond of the relationships and the emotions that they shared for one another in those stories, and the way they intimately held each other in each reaction touched their soul deeply. They had not felt proper emotions for something else due to the nature of his creation, so feeling something else other than logic felt...alleviating. Yet... they could not justify their desire to maintain this vested interest in such content- it was unbecoming of a being such as he, a record keeper. But they couldn't look away from its existence either, and their desire for it. So they kept the interest a secret, hoping no one would find out. Seeing Darmanitan peeping in on him, his head began to flood with intrusive thoughts; his own dark thoughts began to take over as he imagined every possible situation that would've lead to his whole life crumbling and dying before his eyes. It was just too much to bare. He lashed out against everyone, Darmanitan particularly, because of their shame, and not even their release from their position will do the work force justice for their actions.
+
+Darmanitan will be hiding amongst the audience of on-lookers as they explain all of this. If dragged out, Darmanitan will speak up for themselves that they didn't really see whatever it was they were talking about in the first place, and even with them explaining their case, they don't really care all that much. All they cared about was them abusing their power to take their anger out on him and everyone else because he didn't have anywhere to put it, so if they really wanted to make it up to everyone, take better care of everyone and offer some kind of gift to everybody as a way of apologising and to not do it again. If they have something they wanna talk about, they can talk it out with him- or any of the rest of the crew. The Golerk reaches for their chest, clutching at a heart that did not exist as they look down to their hands on the floor, wondering what they were doing. They get onto their knees and perform Dogeza for everyone there, promising to take better care of everyone while being more careful of everyone's thoughts and feelings. To make right to everyone, he's going to pay out of pocket and treat everyone to a day out at the festival stalls, he just asks everyone to at least be responsible. Darmanitan rejects the offer unless Golerk is able to join with them. The Party will probably be able to see something that looks akin to a blush upon Golerk's face (DC 14) before everyone's brought out for a good time.
+
+Reward: P$2,500, 1x Spell Tag, 1x Soft Sand, 5x Oran Berries
 
 Side Quest 3: Save Snubbull!
 
@@ -935,7 +1001,9 @@ Pokemon Encounters:
 The reason why she entered alone was because of her confidence as a Fairy Type. The reason she got stuck was because she ran out of PP with her Moves, which was one thing she wasn't expecting to run out of. She wishes she'd brought more Leppa Berries before, and now she can see how important they are. Thanking the group for their help, they'll hand them the rewards they were gonna offer before taking their leave.  
  
 
-Reward: P$2,000, 4 Rawst Berries, 2 Sitrus Berries
+Reward: P$2,500, 5
+
+ Rawst Berries, 2 Sitrus Berries
 
 GM Notes:
 
